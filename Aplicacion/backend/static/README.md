@@ -1,0 +1,1 @@
+En esta carpeta se guarda el modelo entrenado para ejecutar la aplicacion.
