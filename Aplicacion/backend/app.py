@@ -4,7 +4,9 @@ from datetime import datetime
 from flask_socketio import SocketIO, emit, join_room, leave_room
 from flask_bcrypt import Bcrypt
 import time
+from model import ejecutar, enviarEntrada
 
+voc, encoder, decoder = ejecutar()
 app = Flask(__name__)
 socketio = SocketIO(app, cors_allowed_origins="*")
 bcrypt = Bcrypt(app)
@@ -17,8 +19,9 @@ def sign_in():
 @socketio.on('send_message')
 def handle_send_message_event(data):
     print("MENSAJE_SOCKET")
+    cadena = enviarEntrada(data['message'], voc, encoder, decoder)
     respuesta = {
-        "message": 'me mato',
+        "message": cadena,
         "roomId": data['roomId'],
         "sender": 1,
         "createdAt": time.strftime('%d-%m-%Y %H:%M:%S'),
