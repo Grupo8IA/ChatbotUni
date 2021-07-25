@@ -1,0 +1,194 @@
+hab1	cuando fui a Ámsterdam <pausa/> le dije a la chica <pausa/> <cita_inicio/>oye <pausa_larga/> dame un paquetillo de Camel<cita_fin/>
+hab1	"y me dice la tía <pausa/> <cita_inicio/><lengua_inicio nombre=""en""/><sigla_inicio/>ID<sigla_fin/> <sigla_inicio/>ID<sigla_fin/><lengua_fin/><cita_fin/> <pausa/> y yo <cita_inicio/>¿qué <lengua_inicio nombre=""en""/><sigla_inicio/>ID<sigla_fin/><lengua_fin/>? <pausa/> ¿qué es eso?<cita_fin/> <pausa/> he"
+hab1	y me hizo así <silencio/>
+hab1	a ver le dejé el carné <pausa_larga/> bueno ahí se lo di <pausa/> y me dice <cita_inicio/>ah vale vale<cita_fin/>
+hab1	y veo en el cartelito
+hab1	cinco setenta y dije <cita_inicio/>me <palabra_cortada>ca</palabra_cortada><cita_fin/>
+hab2	"
+      <risa/>
+    "
+hab1	yo prefiero no fumar <pausa/> pero lo compré porque tenía que fumar obviamente ¿no? porque <pausa/> para hacer mis estudios y mis historias tengo que fumar
+hab2	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	¿no te pararon en el aeropuerto?
+hab1	en el aeropuerto sí
+hab2	en el duty free de
+hab2	es que ¿dónde vas? porque es más caro el tabaco
+hab1	<alargamiento>ya</alargamiento> es verdad <pausa/> <alargamiento>en</alargamiento> <alargamiento>en</alargamiento> <pausa/> me quise comprar <pausa/> unos caramelos los que te enseñé ayer <pausa/> ¿sabes?
+hab3	sí
+hab1	bueno <pausa/> me compro unos caramelos <pausa/> y la tía
+hab3	que de hecho los compraste
+hab1	y los compré <ininteligible/>
+hab3	"
+      <risa/>
+    "
+hab1	y <pausa/> y la tía me dice <cita_inicio/>¿a dónde vas?<cita_fin/>
+hab1	"o sea <pausa/> <cita_inicio/><lengua_inicio nombre=""en""/>where do you go?<cita_fin/> <ruido tipo=""golpe""/> <pausa_larga/> y le dije <cita_inicio/>eeh <pausa/> <alargamiento>a</alargamiento>"
+hab1	a Madrid<cita_fin/>
+hab4	"
+      <risa/>
+      <risa/>
+    "
+hab1	<cita_inicio/>¿<alargamiento>y</alargamiento> después de Madrid?<cita_fin/> <pausa/> <cita_inicio/>a Vigo<cita_fin/>
+hab1	<cita_inicio/>¿y dónde está Vigo?<cita_fin/> <cita_inicio/>en España<cita_fin/> y la tía esperando y tal <pausa_larga/> y yo <cita_inicio/>para unos caramelos que cuestan un euro cincuenta <pausa/> me está mareando aquí la cabeza<cita_fin/>
+hab4	"
+      <risa/>
+    "
+hab1	y nada sí pensé en comprar tabaco pero tampoco tenía cuarenta euros para comprar una caja de Camel enorme
+hab1	¿sabes? <pausa/> y tampoco entraba en la maleta
+hab2	ya
+hab2	sí es que yo cuando fui a Londres aquí <pausa_larga/> <cita_inicio/>no <pausa/> pues es que claro allí es carísimo<cita_fin/> no sé qué
+hab1	¿sabes?
+hab1	"¡cómo le gusta decir que fue de viaje tío! <pausa/> es que le encanta al fulano <pausa/> <ininteligible/> <pausa/> no <pausa/> sigue <ruido tipo=""golpe""/> <pausa/> sigue sigue sigue <pausa/> no <pausa/> no te pares"
+hab4	"
+      <risa/>
+    "
+hab2	no pero
+hab4	"
+      <risa/>
+    "
+hab2	y en plan <cita_inicio/>no <pausa/> es <alargamiento>que</alargamiento> allí es muy caro el tabaco<cita_fin/> no sé qué
+hab2	<cita_inicio/>comprad esto son cincuenta euros<cita_fin/> y <pausa/> sí <risa_inicio/>ya<risa_fin/>
+hab2	<risa_inicio/>claro<risa_fin/>
+hab1	he
+hab4	sí
+hab1	sí
+hab3	lo mejor es no fumar
+hab1	es eso <ininteligible/>
+hab2	es más barato
+hab1	sí es <palabra_cortada>sa</palabra_cortada> <palabra_cortada>s</palabra_cortada> a la larga
+hab2	"<ruido tipo=""chasquido boca""/> menos sano dicen <alargamiento>pero</alargamiento>"
+hab3	"
+      <ininteligible/>
+      <risa/>
+    "
+hab1	a la larga es <pausa/> es más barato
+hab4	"
+      <risa/>
+    "
+hab3	no fumar no beber
+hab1	lo que flipé tío <pausa_larga/> que
+hab4	a la larga
+hab1	en en Iberia <pausa/> en Iberia Express ¿vale? <pausa/> yo fui con Iberia Express <silencio/>
+hab1	y en dinero ¿no?
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab3	¿es express?
+hab1	es express
+hab3	vale
+hab1	pero es low cost <pausa_larga/> es lo peor <pausa_larga/> porque en Iberia Express suena a <pausa/> Iberia mejor
+hab3	"
+      <transcripción_dudosa_inicio/>
+      <palabra_cortada>bue</palabra_cortada>
+      <transcripción_dudosa_fin/>
+    "
+hab1	"Iberia Express llegas antes <ruido tipo=""golpe""/>"
+hab1	bueno
+hab1	pues
+hab1	venía la señora del carrito
+hab1	<cita_inicio/>¿algo de la carta? ¿algo de la carta? no sé qué<cita_fin/> <pausa/> vi la carta
+hab1	me cobraron diez euros
+hab1	por un cacho de pizza así
+hab2	pero ¿por qué pides algo? tío
+hab1	un Kit Kat <pausa_larga/> porque vi el rollo
+hab1	menú degustación y dije <pausa/> <cita_inicio/>¡joder!<cita_fin/>
+hab3	no no no
+hab2	y daba
+hab4	nunca se pide
+hab3	cuando fui <pausa/> de Toulouse a Londres <silencio/>
+hab2	menudo
+hab3	eeh me
+hab3	con British Airways
+hab3	me <alargamiento>regalaron</alargamiento> <pausa/> me <alargamiento>regalaron</alargamiento> <pausa_larga/> mini kebab <silencio/>
+hab2	"
+      <ininteligible/>
+    "
+hab2	"
+      <ininteligible/>
+    "
+hab1	bueno <pausa_larga/> yo cuando fui a Polonia <pausa/> me regalaron <pausa/> mmm
+hab3	eso estaba bueno tío <ininteligible/>
+hab3	mientras te regalen comida en el avión te lo <risa_inicio/>comes tío<risa_fin/>
+hab1	sí pero da mal rollo
+hab2	ya a mi me dieron un bocata de
+hab4	<transcripción_dudosa_inicio/>¡qué va!<transcripción_dudosa_fin/>
+hab2	queso y piña una movida así que estaba asqueroso sí todos los de clase en plan fuimos cuando fuimos con el colegio a Italia
+hab4	<risa/><risa_inicio/>queso y piña<risa_fin/> <risa/>
+hab2	nos traen eso
+hab2	y siempre hay el mítico que se come en plan <cita_inicio/>ah dame si no lo quieres<cita_fin/>
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab4	"
+      <risa/>
+      <pausa/>
+    "
+hab2	¡joder tío!
+hab2	siempre hay uno rollo <cita_inicio/>¿lo quieres?<cita_fin/> <pausa/> <cita_inicio/>sí tío<cita_fin/>
+hab4	en Estados <palabra_cortada>Uni</palabra_cortada> <pausa_larga/> pero en Estados Unidos
+hab1	tenemos <risa_inicio/>esta mierda<risa_fin/> <risa/>
+hab2	sí <pausa_larga/> es <alargamiento>que</alargamiento> <pausa_larga/> rollo todo el mundo
+hab4	en Estados Unidos en todos los <alargamiento>vuelos</alargamiento> <pausa/> <alargamiento>entre</alargamiento> mmm
+hab4	los estados
+hab4	te dan galletas
+hab4	en <énfasis_inicio/>todos<énfasis_fin/> los vuelos
+hab1	¿pero galletas decentes o <alargamiento>galletas</alargamiento>?
+hab4	no <pausa/> galletas en plan increíbles <pausa_larga/> o sea las mejores galletas que has probado en tu <risa_inicio/><palabra_cortada>pu</palabra_cortada><risa_fin/> <pausa_larga/> puñetera vida <silencio/>
+hab2	ah
+hab1	genial <silencio/>
+hab1	pues <pausa/> cuando fui a Polonia a mí me dieron una especie de ensalada sudada
+hab1	pues
+hab2	<risa_inicio/>ajá ja<risa_fin/>
+hab1	o sea era un <pausa/> un plástico <pausa_larga/> por encima todo lleno de agua
+hab4	ah estupendo
+hab1	ah <pausa/> y lo abrí
+hab1	y me dio en la cara la ensalada <transcripción_dudosa_inicio/>y no es una polla<transcripción_dudosa_fin/> <pausa_larga/> y me dice la azafata <pausa/> <cita_inicio/>claro <pausa/> la presión<cita_fin/> y yo <cita_inicio/>¿y para qué pones esto en el avión?<cita_fin/>
+hab3	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab4	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab2	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab1	o sea
+hab1	<risa_inicio/>le pasa a todo el mundo<risa_fin/><pausa/> y la chica a mi lado que ¿sabes? venía a mi lado
+hab1	y llevaba un rollo de <pausa/> de de mayonesa iba a echar un rollo de mayonesa ¿sabes? un botecito <pausa_larga/> y lo abre <pausa/> ¡plaf!
+hab3	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab4	"
+      <risa/>
+    "
+hab1	todo tss <pausa/> y vuelve a pasar la chica <cita_inicio/>claro la presión<cita_fin/> y yo <cita_inicio/>pero<cita_fin/>
+hab4	"
+      <risa/>
+    "
+hab2	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab3	<asignación_dudosa_inicio/><risa/> sí<asignación_dudosa_fin/>
+hab1	¿no ves? esto se mueve no no pongas cosas que te van a dar en la cara que te <transcripción_dudosa_inicio/>agreden<transcripción_dudosa_fin/>
+hab1	<transcripción_dudosa_inicio/>ya<transcripción_dudosa_fin/>
+hab4	la comida de los aviones no es lo mejor que hay <silencio/>
+hab1	eeh
+hab1	si <palabra_cortada>vam</palabra_cortada>

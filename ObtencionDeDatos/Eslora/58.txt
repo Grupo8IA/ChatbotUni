@@ -1,0 +1,1122 @@
+hab1	<ininteligible/> ahí en el Romaño hay una ludoteca de niños <pausa/>
+hab2	sí <pausa_larga/>
+hab1	y eh <pausa_larga/>
+hab1	trabaja una chica que se llama María <pausa/> y habla
+hab2	<risa_inicio/> y tenemos la misma voz<risa_fin/>
+hab1	<risa_inicio/>te lo juro habláis por teléfono <risa_fin/> idénticas <pausa/>
+hab2	casualidad
+hab1	"
+      <alargamiento>sí</alargamiento>
+      <pausa_larga/>
+    "
+hab2	"<ruido tipo=""inspiración""/><pausa/> ay <pausa_larga/>"
+hab2	Dios mira qué tiempo <pausa/>
+hab1	<alargamiento>ah</alargamiento> está asqueroso mi hija ya dijo <cita_inicio/>jolín vienen dos días de sol<cita_fin/> <pausa/> y eso que vino sol pero vino frío igual
+hab2	sí <pausa_larga/>
+hab1	"
+      <alargamiento>pero</alargamiento>
+      <pausa_larga/>
+    "
+hab2	pero ya volvemos
+hab1	la lluvia ya es asquerosa <silencio/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+      <pausa_larga/>
+    "
+hab2	si viene de una vez el verano
+hab1	sí yo tengo ganas de que venga <alargamiento>el</alargamiento> <pausa/> el calorcito ¿sabes? aunque no venga sol pero que venga algo de calorcito porque si no <pausa_larga/>
+hab2	sí <ininteligible/>
+hab2	sí siempre lloviendo siempre <pausa_larga/>
+hab2	qué desastre <pausa_larga/>
+hab2	jo pues yo es que esta zona no <pausa/> no la conozco para nada <pausa_larga/>
+hab1	es <alargamiento>que</alargamiento> eh hombre es fácil llegar si conoces Vista Alegre si <alargamiento>no</alargamiento> <pausa/> es un poco complicado pero bueno <pausa/> ya ves que no tiene ningún
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	<alargamiento>no</alargamiento><pausa/> muy residencial ¿no? <pausa/>
+hab1	"
+      <alargamiento>sí</alargamiento>
+      <pausa_larga/>
+    "
+hab2	porque <alargamiento>no</alargamiento>
+hab1	"<ruido tipo=""chasquido boca""/> está muy bien es muy tranquilito <silencio/>"
+hab2	vive
+hab1	<ficticio>Eva</ficticio> vive <ficticio>Eva</ficticio> ¿qué es tu profesora <alargamiento>o</alargamiento> <pausa/> pues vive aquí mira <pausa/> donde está la canasta <pausa/>
+hab2	sí
+hab2	"
+      <alargamiento>ah</alargamiento>
+      <pausa/>
+    "
+hab1	pues vive ahí <ininteligible/> la esquina <pausa/>
+hab2	sí
+hab2	ah <palabra_cortada>m</palabra_cortada> bueno puerta con puerta
+hab1	y al lado vive otra que a lo mejor también la conoces <pausa/> <ficticio>Inmaculada</ficticio> que es una profesora de alemán que hay en la facultad <pausa_larga/>
+hab1	yo creo que son compañeras eh <pausa_larga/>
+hab2	puede ser
+hab1	<ficticio>Inma</ficticio> le llaman <pausa_larga/>
+hab2	sí puede ser <pausa_larga/>
+hab1	que tiene <alargamiento>así</alargamiento> <pausa/> unos rasgos como si fuera india <alargamiento>o</alargamiento> <pausa/> así es muy morena de piel <pausa/> parece medio <risa_inicio/>gitana <risa_fin/> <pausa_larga/>
+hab2	mmm <silencio/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa_larga/>
+    "
+hab2	mmm no yo es que los de alemán <pausa/> por las orlas <risa_inicio/> únicamente <risa_fin/> <silencio/>
+hab1	claro
+hab2	ah pero muy bien hasta hay donde aparcar <risa/>
+hab1	<palabra_cortada>s</palabra_cortada> no tener tenemos garaje pero yo como eeh por la parte de abajo ¿sabes? pero <pausa/> como ya voy a marchar dentro de <pausa/> bueno <pausa/> cuando acabemos tú y yo ya marcho <pausa/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	claro <pausa/> más cómodo aquí <pausa/> no tenéis zona azul <risa/>
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	claro <risa/>
+hab2	<risa_inicio/>de momento <risa_fin/>
+hab1	"<alargamiento>no</alargamiento> aquí está no esto no porque es <palabra_cortada>res</palabra_cortada> <ruido tipo=""teléfono""/> <palabra_cortada>residenc</palabra_cortada> bueno <pausa/> a ver <pausa_larga/>"
+hab1	ese no es de la guardería <pausa/> <risa_inicio/><ininteligible/> ya te dejo plantada <risa_fin/>
+hab2	"
+      <ininteligible/>
+    "
+hab2	ah <palabra_cortada>s</palabra_cortada> no pasa nada
+hab1	es que la verdad yo trabajo solo por la tarde pero te digo que estoy <pausa/>
+hab2	ya <pausa/>
+hab1	"todo el día liadísima <ruido tipo=""teléfono""/> venga <pausa/> hola <silencio/>"
+hab1	¿qué tal? <silencio/>
+hab2	¿ <ininteligible/> coche? <pausa/>
+hab1	sí <silencio/>
+hab1	ah bueno como quieras él quedó de llamarme hoy <pausa/> claro pero <pausa/> no te sirven urgente <silencio/>
+hab1	"<ruido tipo=""puerta""/> claro <silencio/>"
+hab1	"<ruido tipo=""pasos""/> claro <silencio/>"
+hab1	claro <silencio/>
+hab1	bueno <silencio/>
+hab1	hm <silencio/>
+hab1	bueno <pausa/> <alargamiento>y</alargamiento> ¿y <palabra_cortada>cuá</palabra_cortada> ? <pausa/> ¿y te lleva los electrodomésticos en el momento? <silencio/>
+hab1	hm <silencio/>
+hab1	claro <pausa/> claro <silencio/>
+hab1	claro <silencio/>
+hab1	bueno <pausa/> vale <pausa_larga/>
+hab1	entonces ya cuando me llame ya le digo que se olvide del tema <pausa_larga/>
+hab1	claro <silencio/>
+hab1	hm <silencio/>
+hab1	claro <pausa_larga/>
+hab1	vale <pausa/> vale vale <pausa/> bueno pues nada <pausa_larga/>
+hab1	venga <pausa/> nada <pausa/> venga <pausa_larga/>
+hab1	nada <pausa/> nada pues nada venga <pausa_larga/>
+hab1	chao chao <pausa/> bueno <pausa/> voy a apagarlo
+hab2	no <pausa/> no te preocupes <pausa/> puedes dejarlo encendido no sea que te llamen de la guardería o cualquier cosa <pausa/> no pasa nada <pausa/> corto la grabación y contestas tú no interrumpas eeh
+hab1	sí <pausa/> sí si llaman
+hab1	vale
+hab1	nada ¿quieres estar aquí o quieres ir para la sala? a mí me da igual <pausa/> es que allí no hay <alargamiento>mesa</alargamiento> <ininteligible/> <pausa/> vale es que está todo así aún a
+hab2	"
+      <ininteligible/>
+    "
+hab2	pues nada <pausa/> nos quedamos aquí
+hab2	¡qué <alargamiento>va</alargamiento> ! tenéis una casa preciosa muy acogedora <alargamiento>sí</alargamiento>
+hab1	empezando <risa/> sí ho
+hab1	la cocina la hizo mi marido <pausa/> sin tener ni idea eh <alargamiento>pero</alargamiento> se puso <pausa/> no <pausa/> él la <pausa/> <alargamiento>él</alargamiento> trabaja en una empresa de alquiler de grúas <pausa_larga/>
+hab2	¿sí?
+hab2	¿se dedica?
+hab1	<alargamiento>pero</alargamiento> él hace <palabra_cortada>to</palabra_cortada> <pausa/> o sea la escayola <pausa/> <alargamiento>pintar</alargamiento> <alargamiento>y</alargamiento> todo está ¿sabes? <alargamiento>la</alargamiento> los muebles todo esto todo lo hizo él <pausa/>
+hab2	¿lo hizo él así?
+hab1	hm <pausa/> entonces vamos <pausa/> poquito a poco y va haciendo <alargamiento>él</alargamiento> <pausa_larga/>
+hab2	mira
+hab2	pero está muy bien
+hab1	sí <pausa/> está
+hab2	y además los muebles muy modernos
+hab1	<alargamiento>no</alargamiento> ah pues lacó todo él en el garaje es todo laca del coche
+hab2	ah ¿también hizo <alargamiento>él</alargamiento> todo eso?
+hab1	todo sí <pausa/> él lo único que no hizo fue esto
+hab2	bueno es increíble
+hab1	"el resto todo cortó él la <alargamiento>madera</alargamiento> lacó las puertas abajo <pausa/> sí muy bien <ruido tipo=""palmada""/> muy guay eh <pausa/> yo cagaba con el miedo"
+hab2	¿sí? <risa/>
+hab1	pero cuando la vi me encantó <pausa/> dije yo <cita_inicio/>bueno ya no hago los de los baños ya los hará <risa_inicio/>también él <risa_fin/><cita_fin/> <pausa_larga/>
+hab1	muy bien eh
+hab2	pues sí <pausa/> sí con un marido así da gusto
+hab1	sí sí él ya te digo aparte que no quiere <pausa_larga/>
+hab1	lo que hace él no quiere pagar para que se lo hagan ¿eh?
+hab2	¿sí?
+hab1	anduvo mirando por ahí y dijo <pausa_larga/>
+hab1	<cita_inicio/>yo no doy tres millones de pesetas por esto que lo hago yo por cien mil<cita_fin/><pausa_larga/>
+hab1	y efectivamente <pausa_larga/>
+hab1	ya ves
+hab2	ay ¡pero qué suerte!
+hab1	sí <ininteligible/> <pausa/> hm
+hab2	o sea <pausa/> que es un manitas de estos que montan todo
+hab1	todo sí <pausa_larga/>
+hab2	sí <pausa_larga/>
+hab2	¡qué gusto!
+hab1	todo todo sí aquí no entra <pausa_larga/>
+hab1	¿sabes? <pausa/> cualquier cosa que se estropee <pausa_larga/>
+hab2	él sabe
+hab1	él todo sí <pausa_larga/>
+hab2	oh <pausa/>
+hab1	menos mal porque si <risa_inicio/>no con lo caro <risa_fin/> que va todo <risa/>
+hab2	<risa_inicio/>pues sí la verdad <risa_fin/> es que sí ¿y él a qué se dedica? <pausa_larga/>
+hab1	sí <pausa/>
+hab1	<alargamiento>él</alargamiento> está <alargamiento>en</alargamiento> <ficticio>Materiales Rianxo</ficticio> en el Polígono del Tambre <pausa/> es <pausa/> una <alargamiento>una</alargamiento> empresa de alquiler <pausa/> de maquinaria de construcción <pausa/> toda <pausa/> todo eso que hay por ahí en esas obras los <alargamiento>lo</alargamiento> <pausa/> las grúas <pausa/> las vallas <pausa/> todo eso es <pausa/> lo se lo alquilan a él <pausa_larga/>
+hab2	sí
+hab2	ah y
+hab1	es el encargado <pausa/>
+hab2	¿qué lleva la tarea administrativa o algo por el estilo?
+hab1	no él se dedica a buscar obras <pausa/> a aguantar a los clientes <alargamiento>a</alargamiento> <pausa_larga/>
+hab1	¿sabes? a dar precios <pausa/> como si fuera eh claro <pausa/> como si fuera <alargamiento>él</alargamiento> <pausa/> la jefa <alargamiento>pero</alargamiento> <pausa_larga/>
+hab2	ya el relaciones públicas
+hab2	sí sí
+hab1	<alargamiento>camela</alargamiento><pausa/> ¿sabes? para <pausa/> pues para coger por ejemplo esas obras <pausa_larga/>
+hab1	cuantas más obras tengan más trabajo les da <pausa_larga/>
+hab2	evidentemente <pausa/> ¿y
+hab1	"hm <pausa/> <ruido tipo=""chasquido boca""/> y muy bien"
+hab2	¿y te ayuda aquí en casa?
+hab1	<risa_inicio/><alargamiento>sí</alargamiento><alargamiento>sí</alargamiento><risa_fin/><pausa/> sí <alargamiento>porque</alargamiento> no le queda otra <pausa/> o sea <pausa/> hombre él no me ayuda más por el horario que tiene pero después <pausa/> yo empecé a trabajar ahora de seis a diez y media <pausa_larga/>
+hab1	y él a las ocho y media <pausa/> tiene que salir para recoger a los niños <alargamiento>en</alargamiento> la <pausa/> ya los dejo en la ludoteca <pausa_larga/>
+hab1	entonces claro <alargamiento>los</alargamiento> recoge <pausa/> los baña <pausa/> les da la cena que es un <pausa/> parece una tontería pero es la hora del estrés <alargamiento>total</alargamiento> <pausa/> porque es <pausa_larga/>
+hab1	yo me canso <pausa/> me cansaba más cuando los tenía a ellos que cuando ahora que estoy trabajando <pausa/> eh
+hab2	mmm bueno
+hab1	sí la hora <alargamiento>de</alargamiento> <pausa/> <cita_inicio/>venga que hay que <palabra_cortada>acos</palabra_cortada> eh que hay que cenar hay que ducharse hay que acostarse que hay que ir para cama<cita_fin/> a las diez tienen que estar acostados <pausa/>
+hab2	claro <pausa_larga/>
+hab1	es un estrés eh <risa_inicio/>te lo juro <risa_fin/>
+hab2	¿no te hacen caso? <pausa_larga/>
+hab1	poco <risa/> además uno tiene tres años y es una fiera <pausa/> y la niña <alargamiento>es</alargamiento> mmm tiene siete y es muy responsable pero <pausa/> uno chincha al otro y hasta que los acuestas <pausa/> <alargamiento>no</alargamiento> descansas ¿sabes? <pausa/> y más eso <pausa/> salir corriendo de un lado para tener que ir a buscarlos a <alargamiento>otro</alargamiento> siempre con prisas <pausa_larga/>
+hab1	y bueno él <pausa/> claro <pausa/> dentro de lo que cabe el horario que puede él claro que ayuda <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> y cuando no trabajaba <pausa/> hacía él <pausa/> cuando trabajaba él solo por la tarde hacía <alargamiento>él</alargamiento> <pausa/> hombre hacía <pausa_larga/>"
+hab1	dejaba yo más o menos preparado pero bueno <pausa/> <alargamiento>frega</alargamiento> <pausa/> <alargamiento>aspira</alargamiento> lo que sea <pausa/> ¡qué remedio! porque si no entre los dos
+hab2	sí <ininteligible/>
+hab1	o está todo sin hacer <risa_inicio/><alargamiento>o</alargamiento> <risa_fin/> o se hace entre los dos <pausa/> o
+hab2	sí
+hab2	bueno <pausa/> pero tienes suerte eh
+hab1	sí sí tengo suerte <pausa_larga/>
+hab2	¿y hace mucho que vivís aquí? <pausa_larga/>
+hab1	<alargamiento>pues</alargamiento><alargamiento>no</alargamiento><pausa/> hace hará <pausa/> cuatro años hará más o menos
+hab2	¿dónde vivíais antes?
+hab1	allá arriba en Guadalupe <pausa/> no sé si te suena
+hab2	mmm
+hab1	donde está la Xunta
+hab2	sí <pausa/>
+hab1	pero por las aldeítas esas que <palabra_cortada>ha</palabra_cortada> <pausa/> donde está el Gelmírez dos ¿sabes dónde está? <pausa/> pues allí por aquellas casitas que hay por el monte ¿no sabes?
+hab2	sí <pausa/> sí sí
+hab2	te gustan las afueras <pausa_larga/>
+hab1	no es que me gusten pero como siempre vivimos <palabra_cortada>as</palabra_cortada> yo <pausa/> yo nacer nací ahí justo donde está la facultad <alargamiento>de</alargamiento> <pausa/> <alargamiento>de</alargamiento> idiomas <pausa/> la escuela de idiomas en el edificio que hay ahí <pausa/> ahí nací yo <pausa/> claro después mi madre como murió cuando yo tenía doce años me fui para casa de una tía allí en Guadalupe <pausa_larga/>
+hab2	ah
+hab1	y allí viví <pausa/> esto lo compramos en el dos mil pero nos dieron las llaves <pausa/> en <alargamiento>el</alargamiento> <pausa/> bueno hace tres años <pausa_larga/>
+hab1	y hasta que nos dieron las llaves estuvimos allí <silencio/>
+hab2	sí <pausa/> ¿no te gusta las <alargamiento>zona</alargamiento> la zona más céntrica?
+hab1	no
+hab1	no <pausa_larga/>
+hab1	no porque yo soy una persona muy estresante y ando siempre a correr <pausa_larga/>
+hab1	"y a mí lo de tener que estar buscando dónde <alargamiento>aparcar</alargamiento> <alargamiento>y</alargamiento> <pausa/> mmm <ruido tipo=""chasquido boca""/> ¿sabes? yo me vuelvo loca muy fácil <risa/> <risa_inicio/>y entonces <risa_fin/> a mí me gusta mucho la tranquilidad <alargamiento>y</alargamiento> <pausa_larga/>"
+hab1	aquí estamos muy bien <pausa/>
+hab2	sí sí se nota
+hab1	hm
+hab2	"<ruido tipo=""chasquido boca""/> pero también tendrá inconvenientes ¿no? <pausa_larga/>"
+hab1	<alargamiento>no</alargamiento> no porque no te queda lejos <alargamiento>de</alargamiento> <pausa/> o sea <pausa/> parecen las afueras pero estamos <pausa_larga/>
+hab1	nada a cinco minutos <alargamiento>de</alargamiento> <pausa/> del centro <pausa_larga/>
+hab1	lo peor es meterte en el <palabra_cortada>cen</palabra_cortada> <pausa/> de aquí al centro llegas en dos minutos <pausa/> pero meterte en el centro <pausa/>
+hab2	ahí está <pausa_larga/>
+hab1	claro <pausa/> a yo al centro ya no <alargamiento>voy</alargamiento> <pausa/> si voy voy andando porque meterte en el centro es una lata <pausa_larga/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab1	y en cambio aquí mira vas a Fontiñas <pausa/> eh al centro comercial nada <pausa/> cinco minutos me lleva a mí que es donde trabajo yo <pausa_larga/>
+hab1	tienes que ir a la Xunta vas andando <pausa/> tienes <alargamiento>la</alargamiento> ¿sabes? los colegios cerquita <pausa/> el auditorio para pasear cerquita <pausa/> está todo supercerca eh andando <pausa/> está todo más cerca que en coche incluso
+hab2	sí <pausa/> sí <pausa/> ya dicen <pausa/> que no hay distancias
+hab1	y <pausa/> sí sí <pausa/> <alargamiento>no</alargamiento> si vas andando llegas a todos lados <pausa/> ya te digo a la <alargamiento>catedral</alargamiento> <pausa/> a paso ligero en quince minutos te pones en la catedral perfectamente <pausa/> es <pausa/> mmm ¿sabes? <pausa/> que son las afueras pero no es <pausa_larga/>
+hab1	hombre Santiago es una aldea también
+hab2	<risa_inicio/> sí<risa_fin/>
+hab2	<risa_inicio/><risa_fin/><risa_inicio/>sí realmente <risa_fin/> las afueras serán Bertamiráns <pausa_larga/>
+hab2	más bien
+hab1	claro <pausa_larga/>
+hab1	claro <pausa_larga/>
+hab1	claro esto está muy bien <pausa/>
+hab2	y dices que trabajas en Alcampo <pausa/>
+hab1	sí <pausa/>
+hab2	y <alargamiento>¿qué</alargamiento> qué haces exactamente?
+hab1	pues <alargamiento>estoy</alargamiento> dos horas en la charcutería y después en cajas hasta el cierre <pausa/> de cajera <pausa/>
+hab2	eso sí que es estresante
+hab1	no para nada <pausa/> bueno hombre yo estoy de maravilla eh
+hab2	¿sí?
+hab1	sí a mí <pausa/> es que yo era carnicera <pausa/> en el Gadis <pausa/> estuve doce años <pausa_larga/>
+hab1	y era <pausa/> toda la carnicería para mí <pausa/> o sea <pausa_larga/>
+hab1	<alargamiento>ofertas</alargamiento><pausa/><alargamiento>ventas</alargamiento><pausa/> mmm <alargamiento>clientes</alargamiento> <pausa/> todo para mí <pausa/> eso sí que era estresante <pausa/> pero aquí <pausa/> bueno aquí cada uno tiene su trabajo <pausa/> o sea <pausa/> yo tengo que hacer esto <pausa/> si esto está así <pausa/> ese es el trabajo de mi compañera yo no lo puedo hacer ¿sabes? cada una tiene su trabajo y no es decir <pausa/> <cita_inicio/>voy a ayudar para quedar mejor<cita_fin/> o <cita_inicio/>voy ayudar para <pausa/> porque yo soy de ayudar<cita_fin/> no no <pausa/> es que lo <pausa/> tú tienes tu trabajo <pausa/> no puedes meterte en las otras cosas entonces yo voy allí <pausa/> a cubrir descansos <pausa_larga/>
+hab1	corto fiambre no tengo ni que hacer ofertas ni que comprar nada ni ¿sabes? <pausa/> no me rompo la cabeza <pausa/>
+hab2	¿por qué era estresante el trabajo en el Gadis?
+hab1	porque me tocaba a mí todo porque yo tenía que pensar <pausa_larga/>
+hab1	eso <pausa/> las <alargamiento>ofertas</alargamiento> <palabra_cortada>la</palabra_cortada> como si fuera en mi carnicería <pausa/> ¿sabes? entonces yo llegaba a casa <pausa_larga/>
+hab2	sí
+hab1	rompiéndome la cabeza que aquella clienta me pidió no sé qué que mañana tengo que hacer el pedido de no sé qué más <pausa/> que si venía un día festivo <pausa/> que si la carne se me estropeaba que <pausa/> ¿sabes? <pausa/> y y es y aparte eran nueve horas <pausa/> ¿entiendes? era por la mañana y por la tarde <silencio/>
+hab1	y lo dejé cuando tuve al niño pequeño <pausa/> y claro <pausa/> trabajar ahora cuatro horas y media <pausa/> pff para mí es un lujo
+hab2	claro
+hab1	¿entiendes?
+hab2	claro <palabra_cortada>psicoló</palabra_cortada>
+hab1	aparte que desconecto de los niños <pausa/> voy para el trabajo <pausa/> y salgo del trabajo sin pensar en el trabajo <pausa_larga/>
+hab1	vengo para casa de maravilla te lo juro eh <pausa/> solo que ya se me <alargamiento>acaba</alargamiento> ahora <alargamiento>en</alargamiento> <pausa/> en julio <pausa_larga/>
+hab2	bueno a ver si te <alargamiento>renuevan</alargamiento>
+hab1	"<ininteligible/><pausa/><ruido tipo=""chasquido boca""/> no pueden <pausa/> me tienen que echar y después me cogerán a los seis meses porque tienen unas cosas muy raras en el Alcampo <pausa/> de esto de los contratos <pausa/> o te hacen fija o te <palabra_cortada>c</palabra_cortada> o te echan para el paro y te cogen al cabo de unos meses <pausa/> y fijos ya no hacen a nadie <pausa_larga/>"
+hab2	ah ya
+hab1	y entonces pues <pausa_larga/>
+hab1	a esperar
+hab2	¡qué mal! que mal organizado ¿no? <pausa_larga/>
+hab1	<alargamiento>son</alargamiento><pausa/> es que es así a todo el mundo <pausa/> once meses como mucho <pausa/> y después <silencio/>
+hab2	bueno
+hab1	hm
+hab2	aún te queda <risa/> <pausa/>
+hab1	sí <pausa/> poquito eh <pausa/> que pasa muy <risa_inicio/>rápido <risa_fin/> <pausa/>
+hab2	ya has <alargamiento>mirado</alargamiento> mmm otros establecimientos <alargamiento>u</alargamiento> otros
+hab1	sí <pausa/> estoy mirando <pausa/> de hecho <pausa/> bah establecimientos o lo que salga porque a mí me daba igual una cosa que otra <pausa/> con tal de que se me adapte a mi vida <pausa_larga/>
+hab1	¿sabes? <pausa/> pues <pausa/> me da igual <pausa/> como si tengo que ir a cuidar niños a otra casa <pausa/> ¿sabes? me da igual <pausa_larga/>
+hab2	¿has trabajado en más cosas? <pausa/> aparte <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	"
+      <ininteligible/>
+      <pausa/>
+    "
+hab1	eeh casi siempre trabajé en alimentación estuviera en Champion en el centro cuando era Champion <pausa/> <alargamiento>allí</alargamiento> <silencio/>
+hab1	después estuviera en La Concha cuando era La Concha que no era el Árbol <pausa_larga/>
+hab1	sí casi siempre en alimentación <pausa/> y en casas <pausa/> antes de trabajar en supermercados <pausa/> <palabra_cortada>cuan</palabra_cortada> desde que dejé de estudiar <pausa_larga/>
+hab2	sí
+hab1	trabajé en casas y después <alargamiento>en</alargamiento> <pausa/> en supermercados solo <pausa/>
+hab2	¿y es muy duro el trabajo en el supermercado? <pausa/>
+hab1	no <pausa/> yo creo que los hay peores <pausa/> depende ya te digo <pausa/> a mí en el Gadis <pausa_larga/>
+hab1	"mmm yo llegaba a casa y no podía más <pausa/> pero no porque fuera el Gadis ni porque fuera la carnicería porque <pausa/> porque estaba yo sola <pausa/> porque carniceros había pocos que supieran <pausa/> si te venía uno que no sabía aún era peor <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> por el estrés de que la <pausa_larga/>"
+hab1	cuidabas como si fuera <pausa/> <énfasis_inicio/>tu<énfasis_fin/> negocio <pausa_larga/>
+hab1	¿sabes? <pausa/> que hay que pasar un poco también de eso <pausa_larga/>
+hab1	pero yo era como si fuera <énfasis_inicio/>mi<énfasis_fin/> negocio entonces me afectaba demasiado <pausa_larga/>
+hab2	mmm ya <ininteligible/> <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> y ahora estoy más relajada <pausa/> <alargamiento>pero</alargamiento> mmm yo qué sé <pausa/> será como en todos lados <pausa/> <alargamiento>que</alargamiento> ¿sabes? <pausa/> yo <alargamiento>si</alargamiento> <pausa/> si hay trabajo trabajo <pausa/> y si no hay trabajo pues <silencio/>
+hab2	<risa_inicio/> sí <risa_fin/>
+hab1	<risa_inicio/>evidentemente <risa_fin/><pausa/> haces el tiempo <pausa/>
+hab2	sí
+hab1	pero bueno <pausa_larga/>
+hab2	y mmm ¿las casas? <pausa_larga/>
+hab2	¿qué tal? <silencio/>
+hab1	mmm bien y mal <pausa/> <alargamiento>yo</alargamiento> las casas bien <pausa/> si no hay otra cosa <pausa/> pero es que <silencio/>
+hab1	"ya estoy de las casas hasta aquí de <pausa/> si salgo de una casa <alargamiento>y</alargamiento> y después tengo que seguir en mi casa llega un momento en <alargamiento>que</alargamiento> <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab1	¿sabes? <alargamiento>no</alargamiento> desconectas <pausa_larga/>
+hab1	"y claro en un supermercado creas que no te relacionas con otra gente y <pausa/> <ruido tipo=""chasquido boca""/> aunque sea igual <pausa/> el tema marujeo <pausa/> <risa_inicio/>por lo menos <risa_fin/> <pausa/> <alargamiento>ves</alargamiento> <pausa/> gente hablas con gente ¿sabes? <pausa/> no estás todo el día a ello <alargamiento>porque</alargamiento>"
+hab2	sí no <palabra_cortada>es</palabra_cortada>
+hab2	sí y tú sola <pausa/>
+hab1	claro <pausa/> tú sola y más <pausa/> dedicándote a la casa que a mí me gusta limpiar pero me gusta limpiar mi casa <pausa/> eh yo a las otras casas voy por obligación si no no limpio <pausa_larga/>
+hab2	claro obviamente
+hab1	a mí me gusta <pausa/> claro tener el tiempo para limpiar en mi casa y <pausa/> si vas a limpiar a una casa por obligación <pausa/> y tienes la <alargamiento>tuya</alargamiento> <pausa/> sin limpiar <alargamiento>porque</alargamiento> <pausa/> ¿sabes? no y a mí eso sí que no me va <pausa_larga/>
+hab2	claro <pausa/>
+hab1	pero bueno
+hab2	¿y tienes buen ambiente de trabajo?
+hab1	sí <pausa_larga/>
+hab1	sí <pausa_larga/>
+hab2	tendréis poco tiempo para hablar y eso
+hab1	"<alargamiento>no</alargamiento> es que aquí la verdad mira somos tantas <pausa/> y tantos turnos que mitad de la gente ya no la conoces <pausa/> aquí es todo muy grande <palabra_cortada>enton</palabra_cortada> bueno y eso que es <pausa/> pequeño relativo a la <palabra_cortada>A</palabra_cortada> es el Alcampo pero <ruido tipo=""chasquido boca""/> <pausa/> en el Gadis era una relación más familiar era te importaba más <pausa_larga/>"
+hab2	sí <pausa/>
+hab1	lo que pensara tu compañera o lo <alargamiento>que</alargamiento> ¿sabes? los comentarios <pausa/> aquí <pausa/> pasas de todo o sea <pausa/> yo allí voy mis cuatro horas <pausa_larga/>
+hab1	trabajo mis cuatro horas <pausa/> la verdad me da igual lo que piensen de mí porque yo voy a mi trabajo sé que mi trabajo lo hago bien <pausa_larga/>
+hab1	y <alargamiento>no</alargamiento> <pausa_larga/>
+hab1	"<alargamiento>esto</alargamiento><pausa/><ruido tipo=""chasquido boca""/><pausa/> la relación que tenía en el Gadis de irme a tomar los cafés con mis <alargamiento>compañeras</alargamiento> y todo eso <pausa/> yo ahora con los niños evidentemente no lo puedo hacer ando <alargamiento>siempre</alargamiento> <pausa/> a lo justo ¿sabes? a correr <pausa/> mmm un minuto para mí es importante <pausa_larga/>"
+hab1	"entonces ya no tengo relación con los compañeros a no ser esas dos horas que estoy allí en cada puesto <pausa/> y evidentemente <ruido tipo=""boca""/> <pausa_larga/>"
+hab2	claro
+hab1	"
+      <alargamiento>no</alargamiento>
+      <pausa_larga/>
+    "
+hab2	"yo ahora entiendo eso de mmm <ruido tipo=""chasquido boca""/> que vas por el Alcampo y le preguntas a una dependienta que dónde están los aspiradores y no sabe y yo <cita_inicio/>bueno <pausa/> pero pero ¿trabaja aquí y no lo <palabra_cortada>sa</palabra_cortada><cita_fin/>"
+hab1	no hay <pausa/> no sabe
+hab1	claro <pausa/>
+hab1	yo no <palabra_cortada>s</palabra_cortada> <alargamiento>no</alargamiento> <pausa/> yo <pausa/> yo estoy <pausa/> y voy a <palabra_cortada>t</palabra_cortada> comprar a menudo allí <pausa/> pero yo me meto en la charcutería y me vienen <cita_inicio/>mira <pausa/> ¿dónde puedo <alargamiento>encontrar</alargamiento> <alargamiento>leche</alargamiento> tal?<cita_fin/> fff <risa/> <cita_inicio/>yo qué sé<cita_fin/> yo sé que anda por ahí pero <risa_inicio/>yo también <risa_fin/> <pausa/> ¿sabes? yo salgo <pausa/> mi obligación es salir <pausa/> y ayudarla a buscarla <pausa/> pero yo la tengo que buscar que no sé directamente dónde está <pausa_larga/>
+hab1	y eso que el Alcampo es pequeño <pausa_larga/>
+hab2	sí
+hab1	si te meten en uno de estes de Madrid o así yo ya me <risa_inicio/>pierdo<risa_fin/>
+hab2	<risa_inicio/>sí o incluso <risa_fin/> en El Corte Inglés
+hab1	"claro nada yo <pausa/> yo aparte que me <palabra_cortada>ori</palabra_cortada> oriento fatal <pausa/> yo no <alargamiento>sé</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> en el Gadis sí porque el Gadis era <alargamiento>un</alargamiento> <alargamiento>un</alargamiento> supermercadito <pausa/> <alargamiento>pero</alargamiento> un sitio así nada <pausa/>"
+hab2	¿y por qué cambian las cosas de sitio cada cuatro días? <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/> ¿en el Alcampo? <pausa/>"
+hab2	o en cualquier <pausa/> establecimiento
+hab1	<alargamiento>no</alargamiento> eso será por las ofertas <pausa/> no suelen cambiar las cosas de sitio eh
+hab2	hm
+hab1	"<ruido tipo=""chasquido boca""/> las cambian <alargamiento>en</alargamiento> campañas de <alargamiento>Navidad</alargamiento> por ejemplo sí <alargamiento>que</alargamiento> entonces ya te mmm hasta los empleados estamos perdidos porque <pausa_larga/>"
+hab1	toda la mercancía rota para poner lo de Navidad <pausa/> o el stock <alargamiento>de</alargamiento> <pausa/> ahora de jardín o entonces va rotando todo <silencio/>
+hab1	pero bueno de sitio no suelen cambiar <alargamiento>así</alargamiento> <pausa_larga/>
+hab2	¿no? <pausa_larga/>
+hab2	que a veces vas a <alargamiento>coger</alargamiento> pues no sé la leche <alargamiento>y</alargamiento> que hoy estaba aquí <pausa/> pero ya la han cambiado y ahora <alargamiento>está</alargamiento> <pausa/>
+hab1	no sé <pausa/> eso depende también el sitio normalmente no eh <pausa/> ya te digo en campaña sí porque tienen que hacer sitio para las cosas de <pausa/> de la campaña pero después <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	no <pausa/> ¿y se nota la crisis <pausa/> <alargamiento>en</alargamiento> Alcampo? <silencio/>
+hab1	no <ininteligible/>
+hab1	pff <pausa/> yo es que no sé <pausa_larga/>
+hab1	<palabra_cortada>n</palabra_cortada> es que yo eso <pausa/> ahí no entiendo nada ya porque <pausa_larga/>
+hab1	crisis evidentemente hay <pausa/> yo la noto <pausa/> y mas no me quitaron <pausa/> a mi marido no le quitaron <pausa/> nada de la nómina <pausa/> ni a mí me bajaron el sueldo <pausa/> y yo noto que ando apretada <pausa/> ¿sabes? <pausa/> y no tengo la crisis de decir <cita_inicio/>joder estamos los dos en el paro<cita_fin/> como se ve en la tele <pausa_larga/>
+hab1	en el Alcampo yo no sé qué pasa <pausa/> que a día uno a lo mejor no hay nadie <pausa/> a día diez hay muchísima gente <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> no hay <alargamiento>un</alargamiento> <pausa/> como en el Gadis que era del uno al quince mogollón de gente y del quince al treinta y uno no había nadie <pausa/> ¿sabes? <pausa/> se acababa el dinero y se acababa la comida <pausa_larga/>"
+hab1	en el Alcampo es que es <pausa/> constante <pausa/> a lo mejor a una hora no hay nadie a otra hora hay mogollón <pausa_larga/>
+hab1	tarjetas muchísimas <pausa/> o sea de <alargamiento>pagar</alargamiento> de un mes para <alargamiento>otro</alargamiento> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> ¿no sabes? <pausa_larga/>"
+hab2	"
+      <ininteligible/>
+    "
+hab1	y claro yo como no sé <pausa/> cómo era la venta de antes <pausa/> yo entré aquí en agosto tampoco sé muy bien si antes se vendía mucho más o <pausa/> yo veo que gente hay constante pero <silencio/>
+hab1	también <pausa/> mmm <pausa/> mmm noto que mucha gente de la que está en el paro que se supone que cobra el día diez <pausa/> el día diez once doce hay bastante gente <pausa_larga/>
+hab1	yo creo que en eso sí <palabra_cortada>q</palabra_cortada> sí que lo notará <pausa/> los jefes pero claro <pausa/>
+hab2	ya <pausa/> sí
+hab2	¿y tú en qué notas la crisis? <pausa_larga/>
+hab1	"<ruido tipo=""suspiro""/><alargamiento>yo</alargamiento><pausa/> pues en que estás <alargamiento>más</alargamiento> <pausa/> mi marido por ejemplo <pausa_larga/>"
+hab1	está todos los días en vilo <pausa/> <alargamiento>pensando</alargamiento> <pausa/> <cita_inicio/>joder llevo toda la semana sin trabajo<cita_fin/> sin trabajo se refiere <pausa/> a que le alquilen máquinas todo esto ¿sabes? <pausa_larga/>
+hab1	entre el mal tiempo <alargamiento>y</alargamiento> y eso las empresas que cierran y no sé qué <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> mmm en plan económico no lo notamos <pausa/> porque <pausa/> ya te digo no le bajaron el sueldo a él <pausa/> a mí me bajó <pausa/> porque yo antes cobraba <silencio/>"
+hab1	claro evidentemente trabajaba nueve horas <pausa/> cobraba nueve horas más mis extras yo ahora cobro <énfasis_inicio/>lo justito<énfasis_fin/> <pausa_larga/>
+hab1	para poder pagar la hipoteca y llevar a los niños <pausa/> en la ludoteca tengo que pagar para tenerlos <pausa_larga/>
+hab1	entonces <pausa/> ahí <pausa/> noto mucho que mi sueldo no se ve <pausa/> en casa pero claro <pausa/> eso no es la crisis <pausa/> eso es <pausa/> <alargamiento>mi</alargamiento> manera <alargamiento>de</alargamiento> de vivir ahora mismo <pausa_larga/>
+hab1	la crisis la notamos en que estás todo el día pensando ¿sabes? <pausa_larga/>
+hab1	"<cita_inicio/>joder y cómo te quedes sin <alargamiento>trabajo</alargamiento><cita_fin/> <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> no estás tranquila ¿sabes? <pausa/> y ves que está todo el <alargamiento>mundo</alargamiento> <pausa/> quedando en el paro se te acaba el paro y no hay a dónde meterte <pausa/> y ya te digo a nosotros de momento <pausa/> en eso no nos afectó <pausa_larga/>"
+hab1	pero de las competencias del trabajo de mi marido <pausa/> pff ya se están reuniendo para entre todos <pausa/> salir un poco a flote entonces quieras que no estás un poco intranquilo <pausa/>
+hab2	sí
+hab1	no es como <alargamiento>decir</alargamiento> <pausa_larga/>
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa_larga/>
+    "
+hab2	ya
+hab1	tienes ahí una cosa para toda la vida ¿sabes?
+hab2	y la televisión no ayuda nada <risa/>
+hab1	mmm <alargamiento>no</alargamiento> <pausa/> mmm peor <pausa/> ¿sabes lo que? bueno yo televisión poca veo <pausa/> porque <pausa/> el rato que tengo para verla hay dibujos <pausa/> para los niños <pausa/> <risa_inicio/>te lo juro que <risa_fin/> <pausa/> muchas veces no sé ni lo que pasa en el mundo eh <pausa/> igual estoy una semana <pausa_larga/>
+hab1	periódico no leo <pausa/> tele no veo <pausa_larga/>
+hab1	y <alargamiento>no</alargamiento> o sea <pausa/> de hablar con la gente <pausa/> en el trabajo que te enteras de cosas o de mi marido que al mediodía ¿sabes? de comentar cosas que si no <pausa_larga/>
+hab1	yo estoy en el mundo por estar a veces <risa/> <risa_inicio/>de verdad <risa_fin/> <pausa/>
+hab2	¿y qué haces en tu tiempo libre entonces?
+hab1	es que no tengo tiempo libre
+hab2	los fines de semana
+hab1	sí los fines de semana <silencio/>
+hab1	es que tampoco te creas <pausa/> es <pausa/> un domingo que tienes de tiempo libre el sábado también trabajo <pausa/> y entonces <pausa/> pues el domingo si hace buen <alargamiento>día</alargamiento> <pausa/> ya es <alargamiento>lo</alargamiento> típico <pausa_larga/>
+hab2	mmm ya
+hab1	mmm salir de casa ya <pausa/> ¿sabes? porque yo como haga sol tengo que salir de casa <pausa/> pero en plan pícnic o sea <pausa/>
+hab2	ah
+hab1	o ir a pasear <alargamiento>por</alargamiento> por ahí hay un río pequeñito por ahí abajo vamos a pasear por el río o vamos <pausa/> evidentemente con los niños al parque porque en toda la semana no estamos <pausa/> los cuatro juntos nunca <pausa/> solo a la hora de la comida <pausa_larga/>
+hab1	después <palabra_cortada>n</palabra_cortada> <pausa/> nunca <pausa/> eh podemos estar juntos por la semana <silencio/>
+hab1	<alargamiento>y</alargamiento> y aprovechamos para eso <pausa/> o <pausa/> si llueve <pausa/> centro comercial porque en Santiago no hay otra cosa para hacer <pausa_larga/>
+hab2	<ininteligible/> sí
+hab1	o vas con los niños al cine <alargamiento>o</alargamiento> <pausa/> lo típico pero <pausa_larga/>
+hab1	no puedes hacer nada fuera de lo normal porque no te llega <pausa/> un domingo <pausa_larga/>
+hab1	para hacer nada <pausa_larga/>
+hab2	claro <pausa/> ¿y echas de <alargamiento>menos</alargamiento>
+hab1	claro hm eso? <pausa_larga/>
+hab1	eh <pausa/> ¿la vida anterior <alargamiento>a</alargamiento> al matrimonio <pausa/> <alargamiento>no</alargamiento> <alargamiento>no</alargamiento> no echo de menos eso <pausa/> lo que echo de <palabra_cortada>men</palabra_cortada> <pausa/> no porque mira cuando yo tuve al niño pequeño dejé de trabajar <pausa_larga/>
+hab2	los <ininteligible/>
+hab1	y yo decía <cita_inicio/>jo esto es la gloria <pausa/> tanto tiempo para los niños <pausa/> para no sé qué<cita_fin/> mira y llegó un momento <pausa_larga/>
+hab1	en que pedía papas decía yo <pausa/> <cita_inicio/>yo tengo que ir a trabajar a algún lado<cita_fin/> <pausa/> y a mí me encanta la casa y me <alargamiento>encanta</alargamiento> <pausa/> eeh poder llevar a los niños yo a los sitios y no tener que depender de nadie ¿sabes? <pausa_larga/>
+hab1	pero fff es que llegó un momento cuando el niño tenía dos años <pausa/> que es que yo vi que me estaba afectando a mí el rollo <alargamiento>de</alargamiento> <pausa/> casa niños niños casa parque casa así seguido <pausa_larga/>
+hab2	¿en qué lo?
+hab1	¿sabes? ahora estar un rato sin ellos me sienta de maravilla <pausa_larga/>
+hab1	mmm <pausa_larga/>
+hab2	pero ¿en qué? ¿qué notabas? <alargamiento>¿qué</alargamiento> ? <silencio/>
+hab2	¿qué pasaba?
+hab1	pues me parecía pues eso que estaba <pausa/> puesta aquí para cuidarlos para <pausa/> evidentemente como todas las madres <pausa/> y yo <pausa/> de hecho creía <pausa/> que yo era <palabra_cortada>m</palabra_cortada> mala persona por pensar eso <pausa/> que <pausa_larga/>
+hab1	pero yo veo que lo <pausa/> quitas el tema y todas las madres le <risa_inicio/>pasa lo mismo <risa_fin/> ¿no sabes? que <pausa/> echas de menos el decir <pausa_larga/>
+hab1	cuando tienes un niño <pausa/> creas que no <pausa/> está durmiendo o está en el cole y tal <pausa/> y tienes un momento para ti <pausa/> para decir <cita_inicio/>me tomo un café <pausa_larga/>
+hab1	eh <pausa/> sin escuchar a nadie<cita_fin/> <pausa/> por ejemplo ¿sabes? <pausa_larga/>
+hab1	pero teniendo dos <pausa/> cuando <alargamiento>uno</alargamiento> calla el otro habla cuando <pausa/> es siempre siempre siempre ¿sabes? y llega un momento en que necesitas estar sola <pausa/> yo <pausa/> yo estaba muy acostumbrada a estar sola <pausa/> y no es que eche de menos la soledad pero echo de menos <pausa_larga/>
+hab1	el decir <cita_inicio/>me voy a tomar un café <pausa/> sola<cita_fin/> o <cita_inicio/>me <alargamiento>voy</alargamiento> <pausa_larga/>
+hab1	"a depilarme <pausa/> a la peluquería<cita_fin/> ¿sabes? porque peluquería ya no voy <risa_inicio/>pero <risa_fin/> <pausa/> hasta para ir a depilarme tenía que llevarme a los niños <pausa/> <ruido tipo=""chasquido boca""/> era <pausa/> constante constante y llegó un momento en que dije yo <cita_inicio/>buf<cita_fin/> <pausa_larga/>"
+hab1	¿sabes?
+hab2	se portan bien <pausa/> por lo menos
+hab1	sí son muy <pausa/> o sea el pequeño es muy rebelde pero son los dos buenos eh <alargamiento>no</alargamiento> tengo problema <pausa/> pero bueno <pausa_larga/>
+hab2	se te <alargamiento>escapan</alargamiento>
+hab1	"por <palabra_cortada>mu</palabra_cortada> <ruido tipo=""chasquido boca""/> si eso el pequeño siempre <pausa/> o sea la mayor siempre fue <pausa/> muy tranquila y muy buena el pequeño fff un trasto"
+hab2	¿sí?
+hab1	un trasto <pausa/> pero <pausa/> es bueno igual eh <pausa/> es muy <alargamiento>cariñoso</alargamiento> <pausa_larga/>
+hab2	bueno <pausa/> ahora que está en el colegio <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/> no <pausa/> aún no empezó <pausa/> el pequeño va en la <palabra_cortada>guarde</palabra_cortada>"
+hab2	ay es verdad sí
+hab1	sí es que este año estoy descontrolada por eso porque la niña <pausa_larga/>
+hab1	sale a las dos y media del cole pero el niño a las doce ya lo tengo que coger en la guardería porque solo <alargamiento>va</alargamiento> dos horitas por la mañana <pausa_larga/>
+hab1	y entonces <pausa/> creas que no tienes que <alargamiento>estar</alargamiento> <pausa_larga/>
+hab1	¿sabes? yo ahora si no estuviera aquí contigo estaría en el supermercado haciendo la compra para <alargamiento>cuando</alargamiento> <pausa/> salga el niño venir hacer la comida para mi marido <pausa/> después voy a buscar a la niña <pausa/> comemos hacemos los deberes ¡chum! para el trabajo yo te digo que me relajo <pausa/> cuando llego al trabajo eh <pausa/> <risa/> te lo juro <pausa/> lo de <pausa/> chum <pausa/> de ir de un lado para otro si estás comiendo y ya tienes que ir a buscar a la otra y <pausa/> y estás siempre pendiente de algo <pausa/> ¿sabes? que no te descansa nunca la cabeza con los niños <pausa_larga/>
+hab2	claro <pausa/>
+hab1	pero <pausa/>
+hab2	y la guardería ¿qué es? ¿pública? ¿privada?
+hab1	<alargamiento>sí</alargamiento> es pública <pausa/> es ahí <alargamiento>en</alargamiento> <pausa/> al lado de la facultad <alargamiento>de</alargamiento> idiomas <pausa/>
+hab2	sí
+hab2	<palabra_cortada>¿está</palabra_cortada> estás contenta?
+hab1	mmm bueno <pausa/> sí <silencio/>
+hab1	sí y no <risa_inicio/><alargamiento>porque</alargamiento> <risa_fin/> <pausa/> tampoco tienes un <alargamiento>servicio</alargamiento> <pausa/> yo por ejemplo para poder ir a trabajar los tengo que llevar a una ludoteca privada por la tarde <pausa_larga/>
+hab1	¿sabes? a mí la guardería no me da servicio <pausa_larga/>
+hab1	aunque lo quiera dejar <alargamiento>allí</alargamiento> por la tarde a las <pausa/> siete y media me parece cierra <pausa_larga/>
+hab1	y entonces no <alargamiento>puedo</alargamiento> <pausa_larga/>
+hab2	claro
+hab1	no tengo servicio <pausa/>
+hab2	sí muy pronto <pausa/> no puedes cambiar el horario porque ahora <pausa/>
+hab1	claro
+hab1	no tienen otro horario o sea ahí es de siete de la mañana <pausa/> a siete de la tarde imagínate <pausa_larga/>
+hab1	y claro yo tengo <pausa_larga/>
+hab1	mmm <pausa/> cogí <pausa_larga/>
+hab1	un horario de cuatro horas por las mañanas creyendo que me iba a incorporar al mismo trabajo iba pedir una reducción de jornada <pausa_larga/>
+hab1	"y pedí <pausa/> y no lo quito <pausa/> <ruido tipo=""chasquido boca""/> por decir <cita_inicio/>mira <pausa/> si tengo que ir yo a algún recado<cita_fin/> <pausa/> o esto por ejemplo <pausa/> ¿sabes? <pausa/> tener que estar con una persona <alargamiento>o</alargamiento> para que no esté por el medio pues lo dejo allí <alargamiento>y</alargamiento> <pausa_larga/>"
+hab1	"si tengo que ir al centro o cualquier cosa <pausa/> pues para decir <cita_inicio/>tengo una plaza ahí y lo puedo dejar ahí<cita_fin/> porque yo no tengo ni padres <pausa/> ni hermanos cerca ni <pausa/> <ruido tipo=""chasquido boca""/> ni nadie que me <pausa/> ¿sabes? <pausa/> a no ser que le deje a una vecina <cita_inicio/>oye quédame con el niño<cita_fin/> <pausa/> pero tampoco"
+hab2	y tu familia ¿no es de aquí entonces?
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>sí</alargamiento> solo <alargamiento>que</alargamiento> <alargamiento>mis</alargamiento> padres murieron <pausa_larga/>"
+hab1	mi hermana vive en Sigüeiro y trabaja también <pausa/> mi hermano vive ahí arriba en la primera fila de chalés pero también trabaja en Carballo <pausa_larga/>
+hab1	mi otro hermano vive <pausa/> en la facultad <pausa/> justo en el edificio donde nací <alargamiento>yo</alargamiento> que se quedó él con el piso pero claro también trabaja <pausa/> cada uno tiene su vida tiene sus hijos sus trabajos <pausa/> y evidentemente <pausa/> estamos todos igual o sea <silencio/>
+hab2	sí
+hab2	y mmm eso <pausa/> que me contabas antes que empezaste a trabajar <pausa/> justo después de estudiar
+hab1	es que no acabé de estudiar <pausa/> yo <pausa/> estaba en el instituto <pausa/> hice hasta segundo de <sigla_inicio/>BUP<sigla_fin/> y después <alargamiento>dije</alargamiento> <pausa/> <cita_inicio/>me voy a trabajar<cita_fin/> <pausa_larga/>
+hab2	¿qué pasó?
+hab1	porque <pausa_larga/>
+hab1	pues no <alargamiento>sé</alargamiento> <pausa/> yo creo que me <alargamiento>dejé</alargamiento> <pausa/> ahora me arrepiento que conste eh <pausa/> pero me dejé <pausa/> sí porque yo vivía cuando murió mi madre me fui a vivir con <alargamiento>mi</alargamiento> tía <pausa_larga/>
+hab2	¿sí?
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> vivía con mi prima más bien <pausa/> mi prima estaba casada tenía hijos tal <pausa_larga/>"
+hab1	y yo claro iba al instituto por la mañana <pausa/> y después mi vida era <pausa/> eso <pausa/> o sea <pausa_larga/>
+hab1	los hijos de mi prima <pausa/> la ropa de mi prima <pausa/> la comida <pausa/> como si yo fuera <alargamiento>la</alargamiento> <pausa/> <alargamiento>la</alargamiento> ama de casa vamos <pausa_larga/>
+hab1	y entonces me sentía <pausa/> yo veía que no tenía tiempo para mí <pausa/> que yo <alargamiento>no</alargamiento> no quiero tiempo para mí para decir eso pues <pausa/> <cita_inicio/>hala pues me voy a la pelu dos horas<cita_fin/> no <pausa/> tiempo para respirar yo <pausa/> ¿sabes? <silencio/>
+hab1	<alargamiento>y</alargamiento><pausa/> y entonces <pausa/> empecé a latar a clase <pausa_larga/>
+hab1	para pasarlo bien con los amigos ya que después no podía estar con mis amigos pues aprovechaba las horas de clase <pausa/> que ahora me arrepiento mogollón <pausa_larga/>
+hab1	y si me lo hubieran prohibido <pausa_larga/>
+hab1	¿sabes? si alguien estuviera encima de mí <pausa/> como yo estoy ahora encima de mi hija por ejemplo <pausa/> yo sé que ahora mismo <pausa/> tendría mis estudios y <pausa/> porque yo además me gustaba estudiar y estudiaba y quitaba buenas notas <pausa_larga/>
+hab1	pero era eso ¿sabes? que sentía que no tenía <alargamiento>yo</alargamiento> <pausa_larga/>
+hab1	tiempo para estar con mis amigas entonces aprovechaba y en vez de ir a clase me iba con mis amigos <pausa_larga/>
+hab1	pues por ahí <alargamiento>a</alargamiento> los bares <alargamiento>a</alargamiento> jugar a las cartas o así <pausa_larga/>
+hab2	sí <ininteligible/>
+hab1	y nada y llegó segundo y ya dije <cita_inicio/>no <pausa/> mira <pausa_larga/>
+hab1	lo dejo porque estoy<cita_fin/> <pausa_larga/>
+hab1	estaba engañando a mi familia <pausa_larga/>
+hab1	¿sabes? <pausa/> no iba a clase estaba perdiendo el tiempo y digo yo <cita_inicio/>mira me pongo a trabajar<cita_fin/> <pausa/> ya conocía <pausa/> a <ficticio>Víctor</ficticio> <silencio/>
+hab1	<alargamiento>y</alargamiento><pausa/> y ya me monté mi vida o sea <pausa/> me puse a trabajar yo se vino él para aquí <alargamiento>y</alargamiento> <pausa/> y así <pausa/>
+hab2	¿qué te hubiera gustado <pausa_larga/>
+hab2	haber hecho? <silencio/>
+hab1	pues nunca lo supe la verdad <pausa/> nunca supe que lo que me gustaría hacer
+hab2	¿ciencias <pausa/> letras?
+hab1	es que nunca supe <pausa/> no <alargamiento>sé</alargamiento> <silencio/>
+hab1	es que no sé <pausa/> ahora mismo <silencio/>
+hab1	¿sabes? ahora mismo <pausa/> viéndolo desde ahora pues me gustaría <pausa/> tener cualquier cosa <pausa/> ¿sabes? de administrativo <pausa/> cualquier cosa que me valiera para estar <pausa/> en un <alargamiento>sitio</alargamiento> bien <pausa_larga/>
+hab1	pero claro yo lo veo desde la perspectiva de ahora de <pausa_larga/>
+hab1	tener tiempo para los niños <pausa/> tal ¿sabes? trabajar pues <alargamiento>mira</alargamiento> de administrativo por las mañanas en una oficina <pausa/> ya sería lo propio <pausa_larga/>
+hab1	para mí <pausa_larga/>
+hab2	hm hm <pausa/>
+hab1	pero cuando estaba en el instituto <pausa/> yo creo que ninguno de <pausa/> ni yo ni mis compañeros sabíamos lo que queríamos <pausa/> estábamos allí porque había que estar <pausa_larga/>
+hab2	claro
+hab1	como cuando haces el colegio <alargamiento>y</alargamiento> lo haces porque lo tienes que hacer <pausa_larga/>
+hab2	igual
+hab1	"pues nunca tuve <pausa/> no <pausa/> es que nunca <alargamiento>tuve</alargamiento> <pausa/> ¿sabes? <cita_inicio/>me gustaría ser médico me gustaría ser<cita_fin/> <ruido tipo=""boca""/> <pausa_larga/>"
+hab1	me daba igual <pausa_larga/>
+hab2	claro y si encima no tuviste a una persona encima
+hab1	claro <pausa_larga/>
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa/>
+    "
+hab2	un problema ¿no? que además tu <alargamiento>prima</alargamiento> <pausa_larga/>
+hab2	te pusiera a ti a hacer las <alargamiento>labores</alargamiento>
+hab1	es <alargamiento>que</alargamiento> <alargamiento>claro</alargamiento> no es que me pusiera a mí pero <alargamiento>ella</alargamiento> <pausa/> también fue una persona que siempre estuvo <alargamiento>enferma</alargamiento> <pausa/> ¿sabes? <pausa/> <palabra_cortada>t</palabra_cortada> con vértigo siempre <pausa/> un día se levantaba y estaba mareada y entonces ya se tenía que ir para cama todo el día <pausa/> otro día <pausa_larga/>
+hab1	tenía jaquecas y para cama todo el día <alargamiento>y</alargamiento> <silencio/>
+hab1	y yo no es que me mandara hacerlo pero yo evidentemente <pausa/> a mí me sale de dentro si una persona está en cama y no <alargamiento>puede</alargamiento> <pausa_larga/>
+hab1	hacer la comida pues <pausa/> si yo vivo allí hacerla yo <pausa/> ¿sabes? de hecho yo me sentía así <pausa_larga/>
+hab1	<alargamiento>obligada</alargamiento><pausa/> por mí misma a hacer esas cosas <pausa_larga/>
+hab2	¿y vivías con tus hermanos en casa de ella?
+hab1	"
+      <alargamiento>no</alargamiento>
+      <pausa_larga/>
+    "
+hab1	no <pausa/> yo vivía allí sola <pausa/> y mis hermanos vivían <silencio/>
+hab1	pues mi hermana se casó <pausa/> y se vino a vivir para aquí abajo <pausa/> y mis hermanos se quedaron en el piso dos de ellos <silencio/>
+hab1	y mi padre <alargamiento>estaba</alargamiento> <pausa_larga/>
+hab1	¿sabes? un poco en casa luego en el hospital otro poco en casa de mi tía <pausa/>
+hab2	mmm ya
+hab1	o sea así como más o menos <pausa/>
+hab2	<alargamiento>fue</alargamiento> una época difícil <pausa/> me imagino
+hab1	sí <pausa/> sí <pausa_larga/>
+hab1	mientras la viví no fue tanto eh <pausa_larga/>
+hab1	pero ahora que lo veo desde ahora <pausa/> sí que fue <pausa_larga/>
+hab2	sí
+hab1	fue porque estuvimos <alargamiento>así</alargamiento> <pausa_larga/>
+hab1	muchos años ¿sabes? <pausa_larga/>
+hab2	sí
+hab1	"<ruido tipo=""inspiración""/> yo hasta que me casé <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento> y me vine a vivir con mi marido <pausa_larga/>
+hab1	yo creo que <pausa/> que fue toda la vida estar <pausa/> cuidando de alguien <pausa_larga/>
+hab1	¿sabes? de alguien enfermo <pausa_larga/>
+hab1	porque fue de siempre o sea se murió mi madre quedó mi padre enfermo <pausa_larga/>
+hab1	se murió mi padre enfermó mi tía la que me cuidó <pausa_larga/>
+hab1	se murió mi tía enfermó el marido mi tío y estuvimos así <pausa/> toda la vida yo creo que por eso me agobié tanto <pausa_larga/>
+hab1	cuando dejé de trabajar <pausa/> y vi otra vez <pausa/> que era yo <pausa_larga/>
+hab1	estaba yo siempre para cuidar a los niños y a mi marido <pausa/> que es muy bonito pero <pausa/> te sientes con <alargamiento>tanta</alargamiento> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> mmm responsabilidad de decir <cita_inicio/>jo <pausa/> todo depende de mí<cita_fin/> <pausa_larga/>"
+hab1	¿sabes? <pausa_larga/>
+hab1	y creo que fue <pausa/> por eso porque toda la vida <pausa_larga/>
+hab1	estuvistes pendiente de alguien <pausa/> bueno yo y todos <pausa/> más o menos toda mi familia pero <pausa/> a cada uno le afecta a su manera <pausa/>
+hab2	sí menuda ¡menuda racha!
+hab1	sí es <alargamiento>sí</alargamiento> <pausa/> sí de hecho yo cuando me casé <pausa/> todo el mundo <pausa/> cuando se casa lo normal es que te ates <pausa_larga/>
+hab2	sí <pausa/>
+hab1	pues para mí casarme fue <pausa/> liberarme porque <pausa_larga/>
+hab1	yo cuando me casé fue justo en el momento que no tenía a nadie enfermo o sea <pausa/> mi madre muriera mi padre muriera <pausa/> mi tía muriera y mi tío estaba sano <pausa_larga/>
+hab1	entonces <pausa/> yo me casé <pausa/> para estar con mi marido <pausa/> salía de <alargamiento>juerga</alargamiento> <pausa/> no tenía que darle explicaciones a <alargamiento>nadie</alargamiento> <pausa_larga/>
+hab1	¿sabes? era <pausa/> para mí era <pausa/> fue lo mejor <pausa/> en aquel momento claro porque como no había nada alrededor <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> y aprovechaste el tiempo"
+hab1	claro <pausa/> es que yo aproveché más <pausa_larga/>
+hab1	eh a lo mejor <pausa/> lo aprovechaba igual si no me hubiera casado porque evidentemente fue la <palabra_cortada>est</palabra_cortada> la circunstancia de que no tenía a nadie <pausa_larga/>
+hab1	pendiente de mí <pausa_larga/>
+hab1	pero bueno me coincidió así <pausa/>
+hab2	¿a qué edad te casaste? <pausa_larga/>
+hab1	a los veintidós me parece <ininteligible/> <pausa/> <alargamiento>sí</alargamiento> bueno tampoco tanto mi hermana <risa_inicio/>se casó <risa_fin/> a los dieciocho <risa/>
+hab2	¡qué jovencita!
+hab2	<risa_inicio/>¿sí? <risa_fin/>
+hab1	<risa/><pausa/> yo a los veintidós <pausa/> sí
+hab2	"sí sorprende <pausa/> que hoy en <ruido tipo=""chasquido boca""/>"
+hab1	<alargamiento>día</alargamiento> porque <palabra_cortada>aho</palabra_cortada> <pausa/> claro yo ahora veo a la gente de veintidós <pausa/> y digo yo <cita_inicio/>jo<cita_fin/> <pausa_larga/>
+hab1	"¿tú tienes veintidós? <alargamiento>claro</alargamiento> <alargamiento>sí</alargamiento> me pareces jovencita pero <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> también depende de la vida que lleves eh <pausa_larga/>"
+hab2	sí
+hab1	porque yo <pausa/> compañeros míos del instituto que los veo ahora <pausa/> y están como tú o sea <alargamiento>estudiando</alargamiento> de juerga los fines de semana viven con los padres <pausa_larga/>
+hab1	yo esa vida ya no la tenía a los veintidós años <pausa/> entonces para mí no es <cita_inicio/>¡qué jovencita!<cita_fin/> o sea <pausa/> es que me <pausa_larga/>
+hab2	sí <pausa_larga/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	¿sabes? yo con veintidós <pausa/> pues <alargamiento>estaba</alargamiento> como ahora más o <risa_inicio/>menos<risa_fin/>
+hab2	<risa_inicio/>sí<risa_fin/>
+hab1	<risa_inicio/>o sea que <risa_fin/> <pausa_larga/>
+hab2	¿no echas de menos los veintidós? <pausa/> así <pausa_larga/>
+hab1	no <pausa/> no echo de menos nada eh
+hab2	es que te veo tan joven <pausa/> casada <risa_inicio/>con hijos casa propia<risa_fin/>
+hab1	<risa_inicio/><alargamiento>¿sí</alargamiento> ?<risa_fin/>
+hab1	<risa_inicio/>ay gracias <risa_fin/> <risa/> no <pausa/> pero es lo normal eh
+hab2	esperaba que fueras mucho mayor la verdad sí sí
+hab1	¿sí?
+hab1	caray <pausa/> no pues es lo normal eh <pausa/>
+hab2	"<ruido tipo=""chasquido boca""/> sí <pausa/>"
+hab1	¿sabes lo que pasa? que <alargamiento>yo</alargamiento> <pausa_larga/>
+hab1	mmm <pausa/> es lo que dices tú <pausa/> me ves joven <pausa/> yo me veo vieja <pausa/> me veo vieja porque los hijos me hacen vieja <pausa/> y porque llevo una vida <pausa/> de viejas <pausa_larga/>
+hab2	sí
+hab1	¿sabes? yo ahora no puedo <pausa/> y mi marido igual <pausa/> a mí quién me diera coger un fin de semana <pausa/> irme de juerga con mi marido <pausa/> y mi hermana me tiene dicho muchas veces <pausa_larga/>
+hab1	<cita_inicio/>déjame a los niños y tal el sábado y los recoges el domingo<cita_fin/> <pausa_larga/>
+hab1	pero yo pienso <cita_inicio/>si me voy de juerga con <ficticio>Víctor</ficticio> como me iba hace años <pausa/> yo el domingo no estoy para aguantar niños<cita_fin/> <pausa_larga/>
+hab1	y solo de pensar que los tengo que aguantar ya me corta el rollo entonces prefiero no ir de juerga <pausa/> y te digo que hace <pausa/> pff <pausa_larga/>
+hab1	pues debe de hacer tres años que no salgo eh <pausa_larga/>
+hab2	¿sí? ¿y eso no te desgasta? <pausa_larga/>
+hab1	sí
+hab1	no <pausa/> porque es que no tienes tiempo <pausa/> te cambia mucho la vida eh cuando tienes niños <alargamiento>y</alargamiento> y todo para ti <pausa_larga/>
+hab1	¿sabes? para mí eso ahora ya es secundario para mí ahora <pausa_larga/>
+hab1	eeh <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> tener un día ideal es <pausa/> tener un día los cuatro juntos <pausa_larga/>
+hab2	hm <pausa/>
+hab1	claro es <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> pero es por eso porque te acostumbras a eso <pausa_larga/>"
+hab1	y sabes <pausa/> hombre a mí evidentemente me encantaría estar de juerga un fin de semana <pausa/> pero como sabes <alargamiento>que</alargamiento> después <alargamiento>tienes</alargamiento> que seguir con esto todo <pausa/> pues no <risa/>
+hab2	pero yo <ininteligible/>
+hab2	<risa_inicio/><alargamiento>ya</alargamiento><risa_fin/> pero ya no tanto de juerga sino un fin de semana pues por ejemplo a una <alargamiento>casa</alargamiento> rural con tu marido <pausa/>
+hab1	sí <pausa/> pero ¿ves? ya piensas en con niños <pausa/> <risa/> ya nunca piensas con tu marido solo porque están los <pausa/> peques <pausa/> y te da pena <pausa_larga/>
+hab2	"
+      <ininteligible/>
+    "
+hab2	ya
+hab1	¿sabes? a mí me daría pena estar con mi marido <pausa_larga/>
+hab1	en una casa rural <pausa/> pues precisamente que está genial para los niños <pausa_larga/>
+hab1	y decir <cita_inicio/>jo y los niños con mi <alargamiento>hermana</alargamiento> eh allí en el piso<cita_fin/> <pausa/>
+hab2	mmm ya <risa/>
+hab1	¿sabes? a mí eso me da pena <pausa/> porque como por la semana no podemos disfrutar los cuatro <silencio/>
+hab1	mira yo desde que te dejé de trabajar fuimos dos veces de vacaciones <pausa_larga/>
+hab1	porque teníamos <pausa/> tiempo <pausa_larga/>
+hab1	y nos fuéramos a <pausa/> el primer año a Tenerife y el segundo a Lanzarote <pausa/> y para mí <pausa/> mira nos gastamos mucha pasta eh <pausa/> que pudimos tener la casa amueblada ya <pausa/> pero es que para mí <pausa_larga/>
+hab1	fue lo mejor que hicimos <pausa/> desde <alargamiento>que</alargamiento> tenemos niños <pausa/> porque pudimos <pausa/> ¿sabes? yo estaba solo para eso <pausa/> no tenía ni que hacer comida <pausa/> ni que hacer camas ni nada estabas todo el día <pausa/> para pasarlo bien con los niños y con tu marido <pausa_larga/>
+hab1	y para mí eso <pausa/> ¿sabes? fue ideal entonces ahora <pausa/> piensas en eso en decir <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> hombre claro a mí me gustaría pues mira <pausa/> lo propio ya sería <pausa_larga/>"
+hab1	irte de vacaciones los cuatro <pausa/> y tener a la abuelita que te quedara de noche con los niños y poder ir tú a tomarte algo con tu marido <pausa/> eso lo echo de menos <pausa_larga/>
+hab1	pero es que me da <alargamiento>igual</alargamiento> <pausa/> pues me gustaría tomarme un café por la mañana con mi marido en un bar diez minutos <pausa_larga/>
+hab1	"y te llega eh <pausa/> es que es <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> ¿sabes? es <pausa_larga/>"
+hab1	mmm aprovechar todos los momentos <pausa_larga/>
+hab2	sí
+hab1	hm
+hab2	pero ese <alargamiento>viaje</alargamiento> <pausa/> os lo merecíais
+hab1	nos lo merecíamos mucho pero también nos dejó muy buen sabor de boca <risa/> <risa_inicio/>y yo este año rabeaba por no poder ir otra vez <risa_fin/> ¿verdad? no <pausa/> porque yo ya empecé a <alargamiento>trabajar</alargamiento>
+hab2	¿pero no podíais?
+hab2	<alargamiento>ah</alargamiento> claro <pausa/> claro
+hab1	y en un supermercado trabajas siempre los fines de semana y <pausa/> y <alargamiento>ya</alargamiento> nada <pausa/> se olvidó <pausa/>
+hab2	sí <pausa/> sí sí sí
+hab2	sí
+hab2	"<ruido tipo=""chasquido boca""/> ¿y se disfrutan unas vacaciones con niños <pausa/> en Tenerife?"
+hab1	sí sí <pausa/> es que si vas a un sitio <pausa/> para niños <pausa/> o sea evidentemente <pausa/> yo no me voy a ir a Egipto con los niños <pausa/> porque entonces me vuelvo loca <pausa_larga/>
+hab1	<alargamiento>porque</alargamiento> los niños <pausa/> no le <alargamiento>ven</alargamiento> <pausa_larga/>
+hab1	nada de especial a una pirámide ni nada de eso <pausa/> a no ser que sea un niño <alargamiento>ya</alargamiento> <pausa/> ¿sabes? pero <pausa_larga/>
+hab2	<risa_inicio/> no <risa_fin/>
+hab1	claro <pausa/> vas a Tenerife <pausa/> Tenerife es piscina todo el día <pausa/> sol todo el día <pausa_larga/>
+hab1	¿sabes? es como aquí si te vienen <pausa/> tres días buenos y no tienes que ir a trabajar que estás todo el día en la calle <pausa/> pues <pausa/> sin preocupaciones vamos <pausa_larga/>
+hab1	y los niños eso <pausa/> se les nota <pausa_larga/>
+hab1	y mira que el niño era pequeñito cuando fuimos eh pero <pausa/> <alargamiento>el</alargamiento> <pausa/> el no tener <pausa_larga/>
+hab1	yo estrés de <pausa_larga/>
+hab1	<cita_inicio/>fff de es la hora de hacer la comida fff es la hora de ir a trabajar<cita_fin/> ¿sabes? <pausa/> que te da igual todo el día <pausa/> entonces por mucha lata que te den <pausa_larga/>
+hab1	lo disfrutas igual porque <pausa_larga/>
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa/>
+    "
+hab2	sí
+hab1	como no tienes otra cosa que hacer ¿sabes? <pausa/> yo lo disfruto el doble <pausa/>
+hab2	sí
+hab1	mmm <pausa/>
+hab2	quizá la próxima vez <pausa/> si no te vas tan lejos <pausa_larga/>
+hab2	compensa <alargamiento>más</alargamiento> <pausa_larga/>
+hab2	y puedes amueblar parte de la casa
+hab1	<alargamiento>sí</alargamiento> no <pausa/> eso también lo pensamos de quedarnos pero <pausa/> mmm <pausa/> lo malo de quedarnos por cerca es el tiempo <pausa/>
+hab2	mmm
+hab1	que nunca vas a tener <pausa/> asegurado tan <palabra_cortada>as</palabra_cortada> y yo soy mucho del tiempo eh <pausa/> a mí <pausa_larga/>
+hab1	un día como hoy me estropea las vacaciones <pausa/> yo soy mucho <alargamiento>de</alargamiento> <pausa/> levantarte por la mañana y si está buen día <pausa/> buah ya estoy supercontenta <pausa/> ¿sabes? <pausa/> si no tengo <alargamiento>que</alargamiento> trabajar vamos <silencio/>
+hab2	claro
+hab1	si me <alargamiento>levanto</alargamiento> <pausa/> imagínate tienes hoy un día libre y te levantas <pausa/> y no lo puedes aprovechar por culpa del tiempo yo ya estoy amargada todo el día <pausa_larga/>
+hab2	hm
+hab1	te lo juro <pausa_larga/>
+hab2	claro
+hab1	a mí el tiempo me afecta muchísimo <pausa/> y entonces <silencio/>
+hab1	¿sabes? <pausa/> te puede caer un día malo evidentemente si te vas a Tenerife pero <silencio/>
+hab2	el sol lo tienes
+hab1	el sol lo tienes y a los niños le hace falta sol y a los padres le hace falta aire libre <pausa/> para los niños entonces es lo mejor <pausa_larga/>
+hab2	¿y cómo hacéis en verano <pausa/> que no hay colegio?
+hab1	"<ruido tipo=""chasquido boca""/> ay eso ya es <pausa/> eso ya <pausa/> eso ya no sé ni cómo voy a hacer este año porque claro <pausa/> yo empecé a trabajar <pausa/> en agosto el año pasado <pausa/> y fue un mes <pausa/> mi marido cogiera vacaciones quince días <pausa_larga/>"
+hab2	"
+      <ininteligible/>
+    "
+hab1	y los otros quince días <pausa/> <palabra_cortada>f</palabra_cortada> me fui alternando así con mi hermana que estaba de vacaciones <pausa/> con mi suegra que está en <alargamiento>Malpica</alargamiento> y <alargamiento>así</alargamiento> <pausa_larga/>
+hab1	pero este verano no sé <vacilación/> pero no me preguntes más porque no
+hab2	no <risa_inicio/>mejor no pensarlo<risa_fin/>
+hab1	<risa_inicio/>no sé cómo voy a hacer <risa_fin/> <pausa_larga/>
+hab1	es que no tengo ni idea <pausa/> cómo voy a hacer <pausa_larga/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	mi problema siempre el mismo <pausa/> las vacaciones <pausa_larga/>
+hab1	los veranos por eso ahora <pausa/> estoy contenta en este trabajo porque aunque me fastidie por las tardes <pausa_larga/>
+hab1	yo no tengo la <palabra_cortada>copu</palabra_cortada> preocupación por ejemplo cuando me acuesto de <pausa/> si mañana se levantan los niños enfermos ¿qué hago con ellos? <pausa_larga/>
+hab1	¿sabes? lo de decir <pausa/> <cita_inicio/>jolín tengo que estar en el trabajo a las nueve y yo qué hago con los niños<cita_fin/> <pausa/> esa preocupación <pausa_larga/>
+hab1	no la tengo <pausa/> porque <pausa_larga/>
+hab1	puedo estar todo el día con ellos hasta las seis de la tarde y a las seis de la tarde <pausa_larga/>
+hab1	mmm <pausa/> se los puedes dejar <pausa/> a cualquiera <pausa/> que no es lo mismo que dejárselos por la mañana <pausa/> claro que todo el mundo tiene cosas que hacer <pausa/> ¿sabes? <pausa/>
+hab2	¿y no has pensado en coger una au-pair <alargamiento>o</alargamiento> <pausa_larga/>
+hab2	alguien así?
+hab1	no puedo <pausa/> no me llega <pausa_larga/>
+hab2	mmm <pausa/>
+hab1	no me llega el <palabra_cortada>suel</palabra_cortada> no porque mira ya en la ludoteca <pausa_larga/>
+hab1	me cobran casi doscientos euros por los dos <pausa_larga/>
+hab1	imagínate si traigo una chica para casa <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> sí"
+hab1	lo que me cobrará <pausa_larga/>
+hab2	sí es cierto
+hab1	porque allí van tres días a la semana <pausa/> no van toda la semana <pausa/> porque no puedo pagar toda la semana <pausa_larga/>
+hab2	puf pues ya le llega
+hab1	"claro <pausa/> <ruido tipo=""chasquido boca""/> es <palabra_cortada>mu</palabra_cortada> <pausa/> es que es <pausa/> todo muy caro o sea <pausa/> en la mitad de los trabajos <pausa/> de mmm de lo que yo sé trabajar de alimentación <pausa_larga/>"
+hab1	tú vas a trabajar <pausa_larga/>
+hab1	pagará <pausa/> lo justo para algo después el resto <pausa/> si no tienes <pausa/> quien te cuide los niños <pausa/> o tienes que pagar <pausa/> guarderías <pausa/> o tienes que <alargamiento>pagar</alargamiento> actividades <pausa/> o tienes que pagar una chica que te los cuide o algo <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> algo así después del colegio <pausa/> actividades extraescolares
+hab1	<alargamiento>sí</alargamiento> la niña va <alargamiento>pero</alargamiento> <pausa/> también <pausa/> mmm <pausa/> no puedes <pausa/> no te enganchan todas las actividades ¿sabes? <pausa/> la niña por ejemplo el colegio lo acaba a las dos y media <pausa/> y las actividades son <pausa/> a las cinco a las seis a las siete <pausa_larga/>
+hab1	con lo cual si quieres que reenganche <pausa/> los tienes <pausa/> lo tienes que dejar en el comedor <pausa/> a comer <pausa_larga/>
+hab1	y una <pausa/> tienes que pagar <pausa/> el comedor <pausa/> más <pausa/> las actividades <pausa/> y <pausa/> no ves a la niña en todo el día <pausa_larga/>
+hab1	¿sabes? son muchos peros para para todo <pausa/>
+hab2	claro
+hab2	sí
+hab2	sí sí <pausa/> pero te organizas muy bien <pausa/>
+hab1	fff <pausa/> me organizo muy <alargamiento>bien</alargamiento> <pausa/> a veces no sé ni cómo <pausa/> pero bueno <pausa_larga/>
+hab1	aprendí a ir saliendo del paso <pausa_larga/>
+hab1	¿sabes? yo antes <pausa_larga/>
+hab1	mmm pues mira cuando estaba en el Gadis y me quedé embarazada de la niña <pausa_larga/>
+hab1	se me cayó el mundo encima porque decía yo <cita_inicio/>Dios mío <pausa/> ¿y yo cómo voy a hacer?<cita_fin/> si trabajaba <pausa/> de ocho a dos y de cinco a nueve <silencio/>
+hab1	y y no le veía solución <pausa/> decía yo <pausa_larga/>
+hab1	<cita_inicio/>dejar de trabajar no puedo<cita_fin/><pausa/> porque <pausa/> el dinero lo necesitas evidentemente si no tienes padres <pausa/> ¿sabes? <silencio/>
+hab1	pero <pausa/> eeh <pausa/> claro no le veía solución <pausa/> pues al final solucioné <pausa/> ¿sabes? y mira <pausa/> ahora tengo dos <pausa_larga/>
+hab1	"trabajo <risa_inicio/>menos horas <risa_fin/> <pausa/> <alargamiento>y</alargamiento> y tienes tu casa y cosas que nunca <pausa/> <ruido tipo=""chasquido boca""/> piensas que vayas a hacer <silencio/>"
+hab1	vas safando ¿sabes? <pausa/> va pasando el tiempo y te vas safando <pausa/> y yo ahora pues mira <pausa_larga/>
+hab1	en vez de <alargamiento>estar</alargamiento> agobiándome <pausa/> por <pausa/> <cita_inicio/>Dios mío ahora se me va a acabar el contrato y ¿qué voy a hacer? y ¿qué no voy a hacer?<cita_fin/> <pausa/> pues eso me <pausa/> mira ahora estaba en el bar <pausa/> estaba buscando en el periódico cosas <pausa_larga/>
+hab1	si no sale eso sale otra cosa y si no sale otra cosa ya me buscaré la vida ¿sabes? pero <pausa_larga/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	no me voy a amargar <pausa/> porque <pausa/> mmm eso me lo enseñó mi marido eh <pausa_larga/>
+hab1	voy a vivir el día a día <risa_inicio/>o sea <risa_fin/> <pausa/> mmm que <alargamiento>mañana</alargamiento> hay cole y yo trabajo <pausa/> pues ya miraré <pausa_larga/>
+hab1	¿sabes? ya <pausa/> alguna solución va a haber <pausa_larga/>
+hab1	para todo <pausa_larga/>
+hab2	mmm muy bien pero justo él que <pausa/> que es el que ahora está preocupado por <pausa/>
+hab1	sí él está preocupado por su trabajo pero él en vez de hundirse <pausa/> pues <pausa_larga/>
+hab1	curra más <pausa/> para conseguir más clientes para que la empresa vaya mejor <pausa/> ¿sabes? él él es <pausa/> él no es de las personas que <pausa/> se hunde pensando en los problemas <pausa/> no él si tiene los problemas <pausa_larga/>
+hab1	pues los afronta <pausa/> ¿sabes? si <alargamiento>si</alargamiento> si no sale de una manera sale de otra <pausa/> y si no sale bien salió mal pero acepta que salió mal y se queda <pausa_larga/>
+hab2	sí
+hab1	tranquilo claro que sí
+hab2	no <pausa/> muy bien un espíritu positivo <pausa/>
+hab1	sí <pausa/> demasiado positivo que a veces se lanza <pausa/> fff cuando nos metimos a esta casa a mí me daba un patatús <pausa/> y él <cita_inicio/>que sí que sí que sí que sí<cita_fin/> yo decía <cita_inicio/>pero <pausa_larga/>
+hab1	¿cómo nos vamos a meter a una casa?<cita_fin/> ¿sabes? <pausa_larga/>
+hab2	¿ya con la niña?
+hab1	y nos metimos <pausa_larga/>
+hab1	eeh <alargamiento>no</alargamiento> <pausa/> aquí nos metimos <silencio/>
+hab1	ya te digo en el dos mil <silencio/>
+hab1	<alargamiento>y</alargamiento><pausa/> y no teníamos un duro <pausa/> y esto era <pausa/> un <pausa/> proyecto <pausa_larga/>
+hab1	esto era una cooperativa <pausa/> que tú tenías que dar <pausa/> cinco millones de pesetas <pausa/> y a la suerte de Dios lo que saliera <pausa/> si se <palabra_cortada>o</palabra_cortada> <pausa/> si se edificaba se edificaba si no perdías todo <pausa_larga/>
+hab1	pero como yo todas estas familias ¿entiendes? <pausa_larga/>
+hab1	y mira <pausa/> pedimos un crédito <pausa/> nos metimos <alargamiento>y</alargamiento> <pausa_larga/>
+hab1	y ahora los cinco millones están pagados <pausa/> tenemos nuestra hipoteca y estamos aquí <pausa/> contentísimos <risa/>
+hab2	sí habéis tenido suerte porque llega a ser hoy <pausa/> y <palabra_cortada>e</palabra_cortada> <pausa/> <ininteligible/>
+hab1	"bueno suerte <pausa/> aún no sé deshizo la cooperativa y nos están dando muchos chascos ¿sabes? de tener que pagar <pausa/> el año pasado <pausa/> tuvimos que pagar seis mil euros <pausa/> por pérdidas que hubo <pausa/> que no se <alargamiento>sabe</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> la administración <pausa/> mala administración <pausa/> ¿sabes? <pausa_larga/>"
+hab2	¿sí?
+hab1	las cuentas no <alargamiento>dan</alargamiento> <pausa/> bueno <pausa_larga/>
+hab1	cosas <pausa/> que pasan en las cooperativas <alargamiento>pero</alargamiento> <pausa/> eso mira por lo menos <pausa/> a mí <pausa/> cuando me dieron la llave de la casa ya respiré <pausa/> dije yo <cita_inicio/>pues ahora no me mueve ni Dios<cita_fin/> ¿sabes? me da igual que esto <pausa_larga/>
+hab1	se acabe o no se acabe o tenga que pagar o no tenga que pagar pero por lo menos ya estoy dentro <risa_inicio/>¿sabes? <risa_fin/> <pausa/>
+hab2	pero no entraste entre ladrillos ¿no? ya estaba
+hab1	<alargamiento>no</alargamiento> eso entramos muchas veces a mirar entre <risa_inicio/>ladrillos <risa_fin/> pero no aquí entramos ya estaba o sea <pausa/> alicatado <pausa/> <palabra_cortada>l</palabra_cortada> no <alargamiento>había</alargamiento> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> cocina ni por ejemplo los baños <pausa_larga/>"
+hab1	tenemos <pausa/> lo que son las piletas y el váter pero no tenías <pausa/> no tienes nada más <pausa/> de hecho yo aún no tengo ni espejos <pausa/> ¿no no sabes? no puse nada aún <pausa_larga/>
+hab1	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab1	y <alargamiento>abajo</alargamiento> arregló el que quiso <pausa/> pero bueno lo que es <pausa/> suelos paredes y todo eso estaba <pausa/> nosotros pintamos porque nos dio la gana pero <pausa_larga/>
+hab2	"<ruido tipo=""boca""/><pausa/> bueno bien os salió muy bien <pausa_larga/>"
+hab1	sí mientras mi marido hacía la cocina como vivíamos en la otra casa <pausa_larga/>
+hab1	<alargamiento>pues</alargamiento> la iba haciendo así los fines de semana <alargamiento>y</alargamiento> <pausa/> cuando podía ¿sabes? en cuanto tenía libre y tal <pausa/> y entonces <alargamiento>no</alargamiento> <pausa_larga/>
+hab1	no es como el <pausa/> <alargamiento>que</alargamiento> <pausa/> hubo una persona que vino para aquí con un camping gas <pausa_larga/>
+hab1	te lo juro eh y no sé en qué edificio vive <pausa_larga/>
+hab1	porque claro si tienes que estar pagando <pausa/> esto <pausa/> más un alquiler <pausa/> no puedes <silencio/>
+hab1	pues fue <alargamiento>la</alargamiento> la profesora que te digo de alemán <pausa/> con el marido <pausa/> se <palabra_cortada>cans</palabra_cortada> y el marido es jefe de obra eh <pausa/> y tienen mucha pasta <alargamiento>pero</alargamiento> <pausa_larga/>
+hab2	¿sí?
+hab1	mira esto todo aún estaba sin luz <pausa_larga/>
+hab1	y se vinieran ellos <pausa/> y se <pausa/> nosotros nos viniéramos después cuando ya dieran la luz <pausa_larga/>
+hab1	"<alargamiento>y</alargamiento> y los que vinieran enganchaban la luz ahí en el coso <risa_inicio/>de la obra <risa_fin/> <pausa/> <ruido tipo=""carraspeo""/> <pausa/> y te metías así porque claro estabas <pausa_larga/>"
+hab1	<cita_inicio/>voy no voy <pausa/> a ver cuándo<cita_fin/> ¿sabes? te daban la fecha de que te <alargamiento>dan</alargamiento> la entrega tal día y pasaba el mes y no te la daban <pausa/> y la casa ya era tuya <pausa_larga/>
+hab1	y la llave la tenías <pausa_larga/>
+hab1	si estás esperando <cita_inicio/>joder es que tengo que amueblar es que no sé qué<cita_fin/> no te metes <pausa_larga/>
+hab1	y estes se metieran así <pausa/> trajeran una cocina de estas de las de las casas <pausa/> de hornillos de estas que se pueden mover <pausa_larga/>
+hab1	"y como la caldera ya funcionaba y el agua caliente ya la había <pausa/> <ruido tipo=""carraspeo""/> <pausa/> <ruido tipo=""chasquido boca""/> pues así vinieran con <alargamiento>un</alargamiento> radiador <pausa_larga/>"
+hab1	una estufita <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	¡Dios!
+hab1	y así y yo si me tengo que meter así también me meto eh <pausa/> yo a mi marido solo le decía <pausa_larga/>
+hab1	que me pusiera lo que es la cocina <pausa_larga/>
+hab1	"y <pausa/> <ruido tipo=""chasquido boca""/> ¿sabes? poder tener <pausa/> el servicio <alargamiento>del</alargamiento> la encimera <pausa/> que yo después aquí me safaba <pausa_larga/>"
+hab2	sí
+hab2	claro
+hab1	<alargamiento>y</alargamiento> y me safé o sea habitaciones no teníamos pero dormíamos con los colchones <alargamiento>y</alargamiento> <pausa/> los armarios los tienes empotrados tampoco <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	sí
+hab1	vivir en una chabola <risa_inicio/> ¿entiendes? claro <risa_fin/>
+hab2	no
+hab2	o a la intemperie
+hab1	estábamos de maravilla <pausa_larga/>
+hab2	sí
+hab1	no <palabra_cortada>ha</palabra_cortada> no hacía frío <alargamiento>no</alargamiento> ¿sabes? estabas muy bien <pausa_larga/>
+hab2	sí <pausa/> aparte si estabas todo el día trabajando <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/> y más <pausa/> las ganas ya de venir <pausa/> ¿sabes? porque <pausa/> fff es un coñazo estar en otro lado <pausa/> <alargamiento>y</alargamiento> <pausa/> <cita_inicio/>jo a ver cuándo voy a ver cuándo voy<cita_fin/> y ver que te está ahí tu casa <pausa/> que puedes entrar y que estás en otro lado mal <pausa/> yo en la otra casa que estaba <palabra_cortada>f</palabra_cortada> nos caía la humedad pero a chorros y la niña tenía tres años"
+hab2	hm <pausa/>
+hab1	"<alargamiento>y</alargamiento> fff <pausa/> humedad seguido <pausa/> calefacción no teníamos <pausa/> <ruido tipo=""chasquido boca""/> dije yo <cita_inicio/>mira prefiero irme para allí sin muebles que estás a gusto <ruido tipo=""carraspeo""/> está el <alargamiento>ambiente</alargamiento> seco<cita_fin/> <pausa_larga/>"
+hab1	"<ruido tipo=""carraspeo""/> y así yo creo que nos vinimos muchísima gente eh <pausa_larga/>"
+hab2	"<ruido tipo=""chasquido boca""/> sí <pausa/> hay mucha tranquilidad"
+hab1	sí <pausa/> muchísima <pausa_larga/>
+hab2	y los vecinos sois casi anónimos <alargamiento>o</alargamiento>
+hab1	de maravilla <pausa/> no los vecinos guay porque <pausa/> mira ahora no porque hace mal día pero en verano <pausa_larga/>
+hab1	está <pausa_larga/>
+hab1	en <palabra_cortada>ve</palabra_cortada> salimos todos ¿sabes? <pausa_larga/>
+hab1	mmm a lo mejor <pausa/> no coincides en todo el año por los horarios de los trabajos <pausa/> pero en verano <pausa/> ya estás paseando por ahí <alargamiento>o</alargamiento> la gente en los jardincitos con las <risa_inicio/>cervecitas <risa_fin/> <alargamiento>o</alargamiento> <pausa/> tienes mucha relación <pausa_larga/>
+hab1	y yo ya te digo con mis vecinos <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> mmm a lo mejor <pausa/> con este de aquí al lado justo no tengo relación porque el pobre no está nunca <pausa/> que es guía turístico pero <pausa/> con <ficticio>Inma</ficticio> la chica esa de alemán muchísima relación <pausa/> con una chica que hay ahí que trabaja en <pausa/> tiene una óptica ahí abajo <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> ¿sabes? la relación <alargamiento>de</alargamiento> <cita_inicio/>¿qué? a ver cuándo quedamos a tomar un café<cita_fin/> <pausa/> nos juntamos para hacer churrascadas <pausa/> porque aquí como se puede hacer churrasco como si fuera una aldea pues <risa/> no es como en el centro que no puedes <pausa/> a mí por eso no me gusta el centro <pausa_larga/>"
+hab2	sí sí
+hab2	sí
+hab1	tú aquí coges una parrilla y te sales ahí al jardín y haces una churrascada <pausa/> como si estuvieras en una casa en la playa igual
+hab2	y no viene el vecino
+hab2	¿no viene el vecino a protestar?
+hab1	no <pausa/> el vecino viene a comer el <risa_inicio/>churrasco <risa_fin/> <risa/> <pausa/> no aquí <palabra_cortada>qui</palabra_cortada> aquí no protesta nadie por nada <pausa_larga/>
+hab2	bueno <vacilación/> afortunada
+hab1	<alargamiento>sí</alargamiento><alargamiento>está</alargamiento> está <palabra_cortada>genia</palabra_cortada> ¡hombre! no sé yo hablo de mis vecinos <pausa/> a lo mejor en la fila de ahí arriba <pausa/> <risa_inicio/>evidentemente <risa_fin/> a mí si mi vecino <pausa/> está de juerga todos los días y y no puedo dormir claro que le protesto <pausa/> pero mira si hoy hago una juerga yo y mañana la hace él no le voy a decir <cita_inicio/>oye no hagas ruido<cita_fin/> <pausa/> ¿sabes?
+hab2	claro estupendo
+hab1	"<ruido tipo=""chasquido boca""/> no así se está muy bien <pausa_larga/>"
+hab2	"y <ruido tipo=""chasquido boca""/> ¿puedes resumirme mmm <pausa/> qué haces más o menos <pausa/> eeh en un día <pausa/> cotidiano <pausa/> desde que te levantas?"
+hab1	pff eso <pausa/> que te dije <risa/>
+hab2	sí
+hab1	es que siempre hago <pausa/> yo siempre hago lo mismo <pausa/> por <alargamiento>eso</alargamiento> llega un momento que a veces digo <cita_inicio/>Dios necesito estar sola<cita_fin/> <pausa_larga/>
+hab2	lo mismo
+hab1	no sin hacer nada sino <pausa/> sin pensar en nada <pausa/> ¿sabes? <pausa/> en nada de decir <pausa_larga/>
+hab1	<cita_inicio/>es la hora de tal es la hora de cual<cita_fin/> porque mi vida es todos los días igual <silencio/>
+hab2	muy monótona
+hab1	aunque parece triste <pausa/> <risa_inicio/>es que <risa_fin/> es <pausa/> es así lo normal en mi vida <pausa/> en la mía y <palabra_cortada>e</palabra_cortada> <pausa/> en la de la mitad de las <pausa_larga/>
+hab1	chicas que tengan hijos <pausa_larga/>
+hab1	hipoteca <alargamiento>y</alargamiento> demás <pausa/> o sea <pausa_larga/>
+hab1	yo me levanto por la mañana <pausa_larga/>
+hab1	ya me levanto a correr <silencio/>
+hab1	¿sabes? porque <pausa/> vestir a los niños y darle el desayuno parece una chorrada <pausa/> pero te lleva <pausa/> una hora y media <pausa/> bien eh <pausa/>
+hab2	¡una hora y media!
+hab1	hombre <pausa/> entre que los levantas <pausa/> los quitas a rastro de la cama porque son <risa_inicio/>perezosos <risa_fin/> <pausa/> le das el desayuno <pausa/> los llevas al cole ¿sabes? <pausa/> yo a las ocho menos algo <alargamiento>estoy</alargamiento> <pausa/> espabilándolos ya <pausa/> ya estoy yo vestida y todo <silencio/>
+hab1	<palabra_cortada>le</palabra_cortada><pausa/> llevo al cole a la mayor y al pequeño a la guarde si hace mal día si no hace mal día ya lo dejo conmigo porque si no pobriño <pausa/> no está nunca conmigo <pausa_larga/>
+hab1	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab1	y nada voy a la compra <pausa/> me vengo para casa hago las cosas de casa <silencio/>
+hab1	si te digo la <pausa/> es que no tengo tiempo ni para pararme <pausa/> hoy me paré a tomar el café porque estaba esperando por ti <pausa/> y quedamos de tener esta hora para hablar <pausa/> ¿sabes? y ya compré ayer <alargamiento>y</alargamiento> ya tengo más o menos organizado <pausa/> pero si no <pausa/> <alargamiento>eso</alargamiento> hago la compra vengo para casa <pausa_larga/>
+hab1	eeh voy haciendo las cosas de casa <pausa/> vuelvo a por el niño <pausa_larga/>
+hab1	recojo al niño me vengo <pausa/> <énfasis_inicio/>a correr<énfasis_fin/> otra vez para hacer la comida ya porque a la una y media viene mi marido a comer <silencio/>
+hab1	y después comemos yo como con mi marido y con el pequeño <silencio/>
+hab1	después a las dos y media pues <pausa/> voy a buscar a la niña <pausa_larga/>
+hab1	y mientras come estoy aquí con ella también el rato que tiene <pausa/> y acaba de comer y nos ponemos con los deberes <pausa_larga/>
+hab1	y acaba los deberes <pausa/> y <énfasis_inicio/>corriendo<énfasis_fin/> para el trabajo <pausa/> o sea los dejo en la ludoteca o a donde los tenga que llevar <pausa_larga/>
+hab1	y al trabajo y en el trabajo ya <pausa/> a trabajar <pausa/> <risa_inicio/>de guay de tranqui <risa_fin/> <risa/>
+hab2	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab1	me da igual que haya unas colas que te cagas porque <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> ¿sabes? no <alargamiento>puedo</alargamiento> <palabra_cortada>estre</palabra_cortada> o sea allí es el trabajo que tengo <pausa/> si estoy en charcutería cortar fiambre <pausa/> si estoy en la caja tengo que estar sentada <pausa/> no <alargamiento>puedo</alargamiento> <pausa/> ir como en el Gadis <pausa_larga/>"
+hab1	a mirar un precio allí al quinto pino <alargamiento>y</alargamiento> cosas así <pausa/> no <pausa/> yo estoy allí tranquilita cobrando lo más rápido que pueda y punto <pausa/> pero <pausa/> no tengo estrés <pausa_larga/>
+hab2	sí sí ahora lo entiendo
+hab1	yo sé que hasta las diez y media no acabo <pausa/> claro <risa/> estoy allí <pausa_larga/>
+hab1	desde que entro hasta que salgo yo es <pausa_larga/>
+hab1	"yo una vez que estoy en el vestuario <pausa/> <ruido tipo=""inspiración""/> hago <risa_inicio/>así <pausa/> ¿sabes? <risa_fin/> <pausa_larga/>"
+hab1	y respiro <pausa_larga/>
+hab2	sí sí te creo
+hab1	y estoy tranquila <pausa/> claro <pausa/> y después <pausa/> cuando llego a casa claro como ya sé que tengo <pausa/> a los niños acostados que mi marido ya los duchó y tal <pausa_larga/>
+hab1	yo llego y ceno y bueno si tengo ropa para planchar la plancho pero ya sin <pausa/> sin estrés ya me puedo estar planchando hasta las dos de la mañana pero <pausa_larga/>
+hab1	como no tengo el estrés de decir <cita_inicio/>oy tengo que planchar rápido que tengo que ir a tal<cita_fin/> <pausa/> no pues entonces después ya es relax <pausa_larga/>
+hab2	¿no te cundiría hacer la compra ya en Alcampo y así <risa_inicio/>dejar la mañana <risa_fin/> ?
+hab1	claro solo que yo también soy una obsesionada de las vitaminas <risa/> y entonces <pausa/> yo no valgo para comer cosas preparadas <pausa_larga/>
+hab2	ah
+hab2	muy bien
+hab1	para comerlas valgo pero no valgo para estar dándole al <pausa/> a los niños y a <ficticio>Víctor</ficticio> <pausa_larga/>
+hab1	a mí me gusta mucho hacer las cosas frescas <pausa/> variar mogollón la comida <pausa_larga/>
+hab2	hm <pausa/>
+hab1	¿sabes? cosas que ahora no se llevan <alargamiento>de</alargamiento> <pausa_larga/>
+hab1	de ir todos los días a por el pescadito fresco o por la verdurita fresca pues yo sigo haciendo eso <pausa_larga/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+    "
+hab2	muy bien
+hab1	nada yo compro <pausa_larga/>
+hab1	pues si <pausa/> pues por ejemplo ayer compré para ayer y para hoy porque hoy era carne entonces me da igual comprar la carne hoy que ayer <pausa_larga/>
+hab1	pero después <pausa/> mmm <silencio/>
+hab1	ya desde que empecé yo a trabajar <pausa/> ya comen <pausa/> muchas veces de cena cosas preparadas ¿sabes? <pausa/> preparadas no que las preparo yo antes de marchar pero bueno <pausa/> pizzas <pausa/> lasañas <pausa/> estas cosas que no tienen muchas vitaminas <pausa_larga/>
+hab2	sí
+hab1	y ya es cena pero yo a la hora de la comida <pausa/> aunque oigo siempre protestas porque los niños ya sabes cómo hacen <pausa_larga/>
+hab1	<alargamiento>pero</alargamiento><pausa/><alargamiento>prefiero</alargamiento><pausa/> yo es que me complico muchas veces me complico la vida yo sola es verdad <risa/> sí <pausa/> pero bueno <pausa_larga/>
+hab2	no <pausa/> quieres que estén sanos
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> claro <pausa/> yo soy muy maniática de todo y entonces pues prefiero complicarme la vida <pausa_larga/>"
+hab2	normal
+hab1	un poco <pausa/> pero que esté todo a mi gusto <pausa/> ¿sabes?
+hab2	sí <pausa/> y de potajes y esas cosas
+hab1	sí <pausa/> <alargamiento>eso</alargamiento> también <alargamiento>hago</alargamiento> <pausa_larga/>
+hab2	eres buena cocinera <pausa/> <ininteligible/>
+hab1	sss pff bueno eso te lo tendrían que decir ellos pero yo creo que sí eh <pausa_larga/>
+hab1	<palabra_cortada>o</palabra_cortada> evidentemente <pausa/> si voy a comer por ahí <pausa/> ¿sabes lo que pasa? que en mi casa no se comen cosas raras <pausa/> porque <ficticio>Víctor</ficticio> <pausa/> mi marido no es de comer <pausa_larga/>
+hab1	"pues mira los espaguetis tienen que ser siempre a la boloñesa <alargamiento>no</alargamiento> <pausa/> no puedes hacer espaguetis con nata y <alargamiento>con</alargamiento> estas cosas <pausa/> diferentes <pausa/> porque no las comen <pausa/> <ruido tipo=""chasquido boca""/> entonces <pausa_larga/>"
+hab2	"
+      <ininteligible/>
+    "
+hab1	es comida de siempre o sea <pausa/> cocido <alargamiento>fabada</alargamiento> <palabra_cortada>lentej</palabra_cortada> bueno lentejas ya no porque ya <pausa/> las odian pero <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> ¿sabes? pescado con patatas tortilla lo de <palabra_cortada>si</palabra_cortada> macarrones <pausa/> tienen que ser o con carne o con pollo no puedes hacer unos macarrones <pausa_larga/>"
+hab1	mmm pues <alargamiento>con</alargamiento> maíz y <alargamiento>con</alargamiento> ¿sabes? estas cositas que vas a comer en los hoteles que hay tanta variedad <alargamiento>y</alargamiento> y tantas cosas pues ellos no comen <pausa/> eso <pausa/> son mucho de comida tradicional <pausa/>
+hab2	hm hm
+hab1	que a mí la otra comida me encanta <pausa_larga/>
+hab2	sí <pausa/>
+hab1	pero no la hago porque no la van a comer <pausa/> y ya me fastidia tener que hacer la comida para cuanto más que no me la coman <risa_inicio/>¿entiendes? <risa_fin/> <pausa/> porque yo eso sí la comida la hago <pausa_larga/>
+hab2	claro
+hab1	eh <alargamiento>pero</alargamiento> <pausa_larga/>
+hab1	mmm no me gusta hacerla <pausa/>
+hab2	¿no?
+hab1	la hago bien <silencio/>
+hab1	y me gusta mucho hacerla fresca y todo eso <alargamiento>pero</alargamiento> <pausa_larga/>
+hab1	a mí me encantaría llegar a casa y tener el plato de comida en la mesa ¿eh?
+hab2	claro <pausa/>
+hab1	pero bueno <pausa/> como no puede ser <pausa/> pues no puede ser <risa/>
+hab2	¿es la tarea que más odias?
+hab1	"<alargamiento>sí</alargamiento><alargamiento>porque</alargamiento> mmm <ruido tipo=""chasquido boca""/> <pausa/> porque me parece una pérdida de tiempo <pausa_larga/>"
+hab1	claro <pausa/> yo <alargamiento>cuando</alargamiento> <pausa/> no tengo que hacer la comida <pausa/> tengo mucho tiempo <pausa_larga/>
+hab1	yo por ejemplo si ahora me llama mi marido y me dice <pausa/> <cita_inicio/>que hoy no puedo ir a comer<cita_fin/> <pausa_larga/>
+hab1	puf pues <pausa/> tengo mogollón de tiempo porque hasta las dos y media que llega la niña <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> no es lo mismo que tenerte que poner ya <pausa/> con la comida a las doce de la mañana <pausa_larga/>"
+hab1	entonces <pausa_larga/>
+hab1	para mí y para la niña y para el niño pues hala unas salchichas con un huevo <pausa/> es <pausa/> un día ¿sabes? en un momento dado <pausa_larga/>
+hab1	una cosa rápida y la haces en un momento <silencio/>
+hab1	pero lo de tener que ponerte ya con la comida a las doce de la mañana <pausa/> fff <pausa_larga/>
+hab2	eh ya
+hab1	es que es seguir <pausa/> ¿sabes? es todos los días <pausa/> <alargamiento>y</alargamiento> <pausa/> y después lo de pensar en <cita_inicio/>jo ¿hoy qué voy a hacer de comer?<cita_fin/> y <pausa/> <alargamiento>y</alargamiento> ¿sabes? es que es un poco rollo eh
+hab2	<palabra_cortada>s</palabra_cortada> tienes que hacer unos horarios <pausa/> ahí con las comidas <pausa_larga/>
+hab1	sí
+hab2	¿no?
+hab1	"<ruido tipo=""chasquido boca""/> sí pero no resultan <pausa/> <alargamiento>no</alargamiento> ya lo <pausa/> se lo hacía cuando estaba en casa de mi padre con mis hermanos <pausa_larga/>"
+hab1	¿sabes? porque era todos los días <pausa/> una rutina <pausa/> llegábamos todos a la misma hora <pausa/> yo tenía que ir al instituto y entonces ya dejaba la comida preparada el día anterior y tenía que organizarme así <pausa_larga/>
+hab1	pero ahora no <alargamiento>y</alargamiento> y no resulta por eso porque ¿sabes? igual planeas hacer alguna cosa y los <alargamiento>niños</alargamiento> <pausa/> se ponen malos no pueden comer esa cosa o <pausa/> bah es un rollo ¿eh? <pausa_larga/>
+hab1	<risa_inicio/>eh lo de la comida para mí es un rollo ¿eh? <risa_fin/> <pausa/> yo el domingo <pausa/> el domingo voy a comer a <palabra_cortada>Me</palabra_cortada> a a Malpica a casa de mis suegra <pausa_larga/>
+hab2	lo de ama de casa
+hab1	y soy la mujer más feliz del mundo porque mira <pausa/> a la una y media me estoy tomando los vinos con mi marido y con los niños por ahí sin preocuparme de <cita_inicio/>ay tengo que ir para casa a hacer la comida <pausa/> tal<cita_fin/> <pausa_larga/>
+hab2	eh deseando ir a casa de la suegra <pausa/>
+hab1	"<risa_inicio/><ruido tipo=""chasquido boca""/> claro <risa_fin/> <pausa/> <alargamiento>sí</alargamiento> <pausa/> para <alargamiento>comer</alargamiento> <risa_inicio/><alargamiento>que</alargamiento> <risa_fin/> que me pongan la comida en el plato <risa/> ¿sabes? después <sic_inicio/>frego<sic_fin/> yo y hago todo yo igual pero la comida está hecha y <pausa_larga/>"
+hab1	¿sabes? <pausa/> es igual que aquí si nos quedamos el domingo aquí <pausa_larga/>
+hab1	a mmm yo <alargamiento>prefiero</alargamiento> dejar la comida <alargamiento>hecha</alargamiento> <pausa/> levantarme a las diez de la mañana hacer la comida para poder al mediodía irme con ellos a tomar un vermú <pausa_larga/>
+hab1	y no decir <pausa/> <cita_inicio/>jo pues iros vosotros que yo tengo que ir a hacer la comida<cita_fin/> <pausa_larga/>
+hab1	y evidentemente de bar no puedes ir todos los días <pausa/> ¿sabes? <pausa_larga/>
+hab1	y esa <pausa/> esas <pausa/> tonterías que son tonterías <pausa_larga/>
+hab1	pues a <alargamiento>mí</alargamiento> <pausa/> me gusta mucho el tiempo del mediodía ya es para disfrutarlo me gusta mucho <pausa/>
+hab2	sí así en familia y tal <pausa/> ya que no tienes el de la cena
+hab1	sí
+hab1	claro es que es eso <pausa/> <alargamiento>no</alargamiento> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>y</alargamiento> y si <alargamiento>puedo</alargamiento> evitar <pausa/> no puedo evitar hacer la comida pero ya te <alargamiento>digo</alargamiento> <pausa/> cuando nos fuimos de vacaciones <pausa/> yo era feliz porque era lo de estar en la piscina o <pausa/> o por ahí paseando <alargamiento>hasta</alargamiento> las tantas <pausa/> y llegar y tener la comida hecha <pausa/> para mí eso <pausa/> parece una tontería pero era un lujo eh <pausa/>"
+hab2	sí
+hab1	para mí fueron vacaciones vacaciones <pausa_larga/>
+hab2	claro <pausa/> es que <alargamiento>no</alargamiento> <pausa/> la mayoría no le damos su mérito <ininteligible/> hacemos cualquier cosa
+hab1	<alargamiento>claro</alargamiento><ininteligible/><pausa/><alargamiento>claro</alargamiento> es que es eso <pausa/> no y <palabra_cortada>s</palabra_cortada> <pausa/> mientras estás tú sola tampoco te importa <pausa_larga/>
+hab1	pero cuando ya <palabra_cortada>t</palabra_cortada> <pausa/> depende la gente de tus comidas <pausa/> y tienes que estar pendiente de esas comidas <pausa/> ya llega un <palabra_cortada>momen</palabra_cortada> <pausa/> yo a mi suegra la admiro porque mi suegra <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> mmm <pausa_larga/>"
+hab1	¿sabes? la ves que goza <alargamiento>cocinando</alargamiento> <pausa_larga/>
+hab1	y te <alargamiento>hace</alargamiento> si tiene que hacer tres comidas diferentes las hace <pausa_larga/>
+hab1	y a lo mejor te va a trabajar al bar de la hija hasta <alargamiento>las</alargamiento> dos <pausa/> y después sube para arriba a hacer la comida para todos <pausa/> para que vayamos el domingo a comer <pausa/> y no la ves nada estresada <pausa_larga/>
+hab1	¿sabes? <pausa/> y yo fff digo yo <cita_inicio/>jolín si soy yo <alargamiento>ya</alargamiento><cita_fin/> <pausa/> <risa/> a mí me gusta mucho hacer comidas <pausa_larga/>
+hab1	de que <pausa/> <cita_inicio/>venir a comer a mi casa que hacemos una churrascada y tal<cita_fin/> ¿sabes? un día <silencio/>
+hab1	que nos juntamos así todos <pausa/> y que no tenga que ir yo a trabajar <pausa/> que si tengo que ir a trabajar ya paso de juntar a gente <pausa_larga/>
+hab2	"
+      <alargamiento>ya</alargamiento>
+    "
+hab1	claro <pausa_larga/>
+hab1	pero ella siempre la ves tan tranquila y tan así <pausa/> yo mayor en general <pausa/> yo no sé qué les pasa <alargamiento>con</alargamiento> <pausa_larga/>
+hab2	la gente
+hab2	con <ininteligible/>
+hab1	no sé o a lo mejor es que ya llevan la vida de otra <alargamiento>manera</alargamiento> ¿sabes? porque eso también te <alargamiento>va</alargamiento> <pausa_larga/>
+hab2	sí
+hab2	ya
+hab1	enseñando mucho a tomarte las cosas con calma eh y a decir <cita_inicio/>¿para qué me voy a estresar? si total no vale la pena<cita_fin/> <pausa/>
+hab2	"<ruido tipo=""boca""/> sí <pausa/> puede ser <pausa/> yo"
+hab1	pero yo creo que es eso <pausa/> en general eh <pausa/>
+hab2	claro <pausa/> tú estás más sujeta a horarios <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>claro</alargamiento><pausa/> a mí todo el mundo me lo dice <cita_inicio/>no cuando los niños sean mayores ya verás<cita_fin/> son otros problemas añadidos evidentemente <pausa_larga/>"
+hab1	pero <pausa/> tú no te sientes <alargamiento>tan</alargamiento> <pausa/> lo tengo que vestir <pausa/> lo tengo que duchar <pausa/> lo tengo que limpiar el culo <pausa/> lo tengo que <pausa/> <énfasis_inicio/>todo yo<énfasis_fin/> ¿sabes? <pausa/>
+hab2	claro
+hab1	"entonces <pausa/> <ruido tipo=""chasquido boca""/> creas que no tienes <alargamiento>otras</alargamiento> responsabilidades mentales con los <pausa/> niños <silencio/>"
+hab1	pero <alargamiento>no</alargamiento> <alargamiento>el</alargamiento> el que estás <pausa/> <palabra_cortada>to</palabra_cortada> <pausa/> tienen que estar todo el <alargamiento>día</alargamiento> <pausa_larga/>
+hab1	tú para ellos <pausa_larga/>
+hab1	¿sabes?
+hab2	sí <pausa_larga/>
+hab2	¿y la casa? <pausa/> en general <pausa/> bueno veo que no se te cae encima <pausa/>
+hab1	<alargamiento>no</alargamiento> a mí la casa <pausa/> a mí la casa me encanta eh <pausa/> yo siempre dije <cita_inicio/>yo valía para ser ama de casa si tuviera mucho dinero<cita_fin/> <pausa/> pero a mí me <risa_inicio/>gustaría ser <risa_fin/> <pausa/> ama de casa de estas que <pausa/> están en su casa con sus mariditos y sus hijitos pero después cuando sus hijitos van al cole <pausa/> pues ellas van al gimnasio <pausa/> o van a la pelu <pausa/> que tienen su tiempo <pausa/> porque si no sí que te cae encima eh <pausa_larga/>
+hab1	si solo estás para la casa y para los niños y aun por encima pensando en que no llegas a fin de mes <pausa/> entonces <pausa/> te cae la casa encima quieras o no quieras <pausa_larga/>
+hab1	pero bueno <pausa/> <alargamiento>yo</alargamiento> lo llevaría estupendamente si tuviera un sueldo <pausa_larga/>
+hab2	hm
+hab1	como el que tengo ahora ya me llegaba <pausa_larga/>
+hab1	pero que <alargamiento>tuviera</alargamiento> ¿sabes? <pausa/> pues mira <pausa/> los niños se iban al cole y <alargamiento>yo</alargamiento> pues me estaba así hablando contigo <pausa/> toda la mañana y yo encantada de la vida <risa/> y las cosas ya las haría <pausa/>
+hab2	sí
+hab2	sí sí sí <pausa/>
+hab1	¿sabes? hm
+hab2	y ¿has pensado en un tercero? <pausa_larga/>
+hab1	sí pero no podemos ya <pausa/> no podemos ya porque no <pausa/> es que no <pausa/> yo no puedo más <pausa/> ¿entiendes? <pausa/> porque los niños <pausa_larga/>
+hab1	gastan mucho en <alargamiento>plan</alargamiento> todo <pausa/> o sea mis <pausa/> mis niños <palabra_cortada>ga</palabra_cortada> mmm gastan mucho en plan que no <alargamiento>tengo</alargamiento> gente que me los cuide gratis <pausa/> ¿sabes? yo <pausa/> para todo tengo que pagar <pausa/> o sea <pausa/> si quieres que vayan a una actividad la tienes que pagar <pausa/> pero <pausa/> para que vayan a una actividad a lo mejor tienes que pagar a una persona para que te los lleve <pausa_larga/>
+hab1	"o <pausa/> eso en <ruido tipo=""chasquido boca""/> <pausa/> para poder ir yo a trabajar tengo que pagar <pausa/> <énfasis_inicio/>siempre<énfasis_fin/> <pausa/> entonces <pausa_larga/>"
+hab1	si tengo que pagar ahora por un tercero <pausa/> no puedo <pausa/> más <pausa_larga/>
+hab1	¿sabes? yo ahora por ejemplo me planteo cuando los dos vayan al cole juntos <pausa_larga/>
+hab1	pues ya me puedo plantear <pausa/> ir a otro trabajo <pausa_larga/>
+hab1	y ganar más de <pausa/> pues por <pausa/> volver para el Gadis por ejemplo a trabajar seis o ocho horas <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> ya <pausa/> tienes más margen <pausa_larga/>"
+hab2	hm hm
+hab1	pero si tienes tres vuelves a lo mismo o sea <pausa/> entonces ya tendría que dejar de trabajar <pausa/> de todo <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> y <alargamiento>no</alargamiento> fff no <pausa/> como que no <risa/> <pausa/> a mí me encantaría ¿sabes lo que me encantaría? estar embarazada otra vez <pausa/> sentir todo lo que sientes cuando estás embarazada otra vez <pausa_larga/>"
+hab2	sí <pausa_larga/>
+hab2	no <pausa/> <alargamiento>quizá</alargamiento> dentro de unos años
+hab1	"a <pausa/> pasar lo que pasé <pausa/> pero <pausa/> viviéndolo más porque yo pasé todo mucho a la ligera <pausa/> <ruido tipo=""chasquido boca""/> <pausa/>"
+hab2	¿en qué sentido?
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> en es en que <pausa_larga/>"
+hab1	mmm no lo <alargamiento>disfruté</alargamiento> ¿sabes? lo del niño aún lo disfruté algo porque paré de trabajar <alargamiento>y</alargamiento> y lo disfruté algo <pausa/> pero lo de la niña fue <alargamiento>todo</alargamiento> <pausa_larga/>
+hab1	nació la niña <pausa/> ya la estaba empaquetando en la guardería de <alargamiento>bebé</alargamiento> <alargamiento>ya</alargamiento> <pausa/> ¿sabes? no disfruté ni el embarazo siquiera <pausa_larga/>
+hab2	sí
+hab1	no me leí libros <alargamiento>no</alargamiento> <pausa/> no <alargamiento>vi</alargamiento> <pausa_larga/>
+hab1	que todo el mundo que se queda embarazado <pausa_larga/>
+hab1	empieza <alargamiento>a</alargamiento> leer libros y tal <pausa/> yo no tuve tiempo para hacer nada de eso entonces <pausa/> lo viviría mejor <pausa/> todo <pausa/> el proceso <alargamiento>pero</alargamiento> <pausa/> buf solo <risa_inicio/>de pensar <risa_fin/> en tener ahora otro <pausa/> y que si me sale como este <pausa/> aparte que a mí no me durmieron los niños hasta los dos años <pausa/>
+hab2	buf
+hab1	no pegaban ojo <pausa_larga/>
+hab1	tu <risa_inicio/>profesora <risa_fin/> seguro que te lo puede decir porque los oía allí llorar <risa_inicio/>toda la noche <risa_fin/> porque <pausa/> no <pausa/> <palabra_cortada>dor</palabra_cortada> no dormían de noche <pausa_larga/>
+hab2	¡Dios!
+hab1	tenían el sueño así y no dormían de noche despertaban a lo mejor doce o trece veces así <pausa_larga/>
+hab2	y luego por el día <pausa/> durmiendo <pausa_larga/>
+hab1	mmm <alargamiento>no</alargamiento> porque <palabra_cortada>tení</palabra_cortada> yo <pausa/> <alargamiento>yo</alargamiento> cuando la <alargamiento>niña</alargamiento> <pausa/> era pequeña la tenía que llevar a la guardería <pausa/> y no dormía <pausa/> sabes lo que pasa <pausa/> dormían <silencio/>
+hab1	pues tenían el sueño como cambiado y a lo mejor <pausa/> tú los <palabra_cortada>a</palabra_cortada> ehm <pausa/> imagínate mi marido lo <palabra_cortada>co</palabra_cortada> los <palabra_cortada>acosta</palabra_cortada> la acostaba a ella <pausa/> que era ella sola <pausa/> a las nueve de la noche <pausa/> y a la una de la mañana despertaba <pausa/> y a lo mejor te estaba desde la una hasta las cinco <pausa/> dándote la lata <pausa/> y a las siete cuando tú tenías que ir a trabajar <pausa/> cogía el sueño <pausa/> otra vez <pausa_larga/>
+hab1	y era un descontrol total <pausa/> íbamos a trabajar de reenganche te lo juro ¡eh! <pausa_larga/>
+hab1	y creas que no <pausa/> lo llevas de maravilla tío <pausa_larga/>
+hab1	sí yo veo que todas las madres <pausa/> que les pasa <pausa_larga/>
+hab1	no duermen después por el día porque no pueden dormir evidentemente <pausa/> pero <pausa_larga/>
+hab1	no sé cómo hacemos <pausa/> pero lo haces <pausa/> quitas las fuerzas <pausa/> te salen las <risa_inicio/>fuerzas <risa_fin/> ya parece que te ponen así para eso <pausa_larga/>
+hab1	"
+      <alargamiento>sí</alargamiento>
+      <pausa/>
+    "
+hab2	pero ¿es normal que que no duerman?
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab1	"<ruido tipo=""carraspeo""/> no <pausa/> no es normal pero los míos fueron así <risa/> <risa_inicio/>los míos fueron así <risa_fin/> <pausa_larga/>"
+hab2	<ininteligible/><pausa/> sí
+hab1	"hay muchos eh que no duermen o que <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> ¿sabes? hay gente que dice <cita_inicio/>ay el mío duerme toda la noche<cita_fin/> <pausa_larga/>"
+hab1	pero a lo mejor después tampoco duerme <pausa/> en todo el día <pausa_larga/>
+hab1	o a lo mejor no comen de noche <pausa/> o eso o tiene la suerte de que le duermen once horas <pausa_larga/>
+hab1	"los míos nunca <pausa/> <ruido tipo=""chasquido boca""/> no <pausa/> qué va <pausa_larga/>"
+hab1	ya <risa_inicio/>te digo <risa_fin/> <pausa/> a los dos años sí <pausa/> matemático ¿eh? <pausa/> empezaron a dormir <pausa_larga/>
+hab1	bien <pausa/>
+hab2	sí <pausa/> se les reguló
+hab1	y ahora no hay quién los levante <pausa/> o sea ahora es dormir ya <risa_inicio/>de más <risa_fin/> <risa/> <pausa/> <alargamiento>pero</alargamiento> fff <pausa/> ay no
+hab2	quizá acostándolos antes a lo mejor
+hab1	sí pero tampoco podemos <pausa_larga/>
+hab1	porque <ficticio>Víctor</ficticio> con el horario que tiene y a la hora que llega <pausa/> o los mete sin duchar y sin cenar en cama <risa_inicio/><alargamiento>y</alargamiento> no <risa_fin/> los ve <pausa/> <alargamiento>o</alargamiento> <pausa/> mmm ¿entiendes? no <alargamiento>no</alargamiento> <alargamiento>das</alargamiento> <pausa/> los daría acostado antes <pausa/> si no trabajáramos por las tardes o si yo estuviera <pausa/> yo antes cuando estaba en casa claro a las nueve los metía en cama <pausa/>
+hab2	claro
+hab2	sí
+hab1	porque <pausa_larga/>
+hab1	estaba toda la tarde con ellos <pausa_larga/>
+hab1	y adelantas todo <pausa_larga/>
+hab1	pero así no puedes <pausa/>
+hab2	tampoco querrán <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>no</alargamiento> si no les queda otra en invierno tienen que ir <pausa/> <alargamiento>si</alargamiento> <silencio/>"
+hab1	tú si puedes <pausa_larga/>
+hab1	eh ¿sabes? <pausa/> los niños necesitan también sus espacios de tele y <alargamiento>de</alargamiento> jugar <pausa/> no es solo <pausa/> ir al <alargamiento>cole</alargamiento> <pausa/> mmm para casa a comer y hala <pausa/> yo veo que <alargamiento>necesitan</alargamiento> ¿sabes? yo a mi hija le doy su hora libre <pausa_larga/>
+hab1	después de comer <pausa/> tiene su hora libre o para ver la tele o para pintar o que haga lo que quiera <pausa/> pero <pausa/> jo pobrecitos necesitan también un momento para ellos <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> y claro si estás tú en casa les puedes adelantar pues mira <pausa/> <cita_inicio/>salimos un rato a la calle <pausa/> meriendas antes <pausa/> después vienes para casa<cita_fin/> <pausa/> los <palabra_cortada>du</palabra_cortada> <pausa/> todo antes <pausa/> pero si no estás en casa no puedes ni llevarlos al <alargamiento>parque</alargamiento> <alargamiento>ni</alargamiento> darles la <risa_inicio/>merienda <risa_fin/> antes <alargamiento>ni</alargamiento> acostarlos evidentemente antes
+hab2	sí
+hab1	y a las diez en punto van para cama <pausa_larga/>
+hab1	<énfasis_inicio/>a correr<énfasis_fin/><pausa/><risa/> porque <alargamiento>no</alargamiento> <pausa/> tranquilos no pueden ir nunca siempre a correr <pausa_larga/>
+hab2	sí sí <pausa/> llevas una vida muy ajetreada
+hab1	es así pero es que <pausa/> es que es así <pausa/> es así la de todas las <palabra_cortada>m</palabra_cortada> <pausa/> o sea la de todo el mundo y a mí me hace gracia cuando me dicen <pausa_larga/>
+hab2	<ininteligible/> sí
+hab1	yo llego al trabajo y hay niñas como tú que trabajan <pausa/> por turnos a lo mejor de jueves a sábado <pausa/> niñas que están estudiando <pausa/> y compaginan <pausa_larga/>
+hab1	y a lo mejor llego al vestuario y me siento y claro que en el momento ese estoy superrelajada <pausa_larga/>
+hab1	y yo <cita_inicio/>ay <pausa/> qué bien se está aquí<cita_fin/> <pausa/> y ellas <pausa/> <cita_inicio/>jo qué bien vives llegas a las <alargamiento>seis</alargamiento> y a las diez y media marchas<cita_fin/> y yo <cita_inicio/>sí pero yo ya trabajé más en todo el día <pausa/> que tú en las dos horas que llegas<cita_fin/> <pausa/> y no lo entienden <pausa/> <risa/> <pausa/> porque yo tampoco lo entendía antes de <palabra_cortada>s</palabra_cortada> de de hacerlo <pausa/> hasta que lo haces <pausa_larga/>
+hab2	claro
+hab1	¿sabes? yo antes también decía <pausa/> <cita_inicio/>joder qué bien vive aquella los niños en el cole <pausa/> ella en casa<cita_fin/> una mierda <pausa/> una mierda <pausa_larga/>
+hab2	sí
+hab1	<alargamiento>no</alargamiento> vive nada bien eh <risa/> nada
+hab2	no
+hab2	no no por lo que me has contado me has cambiado el mito
+hab1	"
+      <alargamiento>no</alargamiento>
+    "
+hab1	<risa_inicio/>es así <risa_fin/> sí sí <pausa/> pero yo creo que es así <silencio/>
+hab1	o sea <pausa/> no todo el mundo evidentemente <pausa/> yo por ejemplo veo a <ficticio>Eva</ficticio> <pausa_larga/>
+hab1	no sé la vida que lleva dentro de casa pero <pausa/> yo veo a su madre que le ayuda muchísimo con los niños <pausa/> ¿no sabes? yo veo <pausa/> que su madre viene o le recogen a la niña en el cole y se la traen para casa <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> tendrá unos turnos que no trabajará mañana y <alargamiento>tarde</alargamiento> <pausa_larga/>"
+hab1	tienen una chica que le hace las cosas <pausa/> ¿sabes? <pausa/> <ficticio>Inma</ficticio> también o sea <ficticio>Inma</ficticio> <pausa/> aunque trabaja como una negra porque yo la veo en el ordenador y escribiendo y sus cosas de alemán y tal y tumba <pausa_larga/>
+hab1	mientras ella trabaja tiene una chica que le está <pausa/> haciendo las cosas de casa cuidándole el niño <pausa/> ¿no sabes? que es un tema ya <pausa_larga/>
+hab1	que vive solo para el trabajo <pausa_larga/>
+hab1	el resto lo tienes hecho <pausa_larga/>
+hab2	sí
+hab1	"<ruido tipo=""chasquido boca""/> es es como si yo <pausa/> ahora estoy aquí hablando contigo y tú cuando te marches <pausa/> yo no tengo otra preocupación que irme al trabajo <pausa/> ¿sabes? <pausa_larga/>"
+hab1	"es <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> no es que sea menos trabajo pero es <pausa/> menos estresante <ruido tipo=""chasquido boca""/> <pausa/> ¿sabes? <pausa/> a mí mi trabajo es el andar <pausa/> yo por ejemplo cuando los niños están de vacaciones estoy mucho más tranquila <pausa_larga/>"
+hab2	sí <pausa/> sí sí
+hab1	que cuando tienen cole <pausa/> cuando es <pausa/> lo normal es que estuviera más tranquila cuando están en el cole <pausa/> pero <pausa/> como ni los tengo que llevar ni los tengo que ir a buscar ni tengo que andar pendiente de horarios para mí es más tranquilo <pausa/> ¿sabes? están en casa conmigo y no tengo que andar corre para aquí corre para allá <pausa/>
+hab2	sí pues sí que es cierto que el trabajo del ama de casa <alargamiento>es</alargamiento> es fastidiado <pausa/> sí
+hab1	es un trabajo y yo mira admiro a mi madre <pausa/> no sé cómo hacía porque éramos cinco <pausa_larga/>
+hab1	pero claro eran otros tiempos y yo creo que nosotros ya <pausa/> nos cuidábamos nosotros <risa/> <pausa_larga/>
+hab1	que <pausa/> antes yo creo <pausa/> porque yo me acuerdo de ser pequeña y irme al cole con las llaves de casa <pausa/> <risa/> como tenía el cole delante de casa <pausa_larga/>
+hab1	yo ahora no dejo a mi hija irse sola con las llaves de casa a ningún lado <pausa/> con siete años <pausa/>
+hab2	hm <pausa/>
+hab1	pues yo con siete años ya hacía mis cosas yo me acuerdo perfectamente de ir a <pausa/> de venir del cole yo sola hacerme mi merienda <pausa/> ponerme a estudiar sin que nadie me mandara <pausa_larga/>
+hab1	pero éramos todos así <pausa_larga/>
+hab1	yo creo que era porque como ya éramos tantos ya pasaban <pausa_larga/>
+hab1	teníamos que ser más responsables ¿no sabes? y no teníamos la tontería <pausa_larga/>
+hab1	que tenemos ahora las mamás con los niños <risa_inicio/>de <cita_inicio/>ay<cita_fin/> <risa_fin/> todo así <pausa/> <risa_inicio/>¿sabes? antes <risa_fin/> te tenías <alargamiento>que</alargamiento> safar <pausa/> claro
+hab2	<palabra_cortada>siem</palabra_cortada> siempre encima ¿no? y que no se caigan <alargamiento>y</alargamiento>
+hab1	es que ahora somos así todas <risa/> <pausa/> todas todas y la llevo <alargamiento>yo</alargamiento> y no sé <pausa/> yo ahora veo que <pausa/> los padres <pausa/> yo no sé los tuyos pero yo ahora veo padres que van a buscar a sus hijos al instituto en el coche o que <pausa/> ¿sabes? antes <pausa_larga/>
+hab1	es que tú no veías a un padre venir a coger al niño al colegio o sea era todo <pausa/> como era <pausa/> todo en la misma zona los niños iban siempre andando <pausa_larga/>
+hab1	con <palabra_cortada>lo</palabra_cortada> <pausa/> claro íbamos pandillas <pausa/> ¿sabes? siempre ibas con los vecinos o <pausa/> o con tus hermanos los mayores pero <pausa/> no veías <pausa/> en el cole como yo ahora voy al cole a buscar a mi hija y están todos los padres <alargamiento>allí</alargamiento> esperando <alargamiento>eso</alargamiento> olvídate eso no lo había <pausa/> y no vi <pausa/> yo tengo treinta y cuatro años tampoco <alargamiento>tengo</alargamiento> cincuenta <pausa_larga/>
+hab2	sí
+hab2	"
+      <alargamiento>nada</alargamiento>
+    "
+hab2	<alargamiento>sí</alargamiento> sí sí sí que ha cambiado
+hab1	sí pero no había esto de o <pausa/> o <cita_inicio/>ay tengo un festival <alargamiento>y</alargamiento> <pausa/> y<cita_fin/> ¿sabes? y yo me vuelvo loca si no puedo ir al festival de mi hija
+hab2	¿sí?
+hab1	claro <pausa/> yo y todas las madres ah <pausa/> no pero es que yo y todas las madres de ahora <pausa/> o sea <pausa_larga/>
+hab2	como en las películas <pausa/>
+hab1	haces todo lo posible para estar en todos los momentos <pausa/> ¿sabes? yo veo <pausa/> antes no era así tío antes <pausa/> los niños disfrutaban de sus cosas <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	eeh ¿sabes? y el trabajo del profesor era el del profesor <pausa/> el de la madre era el de la madre <pausa/> yo ahora en casa hago de profesor <pausa/> de madre y de todo <pausa/> quiero hacerlo <énfasis_inicio/>todo<énfasis_fin/> <pausa/> ¿sabes? y y no le dejamos a los niños que espabilen <risa/> pero antes tenías que espabilar a cojones
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	<risa/> bueno disfrútalos
+hab1	sí
+hab1	sí <risa/>
+hab2	<risa_inicio/>que después <risa_fin/> crecen y <alargamiento>ya</alargamiento>
+hab1	eeh eso es verdad también eso es verdad <pausa_larga/>
+hab2	espabilan

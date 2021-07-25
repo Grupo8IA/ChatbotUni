@@ -1,0 +1,199 @@
+hab1	"
+      <ininteligible/>
+    "
+hab2	¿y este año tienes que hacer el <sigla_inicio/>TFG<sigla_fin/>? <silencio/>
+hab1	¿<sigla_inicio/>TFG<sigla_fin/>?
+hab2	¿no lo llamas <sigla_inicio/>TFG<sigla_fin/>?
+hab1	no
+hab2	¿y entonces cómo le llamas?
+hab1	proyecto de fin de carrera <silencio/>
+hab2	trabajo fin de grado
+hab1	bueno
+hab1	sí
+hab2	¿sabes? para nosotros
+hab1	es que <sigla_inicio/>TFG<sigla_fin/> ¿sabes? queda muy pro
+hab1	muy bien
+hab2	lo nuestro es <sigla_inicio/>TFNG<sigla_fin/>
+hab1	bueno
+hab2	de no grado
+hab1	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	sí
+hab2	es verdad
+hab1	es que <alargamiento>el</alargamiento>
+hab2	no vamos a ser grado así que <pausa/> yo le llamo <sigla_inicio/>NG<sigla_fin/>
+hab1	es <alargamiento>el</alargamiento> <pausa/> somos no grados
+hab2	somos una
+hab1	<alargamiento>yo</alargamiento> soy <alargamiento>un</alargamiento> no sé <pausa_larga/> porque no soy ni grado <alargamiento>ni</alargamiento> licenciatura <alargamiento>ni</alargamiento> no sé
+hab2	caca
+hab1	no se qué es lo mío la verdad
+hab2	da igual ¿qué más da?
+hab1	somos <pausa/> el equivalente a la licenciatura
+hab2	¿y de qué lo vas a hacer? <silencio/>
+hab1	pues lo voy a hacer <alargamiento>de</alargamiento> <pausa_larga/> inspirado en Doctor Jekyll y Mister Hyde <silencio/>
+hab1	una obra de <alargamiento>teatro</alargamiento> es <pausa/> <alargamiento>para</alargamiento> <pausa/> creación de personaje no pienso matarme a hacer <pausa_larga/> una súper obra de teatro
+hab2	pero ¿qué es lo que tienes que hacer exactamente? <silencio/>
+hab1	pues tienes que hacer una obra de teatro <silencio/>
+hab1	"en la <alargamiento>que</alargamiento> <pausa/> <ruido tipo=""inspiración""/> <silencio/>"
+hab1	presentas un personaje
+hab2	hm
+hab1	<palabra_cortada>pue</palabra_cortada> tienen que <alargamiento>evaluarte</alargamiento>
+hab1	"eh la escucha de verte <pausa/> con otra persona el <alargamiento>diálogo</alargamiento> <pausa/> si aprendiste durante esos cuatro años <ruido tipo=""chasquido dedos""/>"
+hab2	ya pero tienes <alargamiento>que</alargamiento> <pausa/> crearla <alargamiento>tú</alargamiento> con el guion <ininteligible/>
+hab1	no <pausa/> puedes coger una obra ya hecha
+hab2	aah <alargamiento>vale</alargamiento>
+hab1	y <pausa/> coger ahí <ininteligible/>
+hab2	o sea tú lo que tienes que
+hab2	actuar sí o sí
+hab2	y luego lo demás <pausa_larga/> ¿te <alargamiento>lo</alargamiento> cuentan o no?
+hab1	y presentar una memoria
+hab2	bueno <alargamiento>ya</alargamiento> pero me refiero
+hab2	tú si <pausa/> por ejemplo si haces <pausa/> <alargamiento>guion</alargamiento> o si haces algo así
+hab1	no eso no te lo cuentan
+hab1	<alargamiento>ni</alargamiento> la <alargamiento>escenografía</alargamiento> ni nada
+hab1	que al final que sí
+hab1	que te lo cuentan
+hab1	porque son así de cabrones <pausa/> pero <silencio/>
+hab2	claro
+hab1	es lo que hay
+hab2	pero es mucho más curro <silencio/>
+hab1	"sí <pausa_larga/> pero es que yo <alargamiento>prefiero</alargamiento> <pausa_larga/> <ruido tipo=""chasquido boca""/> a partir de improvisaciones crearlo yo <pausa/> por ejemplo"
+hab2	claro
+hab2	no sé
+hab1	<ininteligible/> para mí es más fácil
+hab1	es que <alargamiento>ya</alargamiento> <pausa/> ya tenía una obra de teatro hecha
+hab1	y está <pausa/> y estuve a punto de presentarla
+hab1	"y de repente <pausa/> el día antes de empezar <ruido tipo=""palmada""/> a hacerlo"
+hab1	mi compañero me dejó tirado
+hab1	y tuve que presentar un anteproyecto de vuelta
+hab1	y volver a presentar
+hab2	¿y eso?
+hab1	pues por
+hab2	<alargamiento>pero</alargamiento> ¿era un compañero de clase <alargamiento>o</alargamiento>?
+hab1	no <pausa/> <alargamiento>era</alargamiento> <pausa_larga/> un uno uno <alargamiento>de</alargamiento>
+hab1	cursos <palabra_cortada>ant</palabra_cortada> <pausa/> cursos por debajo
+hab1	pero dijo que se llenó mucho de <alargamiento>trabajo</alargamiento> eeh en este año y dice <pausa/> <cita_inicio/>mira es que ya no puedo hacer el proyecto contigo<cita_fin/>
+hab2	¿y no podía hacerlo otra persona? <silencio/>
+hab1	"<comentario_inicio valor=""susurrando""/>no<comentario_fin/>"
+hab2	hm
+hab1	"porque tiene que ser un <alargamiento>chico</alargamiento> <pausa_larga/> <alargamiento>y</alargamiento> <pausa/> que tuviera tiempo libre y él <pausa/> él lo tenía y ya me <ruido tipo=""inspiración""/> <pausa/> y también tienes que estar <pausa/> trabajar con alguien con que tengas feeling en el escenario <pausa/> si no"
+hab2	ya eso es normal
+hab1	si <alargamiento>no</alargamiento> trabajas bien con alguien <pausa/> yo sé lo que es
+hab1	<palabra_cortada>act</palabra_cortada><palabra_cortada>ac</palabra_cortada><alargamiento>improvisar</alargamiento> y ensayar con alguien con lo que <pausa/> con el que no <pausa/> cuadras nada y es imposible
+hab2	ya
+hab1	completamente imposible <silencio/>
+hab1	y nada
+hab2	ya
+hab1	ahora me va a <alargamiento>tocar</alargamiento> escribirlo <pausa/> a partir de improvisaciones
+hab1	empiezo mañana <silencio/>
+hab1	"
+      <ininteligible/>
+    "
+hab2	hm como yo <risa/> yo también empiezo mañana
+hab1	bueno <vacilación/> <pausa_larga/> está bien
+hab2	sí
+hab1	"
+      <ruido tipo=""inspiración""/>
+    "
+hab1	y yo allí no sé qué voy a hacer
+hab2	tengo unas ganas <pausa_larga/> <risa/> <silencio/>
+hab2	unas ganas enormes <pausa_larga/> pero ¿dónde lo vas a hacer?
+hab1	en Vigo
+hab2	¿<alargamiento>y</alargamiento> lo vas a hacer <pausa_larga/> tú solo <pausa/> o?
+hab1	sí <pausa_larga/> bueno <pausa_larga/> voy a hacer voy <alargamiento>a</alargamiento> hacer alguna escena
+hab1	con una chica para <alargamiento>que</alargamiento>
+hab1	me puedan ver el diálogo ¿sabes?
+hab2	claro
+hab2	¿<alargamiento>y</alargamiento> la chica tiene que presentar un <sigla_inicio/>TFG<sigla_fin/> también <pausa/> o <ininteligible/> <ininteligible/>?
+hab1	eeh ella <pausa/> ella ya lo presentó y aprobó
+hab2	ah vale
+hab2	pero ¿puedes <pausa_larga/> contar con alguien <alargamiento>que</alargamiento> lo esté haciendo también?
+hab1	sí de hecho se <alargamiento>puede</alargamiento> hacer conjunto con más <alargamiento>gente</alargamiento> y tal <alargamiento>pero</alargamiento>
+hab2	¿pero luego te lo evalúan?
+hab1	te lo <silencio/>
+hab1	claro <pausa/> de <pausa/> individualmente sí
+hab2	ya <pausa/> claro
+hab1	"
+      <alargamiento>pero</alargamiento>
+    "
+hab1	<alargamiento>yo</alargamiento> no soy capaz <pausa_larga/> <alargamiento>de</alargamiento>
+hab1	si es un proyecto <ininteligible/> fin de carrera quiero hacer lo que me gusta a mí
+hab1	<alargamiento>no</alargamiento> una obra de teatro <alargamiento>que</alargamiento> te <palabra_cortada>pos</palabra_cortada> porque te pones a discutir ¡eh!
+hab2	claro <pausa/> sí sí normal
+hab1	es que es algo que te <palabra_cortada>jue</palabra_cortada> <pausa/> te juegas tu carrera <risa_inicio/>entonces<risa_fin/>
+hab1	<cita_inicio/>yo no quiero hacer esto yo quiero hacerlo de otra manera<cita_fin/><alargamiento>pues</alargamiento>
+hab2	mmm <alargamiento>ya</alargamiento> <ininteligible/>
+hab1	lo hago solo
+hab2	ya
+hab1	y yo con una persona que no se juegue nada <pausa_larga/> y ya está <silencio/>
+hab2	claro <pausa/> claro <silencio/>
+hab1	y es lo <alargamiento>que</alargamiento>
+hab1	"me interesa realmente <pausa_larga/> y yo soy <alargamiento>muy</alargamiento> <pausa_larga/> <ruido tipo=""inspiración""/> especialito a la hora de trabajar <pausa/> entonces"
+hab2	<risa/> ya
+hab1	sí el lunes voy a estar como cuatro horas seguidas improvisando solo <pausa/> y grabándome <silencio/>
+hab1	después vuelvo a ver esas cuatro horas <pausa/> y lo que me interesa <pausa/> es <pausa_larga/> como empiezo a escribir
+hab2	mmm ya
+hab1	así hago <pausa_larga/> porque es <alargamiento>mucho</alargamiento>
+hab1	monólogo de hablar consigo mismo
+hab2	<transcripción_dudosa_inicio/>ya<transcripción_dudosa_fin/>
+hab1	y tengo pensado <pausa_larga/> grabarme
+hab2	tiene que ser muy gracioso <pausa/> <risa/>
+hab1	y ver improvisaciones es <pausa/> <énfasis_inicio/><alargamiento>muy</alargamiento><énfasis_fin/> gracioso
+hab2	<risa_inicio/>mmm ya<risa_fin/>
+hab1	pero que muy muy muy gracioso
+hab2	te tienes que reír un montón
+hab1	"
+      <ruido tipo=""inspiración""/>
+    "
+hab1	pero es <pausa_larga/> también te lo pasas muy bien improvisando ¡eh!
+hab1	entre <alargamiento>dos</alargamiento> <pausa_larga/> y a ti te dicen <cita_inicio/>créanos una situación<cita_fin/>
+hab2	"<ruido tipo=""chasquido boca""/> claro a ver <pausa/> ya <pausa_larga/> pero <palabra_cortada>di</palabra_cortada> <pausa/> yo digo solo"
+hab2	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab1	ah yo solo
+hab2	¿no?
+hab1	ya es ya estoy <risa_inicio/>acostumbrado ya son años <alargamiento>ya</alargamiento> de experiencia en eso<risa_fin/>
+hab2	ya <silencio/>
+hab1	pero <pausa/> ¡joder!
+hab1	tú te pones a improvisar
+hab1	y sí supuestamente estoy hablando conmigo mismo <silencio/>
+hab1	porque supuestamente hay dos yos
+hab1	porque quiero ir en evolución <pausa/> de que el tío no se dé cuenta a que se vaya dando cuenta
+hab2	claro
+hab1	y voy a hacer como que <pausa_larga/> si <pausa/> el <pausa/> Hyde
+hab1	le vaya <pausa/> le deja grabaciones
+hab1	por la noche
+hab1	y le da a play <pausa_larga/> y las escucha
+hab1	pero es que <pausa/> a la vez de escucharlas <pausa/> puede <pausa/> puede dialogar consigo mismo
+hab2	hm hm
+hab1	entonces que <pausa/> el Hyde sabe lo que va a decir el otro <silencio/>
+hab1	entonces voy a hablar
+hab1	¿sabes? <pausa_larga/> voy a tener que medir los tiempos
+hab2	ya
+hab1	<alargamiento>y</alargamiento> todo
+hab1	para saber <alargamiento>cómo</alargamiento>
+hab1	entonces cuando esté grabando
+hab1	yo <pausa_larga/> con en casa con el micro cuando esté grabando <alargamiento>para</alargamiento>
+hab2	"
+      <risa/>
+    "
+hab1	para después <palabra_cortada>vol</palabra_cortada> darle al play <pausa/> voy a tener que estar pensando <pausa/> en lo que voy a decir también
+hab2	mmm ya <silencio/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	sí ahora de así pensándolo en <pausa/> así pensándolo en frío <pausa/> es una locura como una casa ¡eh! <silencio/>
+hab2	o sea una <alargamiento>paranoia</alargamiento> <risa/>
+hab2	mmm ya
+hab1	"
+      <ininteligible/>
+    "
+hab2	pero <pausa_larga/> es <alargamiento>un</alargamiento> <pausa_larga/> proyecto de fin de carrera <pausa/> <risa_inicio/>como dices tú<risa_fin/>
+hab1	sí bueno <pausa_larga/> y después pensaré en moverlo eso lo tengo claro

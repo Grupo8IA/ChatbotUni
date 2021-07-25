@@ -1,0 +1,587 @@
+hab1	¿qué es? ¿una grabadora? ¿no? <pausa/>
+hab2	sí <pausa/>
+hab1	vale pues <pausa_larga/>
+hab1	bueno yo que si quieres la probamos
+hab2	no ya está bien <risa/>
+hab1	<risa_inicio/>vale vale vale <risa_fin/> vale
+hab2	ya está puesta <pausa/> es que hacía tanto tiempo que no la encendía que en fin <pausa/>
+hab1	joder no me acordaba yo de estas grabadoras <pausa/>
+hab2	te llamas <pausa_larga/>
+hab2	"
+      <ficticio>Juan Manuel</ficticio>
+    "
+hab1	sí <pausa/>
+hab2	y <ficticio>Manuela</ficticio> me dijo que te llamaban el <ficticio>Nota</ficticio>
+hab1	sí
+hab2	entonces yo te trato como tú quieras <pausa/>
+hab1	<ficticio>Nota</ficticio><pausa/><énfasis_inicio/>nadie<énfasis_fin/> me llama <ficticio>Juan Manuel</ficticio> <pausa/>
+hab2	a mí llámame <ficticio>Begoña</ficticio> y listo <pausa/>
+hab1	vale <pausa/>
+hab2	y me contó un poquito de tu vida <pausa/> que estudiaste Comunicación <alargamiento>Audiovisual</alargamiento> <pausa_larga/>
+hab2	cuéntame por <alargamiento>qué</alargamiento> <pausa/> qué es lo que más te <alargamiento>gusta</alargamiento> <pausa/> dónde lo <alargamiento>hiciste</alargamiento> <pausa/>
+hab1	vale
+hab1	vale <pausa_larga/>
+hab1	pues mira yo estudié Comunicación Audiovisual <pausa/> porque en <palabra_cortada>princi</palabra_cortada> a mí siempre me atrajo mucho <alargamiento>el</alargamiento> <pausa_larga/>
+hab1	<alargamiento>el</alargamiento><pausa/> el periodismo <pausa/> lo que pasa que me atraía más <pausa/> <alargamiento>el</alargamiento> yo creo <pausa/> el <énfasis_inicio/>mundo<énfasis_fin/> del periodismo <risa/> <pausa/> la imagen <pausa/> <alargamiento>de</alargamiento> la redacción del ir y venir de <pausa/> de de del <pausa/> <alargamiento>de</alargamiento> bueno <pausa/> la imagen que yo tenía en mi cabeza <pausa/> ¿no? pues de las pelis de lo que oyes de tal <pausa_larga/>
+hab1	que lo que era el oficio <pausa/> en sí <pausa_larga/>
+hab1	¿vale? entonces <pausa/> eemm cuando me decidí por Comunicación Audiovisual en vez <alargamiento>de</alargamiento> Periodismo <pausa_larga/>
+hab1	"lo hice <alargamiento>porque</alargamiento> en realidad con el tiempo me empezó a llamar más todo lo que eran los medios audiovisuales <pausa/> la el mundo de la imagen <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab1	el cine siempre me ha gustado mucho <pausa/> a todos nos gusta bueno hay gente <risa_inicio/>que no pero bueno en general <risa_fin/> nos gusta a todos <pausa_larga/>
+hab2	ya
+hab1	<alargamiento>y</alargamiento> y bueno <pausa/> pero en realidad <pausa_larga/>
+hab1	el problema que tuve fue que <pausa_larga/>
+hab1	como no me daba la media <pausa/> aquí había que sacar un ocho en Santiago <pausa/> pues yo me fui a <pausa/> me <palabra_cortada>entiend</palabra_cortada> claro <pausa/> si lo quería hacer me quería me tenía que ir a una privada <pausa/> y no me quería ir a una privada <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> ni bueno me quería yo ni querían mis padres vamos <pausa/> y el caso es que <pausa_larga/>
+hab1	así un poco de rebote terminé yendo a <pausa/> matriculándome en Derecho <pausa/> <alargamiento>y</alargamiento> nada me matriculé en Derecho <pausa/> estuve un año <pausa_larga/>
+hab1	eeh no hice absolutamente nada <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> y bueno <pausa/> entonces ya realmente me di cuenta un día de que bueno <pausa/> que el era una estupidez <pausa_larga/>
+hab1	eeh dedicarme <pausa_larga/>
+hab1	a estudiar algo que no solo no me gustaba sino es que iba en <palabra_cortada>con</palabra_cortada> o sea era o sea era un <énfasis_inicio/>muro<énfasis_fin/> <pausa/> no era algo que no era lo mío pero que más o menos lo podía ir haciendo no <pausa/> era algo que para mí era un muro <pausa/> no porque no tuviera capacidad que tenía sino porque es que era <pausa/> completamente opuesto al tipo <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	ya
+hab1	que de no quería <pausa/> y bueno pues hablé con mis <alargamiento>padres</alargamiento> no sé <alargamiento>qué</alargamiento> <alargamiento>replanteamos</alargamiento> dimos una <alargamiento>vuelta</alargamiento> y como tenemos <palabra_cortada>fam</palabra_cortada> familia en Madrid pues <pausa/> al final me terminé yendo a la privada allí que aunque salía caro como allí tenía familia y el alojamiento y yo estuve trabajando y entonces pues hombre <pausa/> se pagó pero bueno <pausa/> tampoco fue <alargamiento>un</alargamiento> <pausa_larga/>
+hab1	aunque pudo que se pudo hacer vaya <pausa/> y me fui allí <alargamiento>estudié</alargamiento> en una universidad <pausa/> horrible <pausa/> <risa_inicio/> <énfasis_inicio/>horrible<énfasis_fin/> <risa_fin/>
+hab2	<risa_inicio/>¿por qué? ¿qué diferencias viste con la de Santiago? <risa_fin/>
+hab1	<alargamiento>pues</alargamiento> vamos a ver <pausa/> estudié en una universidad horrible <pausa_larga/>
+hab1	porque es una universidad <alargamiento>completamente</alargamiento> quiero decir supongo que dentro del mundo de las privadas habrá pues distintos cortes de universidad <pausa_larga/>
+hab1	la que yo conocí <pausa/> y con respecto a muchos otros sitios en los que he estudiado otros cursos <pausa_larga/>
+hab1	me pareció un sitio completamente <pausa/> con buenos profesores <pausa_larga/>
+hab1	pero buenos profesores que estaban <pausa_larga/>
+hab1	eeh <pausa/> apartados <pausa/> además cuando yo <palabra_cortada>es</palabra_cortada> en aquella época había una especie de caza de brujas <pausa/> y los jefes de departamento que no correspondían <alargamiento>a</alargamiento> la línea política de <alargamiento>la</alargamiento> de la universidad <pausa/> los estaban quitando de ese cargo <pausa/> los estaban dejando como profesores titulares <pausa/> pero dentro del departamento no <pausa/> bueno <pausa_larga/>
+hab1	<alargamiento>había</alargamiento> movimientos muy raros yo qué sé y era <alargamiento>estar</alargamiento> <pausa/> había un ambiente un poco rancio un poco anquilosado quiero decir <pausa_larga/>
+hab1	conociendo como conozco ahora el mundo <alargamiento>de</alargamiento> del audiovisual <silencio/>
+hab1	"creo <pausa/> que el planteamiento tenía que ser radicalmente distinto <vacilación/> en en cualquier universidad desde luego <pausa/> en la que yo conocí <pausa/> luego he tenido <pausa/> he convivido mucho con la gente aquí de <lengua_inicio nombre=""gl""/>Xornalismo<lengua_fin/> en Santiago porque he trabajado <alargamiento>ahí</alargamiento> porque he hecho muchas <pausa/> muchos trabajos ahí <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento><alargamiento>y</alargamiento> y <palabra_cortada>est</palabra_cortada> y ya <palabra_cortada>dent</palabra_cortada> hay una diferencia entre las dos que aun así la de Santiago le hacían falta unos buenos repasos también <pausa/>
+hab2	<risa_inicio/>bastantes <risa_fin/>
+hab1	<alargamiento>pero</alargamiento> había otro mira hay otro ambiente <pausa/> hay <alargamiento>otro</alargamiento> fff <silencio/>
+hab1	en una universidad privada no deja de tener un punto un poco aunque no son tan <pausa/> <énfasis_inicio/>colegio<énfasis_fin/> como la gente se cree desde fuera <pausa/>
+hab2	hm hm
+hab1	"<ruido tipo=""chasquido boca""/> sí que tienen un poco de ese rollo <pausa/> un poco cerrado <pausa/> un poco pequeño <pausa_larga/>"
+hab1	<alargamiento>entonces</alargamiento> yo francamente lo que aprendí en la universidad <silencio/>
+hab1	fue sobre todo relacionado a <pausa_larga/>
+hab1	<alargamiento>a</alargamiento><pausa/> a materias más generales como yo qué sé <pausa/> mmm disfruto con estudiando literatura <pausa/> estudiando <pausa/> eeh historia del arte <pausa/>
+hab2	hm
+hab1	o asignaturas en un principio más <pausa/> <alargamiento>más</alargamiento> eeh como es las más <pausa/> <palabra_cortada>g</palabra_cortada> generales bueno <pausa_larga/>
+hab1	que luego también son pueden ser muy específicas pero bueno <pausa/> que no eran tanto del mundo de la imagen <pausa/> de lo que era el mundo de imagen y todo <alargamiento>eso</alargamiento> fff me lo he aprendido todo trabajando <pausa/> absolutamente todo <pausa_larga/>
+hab1	también es cierto que empecé a trabajar desde segundo o tercero de carrera <silencio/>
+hab1	"y tercero sí <pausa/> en una productora en tercero <alargamiento>y</alargamiento> entonces tuve la suerte de fff de ponerme las pilas rápido <pausa/> empecé a hacer cortos <pausa/> trabajaba en la productora en la productora aprendía veía cómo hacían las cosas y luego por nuestra cuenta íbamos haciendo cortos y tal <pausa/> <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento> mmm <pausa_larga/>
+hab1	y bien entonces siempre <palabra_cortada>en</palabra_cortada> estuve trabajando en eso y ahí es donde aprendí porque la verdad es que en la universidad <pausa/> poco
+hab2	y después al acabar Comunicación Audiovisual ¿estudiaste algo más? <pausa/>
+hab1	sí <pausa/> vamos a ver cuando acabé la universidad <pausa/> eemm me <alargamiento>fui</alargamiento> <pausa/> más o menos iba a estar haciendo cursos pequeñitos de <vacilación/> de manera paralela <pausa/> y luego me fui a <pausa_larga/>
+hab1	me fui a Inglaterra <pausa_larga/>
+hab1	"pero yo me fui a <alargamiento>Inglaterra</alargamiento> básicamente <alargamiento>a</alargamiento> a <palabra_cortada>cam</palabra_cortada> a cambiar de aires a un poco <alargamiento>a</alargamiento> <ruido tipo=""chasquido dedos""/> <risa/> a romper sí <pausa/> llevas toda la vida estudiando y dices <cita_inicio/>bueno <alargamiento>pues</alargamiento> <pausa/> ahora voy a dejar de estudiar un tiempo <pausa/> tengo veintidós años <pausa/> estoy licenciado <ruido tipo=""chasquido dedos""/> <pausa_larga/>"
+hab1	me piro<cita_fin/> <pausa/> y ya <pausa/> y me fui <pausa/> y lo que básicamente lo que estuve haciendo fue fregar platos <pausa_larga/>
+hab1	que fue muy divertido <risa/> eh bueno fue muy divertido <risa_inicio/>estábamos ahí <risa_fin/> puteados pero bueno <pausa_larga/>
+hab1	eeh fue una experiencia <alargamiento>bastante</alargamiento> <pausa/> bastante chula y como lo en realidad <pausa/> fregando platos en Inglaterra se gana mucho más dinero que fregando platos en España <pausa/>
+hab2	probablemente <risa/>
+hab1	"te da para <pausa/> sí desde luego <pausa/> <alargamiento>y</alargamiento> y entonces pues me dio para hacerme un curso allí <pausa/> me hice un curso <alargamiento>de</alargamiento> <alargamiento>de</alargamiento> <pausa/> bueno <alargamiento>de</alargamiento> <pausa/> de <palabra_cortada>cin</palabra_cortada> de cinematografía que viene siendo <alargamiento>más</alargamiento> <ruido tipo=""inspiración""/> eeh <palabra_cortada>l</palabra_cortada> <alargamiento>la</alargamiento> parte del cine que se refiere a <pausa/> al mundo de la fotografía"
+hab2	hm hm
+hab1	¿no? de <alargamiento>la</alargamiento> captura de las imágenes <pausa/> la luz <pausa/> bueno todo eso <pausa/> e hice un curso allí <pausa_larga/>
+hab1	y <alargamiento>luego</alargamiento> pues me volví a España a <palabra_cortada>lo</palabra_cortada> no sé estuve allí diez meses <silencio/>
+hab1	y en España pues me fui haciendo cursos pequeñitos <pausa/> me matriculé en Antropología por la <sigla_inicio/>UNED<sigla_fin/> <pausa_larga/>
+hab1	mi falta de <alargamiento>autodisciplina</alargamiento> <pausa/> <risa_inicio/>hace que siga estando <risa_fin/> matriculado <pausa/> <risa_inicio/>en el primer curso <risa_fin/> <pausa/> bueno en el cuarto porque es un segundo ciclo <pausa_larga/>
+hab1	es algo que nunca he terminado de arrancar y <alargamiento>luego</alargamiento> <pausa/> y luego hice un máster en cine documental en Barcelona <pausa_larga/>
+hab2	hm
+hab1	esa es <alargamiento>la</alargamiento> la formación que tengo
+hab2	tienes mucha iniciativa para <risa/> <pausa/> porque jolín <pausa/>
+hab1	hombre es lo que <alargamiento>me</alargamiento> <pausa/> quiero decir <pausa/> es lo que me gusta y <pausa_larga/>
+hab1	tengo que ir a por ello si no <alargamiento>no</alargamiento>
+hab2	¿y el máster? ¿de qué era? <pausa/>
+hab1	el máster en cine <palabra_cortada>e</palabra_cortada> es máster de documental <pausa/>
+hab2	hm <pausa/>
+hab1	que lo <alargamiento>conocí</alargamiento> <pausa/> cuando yo volví de Inglaterra estaba por aquí <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> estaba trabajando aquí en una en una productora un poco horrible bastante cutre <silencio/>
+hab1	fff que me da solo escalofrío recordarle <risa/> casi acabo a puñetazos con uno <pausa/> <énfasis_inicio/>casi no<énfasis_fin/> <pausa/> acabé <palabra_cortada>ca</palabra_cortada> a puñetazos con el jefe pero bueno <pausa/> eh porque porque era <alargamiento>un</alargamiento> <risa/> un auténtico desgraciado <pausa/> y <pausa/> pero un auténtico desgraciado <pausa/> o sea <pausa_larga/>
+hab2	¿por? <risa_inicio/> ¿por qué? <risa_fin/>
+hab1	"fff <alargamiento>el</alargamiento> el tipo de gente que no debería de llevar una empresa <pausa/> y mucho menos tener a gente a <alargamiento>su</alargamiento> <pausa/> a su cargo <pausa/> pero bueno <ruido tipo=""inspiración""/> <pausa/> <alargamiento>y</alargamiento> pues una de las compañeras de aquella productora me hablaba de <alargamiento>del</alargamiento> del máster de documental <alargamiento>que</alargamiento> estaba haciendo que daba en Barcelona <pausa/> José Luis Guerín el director de En construcción <pausa/> ¿no sé si te suena? <pausa/>"
+hab2	mmm sí
+hab1	"director <palabra_cortada>bue</palabra_cortada> <pausa/> no un documental que fue bastante famoso <pausa/> hace <pausa/> en el dos mil cuatro <ruido tipo=""inspiración""/> <pausa/> y bueno Guerín era uno de los tótems ¿no? de <alargamiento>de</alargamiento> <pausa/> en la dirección de documental y tal <pausa/> un documental más cinematográfico no documental <pausa/> no reportaje televisivo sino más hacia <pausa/> documental entendido más como un <pausa/> bueno como un género cinematográfico <pausa/> no como <pausa/> <alargamiento>un</alargamiento> eh pues es que es un género un poco fronterizo <pausa/> está ahí entre periodismo <pausa/> entre <pausa/> el cine depende <pausa/> tiene sus vertientes <ruido tipo=""inspiración""/> <pausa/> en el caso es que me hablaron del máster este <pausa/> y se me quedó ahí la <palabra_cortada>co</palabra_cortada> lo pedí un par de años <pausa/> lo pedí una vez pero <ruido tipo=""inspiración""/> <pausa/> no me aceptaron o llegué tarde no sé qué <alargamiento>pasó</alargamiento> y lo voy <alargamiento>a</alargamiento> lo volví a pedir <pausa/> dos años después porque era bianual <pausa/> yo ya <alargamiento>llevaba</alargamiento> <pausa/> yo y y para entonces cuando me me llamaron que me habían cogido yo ya llevaba en Santiago pues tres años después de volver de Inglaterra trabajando <ruido tipo=""inspiración""/> <pausa/> <alargamiento>y</alargamiento> y en ese momento yo estaba terminando un documental que estaba dirigiendo yo y entonces fue como una locura pero dije <cita_inicio/>mira pues me voy a Barcelona y sigo terminando aquí el documental<cita_fin/> y me piré <pausa/> a Barcelona y estuve <alargamiento>allí</alargamiento> <pausa_larga/>"
+hab1	y de repente <alargamiento>pues</alargamiento> me hice un máster <pausa/> a medio camino entre Santiago y Barcelona volviéndome loco <risa/> <risa_inicio/>trabajaba en Santiago <risa_fin/> <pausa/> vivía en <risa_inicio/>Barcelona <risa_fin/> <pausa/> estudiaba en Barcelona <pausa/> <alargamiento>y</alargamiento> <pausa/> <alargamiento>y</alargamiento> de repente pasaron seis meses y ya me había hecho <pausa/> la parte correspondiente de <pausa/>
+hab2	y ¿hiciste algún documental o algo? <pausa/>
+hab1	sí <pausa_larga/>
+hab1	<palabra_cortada>diri</palabra_cortada> he dirigido eeh dos y tengo otros dos en curso <pausa/> hice <pausa/> dirigí un documental sobre el circo de calle y arte en la calle <pausa_larga/>
+hab1	que se llama <ficticio>Arena en la calle</ficticio> y <alargamiento>que</alargamiento> ahora está por ahí por los festivales <pausa/> y que está funcionando bien <pausa_larga/>
+hab1	que es un documental de cuarenta y cinco minutos <pausa_larga/>
+hab1	y luego <alargamiento>hice</alargamiento> otro cortito muy cortito un documental <pausa_larga/>
+hab1	"pero bueno es más una pieza fue un ensayo así sobre <pausa/> eh <alargamiento>las</alargamiento> <pausa/> sobre la frontera <palabra_cortada>Esp</palabra_cortada> Galicia Portugal <pausa/> a través de <alargamiento>las</alargamiento> <pausa/> las <pausa/> los dos mercados <pausa/> el que hay en Tui y el que hay en Valença <pausa/> que uno cae los jueves y el otro los viernes <pausa/> entonces <pausa/> un pequeño retrato cada uno de los dos mercados pues <alargamiento>venía</alargamiento> haciéndose un <pausa/> pequeño retrato a lo que era <pausa/> la frontera en ese trámite <pausa/> pero bueno una pieza muy pequeñita <pausa/> y ahora estoy <alargamiento>con</alargamiento> con un proyecto de largometraje documental que dirijo yo también <pausa/> y lo escribo <pausa/> que es <pausa/> uno que estaba ahora <pausa/> trabajando <pausa/> y que ya estamos produciendo <pausa/> de hecho me marcho el lunes a <pausa/> a rodar <pausa/> que es sobre la nacional sexta <pausa/> es una especie de <lengua_inicio nombre=""en""/>road movie<lengua_fin/> documental sobre la <pausa/> Nacional sexta <pausa_larga/>"
+hab1	"que es la carretera por la que yo viajé toda mi vida porque mi familia es de <alargamiento>Madrid</alargamiento> <pausa/> entonces nos vinimos aquí en el ochenta y <alargamiento>tres</alargamiento> y yo llevo toda la vida viajando por ahí y bueno es <pausa/> un poco el reencontrarme con la carretera de mi infancia y bla bla bla bla bla <ruido tipo=""inspiración""/>"
+hab2	y hacer un documental ¿te resulta difícil <pausa/> es complicado? <pausa/>
+hab1	tiene una <palabra_cortada>se</palabra_cortada>
+hab1	pff me puedes <palabra_cortada>desqui</palabra_cortada>
+hab2	fff o sea <pausa/> puedes describir así cómo es el proceso un poco <pausa/>
+hab1	<alargamiento>es</alargamiento> vamos a ver <pausa_larga/>
+hab1	o sea es complicado como cualquier trabajo <pausa/> en el que te impliques <pausa_larga/>
+hab1	y que lo quieras hacer bien <pausa_larga/>
+hab1	también por la misma como cualquier trabajo <silencio/>
+hab1	que disfrutas <silencio/>
+hab2	mmm
+hab1	"pues no es tan complicado porque con la ilusión que le pones y con las ganas pues <ruido tipo=""inspiración""/> pues contrarrestas un poco <pausa_larga/>"
+hab1	eeh fff es <risa_inicio/>jodido la verdad <risa_fin/> es que además justo me <palabra_cortada>coge</palabra_cortada> <pausa/> estos días estoy ahí en el <pausa_larga/>
+hab1	en el meollo de la cuestión <pausa/> estoy escribiendo <pausa/> y el <pausa/> para mí lo <alargamiento>lo</alargamiento> <pausa/> lo <palabra_cortada>f</palabra_cortada> lo <alargamiento>fundamental</alargamiento> <pausa/> o sea lo que más <pausa/> lo más difícil <silencio/>
+hab1	es <pausa/> llevar bien <silencio/>
+hab1	creo <pausa/> eeh <pausa_larga/>
+hab1	antes <pausa/> vamos a ver <pausa/> es que son muchas cosas <pausa/> lo que más me <palabra_cortada>de</palabra_cortada> <pausa/> lo más difícil para mí siempre ha sido <silencio/>
+hab1	"separar <pausa/> como estos son trabajos personales quiero decir yo trabajo como freelance para productoras y <alargamiento>para</alargamiento> pues para una <pausa/> para películas para rodajes de anuncios <pausa/> lo que sea <pausa/> y esos son anuncios en los que <vacilación/> trabajos en los que tú entras a las ocho y te vas a las ocho <pausa/> o entras a las siete de la tarde y te vas a las ocho de la mañana <pausa/> depende de cuándo ruedes o <ruido tipo=""inspiración""/> <pausa/> suele ser muy duro <pausa_larga/>"
+hab1	porque trabajas quince horas <pausa/> doce horas <alargamiento>pero</alargamiento> <pausa_larga/>
+hab1	pero no es <alargamiento>tu</alargamiento> película <pausa/> quiero decir <pausa/> tú sales de allí y si tienes una hora <pausa/> descansas <pausa/> si no <pausa/> duermes <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> pero no te implicas emocionalmente <pausa_larga/>"
+hab1	en los trabajos personales quiero decir ya y sobre todo entendiendo <silencio/>
+hab1	"como <palabra_cortada>enten</palabra_cortada> entiendo el documental <pausa/> que es <pausa/> mmm va más a buscar historias personales <pausa/> a buscar historias <pausa/> <vacilación/> <pausa/> es un rollo más cinematográfico <pausa/> se trata de buscar <pausa/> de componer <pausa/> de hacer películas pero con la realidad en vez de ficción <pausa/> entonces hay ahí <alargamiento>un</alargamiento> proceso creativo y un proceso personal y una implicación <pausa/> mucho más grande <pausa/> y por lo tanto estás constantemente <pausa/> lidiando <alargamiento>entre</alargamiento> fff <pausa/> entre <alargamiento>el</alargamiento> eh con tus miedos <pausa/> tu <alargamiento>confianza</alargamiento> <pausa/> hasta dónde quieres <alargamiento>llegar</alargamiento> <pausa/> hasta dónde crees que tienes que <alargamiento>llegar</alargamiento> <pausa/> qué es lo que te da la <alargamiento>realidad</alargamiento> <pausa/> qué es lo que quieres que te <alargamiento>dé</alargamiento> <pausa/> y estás siempre como lidiando ¿no? ponderando una cosa con la otra y tienes que tratar de ir siempre en equilibrio no dejarte llevar porque <ruido tipo=""inspiración""/> <pausa/> mmm a veces las búsquedas son infinitas <alargamiento>y</alargamiento> y quiero decir y y y tú puedes llegar a <pausa/> a <pausa/> a <pausa/> se se trata es como <pausa/> como se trata siempre de llegar <pausa/> a la verdad de los personajes <pausa/> de la gente con <pausa/> en poder entrar hasta la cocina en su vida por así decirlo <pausa/> en poder entrar hasta el fondo <silencio/>"
+hab1	claro en realidad nunca hay fondo <pausa/> porque tú una vez que <ininteligible/> una <palabra_cortada>conversa</palabra_cortada> una <pausa/> relación con un personaje <pausa/> con una persona que se va a convertir en personaje <pausa_larga/>
+hab1	eeh empiezas a escarbar empiezas a escarbar <pausa/> ahí empieza a haber una confianza <pausa/> empiezas a <pausa/> la persona empieza a <alargamiento>abrirse</alargamiento> ya no trata de hacerlo <alargamiento>bien</alargamiento> <pausa/> simplemente es eh se empieza a ser <pausa/> esa persona él mismo o ella misma <pausa/> y entonces claro fff no sabes <pausa/> a mí es lo que me está pasando un poco ahora <pausa/> nunca sabes <pausa_larga/>
+hab1	dónde tienes que parar ¿no? dónde decir <cita_inicio/>bueno
+hab2	claro
+hab1	"tengo la confianza suficiente ya <pausa/> para poder retratar lo que a mí me interesa para que la cámara no sea un incordio y para que haya un feeling y para que haya un rollo que está guay<cita_fin/> <pausa/> <ruido tipo=""inspiración""/> entonces eso es difícil <pausa/> es un rollo también <alargamiento>muy</alargamiento> <ruido tipo=""chasquido boca""/> <pausa/> fff desgasta mucho <silencio/>"
+hab1	porque es un rollo muy de <alargamiento>energías</alargamiento> fff yo qué sé <pausa_larga/>
+hab1	quiero decir no <alargamiento>te</alargamiento> cargas la espalda como si estás currando en la obra <pausa/> está claro <pausa_larga/>
+hab1	pero a nivel mental es fff es un poco agotador es un poco <pausa_larga/>
+hab1	"vampírico porque aparte estás chupando de la gente <pausa/> <alargamiento>estás</alargamiento> mmm pff estás tratando de saber y de saber y grabarles y tal no sé qué <pausa/> y lo que físicamente también es duro <pausa/> no mmm <ruido tipo=""chasquido boca""/> no <palabra_cortada>f</palabra_cortada> no <alargamiento>no</alargamiento> no <palabra_cortada>d</palabra_cortada> no es un trabajo físico <pausa/> pero tú igual después estás quince horas <pausa/> trabajando <alargamiento>a</alargamiento> seis grados todo el día <alargamiento>fuera</alargamiento> luego estás <pausa/> en la montaña <pausa/> luego estás abajo yo qué sé también depende de qué tipo de documental <pausa_larga/>"
+hab1	<alargamiento>pero</alargamiento> mmm <pausa_larga/>
+hab1	cuando estás metido <pausa/> o sea <pausa/> desaparece tu vida privada estás ahí como metido en una película o sea <pausa/> te olvidas de las noticias <pausa/> del mundo <pausa/> luego ves las noticias y te suena a chino todo porque llevas igual tres días ahí <risa/> metido sabe Dios dónde <silencio/>
+hab1	entonces es lidiar con todos esos componentes ¿sabes? y es un poco agotador <pausa/> por eso <pausa_larga/>
+hab1	"y <alargamiento>porque</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> estás lo que te decía lidiando un poco siempre con tus miedos <pausa/> <cita_inicio/>¿estoy siendo <palabra_cortada>cap</palabra_cortada> ? ¿lo voy a hacer bien? ¿voy a hacer?<cita_fin/> <pausa/> y además que estás trabajando para un <énfasis_inicio/>público<énfasis_fin/> <pausa_larga/>"
+hab1	quiero decir <pausa/> tú puedes hacer tu trabajo bien en la oficina <silencio/>
+hab1	y si no está bien hecho <alargamiento>pues</alargamiento> <pausa/> lo hablas con tus compañeros con tus jefes se mejora lo que sea y <pausa/> ya está <pausa/> aquí está <alargamiento>el</alargamiento> fff <pausa/> aquí en cuanto haces algo para el público <pausa/> te estás digamos <pausa/> eeh exponiendo <alargamiento>a</alargamiento> <pausa/> a quiero decir <pausa/> estás aceptando cualquier tipo de crítica porque si no no lo harías para un público entonces claro <pausa/> eso luego es duro porque te las comes <pausa/> quiero decir hay gente que le encanta tu trabajo y hay gente que dice <cita_inicio/>esto es una mierda por esto por esto por esto<cita_fin/> <pausa/> y te duele porque tú has estado dos años igual poniendo todo tu alma ahí <pausa/> ¿sabes? <risa/> <alargamiento>y</alargamiento> <pausa/> pero bueno <silencio/>
+hab1	yo qué sé bueno
+hab2	¿y ayudas medios técnicos <alargamiento>y</alargamiento> para conseguir esas cosas tienes <pausa/>
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	problemas <alargamiento>entre</alargamiento> <alargamiento>Barcelona</alargamiento> <alargamiento>Madrid</alargamiento> Santiago?
+hab1	sí <pausa/> o <alargamiento>sea</alargamiento> <alargamiento>ahora</alargamiento> ahora está guay <pausa/> quiero decir en Santiago está guay <alargamiento>porque</alargamiento> <pausa/> es un sitio pequeño <pausa_larga/>
+hab2	diferencias
+hab1	y entonces cuando ya llevas un tiempo pues <pausa/> todo son contactos y <alargamiento>siempre</alargamiento> pues <pausa/> bueno pues tienes favores de <alargamiento>aquí</alargamiento> de <alargamiento>allá</alargamiento> <pausa/> todo es más <alargamiento>accesible</alargamiento> <pausa/> las formas de pago yo qué sé hay una confianza que en los sitios grandes pues no hay <pausa_larga/>
+hab1	"no hay tanto entonces <pausa/> aquí en Santiago yo ya llevo varios años currando <alargamiento>y</alargamiento> <ruido tipo=""chasquido boca""/> y tengo ya mis <alargamiento>contactos</alargamiento> <pausa/> tengo <pausa/> mi entorno de trabajo con la gente a la que suelo llamar cuando hay <pausa/> que hacer cualquier cosa <silencio/>"
+hab1	bien sea un documental de los míos o bien <alargamiento>sea</alargamiento> <pausa/> mmm pues una publicidad para no sé <alargamiento>quién</alargamiento> <pausa/> pues ya tienes de gente a mano a la que llamas para que venga a trabajar contigo <pausa_larga/>
+hab1	"eeh necesitas material técnico o si igual ahora no tienes el dinero <alargamiento>pero</alargamiento> la empresa te conoce <alargamiento>y</alargamiento> te lo alquila <alargamiento>y</alargamiento> le pagas a seis meses o a tres o <ruido tipo=""inspiración""/> <pausa/> <ruido tipo=""chasquido boca""/> yo qué sé es <pausa/> aquí <alargamiento>está</alargamiento> está guay es <pausa/> <alargamiento>es</alargamiento> <pausa/> es fácil <pausa/> en Madrid y en <alargamiento>Barcelona</alargamiento> es otro rollo <pausa_larga/>"
+hab1	"<ruido tipo=""chasquido boca""/> que"
+hab2	la gente es más <alargamiento>distante</alargamiento> <pausa/>
+hab1	"sí el trato en general <pausa/> el trato es más distante y todo yo qué sé <pausa/> <alargamiento>aquí</alargamiento> todos nos conocemos <pausa/> o sea el audiovisual ha crecido mucho pero no deja de ser un sector pequeño <pausa/> por más <alargamiento>que</alargamiento> estén todo el día dándole vueltas a un audiovisual gallego y todo eso es <alargamiento>un</alargamiento> <pausa/> es una vendida de moto <pausa/> quiero decir que <pausa/> que somos cuatro <ruido tipo=""inspiración""/> <risa/>"
+hab2	pero hacen así con todo <pausa/>
+hab1	sí sí <pausa/> ya yo <palabra_cortada>ha</palabra_cortada> sé de lo mío <pausa/> hablo de lo mío <pausa/> pero <pausa_larga/>
+hab1	pero bueno es es fácil <pausa/> quiero decir <alargamiento>aquí</alargamiento> <pausa/> o sea requiere su esfuerzo <alargamiento>y</alargamiento> <pausa/> <alargamiento>y</alargamiento> bueno pero yo creo que <pausa_larga/>
+hab1	que es <pausa/>
+hab2	¿entonces tú si tuvieras que escoger escogerías una ciudad pequeña? <pausa/>
+hab1	siempre <pausa_larga/>
+hab1	si he vivido en Madrid <pausa/> en Barcelona y en Londres <pausa/> y me quedo con Santiago <pausa/>
+hab2	¿y con esa vida tan ajetreada no tienes ninguna anécdota o algo <pausa/> curioso que te haya <risa_inicio/> pasado? <risa_fin/> <pausa/> seguro que sí fregando platos seguro <risa/>
+hab1	fff hombre <pausa/> <risa_inicio/> creo que unas cuantas <risa_fin/>
+hab1	<risa_inicio/>unas cuantas <risa_fin/> unas cuantas en <alargamiento>Inglaterra</alargamiento> fff <pausa/> a ver que me que me acuerde <pausa/> fff en <alargamiento>Inglaterra</alargamiento> bueno en Inglaterra me tuve que ir de la casa porque de repente un día <pausa/> salí de <alargamiento>la</alargamiento> <pausa/> salí del cuarto <pausa/> pero bueno esto es una tontería lo que pasa que me he acordado ahora <pausa_larga/>
+hab2	en Inglaterra
+hab1	recuerdo que vivíamos en una casa <alargamiento>que</alargamiento> éramos <pausa/> ocho para una casa de cuatro <pausa/> pero bueno yo en mi habitación estaba yo solo <pausa/> estaba bien <pausa/> <vacilación/> <alargamiento>y</alargamiento> y bueno y era una casa que estaba bien <pausa/> eh éramos demasiados para ella pero se estaba bien <pausa_larga/>
+hab1	y un día <silencio/>
+hab1	eeh la casa no estaba especialmente bien hombre <pausa/> eran casas victorianas de estas típicas de tres plantas como mucho dos tres plantas <pausa/> que son antiguas <pausa/> pero bueno <pausa/> y recuerdo que un día nos levantamos <pausa/> <alargamiento>y</alargamiento> y bueno yo <palabra_cortada>lleva</palabra_cortada> había trabajado toda <alargamiento>la</alargamiento> <pausa/> toda la noche <alargamiento>y</alargamiento> y bueno pues a las diez de la mañana y estaba dormidísimo <pausa/> y era yo el único que estaba en casa <pausa/> y oía el timbre oía el timbre <alargamiento>y</alargamiento> y me levanté y fui a abrir y de repente me apareció la gente de la de la inmobiliaria <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> y el tío allí me gritaba porque en Inglaterra los que llevan todo el tema de las inmobiliarias son los <palabra_cortada>i</palabra_cortada> los paquistanís y los iranís tienen <énfasis_inicio/>toda la mafia<énfasis_fin/> o sea <pausa/> tienen ahí todo están muy metidos <pausa/> como Inglaterra tuvo colonias allí hay mucha población de <pausa/> de esa parte de Asia allí <pausa/> <alargamiento>y</alargamiento> en este caso los <pausa/> los iranís tienen <pausa/> todo ese <pausa/> entramado <pausa/> y me apareció allí el tipo <pausa/> el iraní o paquistaní o lo que fuera hablándome allí en <alargamiento>inglés</alargamiento> <pausa/> que no sé que no sé qué todo mosqueado y me lleva al piso de abajo <pausa/> y de repente vi que <silencio/>
+hab1	toda mi cocina <silencio/>
+hab1	y que el <pausa/> la habitación de al lado <pausa/> yo recuerdo que estaba o sea <pausa/> se había caído todo el suelo <pausa_larga/>
+hab2	<risa/><risa_inicio/>¡jolín! <risa_fin/>
+hab1	<alargamiento>y</alargamiento><pausa/> y de repente yo veía que <risa_inicio/>mi casa de Inglaterra <risa_fin/> ya no existía la mitad yo no me había dado cuenta yo cuando fui a abrir no no no había entrado <pausa/> no sé qué había pasado que se había caído media casa <pausa_larga/>
+hab1	y tuvimos <alargamiento>un</alargamiento> <pausa/> tuvimos allí un <alargamiento>problema</alargamiento> <pausa/> problema importante porque claro nosotros <silencio/>
+hab1	allí éramos <pausa/> pff yo qué sé todos teníamos contratos de trabajo y eso pero bueno <pausa/> estás con las de perder <pausa/>
+hab2	hm hm
+hab1	y nada más <pausa/> me acuerdo que tuvimos que ir de <alargamiento>allí</alargamiento> y estuvimos <pausa/> bueno <pausa/> fue <alargamiento>una</alargamiento> <pausa/> fue un poco rocambolesco aquello <pausa_larga/>
+hab1	nos quedamos sin casa <pausa/> de repente la calle <pausa/> la casa desapareció <pausa/> <risa/> y encima nos denunciaron por decir que habíamos metido <pausa/> mmm más <palabra_cortada>pes</palabra_cortada> <pausa/> bueno una cosa muy rara <pausa_larga/>
+hab1	nos decían que habíamos puesto más peso del <alargamiento>que</alargamiento> <pausa/> del <alargamiento>que</alargamiento> de que le habíamos puesto en realidad <pausa/> era como una cosa muy rara <pausa/> como que habíamos <palabra_cortada>car</palabra_cortada> metido toneladas de cosas bueno una cosa muy rara <pausa/> aquello fue curioso <pausa/> igual ahora así no suena tan raro pero te aseguro que fue una <pausa/> <palabra_cortada>an</palabra_cortada> <palabra_cortada>an</palabra_cortada>
+hab2	jolín <pausa/> ver que tu casa está en el suelo <risa/> yo no sé
+hab1	fue una anécdota curiosa <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> mmm <pausa/> y bueno yo qué sé <pausa/> luego en <alargamiento>Barcelona</alargamiento> <pausa_larga/>
+hab1	pff recuerdo que acabé hasta el gorro <alargamiento>porque</alargamiento> <pausa_larga/>
+hab1	porque <pausa/> vivía en el Raval que es un barrio que está muy bien la parte de arriba <pausa/> <ininteligible/> yo qué sé está lleno de gente joven así un poco <pausa/> <alargamiento>de</alargamiento> mucho artistilla y tal pero bueno <pausa/> se está guay es dinámico es así <pausa/> hay movidilla pero en la <alargamiento>parte</alargamiento> <palabra_cortada>baj</palabra_cortada> la <palabra_cortada>par</palabra_cortada> mmm el Raval siempre ha sido el barrio chino sobre todo <alargamiento>el</alargamiento> la parte baja <pausa/> del Raval <pausa_larga/>
+hab1	y es donde se ha concentrado toda la inmigración <pausa/> siempre de todo <pausa/> es el barrio de recepción <pausa/> en Barcelona es donde <pausa_larga/>
+hab1	llega todo entonces claro <pausa/> generalmente la gente que llega de fuera suele estar puteada y el puteo lleva a que estén buscando la vida en la calle y que haya pues <pausa/> esté lleno de quinquis y yo recuerdo que vivía <pausa/> justo en la de <pausa/> si el Raval lo han ido limpiando <pausa_larga/>
+hab1	"porque sí <alargamiento>han</alargamiento> la han ido metiendo caña y lo han ido limpiando todo el baño <pausa/> todo el baño <pausa/> todo el barrio <pausa/> justo las dos calles que quedan donde se ha ido concentrado todo <pausa/> es a donde a mí me tocó vivir <pausa/> recuerdo que fff <pausa/> me terminó saliendo Barcelona <pausa/> por las orejas porque salía de casa y si no había <pausa/> una puta con un ojo hinchado había un yonqui con la chuta si no había <pausa/> un tipo peleándose con otro había otro con la cabeza abierta si no <pausa/> <alargamiento>y</alargamiento> quiero decir <ruido tipo=""chasquido boca""/> <pausa/> es cierto que es un poco burgués decir <cita_inicio/>joder estoy hasta los huevos de la miseria<cita_fin/> <pausa/>"
+hab2	mmm ya pero <risa/>
+hab1	pff pero es que cuando todos los días ves eso y en realidad <pausa/> te guste o no <pausa/> yo no es mi mundo quiero decir <pausa/> he <palabra_cortada>vi</palabra_cortada> <pausa/> quiero decir <pausa_larga/>
+hab1	ya <pausa/> son cosas <alargamiento>que</alargamiento> <pausa/> he <vacilación/> <palabra_cortada>viv</palabra_cortada> en Madrid vivía en Lavapiés <pausa/> y lo veía también y es algo que está ahí o sea <pausa/> es mi mundo porque es la misma realidad nuestra y de hecho <pausa_larga/>
+hab1	precisamente lo que no hay que hacer es darle la espalda porque es <silencio/>
+hab1	pero no me he criado <pausa/> entre putas y yonquis <risa/> <risa_inicio/>hablando en <risa_inicio/>claro <risa_fin/> <risa_fin/> <pausa/> entonces cuando vives todo el día entre putas y yonquis <pausa_larga/>
+hab1	pues llega un momento que te sale un poco por las orejas todo y todo el día robando en el barrio y todo el día gente con problemas entonces <pausa/> terminé asociando Barcelona un poco a todo eso <pausa_larga/>
+hab1	sabiendo que Barcelona es más grande y que hay muchas otras cosas <pausa/> pero me terminó fff <pausa/> no poder aparcar el <alargamiento>coche</alargamiento> no poder llevarme el coche a Barcelona porque siempre te lo rayaban o te lo robaban <pausa/> la bicicleta siempre con cuatro candados <pausa_larga/>
+hab1	eeh <pausa/> ruido por la noche <pausa/> todo carísimo <pausa/> o viviendo en una habitación interior ahí en un agujero era como <pausa_larga/>
+hab1	fff llega un momento <alargamiento>que</alargamiento> <pausa/> que en Inglaterra vale muy <alargamiento>bien</alargamiento> aprendes <alargamiento>inglés</alargamiento> gente nueva es otra vida <pausa/> <alargamiento>pero</alargamiento> <pausa/> pero todo era enorme y Madrid <palabra_cortada>trabajab</palabra_cortada> vivía en Lavapiés <pausa/> estudiaba en Ciudad Universitaria y trabajaba <pausa/> <risa_inicio/>a tomar por culo <risa_fin/> o sea era <risa/> <pausa/> tres puntos completamente <palabra_cortada>dis</palabra_cortada> <pausa/> y al final es <alargamiento>como</alargamiento> <pausa/> pff qué bien se está en Santiago <pausa/> y a con esto iba a lo que te decía ¿no? que a mí las ciudades pequeñas me <pausa/> me gustan más <pausa/> es donde me he criado <pausa/> y sobre todo en una ciudad como Santiago que tiene una vida cultural <pausa/> y yo me dedico al mundo de la cultura y Santiago para lo pequeña que es <pausa_larga/>
+hab2	muy buena <risa/> <pausa/>
+hab1	pues tiene bastante vidilla <alargamiento>y</alargamiento> <pausa/> y bueno <pausa/> pues <pausa/> está guay pues para mí es perfecto <pausa_larga/>
+hab1	a mí me gustan las ciudades tipo <alargamiento>Santiago</alargamiento> Granada <pausa/> eemm yo qué <alargamiento>sé</alargamiento> San Sebastián <pausa/> ciudades <pausa/> <palabra_cortada>n</palabra_cortada> no muy pequeñas pero no grandes ni mucho menos <pausa/> Coruña bueno Coruña es una ciudad que no me gusta pero <pausa/> ese <pausa/> ese <pausa/> tipo de ciudad <pausa/> pequeñita <pausa/> pero <alargamiento>con</alargamiento> con vida y <alargamiento>con</alargamiento> recursos suficientes pues está guay <pausa/> se vive bien la calidad de vida es mucho mejor <pausa/> y lo que importa es eso o sea lo tengo clarísimo <pausa_larga/>
+hab2	claro
+hab2	a mí tampoco me <risa_inicio/> gusta <risa_fin/>
+hab2	ya
+hab1	"si el si el día de mañana estoy jodido y me tengo que ir a vivir a <ruido tipo=""inspiración""/> <ruido tipo=""chasquido dedos""/> <pausa_larga/>"
+hab1	a Madrid otra vez pues mira <pausa/> pues me tendré que ir <pausa/> será lo que me toca <pausa/> quiero decir yo estoy <pausa/> abierto a lo que venga <pausa_larga/>
+hab1	pero mientras pueda elegir pff <pausa/> hombre la calidad de vida mucho antes <alargamiento>que</alargamiento> <pausa/> <alargamiento>que</alargamiento> <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	te gusta mucho viajar ¿verdad? <pausa/>
+hab1	<alargamiento>sí</alargamiento> sí <palabra_cortada>fundament</palabra_cortada> <pausa/> es lo que más me gusta
+hab2	¿y tienes sitios <pausa/> por los que tengas preferencia <alargamiento>o</alargamiento> ? <pausa_larga/>
+hab2	no sé <pausa/>
+hab1	"<ruido tipo=""inspiración""/> sí eeh <pausa/> <palabra_cortada>siemp</palabra_cortada> <pausa/> viajo mucho <pausa/> además tengo una furgoneta que viajo mogollón en ella y <alargamiento>me</alargamiento> <pausa/> me voy por ahí con ella <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento> lo que más me gusta es la playa y la montaña <silencio/>
+hab1	la verdad <pausa/> <alargamiento>me</alargamiento> fff yo en cuanto tengo cuando hace buen tiempo cuando me voy con la furgoneta a la playa <pausa/> además aquí todavía gracias a Dios tenemos paraísos perdidos por ahí <pausa/> donde puedes aparcar la furgoneta <pausa/> y estar en una playa tres días sin ver a nadie <pausa_larga/>
+hab1	y eso me gusta mucho <pausa/> la montaña me flipa me encanta andar por la montaña <pausa/> y subir <pausa/> <alargamiento>subir</alargamiento> <pausa/> nunca me he subido más <palabra_cortada>al</palabra_cortada> <palabra_cortada>mo</palabra_cortada> he subido un poco más de tres mil pero bueno siempre he estado ahí <pausa/> me gusta subir ahí montañas <pausa/> está guay <pausa/> no lo hago todo lo que me gustaría <pausa/> este verano sí estuve en los Alpes y en los Pirineos <pausa/> y es porque este verano me cogí <énfasis_inicio/>vacaciones<énfasis_fin/> que llevaba cuatro años sin vacaciones vacaciones <risa/> <pausa/> y me fui a Bosnia <risa/>
+hab2	¿a <vacilación/>
+hab1	Bosnia? sí
+hab2	jolín
+hab1	con la furgoneta me fui a Bosnia <alargamiento>Eslovenia</alargamiento> <pausa_larga/>
+hab1	<alargamiento>Croacia</alargamiento><alargamiento>Italia</alargamiento><pausa/> me di un buen buen buen viaje <silencio/>
+hab1	"y sobre todo me gusta <pausa/> antes me gustaba <palabra_cortada>má</palabra_cortada> antes me gustaba mucho viajar a las <palabra_cortada>ciuda</palabra_cortada> ciudades <pausa/> yo qué sé <palabra_cortada>m</palabra_cortada> mi amiga <ficticio>Manuela</ficticio> vivía en Ámsterdam una época y yo <alargamiento>estuve</alargamiento> <pausa/> y la iba a ver <pausa/> estuve allí con <pausa/> unas cuantas veces <pausa/> cuando tenía diecisiete años me cogí un tren y me fui a París solo <pausa/> y estuve luego <pausa/> no era ni mayor de edad y hicieron mis padres me tuvieron que hacer mis padres un papel para <pausa/> como era menor como que podía <pausa/> y me fui solo a París y por ahí arriba y me me encantó <pausa/> <ruido tipo=""chasquido boca""/> viajaba más a ciudades <pausa/> <alargamiento>pero</alargamiento> lo que más <palabra_cortada>m</palabra_cortada> lo que <palabra_cortada>ca</palabra_cortada> cada día me siento más <pausa/> como más unido a la naturaleza <pausa/> <alargamiento>y</alargamiento> lo tengo un poco de casa porque mi padre es ingeniero de montes y cuando yo era pequeño me pasaba con él <pausa/> he estado en todas las montañas de de de <palabra_cortada>Esp</palabra_cortada> <pausa/> no en todas pero en muchas <pausa/> en los Pirineos en los montes de Toledo en Gredos en mmm <pausa/> Ancares <pausa/> siempre he estado <pausa/> <alargamiento>en</alargamiento> en en el monte <pausa/> <alargamiento>y</alargamiento> según voy creciendo <alargamiento>va</alargamiento> ese vínculo va floreciendo hay ese rollo ¿sabes? y me <pausa_larga/>"
+hab2	claro
+hab1	y me gusta mucho estar en la montaña y estoy con la chimenea y andar por el monte y <pausa_larga/>
+hab1	<alargamiento>me</alargamiento> fff <pausa/> me encanta y lo hago mucho menos de lo que debería eh <pausa/> sí
+hab2	bueno aún te queda <risa_inicio/>tiempo <risa_fin/> <risa/> <pausa/>
+hab1	sí <alargamiento>pero</alargamiento> <pausa/> sí pero luego el tiempo pasa volando <pausa/>
+hab2	ya pero <pausa/> aún tienes tiempo <pausa/> y ¿conociste mucha gente? <pausa/> en los viajes y en el trabajo evidentemente <pausa/> seguro <pausa/>
+hab1	pff
+hab1	"sí en el trabajo claro tú piensa que cada vez que vas a solo un trabajo o sea <pausa/> <ruido tipo=""chasquido boca""/> <palabra_cortada>ta</palabra_cortada> en eh cada vez menos porque vas conociendo a más gente y tal es <palabra_cortada>li</palabra_cortada> y Galicia también es limitado aunque somos unos cuantos pero tampoco somos tantos como te decía <pausa_larga/>"
+hab1	pero sí <pausa/> cada vez que vas a un trabajo nuevo <pausa/> piensa que igual si es una publicidad <pausa/> tres días <pausa/> o una semana <pausa/> y hay un equipo de veinticinco personas <pausa/> a la semana siguiente es otra publicidad y son otras veinticinco <pausa_larga/>
+hab1	"entonces te relacionas con mucha gente <pausa/> eso es algo que es <pausa/> que es algo que me gustaba de <alargamiento>la</alargamiento> de los rodajes aunque ahora ya me cansa <pausa/> porque a mí todos los rodajes ya de película y todo eso con cuarenta personas <pausa/> fff es una locura <pausa/> yo lo de los documentales somos cinco nos vamos a nuestra bola somos un equipo <pausa/> suele haber bastante cohesión <alargamiento>y</alargamiento> es un rollo más <pausa/> en los <palabra_cortada>do</palabra_cortada> en los las películas <pausa/> cuarenta personas todo el mundo con su ego la mitad son artistas <pausa/> todo el mundo <cita_inicio/>ay que no sé qué<cita_fin/> y al final fff <pausa/> tienes que aprender una de psicología porque claro son muchas horas mucho cansancio son palizas muy grandes <pausa/> tienes que aprender a lidiar con la gente <pausa/> eso te da una <pausa/> <ruido tipo=""chasquido boca""/> te curte también y te da mucho ojo ¿no? con <pausa/>"
+hab2	hm hm
+hab1	con lo que es el trato con la gente aprendes mucho pero <pausa_larga/>
+hab1	fff pero también acabas hasta los huevos <pausa/> francamente <pausa/> eeh de tener que aguantar al otro a la otra y de que te aguanten a ti que tampoco que en realidad
+hab2	y entre la gente que has conocido hay buenos amigos seguro <pausa_larga/>
+hab1	<alargamiento>sí</alargamiento> sí <pausa_larga/>
+hab1	eh cierto es <pausa/> que mis grandes amigos de toda la vida <pausa_larga/>
+hab1	<palabra_cortada>q</palabra_cortada> que tengo la suerte de mantener <palabra_cortada>am</palabra_cortada> amigos de toda la vida <alargamiento>de</alargamiento> de la infancia <pausa/> siguen siendo mis grandes amigos <pausa/> no tienen nada que ver con este mundo <pausa/> y lo agradezco <alargamiento>porque</alargamiento> <pausa/> porque generalmente como este es un mundo tan entregado <silencio/>
+hab1	eeh donde no existen los horarios ni nada de eso <pausa/> generalmente <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> termina siendo muy endogámico <pausa/> todo el mundo termina teniendo relaciones <alargamiento>sociales</alargamiento> <pausa/> incluso <alargamiento>pareja</alargamiento> todo dentro de ese <palabra_cortada>mun</palabra_cortada> dentro del mundo <pausa/> dentro del <pausa/> dentro <alargamiento>del</alargamiento> <alargamiento>del</alargamiento> del sector o como <pausa/> lo llames <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab1	porque es que es no tienes tiempo para conocer otras cosas <alargamiento>porque</alargamiento> <pausa/> porque estás dos meses una película donde no tienes vida descansas una semana vas a otra película vas no sé qué <pausa/> y suele darse mucho eso <pausa/> yo gracias a <vacilación/> he hecho muy buenos amigos <pausa_larga/>
+hab1	"amigos con los que además ahora trabajamos porque vamos teniendo más o menos nuestros pequeños estudios o empresillas <pausa/> y vamos trabajando entre nosotros <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab1	y <alargamiento>sí</alargamiento> <pausa/> y tengo gente <alargamiento>muy</alargamiento> <pausa/> quiero decir de ahí he sacado muchos vínculos <pausa/> <alargamiento>pero</alargamiento> <palabra_cortada>l</palabra_cortada> <pausa/> estoy contento de que mis grandes amigos sean de fuera <pausa/> porque te da un aire y también te ayuda a ver las cosas desde fuera <pausa_larga/>
+hab1	tengo muchos amigos que están dentro del mundo del espectáculo del teatro y no sé qué y <pausa/> y lo único que conocen es eso <pausa_larga/>
+hab1	y al <alargamiento>final</alargamiento> fff es un <alargamiento>poco</alargamiento> <pausa/> yo creo que hay que ver más cosas <pausa/> quiero decir y además como suele ser gente con mucho ego <pausa/> termina siendo muy egocéntrico <pausa/> y muy cerrado <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> fff a mí me da un poco de asquito la verdad <pausa/> <risa/> <risa_inicio/>siendo claro <risa_fin/> <pausa/>
+hab2	¿y el <alargamiento>trabajo</alargamiento> ? <pausa/> bueno tu trabajo ¿te parece peligroso? <pausa/> porque bueno si viajas realmente <pausa/>
+hab1	fff mira <pausa/> <alargamiento>lo</alargamiento> más peligroso es <pausa/> la carretera <pausa/> porque te pasas <pausa/> en las películas <pausa/> trabajas igual quince horas <pausa/> y cuando ya llevas trabajando tres días quince horas seguidas de repente te tienes que <pausa_larga/>
+hab1	fff son es las dos de la mañana y tienes que llevar a un actor a un hotel y es como <cita_inicio/>vamos a ver <pausa/> o sea<cita_fin/> <silencio/>
+hab1	como no se trabaja con las condiciones que debería haber porque las productoras no se lo <palabra_cortada>ga</palabra_cortada> no se gastan el dinero <silencio/>
+hab1	"<ruido tipo=""chasquido boca""/> es una tontería pero o sea quiero decir no no es un trabajo de riesgo <pausa/> porque no lo es <pausa/> pero sí son muchas horas <pausa/> y cuando trabajas muchas horas ya <pausa_larga/>"
+hab1	a la mínima que tengas una actividad <pausa/> <alargamiento>ligeramente</alargamiento> <silencio/>
+hab1	eeh <pausa/> tal ya el peligro es triple o sea si conducir <pausa/> es susceptible de riesgo <pausa/> aunque no tiene por qué pasar nada <pausa/> si llevas trabajando quince horas <alargamiento>y</alargamiento> estás muerto de sueño has dormido cuatro horas durante tres días <pausa/> pasa a ser tres veces más <pausa/> peligroso <pausa/> y eso es algo que nos pone de mala hostia porque es que siempre pasa igual <pausa/> siempre ahora no tanto porque ya no suelo trabajar en ese tipo de <pausa/> de historias pero <pausa_larga/>
+hab1	que estés trabajando horas y horas <pausa/> y luego te exijan con el coche tiempo <pausa/> rapidez <pausa/> <cita_inicio/>vete follado a no sé dónde estás en Santiago tienes que ir a Coruña a gestionar un permiso ahora te llevas al no sé<cita_fin/> <pausa/> y al final <pausa/> pff <pausa/> eso es un poco peligroso <alargamiento>y</alargamiento> y ¿por qué? porque aquí España no se gasta ni un <vacilación/> los rodajes deberían de tener <pausa/> conductores <pausa_larga/>
+hab1	como tienen en Francia como tienen en Estados Unidos <pausa/> y como tienen las producciones de nivel aquí en España <pausa/> ¿no? o en publicidad que hay más dinero <pausa/> donde hay gente que está únicamente para conducir <pausa/> y si va a haber que conducir a las nueve de la mañana después de trabajar toda la noche <pausa_larga/>
+hab1	pues hay una persona que está descansando para que cuando hay que hacer todos los traslados del campamento llevar actores llevar lo que sea <pausa/> pues una persona que está fresca <pausa_larga/>
+hab1	y <alargamiento>no</alargamiento> lo que pasa porque luego hay <alargamiento>gente</alargamiento> alguna se <palabra_cortada>ma</palabra_cortada> un <palabra_cortada>p</palabra_cortada> <pausa/> ha habido un par de chicos que se han matado en accidente de coche <alargamiento>y</alargamiento> dentro <alargamiento>de</alargamiento> <pausa/> de rodajes <pausa/> que vale son dos en <pausa_larga/>
+hab1	en cinco años que llevo yo en esto pero es que es ya es <palabra_cortada>sufi</palabra_cortada> o sea con que sea uno ya es ya llega <pausa_larga/>
+hab2	ya ya llega <pausa/>
+hab2	las medidas de seguridad <pausa/>
+hab1	"sí pero luego generalmente se respeta bastante porque cuando trabajas en sitios más delicados como <pausa/> carreteras o tal <pausa/> se suele ser <pausa/> las <palabra_cortada>pro</palabra_cortada> <pausa/> las productoras se cubren en <alargamiento>cuanto</alargamiento> corren el riesgo de perder el dinero <pausa/> <ruido tipo=""inspiración""/> en <alargamiento>cuanto</alargamiento> después estás trabajando en medio en la montaña igual no se preocupan tanto <pausa/> porque no hay quizás una responsabilidad <pausa/> civil tan grande pero si estás trabajando en la carretera <pausa/> se preocupan <palabra_cortada>p</palabra_cortada> rapidísimo de que haya conos de que haya señalización de que todo el mundo lleve su chaleco de que <pausa/> eh se cumplan una serie de cosas <pausa/> pero claro <pausa/> si hay un accidente en la carretera <pausa/> porque hay un rodaje en la carretera <pausa/> se les <ininteligible/> cae el pelo <ruido tipo=""inspiración""/> <silencio/>"
+hab2	y en el documental que hiciste <alargamiento>de</alargamiento> <pausa/> bueno que has hecho del circo y de todo eso <silencio/>
+hab2	¿viste algún peligro? porque claro si era de la calle tuviste que estar por la calle y te moverías supongo
+hab1	sí estamos todo el día rodando ahí en la calle <pausa/> pero fff <pausa/> rodamos mucho aquí en Santiago y <pausa/> el mayor peligro es que venga la policía a tocarte los huevos y a decirte que por qué que si tienes permiso para grabar <pausa_larga/>
+hab1	y o sea no no hay ningún peligro estás en la calle pero <alargamiento>no</alargamiento> <pausa/> y más aquí en Santiago que este documental se hizo casi todo en Santiago y aquí no hay demasiado <pausa_larga/>
+hab1	demasiado peligro <silencio/>
+hab1	no <pausa/> no es un <pausa/> no es un <pausa/> no es un trabajo que tampoco <silencio/>
+hab2	<alargamiento>y</alargamiento> y el problema <alargamiento>que</alargamiento> me acabas de contar <alargamiento>de</alargamiento> la policía y todo eso <pausa/> cuando estuviste <alargamiento>en</alargamiento> Inglaterra o <alargamiento>en</alargamiento> Barcelona ¿lo viste? <pausa/> ¿y grabaste o algo?
+hab1	sí lo que pasa <palabra_cortada>e</palabra_cortada> <pausa/> sí eh bueno en Barcelona son <pausa/> si aquí te si aquí son bastante exigentes con el tema de permisos y todo eso porque como Santiago es una ciudad postal pues <pausa/> siempre hay que tener <palabra_cortada>c</palabra_cortada> <alargamiento>algún</alargamiento> control de lo que se graba y de lo que no se graba quién viene aquí a grabar que no sé qué <pausa_larga/>
+hab1	pero es <alargamiento>más</alargamiento> <pausa_larga/>
+hab1	no sé <pausa/> es más light <pausa/> en Barcelona <pausa/> y en Madrid <pausa_larga/>
+hab1	la policía sonríe mucho menos <pausa_larga/>
+hab1	es decir aquí es un poco más gañanes <pausa/> allí es un poco más <risa_inicio/>cabrones <risa_fin/> <risa/> <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> entonces pues <pausa_larga/>
+hab1	mucho más exigentes pero yo la verdad es que nos los saltamos a la torera yo si estoy trabajando para una productora grande <pausa_larga/>
+hab1	y se gastan ciento cincuenta euros en permisos <pausa/> se gastan <pausa/> yo estoy haciendo un proyecto para mí <pausa/> y mi espíritu es <pausa_larga/>
+hab1	"a mi bola y lo hago <alargamiento>y</alargamiento> <ruido tipo=""inspiración""/> <pausa/> y si me viene la policía ya buscaré pero yo no voy a dar ciento cincuenta euros al Ayuntamiento <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab1	y si es una grabación muy importante y el proyecto depende de esos planos que vayamos a grabar ahí <pausa/> pues lo haces porque bueno pues porque hay que ser profesional y no vas a poner en riesgo toda la producción por eso <pausa/> pff pero para el resto de las cosas <pausa_larga/>
+hab1	"
+      <alargamiento>yo</alargamiento>
+      <silencio/>
+    "
+hab1	siempre soy un poco pirata para eso <risa/> <pausa/> sí <pausa/> es que en realidad hay que <palabra_cortada>bus</palabra_cortada> quiero decir <pausa/> y yo creo que hay que <alargamiento>ser</alargamiento> <pausa/> o sea vale que las normas están <alargamiento>ahí</alargamiento> y hay que cumplirlas para que <pausa/> ¿no? para que yo qué sé para <palabra_cortada>to</palabra_cortada> que todo se rija por el mismo orden <pausa_larga/>
+hab1	pero hay que tener un poco de picardía para todo y hay <alargamiento>que</alargamiento> <pausa/> y hay que estar un poco vivo y muchas veces <pausa/> saltándote las normas vas más rápido y mientras no estés <pausa/> eeh <silencio/>
+hab1	<vacilación/> hablando en plata jodiendo a nadie <silencio/>
+hab2	hm hm <silencio/>
+hab1	"pff <pausa/> ¿sabes? entonces <pausa/> muchas veces es más rápido <ruido tipo=""chasquido dedos""/> yo ahora tengo que ir a grabar unos puentes quiero grabar unos planos de autopista los coches en Madrid y no sé qué por la carretera <pausa_larga/>"
+hab1	ya me he informado de cómo son los permisos allí de quién lo gestiona y quién lo lleva <pausa/> y de cuánto hay que pagar <pausa/> como no estoy de acuerdo <pausa/> pues vale yo estoy prevenido sé lo que me van a pedir si tengo algún problema <pausa/> pero de entrada yo voy a trabajar sin permisos <pausa_larga/>
+hab2	por lo que veo <risa_inicio/>eres muy <risa_inicio/>independiente <risa_fin/><risa_fin/>
+hab1	<risa_inicio/>claro es que <risa_fin/> quiero decir ¿qué voy a? o sea <pausa_larga/>
+hab1	vamos a ver <silencio/>
+hab1	para mí mi planteamiento es yo quiero hacer esto <pausa/> yo tengo una cámara <silencio/>
+hab1	eeh las <palabra_cortada>norm</palabra_cortada> eeh el eh su discurso para explicarme por qué es necesario pagar un permiso <pausa_larga/>
+hab1	no me lo trago hay que pagar un permiso porque hay que recaudar fondos <pausa_larga/>
+hab1	y de todo lo que se pueda sacar pasta se saca pasta <silencio/>
+hab1	bueno <pausa_larga/>
+hab1	quiero decir que <risa/> a mí no me da la gana <pausa/> si yo trabajo para una empresa sí porque yo voy hago el trabajo como se hacen las cosas <pausa_larga/>
+hab1	pero si es <alargamiento>mi</alargamiento> <pausa_larga/>
+hab1	quiero decir no estoy de acuerdo y entonces pues no lo hago <pausa/> ¿que otro lo paga? bueno pues es su problema <pausa/> <alargamiento>y</alargamiento> <pausa/> y es así quiero decir <pausa/> <alargamiento>si</alargamiento> yo tengo que pagar <pausa/> si hay si hay un sitio con unas circunstancias especiales donde <pausa/> eeh fff qué sé yo pues hay gente que está trabajando desinteresadamente por lo que sea o tal <pausa/> dices <cita_inicio/>bueno pues <pausa/> aquí por supuesto se les <pausa/> se paga<cita_fin/> pero cuando en realidad <pausa/> ves que no es todo más que es todo más que burocracia y que es pff <pausa_larga/>
+hab1	unas tasas por estar cinco minutos con una cámara y apretando un botón <silencio/>
+hab1	"<risa/> yo no voy a pasar por eso <pausa/> si me hacen pagar pues las tendré que pagar <pausa/> si aparece un policía y me pide la documentación pero si no <ruido tipo=""chasquido boca""/> <ruido tipo=""inspiración""/> <pausa/>"
+hab2	y con esa vida tan ajetreada que llevas <pausa/> porque realmente es una vida ajetreada por lo que me cuentas ¿tienes tiempo para salir pasártelo bien? <pausa/>
+hab1	es
+hab1	sí de hecho <risa_inicio/>tengo <risa/> <pausa/> tengo bastante afición por salir <risa_fin/> <pausa/> sí a veces lo pienso eh que debería de <pausa_larga/>
+hab1	de bajar un poco el ritmo de vida que llevo porque la verdad es que hombre <pausa/> ahora salgo menos salgo un día a la semana <pausa/> el problema es que salgo hasta las diez de la mañana <risa/> <pausa/> <risa_inicio/><alargamiento>pero</alargamiento> <risa_fin/> bueno hasta las diez es un decir <pausa/> pero las <alargamiento>ocho</alargamiento> <alargamiento>suelo</alargamiento> las ocho suelo rozarlo siempre <pausa_larga/>
+hab1	a veces lo pienso porque siempre mmm <alargamiento>trabajando</alargamiento> <alargamiento>saliendo</alargamiento> de aquí para allá y salir <pausa/> y últimamente me doy un poco más de tregua y procuro descansar pasar unas horas en casiña leyendo estando más tranquilo <pausa_larga/>
+hab1	pero sí que la verdad es <alargamiento>que</alargamiento> <pausa_larga/>
+hab1	<alargamiento>que</alargamiento><pausa/> fff <alargamiento>yo</alargamiento> <pausa_larga/>
+hab1	en muy pocas épocas he conocido <alargamiento>el</alargamiento> tener una vida ordenada <pausa/> o sea <pausa/> yo <pausa/> siempre he trabajado mucho he hecho muchas cosas y <pausa/> y <pausa/> y creo que para la edad que tengo <silencio/>
+hab1	eeh <pausa/> he hecho ya unos cuantos quilómetros <alargamiento>de</alargamiento> <pausa/> a nivel trabajando y todo eso <pausa/> yo he trabajado con mucha gente en muchos sitios <pausa_larga/>
+hab1	eeh <pausa_larga/>
+hab1	y <pausa/> y el rollo es que claro <alargamiento>que</alargamiento> <alargamiento>que</alargamiento> que a pesar de haber trabajado en tantos sitios yo <pausa/> no conozco <pausa/> el rollo de <pausa/> entrar un día a una hora <pausa/> salir a otra hora <pausa/> la oficina <pausa/> un ambiente más <pausa/> tranquiliño ¿no? siempre es siempre ha sido la batalla <pausa/> o la batalla o estar encerrado <pausa_larga/>
+hab1	"escribiendo <pausa/> preparando cosas <pausa/> ahí <ruido tipo=""boca""/> exprimiéndote la cabeza <pausa/> al máximo o a medio gas o bueno como puedas y luego te vas a grabar siempre <pausa/> no si siempre me ha yo siempre he sido así un culo inquieto me ha gustado mucho viajar <pausa/> y el dinamismo y eso <pausa_larga/>"
+hab1	tiene que ver con <silencio/>
+hab1	"con que <pausa/> lo que te decía me gusta mucho viajar <pausa/> por eso me me también el mundo del cine es lo que me atraía <pausa/> lo dinámico que era lo <ruido tipo=""inspiración""/> <silencio/>"
+hab1	lo que pasa es que también es un <pausa/> el documental me satisface mucho más porque es <pausa/> trabajos míos personales <pausa/> donde <palabra_cortada>ha</palabra_cortada> <pausa/> donde estoy poniendo de mí <pausa/> donde hay un estudio previo donde hay un proceso intelectual <silencio/>
+hab1	que en intelectual lo digo en toda la humildad pero quiero decir hay un trabajo <silencio/>
+hab1	que en un rodaje no hay <pausa/> quiero decir <pausa/> en un rodaje salvo que seas el director <pausa/> el director de arte <pausa/> el director de fotografía <pausa/> o <vacilación/> o <alargamiento>el</alargamiento> efectos especiales o un trabajo que requiera una creatividad un proceso lo que sea <pausa/> al final son <pausa_larga/>
+hab1	son todo <pausa/> peones quiero decir son trabajos mecánicos <pausa/>
+hab2	hm
+hab1	que hay que saber hacerlos <pausa/> que muchas veces son muy complicados <silencio/>
+hab1	pero que no tienen <pausa/> a mí no me dan una <alargamiento>satisfacción</alargamiento> <silencio/>
+hab1	eeh ¿cómo decir? <alargamiento>nivel</alargamiento> intelectual o a nivel personal ¿sabes? no me veo realizado ahí <pausa/>
+hab2	hm hm
+hab1	entonces por eso <alargamiento>también</alargamiento> lo he ido un poco he ido un poco dejando eso y me he ido <pausa/> metiendo más en mis <pausa/> en mis proyectos y mis cosas <pausa_larga/>
+hab1	<alargamiento>porque</alargamiento><pausa/> porque al final me aburre un poco <pausa_larga/>
+hab1	me aburría un poco
+hab2	gustándote el cine ¿prefieres verlo en casa <pausa/> o ir al cine? <risa/>
+hab1	pff ir al cine <alargamiento>está</alargamiento> guay <pausa_larga/>
+hab1	el problema es que trabajando en el cine te deja de gustar ver <risa_inicio/>el cine <risa_fin/> <risa/> <pausa/> el problema es que cuando pff <pausa/> a mí <pausa/> a mí lo que me mola es que si llega el fin de semana y quiero ver una peli me veo Misión imposible tres <pausa/> porque para <alargamiento>ver</alargamiento> cine que o sea pff <pausa/> el problema es que cuando has estudiado cine <pausa/> cuando has visto <pausa_larga/>
+hab1	todo el cine clásico de arriba a abajo bueno me quedan mil cosas por ver pero pff <pausa/> tal <pausa/> cuando estás trabajando y estás viendo documentales de referencia cine ensayo a ver la cómo entiende la teoría del cine este tal no sé qué <pausa/> fff a mí llega el fin de semana y me apetece ver Misión imposible tres <risa/> <pausa/> ¿sabes? o Spiderman eh <pausa/> mis amigos me dicen <cita_inicio/>bua<cita_fin/> y yo digo <cita_inicio/>pero es que pff<cita_fin/> <pausa/> vamos a ver <pausa/> me dedico a eso o sea <pausa/> <palabra_cortada>m</palabra_cortada> <pausa_larga/>
+hab1	o sea fff claro que prefiero por supuesto <silencio/>
+hab1	"el cine <pausa/> el cine de verdad el cine bien hecho <pausa/> pero pff pero es que me apetece desconectar <pausa/> quiero decir que cada día entiendo más que la <pausa/> lo de la tele como opio del pueblo <pausa/> <ruido tipo=""boca""/> <ruido tipo=""golpe""/> <pausa/> ¿sabes? aprietas el botón y <risa_inicio/>hala ya está <risa_fin/> <risa/> <ruido tipo=""chasquido dedos""/> <pausa/> yo el"
+hab2	y también <pausa/> te pasará ver una película y deshacerla <pausa/> realmente o sea <pausa/> te pones a pensar <cita_inicio/>esto está bien <pausa/> esto está mal <pausa/> esto<cita_fin/>
+hab1	claro
+hab1	claro por eso <pausa/> como en las películas estas facilonas eeh <pausa/> quiero decir eh lo que te decía Misión imposible <alargamiento>tres</alargamiento> o películas de estas <alargamiento>de</alargamiento> de acción yanquis <pausa/> eeh <silencio/>
+hab1	lo ves <pausa/> y no piensas <pausa/> están hechas para que las veas <pausa/> para que te enganches y no pienses <pausa_larga/>
+hab1	en el momento en el que <pausa/> el cine bueno <pausa/> o el <palabra_cortada>ci</palabra_cortada> o el cine por lo menos <pausa_larga/>
+hab1	"
+      <palabra_cortada>re</palabra_cortada>
+      <pausa_larga/>
+    "
+hab1	iba a decir real o auténtico pero eso era demasiado bueno <pausa/> el <alargamiento>cine</alargamiento> <pausa/> bueno <pausa_larga/>
+hab1	eeh <pausa/> es el que te hace pensar <pausa/> y es el que hace que tú proyectes lo que sé <palabra_cortada>t</palabra_cortada> sobre esa película que estás viendo y <pausa_larga/>
+hab1	"<alargamiento>y</alargamiento><pausa/> y en tu mente se <palabra_cortada>mu</palabra_cortada> se se se genere algo a partir de esa película <alargamiento>un</alargamiento> <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab1	y claro <pausa/> eeh <pausa/> si encima <pausa/> te dedicas a hacer cine en su vertiente documental o haciendo ficción o hacer <pausa/> el tipo de cine que sea <pausa_larga/>
+hab1	"<alargamiento>pues</alargamiento> claro estás viendo una peli <alargamiento>y</alargamiento> ya no me pasa tanto lo que me pasaba de <cita_inicio/>joder aquí <palabra_cortada>de</palabra_cortada> tiene que haber <pausa/> una <alargamiento>grúa</alargamiento> la cámara debe de estar enganchada<cita_fin/> y lo pensé a veces <cita_inicio/>joder esto cómo lo han rodado<cita_fin/> o <cita_inicio/>mira esto lleva unas capas ahí de postproducción efectos no sé qué<cita_fin/> y <palabra_cortada>a</palabra_cortada> antes me fijaba más en eso ahora ya he conseguido <ruido tipo=""chasquido dedos""/> quitarme el chip ese de desmenuzar las pelis <pausa_larga/>"
+hab1	y me voy más por <alargamiento>el</alargamiento> <pausa/> el planteamiento que hay detrás de la peli cómo el <palabra_cortada>a</palabra_cortada> cómo el director <pausa_larga/>
+hab1	no me voy tan <pausa/> no me quedo tanto con la técnica de cómo lo han rodado <pausa/> sino que me voy a <pausa/> a la filosofía que hay detrás de la película ¿por qué él lo filma así? ¿por qué describe así a los personajes? <pausa_larga/>
+hab1	¿qué relaciones <pausa_larga/>
+hab1	crea entre los personajes y sus espacios? <pausa/> mmm ¿qué <pausa/> qué tipo <alargamiento>de</alargamiento> de lenguaje narrativo utiliza? <pausa/> me quedo más con eso <pausa/> también supongo que es porque estoy haciendo un trabajo más de dirección últimamente <pausa_larga/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	"siendo un novato como soy que <alargamiento>soy</alargamiento> no soy nadie vaya pero bueno <pausa/> que es <palabra_cortada>l</palabra_cortada> es en lo que estoy <ruido tipo=""inspiración""/> <silencio/>"
+hab1	entonces <pausa/> me quedo más con eso <pausa_larga/>
+hab2	¿y la música te gusta?
+hab1	es lo más me gusta <pausa/>
+hab2	es lo que más te gusta <pausa/> buf pues háblame de <risa_inicio/>música <risa_fin/>
+hab1	sí
+hab1	puf <pausa/> <risa/> <risa_inicio/>ese demonio <risa_fin/> <pausa/> <alargamiento>la</alargamiento> <alargamiento>música</alargamiento> fff es a mí lo que más me gusta o sea es lo que siempre más me ha gustado o sea con la música <silencio/>
+hab1	"la música me pone los pelos de punta como no me lo ha <alargamiento>puesto</alargamiento> como pocas películas me lo han puesto <pausa/> <alargamiento>y</alargamiento> <pausa/> <alargamiento>y</alargamiento> <pausa/> y de hecho mi frustración es no haber <palabra_cortada>te</palabra_cortada> o sea tuve grupos <pausa/> pero lo terminé dejando porque tengo un problema yo tengo un problema de <palabra_cortada>auto</palabra_cortada> y lo que no sé es cómo salgo adelante <pausa/> como autónomo <pausa/> como freelance <pausa/> con eh la falta de disciplina que tengo <pausa/> <risa/> o sea de verdad <pausa/> yo <pausa/> o sea sé cómo es <pausa/> el que al final siempre voy a las <alargamiento>prisas</alargamiento> en el último <alargamiento>momento</alargamiento> como ahora que tengo que preparar un dosier para la televisión de Galicia <pausa/> tenía que tener la semana pasada y ahora estoy <pausa/> <ruido tipo=""inspiración""/> aquí <pausa/> con el corazón aquí con <alargamiento>el</alargamiento> <pausa/> con la con la ansiedad aquí porque y claro así es como tucutucutucu empiezo a escribir <pausa_larga/>"
+hab1	pero cuando estoy ahí en las últimas <pausa/> siempre me pasa igual <pausa_larga/>
+hab1	y con la música <alargamiento>no</alargamiento> <pausa/> la música <alargamiento>no</alargamiento> fff tuve mis grupos <pausa/> tocaba la guitarra <alargamiento>y</alargamiento> es lo que más me gustó siempre pero <pausa/> sí
+hab2	¿la guitarra <pausa/> eléctrica? ¡qué guay!
+hab1	<risa_inicio/><alargamiento>y</alargamiento><risa_fin/> pero hace mucho ya que dejé de tocarla de hecho fff <pausa_larga/>
+hab1	y siempre me ha dado rabia <alargamiento>me</alargamiento> <pausa/> todo lo que es el mundo <alargamiento>del</alargamiento> <pausa/> con toda su banalidad y toda su frivolidad <pausa/> pero todo lo que es el mundo del rock and roll siempre me ha encantado <pausa/> y estoy ahí o sea fff mmm <pausa/> bajando música descargándome <pausa/> comprando vinilos eh <pausa/> yendo a conciertos <pausa/> ayer estuve en un concierto de unos amigos de aquí de Santiago que ahora <palabra_cortada>tra</palabra_cortada> <palabra_cortada>tra</palabra_cortada> son músicos viven en Berlín <pausa/> se llaman Los reyes del K.O. y estuvieron ayer en la Sala Capitol tocando <pausa_larga/>
+hab1	y está guay porque en todo mi entorno <pausa/> sí que <alargamiento>hay</alargamiento> es un mundo bastante ligado a la música y a toda esa forma de vida que a veces es un poco tópico pero bueno está ahí <pausa/> y realmente hay una <pausa/> <alargamiento>una</alargamiento> <pausa/> no sé ahí hay un vínculo que está guay <pausa/> <alargamiento>y</alargamiento> es el vehículo de expresión al que más cercano me he sentido siempre <silencio/>
+hab1	pero <pausa/> yo qué sé mmm <silencio/>
+hab1	"tampoco tenía las cualidades innatas como tienen otros amigos <pausa/> para hacer música nunca he tenido un gran oído <ruido tipo=""inspiración""/> <silencio/>"
+hab1	encima nunca he sido muy disciplinado porque si no tienes un gran oído lo puedes suplir con mucho trabajo <pausa_larga/>
+hab1	pero como me a mí me faltaba <pausa/> esa continuidad <pausa/> porque yo no soy vago <alargamiento>soy</alargamiento> lo me di cuenta hace poco no soy vago <pausa/> <alargamiento>tengo</alargamiento> eeh soy poco constante <risa/> sí sí sí <pausa/>
+hab2	trabajas bajo presión
+hab1	eeh claro <pausa/> entonces <pausa/> pues no sé lo fui apartando lo fui dejando y <pausa/> y también creo que <pausa/> cuando era más pequeño igual era un poco más inseguro <alargamiento>y</alargamiento> y no me veía <pausa/> ¿sabes? lo veía <alargamiento>como</alargamiento> <pausa_larga/>
+hab2	hm <pausa/>
+hab1	como <alargamiento>más</alargamiento> <silencio/>
+hab1	<alargamiento>más</alargamiento> ¿cómo se dice? como <alargamiento>más</alargamiento> <pausa/> como más inviable como que fff claro <pausa/> también es que estaba rodeado de amigos que eran buenísimos eran <pausa/> y claro ya veías pff ya decías <cita_inicio/>pff ni de coña <pausa/> yo a ese punto no llego <pausa/> <alargamiento>o</alargamiento> no voy a llegar en principio<cita_fin/> yo qué sé tal <pausa/> bueno eso esas limitaciones que nos <palabra_cortada>ponem</palabra_cortada> nos ponemos a veces <pausa/> un poco nosotros mismos y que en realidad es una tontería porque <pausa_larga/>
+hab1	o confías en ti <pausa/> o no te comes nada <pausa/>
+hab2	ya <pausa/> <alargamiento>y</alargamiento> el estilo que más te gusta entonces es el rock <pausa/>
+hab1	me gusta todo <pausa/> me gusta todo <pausa/> yo cuando <palabra_cortada>ha</palabra_cortada> cuando hablamos de rock and roll pues rock and roll es un término que <pausa/> no abarca solo lo que es el <pausa/> <vacilación/> quiero decir <pausa/> gente que le dice rock and roll y se queda con el rock and roll clásico <alargamiento>de</alargamiento> Elvis Presley y el rollo rock and roll cincuentero <risa_inicio/>no rock and roll es <risa_fin/> todo o sea a mí me gusta <pausa/> quiero decir <pausa/> hay una banda de jazz <pausa/> el rock and roll es más <alargamiento>bien</alargamiento> es que se me hace <palabra_cortada>u</palabra_cortada> es gracioso hablar de esto así porque es un poco tópico pero es cierto es <pausa/> abarca más <silencio/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	esta forma de vida ajetreada y un poco loca y al final es que yo lo llevo en la sangre ¿sabes? y me pasa lo que te decía antes <pausa/> salgo hasta las <palabra_cortada>n</palabra_cortada> nueve de la mañana me voy a trabajar directamente estoy trabajando mis ocho diez <palabra_cortada>do</palabra_cortada> horas las que sean
+hab2	sin dormir <pausa/> claro <risa/>
+hab1	y estás <alargamiento>ahí</alargamiento> <pausa/> lo pasas <alargamiento>mal</alargamiento> y luego te vas a ir a casa pero al final terminas saliendo otra vez y <pausa/> y yo tengo que reconocer que siempre he sido bastante responsable <pausa/> no he cumplido siempre <pausa/> <alargamiento>pero</alargamiento> <pausa/> en el colegio nunca me quedó una para septiembre me quedó una vez una <pausa/> y <alargamiento>siempre</alargamiento> <pausa/> he tenido mis <palabra_cortada>tra</palabra_cortada> o sea <pausa/> nunca he parado de trabajar y he estado estudiando quiero decir que <silencio/>
+hab1	"
+      <alargamiento>en</alargamiento>
+      <silencio/>
+    "
+hab1	por llevar esa vida nocturna <pausa/> no he dejado de llevar mi vida <pausa/> durante el día <pausa/> para nada o sea <pausa/>
+hab2	eso es lo bueno <pausa/>
+hab1	creo que he recorrido <palabra_cortada>m</palabra_cortada> <pausa/> llevo <pausa/> y cuando lo digo con humildad porque me queda tanto por recorrer pero bueno veo compañeros míos de misma generación <pausa/> que están acabando la carrera ahora y es como <cita_inicio/>joder dónde están<cita_fin/> <pausa/> y yo llevo trabajando <pausa/> siete años ¿sabes? <pausa/> entonces <pausa/> digo <cita_inicio/>bueno<cita_fin/> <pausa/> podía haber <palabra_cortada>lle</palabra_cortada> podía haber hecho más a nivel profesional <pausa/> y académico <pausa_larga/>
+hab1	<alargamiento>pero</alargamiento><pausa/> bastante llevo ¿no? <palabra_cortada>s</palabra_cortada> no compararte solo con los que están delante también <pausa/> lo primero que <pausa/> no tienes que comparar es el rollo de <pausa_larga/>
+hab1	compararte con tu propia evolución <pausa/>
+hab2	hm hm
+hab1	pero como también quieras que no <pausa/> pues tenemos referentes externos y dices <cita_inicio/>bueno<cita_fin/> al final no hay que fijarse solo en los que están por delante porque si no es como <pausa/> <alargamiento>el</alargamiento> conejo que nunca coge <alargamiento>la</alargamiento> <alargamiento>la</alargamiento> la zanahoria <pausa/> ¿sabes? porque porque es que por más que corra siempre va delante <pausa/> <risa/> pero si te comparas con el que va detrás pues <pausa/> es otro referente y te da <alargamiento>un</alargamiento> <pausa/> una referencia más real de dónde estás tú ¿no? con respecto a <pausa/> <alargamiento>a</alargamiento> <pausa/> a los demás <pausa/> no por ser ni más ni el menos pero por <pausa/> que a veces te <alargamiento>ayuda</alargamiento> a <pausa/> a <pausa/> a bajar un poco y decir <cita_inicio/>bueno no me tengo que exigir tanto<cita_fin/> <pausa_larga/>
+hab1	entonces yo creo que <pausa/> para lo crápula que he sido <pausa/> no me ha ido mal <pausa/> la verdad <pausa/> <alargamiento>y</alargamiento> <pausa/> <alargamiento>y</alargamiento> <pausa_larga/>
+hab1	y es algo que fff no sé <alargamiento>está</alargamiento> <pausa/> no sé siempre he sido un culo inquieto y me gusta ser lo que te decía me gusta salir me gusta viajar <pausa/> ffss <pausa/> conocer <alargamiento>música</alargamiento> fff <pausa/> conocer a los <alargamiento>grupos</alargamiento> estar por <alargamiento>ahí</alargamiento> los <alargamiento>conciertos</alargamiento>
+hab2	¿y la música folk? <pausa/> ¿te gusta?
+hab1	eeh el folk es de los estilos que tengo <pausa/> me gusta mucho el folk americano <pausa/> el folk gallego fff <pausa/> me cuesta un poco <risa/> y depende <pausa/> quiero decir <pausa/> hay cosas que sí <pausa/> lo que pasa que <pausa_larga/>
+hab2	ya
+hab1	eh <pausa/> a veces se limita un poco el término folk y entendemos que folk es gaita <pausa/>
+hab2	"
+      <alargamiento>no</alargamiento>
+      <pausa/>
+    "
+hab1	"claro <ruido tipo=""chasquido boca""/> pero <vacilación/> para el gran público sí <pausa/> <risa/> <risa_inicio/>o para la gente <risa_fin/> <pausa/> quiero decir <pausa/> escucho <alargamiento>a</alargamiento> un <pausa/> escucho un grupo de pandereteiras <pausa/> por ejemplo ¿sabes? <pausa/> <alargamiento>y</alargamiento> y la escucho cantar <pausa_larga/>"
+hab1	y eso por ejemplo sí que me transmite o sea es un <pausa/> no lo <palabra_cortada>escu</palabra_cortada> no es <alargamiento>un</alargamiento> <pausa/> un rollo que tenga <alargamiento>muy</alargamiento> muy muy trabajado <pausa/> pero sí me transmite <pausa/> escucho <alargamiento>a</alargamiento> fff yo qué <alargamiento>sé</alargamiento> <silencio/>
+hab1	Berrogüetto <pausa/> y alguno es un colega de guitarristas que es amigo mío y es gente con la que tengo como una predisposición para <pausa/> pff y me aburre <pausa/> <risa_inicio/><alargamiento>pero</alargamiento> luego es <risa_fin/> por ejemplo el <alargamiento>folk</alargamiento> <pausa/> de Europa del Este me <énfasis_inicio/>encanta<énfasis_fin/> o sea toda <alargamiento>la</alargamiento> fanfarria <pausa/> Goran Bregovic eeh Emir Kusturica <pausa/> todos estos <pausa_larga/>
+hab1	"me encantan <alargamiento>el</alargamiento> <alargamiento>folk</alargamiento> <pausa/> americano norteamericano <pausa/> <alargamiento>me</alargamiento> encanta <pausa/> todo lo que es el hillbilly el country el <pausa/> con sus raíces <pausa/> el <ininteligible/> en realidad el blues es folk americano porque es música popular y <pausa/> quiero decir lo que pasa que tiene una tradición muy <pausa/> muy corta pero también muy intensa <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab1	el folk irlandés no me gusta <pausa/> lo asocio al gallego o sea vamos a ver no es que no me guste <pausa/> es que de entrada no <alargamiento>me</alargamiento> <pausa/> así hablando un poco <pausa/> no me pone <pausa/> <risa/> ¿sabes? lo escucho <pausa/> y joder <pausa/> hay cosas que están guay <pausa_larga/>
+hab1	pero <alargamiento>no</alargamiento> <pausa_larga/>
+hab1	pero luego por ejemplo canción tradicional francesa sí que me gusta <silencio/>
+hab1	mmm yo creo que lo que no me gusta es el folk gallego <risa/>
+hab2	¿y no sabes <pausa/> <risa_inicio/>por qué <risa_fin/> ? <pausa_larga/>
+hab1	fff no lo sé es que me carga un poco <pausa/> y no todo ¿eh? que te digo que hay cosas que me gustan <pausa/> ¿sabes? hay <palabra_cortada>co</palabra_cortada> hay cosas que sí que me gustan y <pausa/> <alargamiento>y</alargamiento> pero luego por ejemplo <pausa/> los fados <palabra_cortada>partu</palabra_cortada> portugueses que es música tradicional es folk <pausa/> quiero decir entendiendo folk en el sentido más amplio <pausa/> ¿sabes? folclore tradición <pausa/> popular es música popular <pausa/> el fado me encanta <pausa/>
+hab2	sí sí
+hab2	sí es muy bonito
+hab1	"<alargamiento>y</alargamiento><pausa/><alargamiento>y</alargamiento><pausa/> pero esa idea del folk más asociada <alargamiento>a</alargamiento> <pausa/> <alargamiento>al</alargamiento> <pausa/> al <alargamiento>rollo</alargamiento> <alargamiento>irlandés</alargamiento> yo qué sé Luar na <alargamiento>Lubre</alargamiento> Berrogüetto <pausa/> Milladoiro que es una pedazo de banda ¿sabes? son una pedazo de banda y <pausa/> y Berrogüetto también <ruido tipo=""chasquido dedos""/>"
+hab2	no <risa/> no te llega a entrar <pausa/>
+hab1	pero yo qué sé luego escuchas cosas y dices <cita_inicio/>joder <pausa_larga/>
+hab1	"que están guay<cita_fin/> <pausa/> pero no es un estilo <alargamiento>que</alargamiento> y ese me gusta <pausa/> todo o sea lo único que yo no escucho <pausa/> porque no <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab1	no me entra mucho <pausa/> es el hiphop nacional <pausa/> <alargamiento>que</alargamiento> no lo trago <pausa_larga/>
+hab1	pero luego fff yo qué sé desde bandas americanas de rap que son brutales el jazz me encanta todo el jazz clásico <pausa/> Miles Davis <pausa/> a yo qué sé pff <pausa/> <alargamiento>a</alargamiento> toda la psicodelia de los años sesenta el funky el soul toda la música afroamericana <pausa/> <alargamiento>es</alargamiento> eh <pausa/> es <pausa/> me encanta yo qué sé <pausa/>
+hab2	¿y rock español? <pausa/>
+hab1	rock <alargamiento>español</alargamiento> me <alargamiento>gustan</alargamiento> <pausa_larga/>
+hab1	"me gustan cosas <pausa/> no es tampoco lo que más me gusta en general me gustan mucho Los enemigos <pausa/> soy fan absoluto siempre lo he sido <pausa/> de Los enemigos <pausa/> y me <alargamiento>gusta</alargamiento> Burry que era una banda muy antigua de rock and roll que empezaron en los setenta en Madrid fue de las primeras bandas que hubo después de <pausa/> de la dictadura <alargamiento>y</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> lo que pasa es que con los años luego se fueron haciendo <pausa/> un rollo <alargamiento>más</alargamiento> <pausa/> rock and roll más comercial <alargamiento>más</alargamiento> <ruido tipo=""boca""/> <pausa/> como más blandengue <pausa/> pero una buena banda <pausa/> de bandas <alargamiento>actuales</alargamiento> <pausa/> españolas pues yo qué sé me <alargamiento>gusta</alargamiento> pff <pausa/> La vaca azul <pausa/> que tampoco es muy conocida pero es un grupo que está guay <pausa/>"
+hab2	yo no lo conozco <pausa/>
+hab1	está guay me <alargamiento>gusta</alargamiento> <pausa_larga/>
+hab1	joder es que basta que tenga que decir grupos ahora <pausa_larga/>
+hab2	no no me tienes que decir
+hab1	"no <alargamiento>pero</alargamiento> <ruido tipo=""chasquido boca""/> <pausa/> lo estoy pensando <pausa/> yo qué sé me gustan grupos tampoco es <pausa/> yo qué sé que cada grupo es un mundo <silencio/>"
+hab2	pero tendrás un patrón <pausa/> <cita_inicio/>me gusta <pausa/> esto<cita_fin/> <risa/>
+hab1	no <pausa/> es que me gusta todo <pausa/> quiero decir todo lo que esté <alargamiento>hecho</alargamiento> <silencio/>
+hab1	es que no me gusta decir lo bueno o lo mal hecho <pausa/> pero todo lo que sea auténtico todo lo que sea <pausa/> original <pausa/> me gusta y <pausa/> y es que me gusta todo es que si ves en los discos bueno no son solo míos que también hay hm discos de <ficticio>Laura</ficticio> pero es que <pausa/> la música clásica me encanta me me <pausa/> <alargamiento>me</alargamiento> yo qué sé <pausa/> canción tradicional francesa <pausa/> lo que más me ha gustado siempre con lo que más me he sentido <pausa/> yo qué sé pues <pausa_larga/>
+hab1	"<alargamiento>me</alargamiento> rollo un poco más sesentero así la psicodelia de los sesenta <pausa/> el funky setentero <pausa/> el rock <alargamiento>setentero</alargamiento> <pausa/> todo ese rollo siempre me ha gustado más pero fff <pausa/> es que <alargamiento>luego</alargamiento> <pausa/> mi gran músico mi referente es Tom Waits <pausa/> por ejemplo <pausa/> y es hombre empezó en los setenta pero es un tipo que hoy en día sigue estando ahí y es uno de los <pausa/> maestros <pausa/> está en la brecha y <pausa/> y ese <palabra_cortada>t</palabra_cortada> y eh y Tom Waits hace <pausa/> cabaret <pausa/> hace jazz <pausa/> hace blues <pausa/> <alargamiento>hace</alargamiento> tiene discos <pausa/> con de <alargamiento>música</alargamiento> <alargamiento>profunda</alargamiento> <alargamiento>americana</alargamiento> rollo mucho más <pausa/> de la América profunda con <pausa/> raíz incluso folk por <pausa/> <ruido tipo=""inspiración""/> yo qué sé <pausa/> es un tipo <pausa/> es una de las cosas es muy ecléctico <pausa/> yo <pausa/> eso soy no soy <alargamiento>nada</alargamiento> purista ni nada ortodoxo en la música me <alargamiento>gusta</alargamiento> <pausa/> desde el blues <alargamiento>hasta</alargamiento> <pausa/>"
+hab2	te gusta la variedad
+hab1	sí <pausa_larga/>
+hab2	<risa/> eres un hombre de mundo <risa_inicio/> realmente <risa_fin/>
+hab1	<risa/> bueno <pausa/> <risa_inicio/>un chico de mundo más bien <risa_fin/>
+hab2	bueno <pausa/> un chico de mundo
+hab1	y tampoco tanto <pausa/> <ininteligible/> y cuando acabe el documental este me gustaría irme a vivir fuera <pausa/> una temporada <pausa/> tengo ganas
+hab2	te gustaría ir ¿a dónde? <pausa/> ¿no sabes?
+hab1	estoy pensando en irme a Nueva York <pausa/>
+hab2	<risa_inicio/>caray <risa_fin/>
+hab1	lo que pasa <alargamiento>que</alargamiento> <pausa/> ir a vivir a Estados Unidos es jodido porque <pausa_larga/>
+hab1	no es <alargamiento>fácil</alargamiento> fff <pausa/> si te vas a un sitio como Nueva York tienes que tener más o menos asegurado un trabajo <pausa_larga/>
+hab2	hm
+hab1	"porque no es nada barato <pausa/> quiero decir por más que te lleves dos mil euros ahorrados <ruido tipo=""silbido""/> <pausa/> dos mil euros vuelan allí <pausa/>"
+hab2	no llegan para mucho <pausa/>
+hab1	<alargamiento>y</alargamiento><pausa/> pero tengo Nueva York ahí en la mente <pausa/> tengo ahora amigos viviendo en Berlín también y es <pausa/> pero es que en Europa ya no hay ciudades que me atraigan o sea <pausa/> para vivir <silencio/>
+hab1	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab1	y Nueva York <alargamiento>me</alargamiento> lo tengo ahí me pica la oreja son cuatrocientos euros <pausa/> son cuatrocientos euros volar allí <pausa/> <alargamiento>y</alargamiento> mmm <pausa_larga/>
+hab1	y el problema son los contactos <pausa/> necesitaría un contacto alguien de <pausa/> dónde aterrizar una casa un <pausa/> tengo un par de amigos que tampoco es gente de mucha confianza <pausa_larga/>
+hab1	porque es una cosa es ir de visita estar allí dos meses <pausa/> pero si realmente quieres estar <alargamiento>allí</alargamiento> ir allí a estar seis meses <pausa/> necesitas un trabajo <pausa/> y para eso <alargamiento>y</alargamiento> tienes que tener <alargamiento>un</alargamiento> como un sitio donde aterrizar <alargamiento>un</alargamiento> un espacio
+hab2	y alguien que te guíe más o menos
+hab1	claro <pausa/> y alguien que te guíe <pausa/> <alargamiento>no</alargamiento> fff llegar a Nueva York de buenas a primeras <pausa/> <risa_inicio/>sin conocer a nadie <risa_fin/>
+hab2	serías <alargamiento>como</alargamiento> un granito <risa_inicio/>de arena <risa_fin/> en un
+hab1	pff tienes que ser un buscavidas pero <risa/> con unos recursos que yo no tengo <pausa/> para poder <pausa_larga/>
+hab2	una duna
+hab1	"abrirte <pausa/> pero es lo que me apetece la verdad <pausa/> y además me quiero sacar ahí un par de exámenes de inglés que tengo pendientes porque hablo bien inglés pero no tengo ningún examen aprobado <ruido tipo=""inspiración""/> <pausa/> me quería hacer el <sigla_inicio/>TOEFL<sigla_fin/> o el Advanced <pausa/> bueno el Advanced es <pausa/> hay que hacerlo en Inglaterra <pausa/> pero bueno <pausa/> <alargamiento>quería</alargamiento> <pausa/> y cambiar de aires <pausa_larga/>"
+hab2	y ¿por qué no se te ocurre hacer allí el documental o algo? <pausa_larga/>
+hab1	bueno <pausa/> en principio <pausa/>
+hab2	siempre hay <risa/>
+hab1	sí no no historia hay siempre <pausa/> pero yo qué sé <pausa/> no sé también me apetece ir un poco a desconectar <pausa_larga/>
+hab2	ah
+hab1	a cambiar de aires <pausa/> a trabajar con lo que sea pero <pausa_larga/>
+hab2	pero
+hab1	<vacilación/> pero sin <palabra_cortada>come</palabra_cortada> y sin comerlo bueno sin comerlo ni beberlo no <pausa/> pero poco a poco de repente me doy cuenta que estoy completamente metido en <pausa_larga/>
+hab1	<alargamiento>haciendo</alargamiento> una <pausa/> cosas que me gustan <alargamiento>y</alargamiento> pero me estoy dedicando a algo <alargamiento>y</alargamiento> <pausa/> y no sé creo que ahí veo que hay tantas <pausa/> posibilidades más <pausa/> ¿sabes? que <pausa/> centrarme solo en <alargamiento>esto</alargamiento> <pausa/> no sé <pausa/> me molaría probar más cosas antes de <pausa/>
+hab2	es que el trabajo absorbe <pausa/>
+hab1	claro <pausa/> <alargamiento>y</alargamiento> <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> no sé <pausa/> me gustaba esto cuando era más pequeño y me fui metiendo y me sigue gustando pero <pausa_larga/>
+hab1	pero no quiero perder la oportunidad de probar otras cosas <pausa/> aunque luego me quede con esto pero de haber probado más cosas <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> creo que además es importante <alargamiento>porque</alargamiento> <pausa/> también te da una visión <pausa/> mucho más global <alargamiento>de</alargamiento> <pausa/> de tu propio trabajo y de <alargamiento>tu</alargamiento> y de tu propia carrera y <pausa/> y creo que es importante <pausa/> pero cuando te hablo de otras cosas te hablo de hacerme guía de montaña <pausa/> <risa/> sí ríete pero soy monitor de tiempo libre me gusta la montaña <pausa/> igual pasarme un año <pausa/> en la montaña es un <pausa/> yo qué sé pff ahora me lo puedo permitir <pausa/> cuando tenga cuarenta años <alargamiento>igual</alargamiento> tengo alguna boca que alimentar y no me puedo <alargamiento>permitir</alargamiento> <pausa/> <alargamiento>así</alargamiento> <pausa/> ideas fantásticas <pausa/>
+hab2	¿eres monitor de tiempo libre? ¿todo el año o solo en verano?
+hab1	sí <pausa_larga/>
+hab1	<alargamiento>no</alargamiento> no no no <alargamiento>ya</alargamiento> ya no ejerzo soy <alargamiento>titulado</alargamiento> hice <alargamiento>el</alargamiento> <pausa/> le <palabra_cortada>hic</palabra_cortada> lo hice estuve de monitor en campamentos y tal y <pausa/>
+hab2	¡qué guay! <risa/>
+hab1	hace ya hace años <pausa/>
+hab2	y esa actividad ¿qué tal? <pausa/> ¿qué me puedes decir?
+hab1	bien <pausa/> bien en realidad lo hice por sacar pasta lo que pasa que luego me di cuenta cuando estaba ahí dentro <pausa/> o sea por tener un trabajo más mientras no estaba metido en lo mío <pausa_larga/>
+hab1	por tener un trabajo <pausa_larga/>
+hab1	y mmm <silencio/>
+hab1	y luego me di cuenta de que estaba guay <alargamiento>porque</alargamiento> <pausa/> los campamentos <pausa_larga/>
+hab1	"luego me veía en la playa en la montaña haciendo actividades tal <pausa/> me dije <cita_inicio/>coño pero es que esto está guay o sea esto es una vía guay para hacer <pausa/> estar en el entorno que me gusta<cita_fin/> <pausa/> <alargamiento>pero</alargamiento> estuve tres lo hice estuve tres veranos <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> <alargamiento>pero</alargamiento> luego"
+hab2	¿aquí en Galicia? <pausa/>
+hab1	estuve en Galicia y en Cantabria con algún campamento de la Xunta que se intercambia niños que venían aquí y chicos que se iban para <alargamiento>allí</alargamiento> <pausa/> <alargamiento>y</alargamiento> y estuvo guay <alargamiento>pero</alargamiento> <pausa/> pero como luego ya empecé a trabajar muy rápido de lo mío <pausa_larga/>
+hab2	hm <pausa/>
+hab1	eeh pues <pausa/> yo qué sé el tiempo libre que <alargamiento>tenías</alargamiento> lo <alargamiento>dedicaba</alargamiento> lo dedicas <alargamiento>a</alargamiento> a viajar a estar en la playa tirado aquí al lado o <pausa/> o a descansar <pausa/> no a <pausa/> a trabajar <silencio/>
+hab2	eres una persona <risa_inicio/>muy polifacética <risa_fin/>
+hab1	bueno <pausa/> yo creo que el problema es que el que mucho abarca <risa_inicio/>poco aprieta <risa_fin/> <risa/> <pausa/>
+hab2	bueno
+hab1	a veces creo que tendría que no sé <pausa/>
+hab2	pero tienes ya muchas cosas para contar <pausa/> muchas muchísimas <pausa_larga/>
+hab1	pff y encima hablo como un <risa_inicio/>hablo por los codos <risa_fin/>
+hab2	pero eso mola <pausa/> yo también hablo mucho <pausa/>
+hab1	¿sí? <pausa/>
+hab2	así que no te preocupes <pausa_larga/>
+hab2	¿me quieres contar algo más? <pausa_larga/>
+hab1	pues no sé por poder contarte te podría contar muchísimas cosas <pausa_larga/>
+hab1	pero también dime tú un poco igual qué es lo que te <pausa_larga/>
+hab2	no sé <pausa/>
+hab1	<alargamiento>pues</alargamiento><pausa/> pues pues pues pues <pausa/> no sé
+hab2	sobre tu familia <pausa/> ¿tu familia es madrileña? <alargamiento>o</alargamiento>
+hab1	sí mi <alargamiento>familia</alargamiento> es <pausa/> vamos a ver <pausa/> mi familia es de Madrid <pausa_larga/>
+hab1	bueno mi madre nació en <ficticio>Zamora</ficticio> pero a los cuatro años se fue a Madrid
+hab2	hm hm
+hab1	mi familia es de Madrid <pausa_larga/>
+hab1	"cuando tenían la edad que tengo yo ahora se fueron a vivir a <ficticio>Huesca</ficticio> <pausa/> y con veintiocho años por ahí no un poquito antes incluso <pausa/> bueno mi padre era ingeniero <pausa/> era y es ingeniero <pausa/> <alargamiento>y</alargamiento> <pausa/> <alargamiento>y</alargamiento> <pausa/> y fue número uno de su promoción entonces en cuanto acabó la carrera ya estaba trabajando hizo una <alargamiento>oposición</alargamiento> tal no sé qué y <pausa/> y muy joven ya tenía una plaza <alargamiento>en</alargamiento> <pausa/> él era ingeniero en montes <pausa/> es ingeniero en montes y estaba en <ruido tipo=""inspiración""/> <pausa/> <alargamiento>en</alargamiento> en <ficticio>Huesca</ficticio> estuvieron viviendo en <ficticio>Huesca</ficticio> y era jefe de una reserva lo que ahora se llaman parques naturales que antes se llamaban reservas de caza"
+hab2	hm hm
+hab1	"pero era lo mismo ¿no? parque natural era el <pausa/> grado anterior a parque nacional <pausa/> y entonces <pausa/> él era el ingeniero de <alargamiento>una</alargamiento> <pausa/> de una reserva <pausa/> pues bueno antes la reserva mmm tenía <pausa/> guardas <pausa/> tenían <pausa/> peones capataz <pausa/> guardas forestales <pausa/> guarda mayor y el ingeniero <pausa/> y el ingeniero y el guarda mayor pues eran los que llevaban <pausa/> las <pausa/> allí el desarrollo <alargamiento>del</alargamiento> del parque o lo que sea parque natural el <pausa/> bueno <ruido tipo=""inspiración""/> <pausa/> y entonces vivían allí y entonces cuando nacimos <pausa/> cuando yo <alargamiento>nací</alargamiento> nací en Madrid pero mi familia vivía allí o sea nací en Madrid pero mi familia ya vivía en <ficticio>Huesca</ficticio> <pausa/> entonces <pausa/> viví cuatro años en <ficticio>Huesca</ficticio> estuvimos <alargamiento>allí</alargamiento> un tiempo <pausa/> <alargamiento>y</alargamiento> nació mi hermana también en Madrid pero <pausa/> pero mmm bueno no sé muy bien por qué fuimos a nacer a Madrid la verdad podía haber nacido en <ficticio>Huesca</ficticio> <pausa/> <risa_inicio/>pero <risa_fin/> <risa/> pero bueno el caso es que <pausa/> eso sí que es curioso es algo que <pausa/> nací en Madrid <pausa/> nunca viví allí <pausa/> hasta que luego con los años fui a vivir pero <pausa/> mmm viví en <ficticio>Huesca</ficticio> <pausa/> y de repente de <ficticio>Huesca</ficticio> nos vinimos a Galicia <pausa/> yo cuando llegué <alargamiento>aquí</alargamiento> <pausa/> yo tenía acento mañico y claro a mí ahora me resulta <pausa/> <énfasis_inicio/>extrañísimo<énfasis_fin/> porque yo soy de Santiago de toda la vida yo soy gallego <pausa/> no me no es que me sienta <pausa/> soy gallego <risa_inicio/>no me siento soy gallego <risa_fin/> <pausa/> <alargamiento>y</alargamiento> <pausa/> y claro me <vacilación/> pienso que tuve acento mañico <pausa/> en algún momento de mi vida y era <cita_inicio/>¡joder! ¡qué cosa más rara!<cita_fin/> <pausa_larga/>"
+hab2	te sientes gallego
+hab1	¿no? pff los maños que están allí en <ficticio>Huesca</ficticio> <risa_inicio/><ininteligible/> <risa_fin/> <risa/> <pausa/> pero bueno <pausa/> y entonces eso ocurrió eso porque <pausa/> en realidad <pausa/> toda la vida yo escuchaba <pausa/> que fulanito se va a la aldea fulanito <cita_inicio/>bah me voy a la aldea<cita_fin/> <pausa/> <cita_inicio/><alargamiento>yo</alargamiento> mis abuelos la aldea<cita_fin/> <pausa/> y yo notaba que yo no tenía ni aldea <pausa/> ¿sabes? <alargamiento>y</alargamiento> <silencio/>
+hab1	y <pausa/> <alargamiento>y</alargamiento> luego con los años eso se fue transformando en una sensación de desarraigo es decir <pausa_larga/>
+hab1	"<cita_inicio/>soy gallego porque me <palabra_cortada>sien</palabra_cortada><cita_fin/><ruido tipo=""chasquido boca""/><pausa/> cuando me fui a vivir a Madrid <pausa_larga/>"
+hab1	cuando estuve allí estudiando <pausa/>
+hab2	hm
+hab1	"empecé a tener bastante contacto con <alargamiento>mi</alargamiento> voy a encender aquí <pausa/> con <alargamiento>mi</alargamiento> <pausa/> con la familia de mis <ruido tipo=""indeterminado""/> <palabra_cortada>pa</palabra_cortada> con mis primos la familia de <alargamiento>mi</alargamiento> <pausa/> de <alargamiento>mi</alargamiento> de mis padres y tal <pausa/> <alargamiento>y</alargamiento> mmm <ruido tipo=""indeterminado""/> <alargamiento>y</alargamiento>"
+hab2	¡menudo juego de luces! <risa/>
+hab1	sí es que odio las luces del techo <risa/> <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> y entonces empecé como a sentir el vínculo <pausa/> con Madrid <pausa_larga/>
+hab1	claro como que <alargamiento>realmente</alargamiento> era en Madrid <pausa/> y tenía una familia en Madrid <pausa/> no me gustaba nada la idea porque era <cita_inicio/>joder si realmente me estoy sintiendo un poco de Madrid y llevo <pausa/> viví cuatro años allí<cita_fin/> <pausa/> y empecé a tener más <palabra_cortada>cont</palabra_cortada> <alargamiento>un</alargamiento> un contacto más continuo con mi familia que nunca había tenido porque siempre era vernos en Navidades y bue en las fiestas de guardar <pausa/> Navidades algún verano y chao <silencio/>
+hab1	con mi familia de Madrid digo <pausa/> entonces <silencio/>
+hab1	"de repente empecé a no en ningún momento me dejé de sentir gallego pero me empecé a sentir un poco madrileño y de repente <pausa/> luego me fui a Londres y otra <palabra_cortada>ve</palabra_cortada> y lo pensé y decía <cita_inicio/>yo en en realidad lo que tengo es un desarraigo <pausa/> porque soy gallego y yo mi casa Santiago <lengua_inicio nombre=""en""/>forever and ever<lengua_fin/> <pausa_larga/>"
+hab1	<alargamiento>pero</alargamiento> no <alargamiento>tengo</alargamiento> esa raíz esa familia no tengo <pausa/> no tengo una casa de mis abuelos<cita_fin/> <pausa/>
+hab2	mhm <pausa_larga/>
+hab1	<vacilación/> en Madrid me queda una abuela <alargamiento>y</alargamiento> es un piso en Madrid no es <pausa/> como ir a la aldea y tener una casa de tus abuelos no es <alargamiento>como</alargamiento> no es <alargamiento>un</alargamiento> <pausa/> un punto familiar ahora por ejemplo mis padres se han vuelto a vivir a Madrid <pausa/> después de veinticinco años aquí <pausa/> por circunstancias <silencio/>
+hab1	y ahora <pausa_larga/>
+hab1	pff no no tengo <alargamiento>ni</alargamiento> casa como quien dice o sea todavía no han vendido la casa <pausa/> que es allí en Vidán <pausa/> pero esa casa se va a vender entonces yo de repente <pausa/> al final mi familia se vuelve a vivir a Madrid mi hermana está viviendo también en Madrid <pausa_larga/>
+hab1	y de repente soy yo me quedo aquí mi <pausa/> mi <pausa/> digamos que mi familia <pausa/> que no se quería ir pero bueno se tuvo que ir <pausa/> ahora vuelve a estar viviendo en la ciudad <pausa/> de la que eran <silencio/>
+hab1	¿no? <pausa/> Galicia aunque hayan sido veinticinco años <pausa/> ha sido como un paréntesis pero están en Madrid que es su ciudad <pausa/> son madrileños <silencio/>
+hab1	"y de repente yo he quedado aquí en Galicia <pausa/> <risa/> como el poso <pausa/> de su experiencia o sea <pausa/> pero no <alargamiento>tengo</alargamiento> <pausa/> quiero decir <pausa/> es curioso ¿no? de repente <pausa/> no <palabra_cortada>t</palabra_cortada> ya no tengo una casa en Santiago no tengo el hogar de mis padres eso para mí es muy raro <pausa/> ¿sabes? <pausa/> yo <pausa/> estoy en Santiago tengo mi casa tengo mi hogar <pausa/> pero que la casa de mis padres no esté <pausa/> en Santiago <pausa/> es curioso y me da un poco de pena <pausa/> es un rollo un poco <pausa/> <ruido tipo=""inspiración""/> que da igual porque yo <pausa/> voy a hacer aquí mi casa <alargamiento>y</alargamiento> y bue voy a hacer mi casa <pausa/> yo voy a tener un <palabra_cortada>ch</palabra_cortada> algún día tengo una familia <pausa/> ojalá que sí <pausa/> <risa/> <risa_inicio/>mmm pues <risa_fin/> tengo unas ganas de tener críos fff <pausa/> y ya lo que deseo con la cara de niño que tengo tengo unas ganas de tener hijos pero bueno todavía <pausa/> faltan <pausa/> un par de añitos ahí los que sean <pausa/> que luego de repente <alargamiento>igual</alargamiento> <pausa/> no falta tanto no lo sé <pausa_larga/>"
+hab2	ya
+hab1	y entonces está esa parte que me gusta saber que <alargamiento>yo</alargamiento> me podré <silencio/>
+hab1	eeh <silencio/>
+hab1	tener una familia aquí tener <alargamiento>un</alargamiento> hogar pero ahora es un poco raro porque de repente me he quedado sin <silencio/>
+hab1	"sin vivo <alargamiento>en</alargamiento> vivo entre <pausa/> esta es la casa de <ficticio>Laura</ficticio> mi novia vivimos los dos quiero decir bueno <palabra_cortada>indepen</palabra_cortada> yo estoy aquí desde que ella se vino aquí <pausa/> es tan mía como suya pero bueno es su casa <pausa/> y yo tengo la casa de mis padres que ellos están en Madrid y yo me volví yo antes vivía por la zona vieja y cuando ellos se fueron mientras la casa estaba vacía no iba a pagar alquiler <pausa/> <ruido tipo=""inspiración""/> pero luego estoy más tiempo aquí que allí entonces ya empiezo estoy como <pausa_larga/>"
+hab1	tiene que ver también con lo que hablábamos antes con lo de que soy <alargamiento>un</alargamiento> ¿sabes? siempre estoy de allá para acá <pausa/> de repente vivo aquí <pausa/> está la casa <pausa/> pero esa casa siempre todo muy fff <silencio/>
+hab2	un poco nómada <risa/>
+hab1	<risa_inicio/>y claro <risa_fin/><pausa/> sí <pausa/> o sea tengo ese espíritu <pausa/> <alargamiento>y</alargamiento> <pausa/>
+hab2	pero eso también trae buena experiencias <pausa/>
+hab1	mogollón <alargamiento>y</alargamiento> como dijo un día un amigo me <alargamiento>decía</alargamiento> para <silencio/>
+hab1	dedicándonos a lo que nos dedicamos y queriendo contar historias y <pausa/> uno porque es actor el otro porque es escritor el otro porque hace cine el otro <alargamiento>porque</alargamiento> es periodista <silencio/>
+hab1	eeh <pausa/> <alargamiento>si</alargamiento> <pausa/> tienes si quieres contar historias <pausa/> primero tienes que vivir cosas tienes que vivir historias <pausa/> y todas esas experiencias <pausa_larga/>
+hab1	cuando estás arriba cuando estás abajo cuando estás puteado en una ciudad que no conoces a nadie cuando de repente <pausa/> es pff yo qué sé <pausa/> lo que sea <pausa/> todo eso te da una experiencia y un bagaje <pausa/> <alargamiento>que</alargamiento> <pausa/> <alargamiento>que</alargamiento> <pausa_larga/>
+hab1	que luego tú pues bueno te da <pausa/> es material para trabajar y está <pausa/> está guay yo el documental que estoy haciendo es fruto de todas esas experiencias <pausa/> es un <palabra_cortada>viaj</palabra_cortada> es un viaje <pausa/> o sea un documental personal <pausa_larga/>
+hab1	que consiste en un viaje <pausa_larga/>
+hab1	siendo yo una persona que me gusta viajar <pausa/> es un viaje en furgoneta que es mi propia furgoneta <pausa/> recorriendo <alargamiento>la</alargamiento> <pausa/> la <pausa/> la carretera de mi infancia todos tenemos ese lugar común hay un lugar común en nuestra
+hab2	hm hm
+hab1	en <alargamiento>el</alargamiento> en el imaginario de todo el mundo yo creo que es el <pausa/> los viajes de la infancia el viaje por ejemplo a mi novia <ficticio>Laura</ficticio> ella es de Ourense <pausa/> vivió siempre en Santiago entonces <pausa/> su viaje era Santiago <palabra_cortada>Cor</palabra_cortada> Santiago Ourense y iba a ver a sus abuelos siempre <pausa/> y recuerda todos los viajes que iban con sus padres a Ourense pues que eran tres horas de viaje dos horas cuando éramos pequeños <pausa_larga/>
+hab1	y lo tiene aquí metido <pausa/> el otro que su familia era de Noia y toda la vida hizo Santiago Noia <pausa_larga/>
+hab1	y es como la carretera sea <pausa/> más o menos largo <pausa/> pues todo el mundo tiene un poco <pausa/> para ir a casa de mis abuelos íbamos siempre tal <pausa/> y entonces <pausa/> se trata un poco de <pausa/> a partir de <pausa/> de ese lugar común que hay en todos ¿no? que es un poco buscar el vínculo con todos los espectadores <pausa/> en mi caso esa carretera es <pausa/> Madrid <palabra_cortada>San</palabra_cortada> es Coruña Madrid Coruña es la Nacional sexta <pausa/> que además es una carretera muy mítica por una <palabra_cortada>ter</palabra_cortada> unas determinadas circunstancias <pausa_larga/>
+hab1	pues tiene unas cosas muy <pausa/> muy interesantes <pausa_larga/>
+hab1	entonces <pausa/> el trabajo que voy a hacer <pausa_larga/>
+hab1	es <pausa/> un viaje <pausa_larga/>
+hab1	entonces ya estoy metiendo esa parte que a mí me gusta del viaje
+hab2	mhm
+hab1	o sea tú esto no lo preparas esto surge <pausa/> quiero decir <pausa/> yo que en el momento en el que <pausa/> quiera hacer un documental sobre la carretera de repente <pausa/> empiezas a trabajar o empiezas a <pausa/> <alargamiento>a</alargamiento> desnudarlo de artificio a tratar de poner lo más sincero en lo que creo en lo que sea más tuyo <pausa/> y de repente <pausa/> digo <cita_inicio/>joder claro es que al final lo que es lo que queda es un documental de viaje <pausa/> con mi propia experiencia <pausa/> sobre esa carretera es una vuelta a mi carretera de la infancia donde siempre he estado yendo y viniendo<cita_fin/> <pausa/> que es algo que ahora me ha marcado porque tengo <pausa/> ese desarraigo ¿sabes? ese ir y venir no pertenecer <pausa/> casi a ningún sitio <pausa/> eemm <silencio/>
+hab1	mi propia furgoneta que yo me compré para poder viajar ahora es <pausa/> un vehículo <pausa/> que se utiliza dentro del documental como <pausa/> simbolizo pues <pausa/> el viajero que está <pausa/> quiero decir al final todo está relacionado ¿sabes? si <palabra_cortada>te</palabra_cortada> una cosa te lleva a la otra <pausa/> y <alargamiento>es</alargamiento> <pausa/> es curioso <pausa/> por eso también es bonito porque es un <pausa/> aprendes a conocerte a ti mismo ¿sabes? y <pausa/> y a entender por qué haces las cosas y requiere un trabajo personal <pausa_larga/>
+hab1	<alargamiento>que</alargamiento> yo creo que es <pausa/> que es bueno que luego en realidad es una tontería porque <palabra_cortada>t</palabra_cortada> nos morimos <alargamiento>y</alargamiento> te <palabra_cortada>ha</palabra_cortada> te lo hayas pensado más o menos al final somos todos acabamos todos siendo lo <palabra_cortada>m</palabra_cortada> <pausa/> <énfasis_inicio/>polvo<énfasis_fin/> <pausa/> pero bueno mientras estás vivo pues es como más <pausa/> no sé hay gente <alargamiento>que</alargamiento> <pausa_larga/>
+hab1	tiene otras inquietudes y no hace nada <silencio/>
+hab1	a mí <alargamiento>me</alargamiento> <pausa/> no sé
+hab2	pero eso es vacío realmente
+hab1	"<ruido tipo=""inspiración""/> sí pero hay gente que es capaz de vivir <pausa/> y ojo es <pausa/> me <palabra_cortada>re</palabra_cortada> hablar así es un poco categórico pero <pausa/> incluso un poco pretencioso pero <pausa/> hay gente que prefiere vivir engañada toda su vida y le funciona <pausa/> y yo lo envidio muchas veces hay gente que <pausa_larga/>"
+hab1	no se enfrenta a sí misma nunca <alargamiento>y</alargamiento> <silencio/>
+hab1	y hombre generalmente <pausa/> suele salir <pausa/> termina por <pausa/> termina por salir <pausa/> llegan las depresiones a los cuarenta llegan los <pausa/> <alargamiento>la</alargamiento> la la soledad cuando eres mayor quiero decir cuando <pausa/> uno tiene que respetarse a sí mismo <pausa/> y tiene que <pausa/> creo <pausa/> y tiene que ser coherente con uno mismo <pausa/> para hacerse a sí mismo de verdad <pausa/> para <pausa_larga/>
+hab1	para tener una vida de calidad contigo mismo <pausa/> ¿sabes? <pausa/> <alargamiento>y</alargamiento> eso al final también te da salud <pausa/> y eso <pausa_larga/>
+hab1	te <pausa/> puede llevar hombre <pausa/> siempre puedes tener muy mala suerte que se te joda todo <pausa/> <alargamiento>pero</alargamiento> <pausa/> si tratas de hacer las cosas bien es mucho más fácil que por ejemplo cuando seas mayor <pausa/> mayor <pausa/> mayor tengas un entorno <pausa/> agradable o <pausa/> quiero decir siempre te puedes quedar solo <pausa/> pero no sé es <pausa/> <palabra_cortada>l</palabra_cortada> <palabra_cortada>l</palabra_cortada> supongo que será la satisfacción de haber hecho <palabra_cortada>l</palabra_cortada> haber llevado la vida que tú querías llevar <pausa/> yo me puedo permitir decir esto hay gente <alargamiento>que</alargamiento> <pausa/> que desde los <alargamiento>dieciséis</alargamiento> ha tenido que currar no por <palabra_cortada>in</palabra_cortada> no por <pausa/> iniciativa <pausa/> como lo he hecho yo <pausa/> sino por <pausa/> obligación <pausa/> y nunca ha tenido tiempo de pensar demasiado <pausa/> y se van acumulando las horas de trabajo <pausa/> año tras año <pausa/> <alargamiento>y</alargamiento> <silencio/>
+hab1	y yo en realidad <pausa/> nunca me ha sobrado nada pero jamás me ha faltado nada entonces <pausa/> me he podido permitir <pausa/> pensar todas estas cosas y montarme mi vida como yo quería <silencio/>
+hab1	pero bueno creo <alargamiento>que</alargamiento> <pausa_larga/>
+hab1	<alargamiento>que</alargamiento> que <pausa/> que es importante ¿no? hacer lo que quieres <pausa/> es mucho más importante que <pausa/> de lo que pensamos <pausa/> se ha convertido en un tópico la frase <cita_inicio/>es importante que hagas lo que quieres es importante que estudies lo que quieres<cita_fin/> <pausa/> y hay <palabra_cortada>gen</palabra_cortada> <pausa/> pff pero es que realmente es muy importante <pausa_larga/>
+hab1	yo creo <pausa/>
+hab2	es lo más importante
+hab1	claro <risa_inicio/>es que es lo más importante <risa_fin/> <pausa/> es lo que te va a dar <alargamiento>una</alargamiento> <pausa_larga/>
+hab1	no sé un <pausa/> una vida más completa o más satisfactoria y <pausa/> y bueno <pausa/> y ya me estoy enrollando <risa/>
+hab2	no muchas gracias <pausa/> la verdad es que hablar contigo <pausa/> mola <pausa/>
+hab1	bueno me alegro
+hab2	ahora te voy a hacer un interrogatorio
+hab1	vale

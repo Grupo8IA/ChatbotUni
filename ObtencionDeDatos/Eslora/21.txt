@@ -1,0 +1,251 @@
+hab1	lo mejor es que pases de todo <pausa/> porque en este momento
+hab2	no hombre que más da
+hab1	basta que
+hab1	basta que alguien me cambie de rollo para que tal
+hab1	<ficticio>Marta</ficticio><pausa/> ¿y luego aquí no lo estábamos haciendo bien?
+hab2	y <alargamiento>luego</alargamiento>
+hab2	"
+      <ruido tipo=""suspiro""/>
+    "
+hab3	yo creo que se hace más fácil aquí con un cuchillo y no con tijera
+hab1	a ver <ficticio>Marta</ficticio>
+hab2	¿y que más da ahora? si estaba cortando
+hab1	yo ya lo tengo listo <pausa_larga/> pásame unas tiras a mi
+hab3	sí si tienes que trabajar de cocinero te echan
+hab1	pásame esa <pausa/> pero a ver <ficticio>Marta</ficticio>
+hab1	que yo no tengo que trabajar de cocinero estoy en casa <pausa_larga/> aquí un ratito <pausa/> eeh sentado tranquilamente y me están ahora dando la tabarra
+hab2	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+    "
+hab1	¿de acuerdo?
+hab2	ven aquí mamá y te damos también la tabarra a ti
+hab1	claro relájate un poco mujer
+hab1	¿no dices que tenemos tiempo de sobras <alargamiento>hasta</alargamiento> que nos pongamos con eso?
+hab2	aún son las ocho ¡eh! <silencio/>
+hab3	¿y a qué hora cenamos <ininteligible/>?
+hab1	¡ah! esto está muy rico
+hab2	a las nueve menos cuarto
+hab4	nueve menos cuarto
+hab1	este <palabra_cortada>es</palabra_cortada> <pausa/> este incluso <alargamiento>así</alargamiento>
+hab3	"
+      <ininteligible/>
+    "
+hab4	faltan tres cuartos de hora
+hab1	este <pausa/> incluso así rodado está buenísimo ¡eh!
+hab3	pero hay que fritirlas y todo ¡eh!
+hab2	¿esto?
+hab3	<ininteligible/> al momento crudas ¡eh!
+hab1	está rico rico
+hab2	¿lo qué?
+hab3	"<observación_inicio tipo=""golpes""/>no sé si os disteis de cuenta<observación_fin/>"
+hab1	<alargamiento>las</alargamiento> patatas
+hab4	si <pausa_larga/> pelas
+hab1	hay que freírlas <pausa_larga/> y después hay <alargamiento>que</alargamiento>
+hab3	y hay que hacer dos tandadas ¡eh!
+hab1	"
+      <ininteligible/>
+    "
+hab2	"bah <pausa/> este jamón aunque es del <lengua_inicio nombre=""gl""/>palleiro<lengua_fin/> está rico"
+hab1	"
+      <ininteligible/>
+    "
+hab3	esto no es jamón <silencio/>
+hab1	"
+      <ininteligible/>
+    "
+hab2	¿y no es jamón?
+hab3	es paleta
+hab2	es como tú <risa/> <risa/>
+hab1	"lo de <lengua_inicio nombre=""gl""/>palleiro<lengua_fin/> <ininteligible/> <pausa_larga/> lo de <lengua_inicio nombre=""gl""/>palleiro<lengua_fin/> te quedó muy bonito"
+hab4	"
+      <risa/>
+    "
+hab4	"
+      <ininteligible/>
+    "
+hab2	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <silencio/>
+    "
+hab1	<ficticio>Marta</ficticio> por favor ¿me das más?
+hab4	"<lengua_inicio nombre=""gl""/>andar a quitar plásticos non dá a basto<lengua_fin/>"
+hab2	¡salud! <silencio/>
+hab1	si yo
+hab3	"
+      <ruido tipo=""estornudo""/>
+    "
+hab1	yo ya le decía
+hab3	buah
+hab1	le insinuaba
+hab1	le murmuraba <silencio/>
+hab1	que no era como ella decía <silencio/>
+hab3	¿lo qué?
+hab2	lo de cortar <risa_inicio/>el jamón<risa_fin/>
+hab3	<ininteligible/> los plásticos primero
+hab1	ya digo <pausa_larga/> por eso
+hab3	¿o qué se corta con el plástico?
+hab1	<alargamiento>no</alargamiento> cariño <pausa/> el plástico se le <palabra_cortada>q</palabra_cortada> el <palabra_cortada>q</palabra_cortada> el plástico se le quita
+hab2	por poder
+hab1	"se le <pausa_larga/> <ruido tipo=""chasquido boca""/> <pausa_larga/> eh ¿cómo se dice? <pausa/> se <alargamiento>le</alargamiento>"
+hab3	entonces me <pausa_larga/> ¿quieres decir por qué me <alargamiento>estabas</alargamiento> estás diciendo <pausa/> yo ya le decía ya le insinuaba? no sé qué no sé cuánto
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	que esto <pausa_larga/> se hacía también así muy bien <silencio/>
+hab2	"
+      <risa/>
+      <silencio/>
+    "
+hab2	es que nos aburrimos
+hab4	"<lengua_inicio nombre=""gl""/><transcripción_dudosa_inicio/>casa sen portas é escusado ventanas<transcripción_dudosa_fin/> <silencio/>"
+hab4	é boa verdade<lengua_fin/> <silencio/>
+hab3	"
+      <risa/>
+      <silencio/>
+    "
+hab2	"
+      <risa/>
+      <silencio/>
+    "
+hab3	"
+      <ininteligible/>
+    "
+hab1	bueno pero tú <ficticio>Noemí</ficticio> no te pases ¡eh!
+hab2	hm
+hab2	¿yo?
+hab1	si <pausa/> es para la cena <silencio/>
+hab1	¿eh?
+hab1	y si no coges allí <alargamiento>el</alargamiento> <pausa_larga/> <alargamiento>el</alargamiento> <pausa/> el otro <silencio/>
+hab2	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab1	ya
+hab1	ya
+hab3	dejar de jugar
+hab1	coges el otro <alargamiento>y</alargamiento> lo y lo picas <pausa/> el otro jamón
+hab3	¿qué otro?
+hab3	ah
+hab3	<ininteligible/><ininteligible/> no hay más <silencio/>
+hab2	¡toma!
+hab3	sal de ahí Lolita <silencio/>
+hab1	<alargamiento>pues</alargamiento> si no hay más
+hab1	este se acabó
+hab1	y no es mucho <pausa_larga/> la verdad es que no es mucho ¡eh! <silencio/>
+hab4	"
+      <ininteligible/>
+    "
+hab2	eeh ¡para!
+hab1	manda carajo <alargamiento>que</alargamiento> <pausa_larga/> para
+hab2	<risa/><risa/><risa_inicio/>¡aun por encima!<risa_fin/> <risa/> <risa/>
+hab3	<ininteligible/><pausa_larga/> sí
+hab1	a ver <ficticio>Marta</ficticio> <palabra_cortada>t</palabra_cortada> <pausa/> pero entonces si preguntas <pausa/> si sospechas que no ¿por qué no dices <pausa_larga/> <cita_inicio/>yo creo que no llega<cita_fin/>?
+hab3	¡jo!
+hab4	"<ininteligible/><pausa_larga/><lengua_inicio nombre=""gl""/>eu pico un pouco do outro que me presta e adiós<lengua_fin/>"
+hab3	"
+      <ininteligible/>
+    "
+hab4	"
+      <ininteligible/>
+    "
+hab2	pero se pica del otro ¿y qué más da? <silencio/>
+hab4	a ver
+hab1	¿hay que seguir pelando patatas entonces?
+hab4	"
+      <ininteligible/>
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab2	tú mamá hazme la cena que tengo hambre
+hab4	<ininteligible/><ininteligible/><ininteligible/> paso aquí
+hab3	"
+      <ininteligible/>
+    "
+hab3	"
+      <ininteligible/>
+    "
+hab3	"
+      <ininteligible/>
+    "
+hab4	es rápida mira <ininteligible/> <ininteligible/>
+hab1	a ver si sabes
+hab2	y este finde ¿qué vas? ¿a una degustación? o vas a <alargamiento>un</alargamiento>
+hab1	"
+      <ininteligible/>
+    "
+hab3	y mañana creo que tengo dos y el domingo una
+hab4	"
+      <ininteligible/>
+    "
+hab1	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab2	¿dos degustaciones?
+hab1	"
+      <ininteligible/>
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab2	¡Jesús!
+hab3	bueno pues eeh
+hab1	decías que pelábamos más ¿no?
+hab3	¿el paño? <pausa_larga/> lo dejé por ahí <silencio/>
+hab3	"<observación_inicio tipo=""grifo""/>¿el paño amarillo? <silencio/><observación_fin/>"
+hab3	"<observación_inicio tipo=""grifo""/>no sé<observación_fin/>"
+hab3	"
+      <observación_inicio tipo=""grifo""/>
+      <ruido tipo=""inspiración""/>
+      <observación_fin/>
+    "
+hab2	"<observación_inicio tipo=""grifo""/>pues no se dónde está <silencio/><observación_fin/>"
+hab3	"<observación_inicio tipo=""grifo""/>¿visteis el paño amarillo por ahí?<observación_fin/>"
+hab1	"<observación_inicio tipo=""grifo""/>no<observación_fin/>"
+hab2	"<observación_inicio tipo=""grifo""/>¡llámalo!<observación_fin/>"
+hab4	"<observación_inicio tipo=""grifo""/>¡<lengua_inicio nombre=""gl""/>pano amarillo<lengua_fin/>!<observación_fin/>"
+hab1	"<observación_inicio tipo=""grifo""/>¡uy!<observación_fin/>"
+hab1	"<observación_inicio tipo=""grifo""/>¿de quién es?<observación_fin/>"
+hab1	"<observación_inicio tipo=""grifo""/>llámalo a ver si te responde <silencio/><observación_fin/>"
+hab2	"<observación_inicio tipo=""grifo""/>¿pero mañana estás para cenar entonces?<observación_fin/>"
+hab4	sí
+hab3	hombre <ininteligible/>
+hab2	¡hombre!
+hab1	si no <ininteligible/>
+hab1	si
+hab1	si no se muere en el camino
+hab3	ay hay que congelar la masa que dejé en la nevera
+hab3	no sabía <ininteligible/> <silencio/>
+hab3	eres como tu hijo allí lo cagas allí lo dejas
+hab4	"
+      <ficticio>Marta</ficticio>
+    "
+hab1	¿lo qué? <pausa/> cariño <silencio/>
+hab2	¿<palabra_cortada>cuá</palabra_cortada>? <silencio/>
+hab2	¿cuánta masa hay? <pausa_larga/> igual me da para
+hab4	"<lengua_inicio nombre=""gl""/>este ano <pausa/> podes estar contenta ho<lengua_fin/>"
+hab3	medio kilo hay
+hab3	¿por?
+hab4	"<lengua_inicio nombre=""gl""/>porque teu home non ten nin Moto <sigla_inicio/>GP<sigla_fin/> nin fórmula un<lengua_fin/> <pausa_larga/> <risa/> <risa/>"
+hab2	sí <pausa/> la pusieron en la privada
+hab3	"
+      <ininteligible/>
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab4	"<lengua_inicio nombre=""gl""/>¡está na privada macho!<lengua_fin/>"
+hab2	se lo dije ya a papá antes yo
+hab4	"<lengua_inicio nombre=""gl""/>este ano estás jodido ¡eh!<lengua_fin/>"
+hab1	"<observación_inicio tipo=""suena un golpe""/>¡ah!<observación_fin/>"
+hab1	no te tengo ningún problema yo por eso
+hab3	"me voy a la fisio a <lengua_inicio nombre=""gl""/>durmir<lengua_fin/>"
+hab1	eso sí que me digas <alargamiento>que</alargamiento> los domingos ahora por la mañana <silencio/>
+hab1	pero bueno

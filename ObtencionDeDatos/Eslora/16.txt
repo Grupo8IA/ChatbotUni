@@ -1,0 +1,453 @@
+hab1	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab3	hm
+hab3	"
+      <alargamiento>también</alargamiento>
+    "
+hab2	¡Dios qué adolescentes!
+hab2	"
+      <risa/>
+    "
+hab3	¿sí?
+hab2	sí que eran buenos tiempos chaval y no primero de carrera <silencio/>
+hab2	dieciséis años <pausa/> cuando salir <pausa_larga/> semana tras semana te hacía ilusión
+hab1	¿verdad? era como <pausa_larga/> <cita_inicio/>Dios Dios el viernes <pausa/> llegó el viernes<cita_fin/>
+hab2	¡Dios! <pausa_larga/> ¿y luego no <transcripción_dudosa_inicio/>os<transcripción_dudosa_fin/> llama muchísimo la atención acordaros de
+hab2	salir siempre de vestido?
+hab2	en plan salíamos superarregladas
+hab2	pero <alargamiento>superarregladas</alargamiento>
+hab1	sí mira <pausa/> el otro <pausa/> ayer
+hab1	<palabra_cortada>aye</palabra_cortada><pausa/> el jueves <pausa_larga/> estábamos esperando a estas
+hab1	<alargamiento>en</alargamiento><pausa/> enfrente del burger
+hab1	eh antes de que <palabra_cortada>lle</palabra_cortada> <pausa/> ¡bueno a estas! <pausa/> a <ficticio>Chirri</ficticio>
+hab1	antes de que llegara
+hab1	y me <pausa/> fijaba en toda la gente que pasaba y todo el mundo iba
+hab1	<alargamiento>normal</alargamiento> y corriente <pausa/> y yo llevaba tacones que bueno
+hab2	hm
+hab1	una mierda de tacones
+hab1	pero lo pensaba y <pausa/> me sentía <alargamiento>rara</alargamiento> en plan
+hab1	<palabra_cortada>arre</palabra_cortada><pausa/> como <pausa_larga/> excesivamente arreglada <pausa/> ¿sabes?
+hab2	tía
+hab1	y luego lo pensé y dije <cita_inicio/>¡Dios! yo <ininteligible/><cita_fin/>
+hab2	pero tú acuérdate de tus <alargamiento>vestidos</alargamiento> que te ponías para un viernes normal
+hab1	sí
+hab1	<alargamiento>sí</alargamiento><pausa_larga/> y los tacones
+hab1	ibas toda entaconada
+hab2	y <pausa_larga/> y con tacones <pausa/> y no tacones que yo ahora si no son <alargamiento>de</alargamiento> <pausa/> anchos no los llevo <pausa/> yo aprovecho que están de moda porque yo
+hab2	de estos <pausa/> que a vosotras aún os veo de vez en cuando con algunos <alargamiento>de</alargamiento> un poco más de pico pero yo eso ya no puedo
+hab1	ya yo tampoco
+hab2	estos que teníamos iguales de Stradivarius
+hab2	esos eran la <énfasis_inicio/>muerte<énfasis_fin/> <pausa_larga/> la <énfasis_inicio/>muerte<énfasis_fin/> pero <pausa_larga/> yo los tenía totalmente <risa_inicio/>destrozados porque los ponía<risa_fin/> <pausa_larga/> <énfasis_inicio/>todos<énfasis_fin/> los viernes <pausa_larga/> ¿sabes?
+hab1	"
+      <risa/>
+    "
+hab2	buah
+hab2	y esos vestidos <pausa/> yo me <palabra_cortada>a</palabra_cortada>
+hab1	sí
+hab2	eemm <pausa_larga/> uff <pausa/> es que no <pausa/> es que no <pausa/> es que no puedo creer <pausa_larga/> es que íbamos superarregladas <énfasis_inicio/>siempre<énfasis_fin/> de vestido pero siempre
+hab2	yo <pausa_larga/> <palabra_cortada>cu</palabra_cortada> <alargamiento>en</alargamiento> <palabra_cortada>cuar</palabra_cortada>
+hab1	bueno y en verano
+hab2	ya
+hab1	en verano era ya <pausa/> vamos
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab2	¡qué fuerte! <silencio/>
+hab1	la hostia <silencio/>
+hab1	sí <silencio/>
+hab1	"pero ahora ya <pausa_larga/> <ruido tipo=""chasquido boca""/>"
+hab1	"<observación_inicio tipo=""voz a lo lejos""/>¡joder! porque sales mucho <alargamiento>más</alargamiento> <pausa/> porque tampoco sales<observación_fin/>"
+hab1	bueno salir no es tu vida <pausa_larga/> ¿sabes? <silencio/>
+hab2	ya <silencio/>
+hab1	vas a <alargamiento>Tarasca</alargamiento>
+hab3	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	<risa_inicio/>bueno <pausa/> no vas a ir<risa_fin/>
+hab2	ya comprendes que ir tan arreglada tampoco te <risa_inicio/>va a aportar nada en tu vida <pausa_larga/> porque antes era como si te fuera a aportar algo<risa_fin/> <risa/> <risa_inicio/>es en plan<risa_fin/> <pausa_larga/> después de
+hab1	"
+      <risa/>
+    "
+hab2	dos mil noches salidas <risa_inicio/>en plan<risa_fin/> bua <pausa/> <palabra_cortada>be</palabra_cortada> en realidad debería <alargamiento>salir</alargamiento> <pausa_larga/> eh en pijama
+hab1	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+      <silencio/>
+    "
+hab1	hm
+hab2	¡joder! qué bien lo pasábamos
+hab2	me siento vieja <silencio/>
+hab1	ya <silencio/>
+hab1	a ver nos queda mucho por salir
+hab2	¡Dios! ya no tengo <alargamiento>veinte</alargamiento> años
+hab2	le dije a <ficticio>Luis</ficticio>
+hab2	<cita_inicio/>ese es el cumpleaños <pausa/> en el que
+hab2	menos reparé <pausa_larga/> <alargamiento>en</alargamiento> la edad que tengo<cita_fin/>
+hab2	me dijo <cita_inicio/>¿pero qué dices <risa_inicio/>¿cómo qué?<risa_fin/>?<cita_fin/>
+hab2	y yo <cita_inicio/>por ejemplo <pausa/> ¡joder! <pausa/> mítico
+hab2	cuando cumples veinte
+hab2	cuando cumples dieciocho <pausa/> cuando cumples quince
+hab2	o en general <pausa_larga/> sueles fijarte en plan <cita_inicio/>buah ahora tengo un año más<cita_fin/>
+hab2	pero yo <pausa/> que tengo veintiuno no me lo creo ¡eh!<cita_fin/> <silencio/>
+hab2	¡veintiuno chaval! <pausa/> <risa/>
+hab2	ya paso de los veinte <pausa/> ¡eh!
+hab1	ya
+hab1	ya estamos ahí en la
+hab2	ya no hay vuelta atrás <silencio/>
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	nunca hay vuelta atrás <ficticio>Marina</ficticio> <pausa/> nunca hay vuelta atrás
+hab2	"<observación_inicio tipo=""copas: brindis""/>vamos a emborracharnos <risa/><risa/><observación_fin/>"
+hab3	por los veintiuno
+hab3	nunca <risa_inicio/>hay vuelta atrás<risa_fin/>
+hab3	"
+      <risa/>
+      <silencio/>
+    "
+hab2	cuando haces pop <pausa_larga/> no hay stop
+hab1	sí sí que es la hostia <pausa_larga/> sí que es la hostia
+hab2	<risa/><risa/> bah yo
+hab1	pensar <pausa/> tío tener veintiún años ya
+hab2	<risa_inicio/>ahora le miro siempre <ininteligible/> las patas de gallo a la <alargamiento>gente</alargamiento><risa_fin/> <risa/> <risa/> <risa_inicio/>porque <ininteligible/> me veo superenvejecida y a todo el mundo superenvejecido<risa_fin/>
+hab1	"
+      <risa/>
+    "
+hab3	tía yo otra cosa no pero patas de gallo no tengo <pausa/> ¡eh! <pausa_larga/> granos cada día tengo más <risa_inicio/>pero patas de gallo no<risa_fin/> <risa/>
+hab2	yo yo sí
+hab2	yo pienso que se me cae el <alargamiento>pelo</alargamiento> <pausa/> y que se me ponen los dientes amarillos
+hab3	ah el pelo <alargamiento>sí</alargamiento> <silencio/>
+hab2	ay no quiero tener signos de <alargamiento>edad</alargamiento>
+hab3	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab2	<risa/><risa_inicio/>ay no quiero acabar como Martina Klein chutándome cremas en la cara <pausa/> para conservarme<risa_fin/> <risa/>
+hab2	"
+      <risa/>
+    "
+hab1	hola <pausa/> y diez años después
+hab2	mmm
+hab1	Martina Klein
+hab2	Klein <risa/> <silencio/>
+hab2	aay ¡qué viejas! <silencio/>
+hab3	pues <alargamiento>sí</alargamiento> <pausa/> hija
+hab2	dentro de nada tenemos treinta y cinco años
+hab1	bueno sí <pausa_larga/> dentro de nada
+hab2	y estamos muertas <pausa/> de asco <silencio/>
+hab3	"<asignación_dudosa_inicio/><comentario_inicio valor=""susurrando""/>por Dios no digas eso<comentario_fin/><asignación_dudosa_fin/>"
+hab1	todo lo que nos queda por vivir
+hab2	yo a veces me empiezo a plantear <pausa/> aunque no creo ni de coña <pausa_larga/> porque se suele acabar a los tres años y así
+hab2	y si lo de <ficticio>Susi</ficticio> <pausa_larga/> <alargamiento>y</alargamiento> <ficticio>Gerardo</ficticio> no duró <pausa/> yo no sé qué va a durar en esta vida
+hab2	¿no os empezáis a plantear si alguna de la gente que tiene pareja ahora mismo <pausa/> que lleva mucho tiempo con ella <pausa/> acabará con ella? <silencio/>
+hab3	porque es la edad ¿no? mítica de conocer a <pausa/> la pareja tal dices
+hab2	"<alargamiento>no</alargamiento> a mí tampoco me parece tan <palabra_cortada>mi</palabra_cortada> <pausa/> bueno <ruido tipo=""chasquido boca""/> a ver es que no sé cada uno <pausa/> en plan <pausa/> lo que ve claro pero <pausa/> <ruido tipo=""chasquido boca""/> por ejemplo a mí no me resulta nada <pausa/> <ruido tipo=""chasquido boca""/> en plan es como si me dices <silencio/>"
+hab3	nuestros padres <alargamiento>sí</alargamiento>
+hab1	mm ya
+hab2	<cita_inicio/>voy a encontrar <alargamiento>a</alargamiento>
+hab2	a <alargamiento>mi</alargamiento> marido con treinta y cinco años<cita_fin/> <pausa/> y como tú toda la vida ves lo <alargamiento>que</alargamiento> ves en casa pues a mí no se me hace raro ¿sabes? mi padre
+hab2	mi madre <pausa/> mi padre se casó con treinta y nueve años <pausa/> pero
+hab2	realmente sí que es <palabra_cortada>m</palabra_cortada> <pausa/> mítico <alargamiento>yo</alargamiento> <pausa/> lo pienso últimamente pero en plan pensamiento superextraño en plan
+hab2	¿<ficticio>Daniel Hermida</ficticio> y <ficticio>Lydia</ficticio> acabarán juntos? <risa/>
+hab2	cosas así
+hab3	¡Dios no! <pausa_larga/> <risa/>
+hab3	espero que no
+hab1	no <pausa/> pero ya <pausa/> yo no lo pienso ¡eh! con
+hab2	porque <pausa_larga/> antes era como que cuando tenías diecisiete años o <alargamiento>dieciocho</alargamiento> años <pausa/> asumías que no iban a acabar juntos <silencio/>
+hab1	te parece que todo el mundo que está con un novio
+hab2	¿entiendes?
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> hombre sí que puede ser <pausa/> nunca <pausa_larga/> nunca se sabe a lo <alargamiento>mejor</alargamiento>"
+hab3	hm
+hab3	como el otro día hablando con <ficticio>Maira</ficticio>
+hab1	yo qué sé te encuentras a <ficticio>Alba Pereiro</ficticio> con cuarenta años y sigue con <ficticio>Julio</ficticio>
+hab3	<ficticio>Maira</ficticio> que vi
+hab3	¡qué fuerte! <pausa_larga/> <ficticio>Maira</ficticio> diciendo que <alargamiento>ella</alargamiento> <pausa/> eeh
+hab1	puede ser
+hab3	dice que quiere tener un hijo a los veinticinco y yo <cita_inicio/>pero ¿cómo <ininteligible/>?
+hab2	¿con quién <ininteligible/>?
+hab3	o sea a los veinticinco estás acabando la carrera<cita_fin/> ¿sabes? aún o sea
+hab1	a pues yo mínimo antes de los veintiocho
+hab3	<cita_inicio/>yo a los treinta quiero estar colocada<cita_fin/> y yo <cita_inicio/><risa_inicio/>bueno <pausa/> bueno <ininteligible/> <pausa_larga/> pues no sé<risa_fin/><cita_fin/>
+hab1	bueno yo también es lo que le decía yo <pausa/> <ficticio>Maira</ficticio> yo también pero las cosas <risa_inicio/>no son así<risa_fin/> en plan
+hab2	colocada
+hab1	bueno con treinta y con veintisiete <risa_inicio/>yo<risa_fin/>
+hab3	espero estar trabajando
+hab1	¡<alargamiento>suerte</alargamiento>! ¿sabes?
+hab3	con <palabra_cortada>tre</palabra_cortada> <pausa/> así <pausa/> con treinta y con veintisiete yo espero estar trabajando en un bufete de <palabra_cortada>abota</palabra_cortada> <pausa/> de abogados
+hab1	ah bueno eso es verdad <pausa/> si
+hab1	<cita_inicio/>claro porque tú puedes hacer una oposición y tal y claro <palabra_cortada>e</palabra_cortada> <pausa/> eres funcionario
+hab1	y se acabó <pausa_larga/> eres funcionario
+hab1	y ya está <pausa/> tienes un puesto fijo que <pausa/> de alguna manera como que <pausa_larga/>
+hab1	siempre tienes que estar ahí pero claro yo no <pausa/> yo quiero ser
+hab1	autónoma <alargamiento>o</alargamiento> lo que sea o
+hab1	yo que sé trabajar en un bufete de abogados <pausa_larga/> y luego que me salga una oferta en otro <palabra_cortada>m</palabra_cortada> <palabra_cortada>má</palabra_cortada>
+hab1	en otro mejor y <pausa/> y que yo me quiera ir ¿sabes? es
+hab1	un trabajo <pausa_larga/>
+hab1	"
+      <alargamiento>en</alargamiento>
+      <cita_fin/>
+    "
+hab1	¿sabes? me gusta ¿cómo dijo?
+hab1	<cita_inicio/>me gusta a mí ese mmm
+hab1	<alargamiento>ese</alargamiento><alargamiento>ca</alargamiento><cita_fin/><pausa/><risa_inicio/><vacilación/> no sé qué frase dijo<risa_fin/> en <alargamiento>plan</alargamiento> <risa/>
+hab1	<cita_inicio/>ese mercado de negocio<cita_fin/> o algo así en plan
+hab1	"<cita_inicio/>¿sabes? a mí me gustaría <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> ir cambiando tal <pausa/> vosotras a lo mejor claro lo tenéis <ininteligible/>"
+hab3	porque claro me lo van a ofrecer me van a ofrecer <ininteligible/> <risa/>
+hab1	sí sí <pausa/> trabajar en el bufete de abogados de Nueva York
+hab1	o de Tokyo ¿sabes? <pausa/> tengo que sopesar <alargamiento>y</alargamiento><cita_fin/>
+hab3	o
+hab3	<ininteligible/><ininteligible/><pausa/> en plan <ininteligible/>
+hab1	"
+      <risa/>
+    "
+hab2	ay a mí lo que me agobia mucho es pensar si me voy a tener que ir <silencio/>
+hab3	¿por qué?
+hab2	no sé
+hab3	yo me quiero ir
+hab2	yo no
+hab3	yo una temporada <pausa/> sí
+hab2	o sea a mí me gustaría mucho en <alargamiento>plan</alargamiento>
+hab3	pasar un año o <alargamiento>así</alargamiento> <pausa/> <alargamiento>hasta</alargamiento> de <pausa/> sin hacer nada ¿sabes?
+hab2	"
+      <palabra_cortada>ac</palabra_cortada>
+    "
+hab2	en <alargamiento>plan</alargamiento> <pausa_larga/> tener <pausa_larga/> poder
+hab2	tener una vida acomodada que me permitiese pasar una temporada <pausa/> de más de una semana <pausa/> conociendo un país un lugar una cultura
+hab3	ah dices si en tu futuro futuro acabarás fuera <pausa/> viviendo fuera <silencio/>
+hab3	¿te refieres a eso o <alargamiento>a</alargamiento> ?
+hab2	<alargamiento>sí</alargamiento><pausa_larga/> o si no <pausa/> si me tuviera que ir en plan así de repente con veinticinco años
+hab2	no sé me veo <alargamiento>tan</alargamiento>
+hab2	que nunca he salido de casa realmente que me parece
+hab2	"en plan muy agobiante que luego la gente siempre <palabra_cortada>di</palabra_cortada> <pausa/> <ruido tipo=""chasquido boca""/>"
+hab2	en plan <pausa/> le suele ir bien <pausa_larga/> pero
+hab3	hm
+hab2	mmm <silencio/>
+hab2	¿me entiendes lo que te digo?
+hab3	pff es que no sé <pausa_larga/> yo <pausa/> yo creo que es algo muy muy muy necesario realmente <pausa/> porque
+hab3	al vivir aquí no nos damos cuenta de
+hab3	en <alargamiento>sí</alargamiento> lo que es la
+hab3	independencia de los padres <pausa/> no nos damos cuenta ni de coña <pausa/> ¿sabes? <silencio/>
+hab3	yo por lo menos
+hab2	"
+      <ininteligible/>
+    "
+hab3	o sea mira que <palabra_cortada>y</palabra_cortada> <pausa_larga/> o sea me considero que sí que soy independiente sí que puedo hacerme la comida sí que puedo
+hab2	ya
+hab3	poner una lavadora sí que puedo tener mi casa
+hab2	y yo <alargamiento>también</alargamiento> <pausa/> y yo también pero
+hab3	pero es el hecho de <pausa_larga/> de <palabra_cortada>vi</palabra_cortada>
+hab2	pero salí <pausa/> nunca haber salido de este entorno ¿me entiendes? no es lo mismo que ahora <ficticio>Gloria</ficticio> se tenga que ir a <palabra_cortada>t</palabra_cortada>
+hab3	claro <pausa/> siempre es el mismo la comodidad
+hab2	a trabajar <alargamiento>a</alargamiento> Francia o a Sevilla <pausa_larga/> que que tú ahora te tengas que ir
+hab2	porque te vas a pasar hasta los <alargamiento>veintidós</alargamiento>
+hab3	aquí pero por eso creo que
+hab2	no <alargamiento>aquí</alargamiento> mínimo <pausa_larga/> ¿entiendes?
+hab3	creo que es necesario para mi vida en plan
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab3	yo es algo que necesito en mi vida totalmente y lo sé además
+hab3	necesito irme <pausa/> yo creo que es algo que necesito <silencio/>
+hab2	pff <silencio/>
+hab2	yo no lo sé
+hab3	yo creo que
+hab2	yo creo que igual algún día imagínate que acabo en un sitio en plan superlejano pero
+hab3	yo sí tía porque
+hab2	imagínate que acabo <alargamiento>en</alargamiento> la
+hab3	sí <alargamiento>sí</alargamiento>
+hab2	Tonchinchina
+hab2	y
+hab2	y al final se me abre la mente y digo <cita_inicio/>pero ¿qué cojones estaba diciendo?<cita_fin/> <pausa/> porque creo que tiene que hay tantas <palabra_cortada>ma</palabra_cortada> <pausa/> formas de vivir distintas en este mundo que es imposible
+hab2	que la mía <pausa/> coincida que la que más me guste sea <pausa/> <énfasis_inicio/>justo<énfasis_fin/> de donde <alargamiento>soy</alargamiento>
+hab3	la que tienes <pausa/> claro
+hab2	¿entiendes?
+hab3	ya pero yo <ininteligible/> en el sentido de <pausa_larga/> ¡joder! porque <pausa/> nunca he tenido realmente tiempo para <énfasis_inicio/>mí<énfasis_fin/>
+hab2	pero por otra parte
+hab3	¿sabes? para dedicarme <énfasis_inicio/>yo<énfasis_fin/> a lo que <pausa/> a mí me de la gana ¿sabes? no tengo <pausa/> es que no tengo tiempo para hacer lo que <énfasis_inicio/>yo quiero<énfasis_fin/> hacer
+hab2	mm ya
+hab3	que no sé <pausa/> ¿sabes que no <pausa_larga/> no he tenido el tiempo <pausa_larga/> para <palabra_cortada>hac</palabra_cortada> <pausa/> para pensar en qué es lo que a mí me gusta y qué es lo que yo quiero hacer
+hab2	pero yo tampoco sé lo que <pausa/> lo que <pausa/> lo qué quiero hacer
+hab3	¿sabes?
+hab3	pero <pausa/> yo creo que
+hab3	cuando acabe de estudiar y <pausa/> y de verdad tenga que trabajar <pausa_larga/> o
+hab3	a lo <palabra_cortada>m</palabra_cortada> <pausa/> ¿sabes? ni trabajar <pausa/> a lo mejor
+hab3	dedicarme a algo <pausa/> no <alargamiento>tan</alargamiento> intensamente como me dedico ahora <pausa/> que es estudiar
+hab3	creo que voy a descubrir realmente lo que quiero hacer <pausa/> o lo que
+hab3	¿sabes? <pausa/> o sea a mí me encantaría acabar la facultad y <pausa/> irme un año
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab3	a cualquier sitio
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab3	y dedicarme <pausa/> <alargamiento>a</alargamiento>
+hab3	dar clases <pausa_larga/> simplemente <pausa/> o a pasar un año vale <palabra_cortada>ha</palabra_cortada> <pausa/> yo qué sé haciendo un máster o haciendo
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab3	no un máster sino <alargamiento>algo</alargamiento> <pausa/> imagínate y <pausa/> eeh dando clases
+hab3	¿sabes? pero como algo de ganar <pausa/> algo de dinero
+hab2	buah a mí
+hab3	y simplemente como
+hab3	¡joder! <pausa/> disfrutar de en sí de la vida de conocer a gente de <pausa/> de <palabra_cortada>repent</palabra_cortada> <pausa_larga/> de de conocerme
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab2	pero a mí me <pausa_larga/> yo creo que a mí lo que más me
+hab3	¿sabes?
+hab2	lo que más <alargamiento>me</alargamiento> asusta y lo que más <palabra_cortada>m</palabra_cortada>
+hab2	eeh me podría acabar gustando es hacer algo en plan rollo como hizo <ficticio>Bruno</ficticio>
+hab2	¿sabes? en plan irte al sitio <pausa/> en <alargamiento>plan</alargamiento>
+hab2	que a mí eso me da mucho miedo o sea a mí me <pausa/> me en plan me sacas de mi entorno
+hab2	y me llevas a Inglaterra <pausa/> vale <pausa/> pero imagínate ir a un sitio en plan <pausa_larga/> la <alargamiento>India</alargamiento>
+hab2	o algo así eso tiene que ser un <pausa/> choque <alargamiento>mental</alargamiento> ¿sabes? para tu cabeza <pausa/> es decir
+hab2	"pero yo encontrar un modo de vida ¿sabes? fuera de esta burbuja que es Santiago que <ruido tipo=""exhalación""/>"
+hab2	no sé que sea distinto sí que me gustaría pero por otra parte <pausa_larga/> no me <palabra_cortada>gust</palabra_cortada> <pausa/> o sea
+hab2	no me gustaría irme <pausa_larga/> lo haría <pausa/> lo <alargamiento>haría</alargamiento>
+hab3	ya yo no tengo <pausa_larga/> creo que no tendría la capacidad para adaptarme como <pausa/> tiene muchísima otra gente <pausa/> creo que <alargamiento>no</alargamiento>
+hab2	"yo creo que sí <pausa/> yo creo que todo el mundo se acaba <palabra_cortada>ada</palabra_cortada> <ruido tipo=""exhalación""/>"
+hab3	sí pero yo creo que <pausa_larga/> <palabra_cortada>n</palabra_cortada> no es por el hecho
+hab2	si es una buena vida
+hab3	pero porque creo que es algo que <pausa/> necesito que <pausa/> cuando <pausa/> de repente pienso en mi futuro y pienso en mi vida digo
+hab3	<cita_inicio/>en serio ¿mi vida se va a reducir <pausa/> a Santiago?<cita_fin/> <palabra_cortada>s</palabra_cortada>
+hab2	lo que pasa es que aquí <pausa/> yo creo que aquí no vives <pausa_larga/> plena pero yo creo que se puede vivir plena en cualquier sitio <pausa/> tú imagínate que ahora de repente
+hab2	acabas la carrera
+hab2	y por cualquier cosa
+hab2	acabas <pausa_larga/> trabajando <pausa/> pues no sé
+hab2	de cualquier cosa que se pueda trabajar siendo filóloga
+hab3	"
+      <risa/>
+    "
+hab2	y te acabe encantando tu trabajo <pausa/> tengas tiempo libre <pausa/> puedas hacer por ejemplo como hace mucho
+hab2	en plan tu padre ir por ahí <pausa/> tener un coche
+hab2	estar <pausa/> por sitios de Galicia <pausa/> con tus amigos ser totalmente independiente <pausa_larga/> imagínate que te enamoras
+hab2	¿entiendes?
+hab2	te puede ser muy
+hab2	<palabra_cortada>m</palabra_cortada><pausa/> vivir muy
+hab2	plenamente aquí también lo que pasa es que
+hab2	fff <pausa_larga/> no sé
+hab2	a ver sí que reconozco que Santiago me parece un sitio
+hab3	claro que Santiago me parece un sitio un poco
+hab2	"<palabra_cortada>excesiva</palabra_cortada><pausa/><ruido tipo=""chasquido boca""/> en plan es demasiado <alargamiento>poco</alargamiento>"
+hab3	claro yo no te digo <pausa/> no sé si Santiago pero <pausa/> desde luego el entorno que ahora mismo yo tengo
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab2	"<ininteligible/> Santiago <pausa/> <ruido tipo=""exhalación""/>"
+hab3	no es el entorno que a mí me encantaría <pausa/> tener
+hab2	Santiago es como una ciudad en plan
+hab2	es como un <pausa/> pueblo y eso a veces
+hab2	es agobiante <pausa/> es en plan
+hab2	no puedes liberarte <pausa/> una persona que vive en Barcelona
+hab2	"quiere no ver a su exnovio <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> ¿sabes?"
+hab1	ya <pausa_larga/> <ininteligible/>
+hab3	por ejemplo lo hablamos con <ficticio>Gloria</ficticio> <pausa/> <ficticio>Gloria</ficticio> decía en plan <cita_inicio/>yo sé que <palabra_cortada>cua</palabra_cortada> <pausa/> yo ya asumo totalmente que no voy a poder hacer mi vida en Santiago
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab2	"
+      <ruido tipo=""exhalación""/>
+    "
+hab3	porque es muy <pausa/> muy improbable que vuelva a casa <pausa/> muy improbable que pueda trabajar
+hab3	de lo que yo quiero <pausa_larga/> en casa<cita_fin/>
+hab3	y ella lo decía <cita_inicio/>y además yo quiero hacer mi vida en un sitio en el que yo plenamente pueda ser <pausa/> <énfasis_inicio/>yo<énfasis_fin/> <pausa/> y yo en Santiago no puedo ser yo
+hab2	pero tú por ejemplo piensa que yo a menos que de repente mi vida dé un vuelco que nunca se sabe <pausa/> acabe yo qué sé haciendo una carrera de diplomática <pausa/> o cualquier chorrada así <silencio/>
+hab2	imagínate que tengo una carrera
+hab2	de derecho <pausa_larga/> o sea mmm <pausa_larga/> <alargamiento>carrera</alargamiento> no digo carrera de estudios digo <palabra_cortada>ca</palabra_cortada> mi carrera profesional <silencio/>
+hab2	sigo viendo mi ámbito muy reducido y para estar en Sevilla
+hab2	yo creo que prefiero quedarme aquí <pausa_larga/> ¿entiendes? <pausa/> a menos que acabe haciendo algo fuera
+hab3	claro <pausa/> pero yo no hablo de <pausa/> el sí el futuro <alargamiento>final</alargamiento>
+hab3	¿sabes? <alargamiento>no</alargamiento> <pausa/> yo también quiero salir de aquí también quiero vivir cosas también quiero conocer a gente también quiero que me cambie
+hab3	¿sabes? no sé yo <palabra_cortada>s</palabra_cortada> <pausa/> yo eeh en plan tengo ambición por eso ¿sabes? <pausa/> ahora mismo tengo ambición por <pausa/> por eso ¿no? <silencio/>
+hab3	no <alargamiento>sé</alargamiento> ¿sabes?
+hab2	hmm
+hab3	me parece que llevo <palabra_cortada>dem</palabra_cortada> <pausa/> demasiado tiempo sacrificándome por
+hab3	<alargamiento>estudiar</alargamiento> por sacar buenas <alargamiento>notas</alargamiento> por no sé qué
+hab2	ya <ininteligible/> tengo muchas ganas de acabar la carrera
+hab3	sí sí estoy muy contenta
+hab3	muy orgullosa pero <pausa/> ¡joder! espero que <ininteligible/>
+hab2	y que pase <pausa/> y aparte vosotras
+hab2	en plan
+hab2	todos vamos a pasarlo mal en el momento de <pausa_larga/> entrar en el <palabra_cortada>tra</palabra_cortada> en un trabajo un tal
+hab2	pero yo <palabra_cortada>e</palabra_cortada> <pausa_larga/> es como algo <silencio/>
+hab2	que no imagino y además
+hab2	vosotras tampoco lo imagináis pero que <pausa_larga/> no se me da bien <pausa/> que luego pueda que se me dea bien pero yo la sensación que tengo es de que
+hab2	no se me da bien entonces <pausa/> lo veo <pausa/> como tan incierto <alargamiento>tan</alargamiento> <silencio/>
+hab1	pero yo creo que eso lo vemos todos quiero decir yo <pausa/> también acabo la carrera <pausa/> y
+hab1	saco muy buenas notas y todo lo que tú quieras pero tampoco me <pausa_larga/> tampoco me veo yo en <alargamiento>plan</alargamiento> <pausa_larga/> venga <pausa_larga/> se profesora ahora <pausa/> <alargamiento>no</alargamiento>
+hab2	claro pero por ejemplo estar allí <ininteligible/>
+hab3	sí sí tampoco espero a los veinticinco años <pausa/> estar colocada
+hab3	yo sinceramente <pausa/> espero a los veinticinco años <pausa_larga/> no estar colocada
+hab3	seguir estudiando <pausa_larga/> y estar por ahí pensando en qué voy a hacer <silencio/>
+hab1	ya
+hab3	¿tú esperas <palabra_cortada>a</palabra_cortada> <pausa/> o sea acabar la carrera? <pausa_larga/> o sea yo podría acabar la carrera a los veintidós años <pausa_larga/> ¿qué hago? ¿<palabra_cortada>es</palabra_cortada> <pausa/> hago una oposición durante dos años <pausa_larga/> y a los veinticinco años <pausa_larga/> soy ya trabajadora para toda la santa vida?
+hab3	no me <pausa/> yo no quiero hacer eso ¿tú quieres hacer eso? <pausa/> yo no
+hab1	no
+hab3	yo prefiero estar hasta los treinta años
+hab3	pensando qué hacer teniendo trabajos no determinadamente <pausa/> ¿sabes? que
+hab3	yo <pausa_larga/> un año de mi vida <pausa/> aunque sea solo <pausa_larga/> <énfasis_inicio/>un<énfasis_fin/> año
+hab3	no lo voy a pasar aquí
+hab3	porque es algo que necesito ¿entiendes? en plan ¡joder! <silencio/>
+hab1	ya <silencio/>
+hab1	<alargamiento>sí</alargamiento> yo también
+hab3	viviendo en tu casa otro año más con veinticinco con veintiséis con veintisiete <ininteligible/> no
+hab1	sí
+hab1	<alargamiento>no</alargamiento> y luego lo piensas por ejemplo ahora cuando acabemos la carrera porque
+hab1	y dices <pausa_larga/> digo ahora <pausa_larga/> porque es <pausa/> ahora <pausa_larga/> o sea
+hab3	es que
+hab2	es que yo no sé yo todos esos sueños en plan
+hab2	como que me llevé <alargamiento>tal</alargamiento> chasco con la carrera que <alargamiento>no</alargamiento> <silencio/>
+hab2	¿sabes?
+hab2	en ese sentido en el fondo pienso tan <pausa_larga/> al día a la asignatura el curso
+hab3	no y yo también yo no pienso en el futuro yo no sé a qué me voy a dedicar ¡eh!
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	"
+      <alargamiento>pero</alargamiento>
+    "
+hab2	<alargamiento>pero</alargamiento><pausa/> yo <palabra_cortada>mu</palabra_cortada> <pausa/> yo mucho más porque
+hab3	no tengo ni puta idea
+hab2	sí que considero que tengo muchísima presión
+hab2	entonces
+hab2	a veces me doy <pausa_larga/> lo pienso y digo <cita_inicio/>bah ¿por qué estoy tan rayada por los estudios?<cita_fin/> porque
+hab2	al final si lo acabo haciendo en cinco años <ininteligible/> en cinco años en seis años o en <pausa/> o en seis años
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	es que en el <pausa/> a veces pienso que me agobio demasiado
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	por eso <pausa/> pero sí que me agobio <pausa/> ¿sabes?
+hab2	es como tan incierto tan
+hab2	¡Dios! ¿cómo voy a trabajar yo de esto?
+hab1	"<ruido tipo=""chasquido boca""/> pero yo creo que eso es lo que te digo eso nos pasa a todos <pausa/> y te pasa a ti me pasa a mí <pausa/> o sea no es eso"
+hab2	me meo
+hab1	lo que pasa es que ¡joder! tienes <alargamiento>una</alargamiento> incerteza ahí que eso
+hab1	eh y <palabra_cortada>vi</palabra_cortada> que y que esa <pausa/> ese rollo va a estar ahí <pausa/> y en el momento que acabes la carrera
+hab1	es cuando te vas a plantear de verdad <pausa/> todo <pausa_larga/> ¿sabes?
+hab1	no ahora <pausa/> cuando suspendes dos
+hab2	ya
+hab2	realmente este momento <pausa/> es una mierda
+hab3	sí la verdad
+hab1	tss
+hab1	no este no <pausa/> el que <palabra_cortada>ll</palabra_cortada> <pausa/> el que viene <pausa_larga/> yo por lo menos <pausa_larga/> lo veo así <silencio/>

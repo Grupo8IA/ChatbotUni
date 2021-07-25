@@ -1,0 +1,518 @@
+hab1	"y el Facebook que <alargamiento>está</alargamiento> el hermano de <ficticio>
+  <alargamiento>Nila</alargamiento>
+</ficticio>"
+hab2	es <alargamiento>verdad</alargamiento>
+hab3	no
+hab3	"<lengua_inicio nombre=""gl""/>non <pausa/> non vin nada<lengua_fin/>"
+hab1	pues <pausa_larga/> resulta que <alargamiento>yo</alargamiento> vi ese vídeo pero le encontré por casualidad ¡eh! porque estaba buscando no sé qué en <alargamiento>una</alargamiento> página de algo del Sáhara
+hab1	y entonces encontré ese vídeo <alargamiento>ponía</alargamiento> algo en <alargamiento>plan</alargamiento>
+hab1	<cita_inicio/>vida de los jóvenes saharauis<cita_fin/> no sé qué bueno y entonces entré
+hab1	<alargamiento>y</alargamiento> me gustó mucho el vídeo porque estaba muy bien <pausa/> y lo subí al <risa_inicio/>Facebook<risa_fin/>
+hab1	y a los dos o tres días me firma <ficticio>Sara</ficticio> y me pone
+hab1	<cita_inicio/>prima <pausa/> pero que ese es el <ficticio>Ahmed</ficticio> el hermano de <ficticio>Nila</ficticio><cita_fin/> no sé qué tal
+hab3	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab1	pues <pausa/> sí porque <alargamiento>hablan</alargamiento> en <alargamiento>plan</alargamiento> jóvenes <alargamiento>a</alargamiento>
+hab2	"
+      <ininteligible/>
+    "
+hab1	que <pausa_larga/> sí
+hab2	está <alargamiento>él</alargamiento> <pausa/> él está muy <pausa/> muy joven
+hab2	porque yo lo vi un poco raro porque la foto que me mandara <alargamiento>él</alargamiento> <pausa_larga/> <alargamiento>de</alargamiento> para que lo <palabra_cortada>con</palabra_cortada> lo conociera y todo el tema
+hab2	es de la última vez que había ido a Sáhara que fue <alargamiento>hace</alargamiento> nada <pausa/> fff
+hab2	yo qué sé <silencio/>
+hab2	<palabra_cortada>q</palabra_cortada> no sé de qué año me dijo que era pero era de hacía un año o hacía dos <pausa/> estaba así más fondón
+hab2	llevaba un turbante o no sé qué pero bueno estaba más fondón
+hab3	sí
+hab2	<alargamiento>y</alargamiento><pausa/> y claro en ese vídeo
+hab2	estaba así <alargamiento>delgado</alargamiento>
+hab2	pero claro yo vi el nombre por debajo <ficticio>Ahmed</ficticio> <ficticio>Osama</ficticio> <pausa_larga/> <ficticio>Salem</ficticio> no sé qué <pausa/> y yo <ininteligible/> <palabra_cortada>médi</palabra_cortada> <pausa/> médico en Dajla
+hab1	médico en Dajla
+hab2	"y yo <pausa/> ese es el hermano de <ficticio>Nila</ficticio> por los <palabra_cortada>a</palabra_cortada> <pausa/> por los <palabra_cortada>ape</palabra_cortada> a ver que allí a lo mejor <alargamiento>son</alargamiento> <pausa_larga/> <ruido tipo=""chasquido boca""/> <pausa_larga/> se parecen mucho los apellidos no lo sé"
+hab1	hm
+hab2	pero entre el físico y el nombre dije yo <cita_inicio/>este lo es<cita_fin/> entonces ¿qué hice? congelé la imagen
+hab2	le saqué una foto con el móvil se la mandé por WhatsApp y le pregunté si era él
+hab2	y me dijo <cita_inicio/>uh madre mía pero tú
+hab2	"¿dónde <palabra_cortada>saca</palabra_cortada>?<cita_fin/> <pausa/> <ruido tipo=""tos""/> <silencio/>"
+hab2	"<ruido tipo=""estornudo""/><pausa/> ¡ay! <pausa/> Jesús"
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	es <alargamiento>que</alargamiento> y me dice <cita_inicio/>¿dónde sacaste esa foto?<cita_fin/> y dice <cita_inicio/>es que hay un vídeo tal<cita_fin/> yo le expliqué y me dice que era del año dos mil cinco
+hab1	claro es que yo después miré porque yo no sabía de qué año era y era del dos mil cinco
+hab3	"
+      <ininteligible/>
+    "
+hab1	"pero <palabra_cortada>e</palabra_cortada> <pausa/> es guapete o sea a ver <pausa/> <lengua_inicio nombre=""gl""/>non é ningunha maravilla<lengua_fin/> pero <alargamiento>no</alargamiento> <pausa/> no es feo <pausa_larga/> no es feo"
+hab2	no es feo ¡eh! no no es feo <pausa/> <alargamiento>no</alargamiento> no es feo
+hab1	de los que salen <risa_inicio/>en el vídeo<risa_fin/> <risa/> <risa/>
+hab2	y me <palabra_cortada>di</palabra_cortada> ah y me dijo es verdad que a ti no yo creo que no te lo conté
+hab2	me <alargamiento>dijo</alargamiento> mmm
+hab2	porque ¿cómo es el anuncio <pausa_larga/> <alargamiento>del</alargamiento> <pausa/> del vídeo?
+hab2	eh ¿<alargamiento>jóvenes</alargamiento>?
+hab1	eh ponía <pausa/> eh <cita_inicio/>jóvenes saharauis<cita_fin/>
+hab1	eh <cita_inicio/>vidas en pausa<cita_fin/>
+hab2	<cita_inicio/>vidas en pausa<cita_fin/> eso
+hab2	le pareció muy mal
+hab1	¿qué?
+hab2	porque yo se <alargamiento>lo</alargamiento> yo se <pausa/> me me dijo que le dijera el nombre <alargamiento>del</alargamiento> vídeo <pausa/> y yo dije <cita_inicio/>mira lo tienes que buscar en <palabra_cortada>Youhu</palabra_cortada> <pausa/> en Youtube
+hab2	y le tienes que poner
+hab2	eh bueno <pausa/> eso<cita_fin/>
+hab2	y me dijo
+hab2	<cita_inicio/>no me digas que pone eso <pausa_larga/> porque ya le recalqué a la reportera
+hab2	<alargamiento>que</alargamiento> vidas en <pausa/> de vidas en pausa <pausa/> <énfasis_inicio/>nada<énfasis_fin/> <silencio/>
+hab2	y además se lo dije <pausa_larga/> pero bueno ya veo que hizo lo que le dio la gana<cita_fin/> o algo así me explicó
+hab3	hm
+hab1	y y ¿te explicó por qué le había sentado mal?
+hab2	porque sus vidas <pausa/> él no considera <alargamiento>que</alargamiento> sus vidas estén en pausa
+hab2	ellos están en continuo movimiento luchando por lo que es suyo
+hab1	bueno sí
+hab1	a ver están luchando claro sí eso es cierto
+hab2	claro pero <pausa_larga/> en pausa <pausa/> <alargamiento>eso</alargamiento> <pausa_larga/> de pausa no tiene nada
+hab1	pues el vídeo tienes que verlo <ficticio>María</ficticio> porque está muy bien
+hab1	<alargamiento>porque</alargamiento> mmm <pausa/> hablan en plan jóvenes saharauis
+hab2	"
+      <ininteligible/>
+    "
+hab1	que estudiaron <pausa_larga/> que salieron a estudiar pues o a Cuba o <alargamiento>a</alargamiento> o
+hab1	o a Libia o no sé a diferentes <palabra_cortada>pa</palabra_cortada> <pausa/> sí a Argelia <pausa/> a diferentes países sobre todo a Cuba que es a donde más van
+hab2	"
+      <alargamiento>Argelia</alargamiento>
+    "
+hab2	sí <pausa_larga/> sí
+hab2	sí
+hab1	como el hermano de <ficticio>Nila</ficticio> por ejemplo cuenta su experiencia en Cuba
+hab2	sí
+hab1	entonces hablan
+hab1	<alargamiento>de</alargamiento><pausa/> del hecho de que salen a <alargamiento>estudiar</alargamiento> <pausa_larga/> y después vuelven a los campamentos <pausa/> y hicieran la carrera que hicieran en el campamento no les sirve de nada porque en el campamento <pausa/> al final todo se reduce <pausa_larga/> a desierto
+hab1	entonces <pausa/> claro
+hab1	allí los únicos que tienen salidas a lo mejor son los médicos <alargamiento>o</alargamiento> educación <pausa_larga/> punto <pausa/> profesores
+hab2	claro
+hab3	sí claro
+hab2	sí
+hab1	después el resto de carreras se <palabra_cortada>re</palabra_cortada> eeh por ejemplo el hermano de <ficticio>Nila</ficticio> es médico vale trabajaba de médico en Dajla
+hab1	pero habla <pausa/> por ejemplo una chica que hizo <alargamiento>ingeniería</alargamiento>
+hab1	habla un <alargamiento>chico</alargamiento>
+hab3	sí que <ininteligible/>
+hab2	claro
+hab1	un chico que hizo <alargamiento>biología</alargamiento>
+hab2	a mí ese me dio mucha pena el de la <ininteligible/>
+hab1	el de la biología que se emociona muchísimo
+hab2	ay
+hab2	<alargamiento>sí</alargamiento><pausa_larga/> madre mía y él que le gustaba ser biólogo <pausa_larga/> a él le gustaba mucho
+hab1	dice <cita_inicio/>yo hice la biología <pausa/> <alargamiento>para</alargamiento> ser <palabra_cortada>biolo</palabra_cortada> para hacer biología<cita_fin/> no sé qué <cita_inicio/>no para ser profesor<cita_fin/>
+hab2	claro
+hab2	"
+      <ininteligible/>
+    "
+hab1	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab3	sí
+hab2	era el profesor del que <ininteligible/>
+hab3	ay
+hab1	que daba clase de español sí
+hab2	yo después cuando venga la niña <pausa/> yo le voy <alargamiento>a</alargamiento> enseñar el vídeo <pausa/> y le voy a decir a ver si lo conoce
+hab1	¿a <alargamiento>al</alargamiento> hermano?
+hab2	al <pausa/> al profesor ese en español
+hab1	ah al profesor <pausa/> es que puede ser que les de clase
+hab3	claro
+hab2	de que a lo mejor es <palabra_cortada>e</palabra_cortada> <pausa/> aunque yo creo que ella me dijo que ella tenía una profesora pero no sé <alargamiento>si</alargamiento>
+hab1	"
+      <palabra_cortada>aun</palabra_cortada>
+    "
+hab2	no sé
+hab2	yo no sé <pausa/> yo <palabra_cortada>l</palabra_cortada> <pausa/> <alargamiento>yo</alargamiento> lo tengo ahí <pausa_larga/> lo de hecho
+hab2	lo compartí ahora me queda ahí <pausa/> y cuando venga se lo voy a enseñar
+hab2	para que lo vea <pausa/> a <alargamiento>a</alargamiento> <ficticio>Nila</ficticio> le gusta mucho ver vídeos de allá del Sáhara aquí
+hab1	¿sí?
+hab3	"<lengua_inicio nombre=""gl""/>¿sí? ¿gustáballe ver?<lengua_fin/>"
+hab2	<alargamiento>sí</alargamiento><pausa/> le encanta
+hab2	es algo que le
+hab2	mi hermano se los ponía <pausa/> y yo a lo mejor no le
+hab2	me lo pedía <pausa_larga/> decía a mí que había acabado el vídeo que le buscara otro
+hab2	y a lo mejor yo no le daba dado al tema
+hab2	<alargamiento>y</alargamiento> decía
+hab2	"
+      <cita_inicio/>
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	tú no sabes <pausa_larga/> tú no sabes
+hab1	"
+      <risa/>
+    "
+hab2	"
+      <alargamiento>Jaisús</alargamiento>
+      <pausa/>
+      <alargamiento>Jaisús</alargamiento>
+      <cita_fin/>
+      <silencio/>
+    "
+hab1	<risa_inicio/>Jaisús<risa_fin/>
+hab2	siempre <cita_inicio/>bah <alargamiento>Jaisús</alargamiento><cita_fin/>
+hab1	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab2	y yo <cita_inicio/>ah qué <alargamiento>asco</alargamiento><cita_fin/> <pausa/> yo para el vídeo nada <pausa_larga/> yo para el vídeo no le valía para nada
+hab3	"
+      <risa/>
+    "
+hab2	ya ni me buscaba
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab2	para otras cosas sí pero para el vídeo no <silencio/>
+hab1	"
+      <ininteligible/>
+    "
+hab2	este año <pausa/> este año tenemos <alargamiento>que</alargamiento> <palabra_cortada>llevar</palabra_cortada> <pausa/> yo la voy a llevar más <alargamiento>a</alargamiento> de paseo por ahí
+hab3	¿a dónde?
+hab2	la voy a llevar a dormir más a casa porque
+hab2	yo el año pasado
+hab2	las dos camas gemelas de mi casa las <palabra_cortada>t</palabra_cortada> las bajé para abajo <pausa/> para casa de mis padres <pausa/> por si <pausa/> para dormir ella
+hab2	pero como al final ni se mea ni nada
+hab2	<alargamiento>pues</alargamiento> las dos <pausa/> gemelas este año no bajan
+hab2	va a dormir en mi cama
+hab2	"<ruido tipo=""chasquido boca""/> entonces yo me quedo <pausa/> yo tengo una gemela montada arriba"
+hab3	ya
+hab2	en <palabra_cortada>l</palabra_cortada> <pausa/> en lo que es en el piso
+hab2	y cuando ella quiera venir a dormir que duerma ahí <pausa/> porque no hay Dios que duerma con ella ¡eh!
+hab1	<risa/><risa/><pausa_larga/><risa/><risa/> bua <palabra_cortada>e</palabra_cortada> es que
+hab2	ella ya lo asumió
+hab3	¿por qué? <pausa_larga/> ¿patalea?
+hab2	patalea bueno mira te juro que casi me da algo ¡eh!
+hab2	mira <pausa_larga/> dormí con ella <pausa/> una noche
+hab1	"
+      <risa/>
+    "
+hab2	me pegó una patada en <pausa/> en <pausa/> en <pausa/> en las costillas <pausa/> que pensé que me dejaba sentada ¡eh!
+hab3	"
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab2	y yo <cita_inicio/>¡por Dios!<cita_fin/> <pausa/> y después <alargamiento>se</alargamiento> <pausa/> se mueve muchísimo <pausa/> está atravesada en la cama <pausa/> tienes que levantarla para ponerla bien
+hab3	¡pobre!
+hab2	"<ruido tipo=""chasquido boca""/> eh te <palabra_cortada>n</palabra_cortada> <pausa/> no duermes en toda la noche <pausa_larga/> y ya le <pausa/> por la mañana le dije <cita_inicio/>yo contigo <pausa/> no vuelvo a dormir"
+hab2	tú aquí <pausa/> no más
+hab3	"
+      <risa/>
+    "
+hab1	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab2	no más
+hab2	<alargamiento>porque</alargamiento><pausa/> no<cita_fin/> <pausa/> y ella <cita_inicio/>¿por qué? <pausa/> ¿por qué?<cita_fin/> porque ella quería venir
+hab2	y yo dije <cita_inicio/>no <alargamiento>no</alargamiento> <pausa/> yo no dormí de noche<cita_fin/>
+hab3	"<lengua_inicio nombre=""gl""/>gustáballe ir durmir á túa casa<lengua_fin/>"
+hab2	<cita_inicio/>tú pegas <alargamiento>patadas</alargamiento> <pausa/> te <alargamiento>mueves</alargamiento> <pausa/> te caes de la cama <pausa/> <alargamiento>no</alargamiento> no no no<cita_fin/>
+hab3	"
+      <ruido tipo=""tos""/>
+    "
+hab2	y después otra noche durmió con <ficticio>Daniela</ficticio>
+hab2	y con mi hermano <pausa_larga/> cuando fueran al cine
+hab2	durmió <ficticio>Daniela</ficticio> con ella y también dijo lo mismo
+hab2	<cita_inicio/>tú conmigo no más <pausa_larga/> no más <pausa_larga/> tú aquí no más <pausa/> tú <pausa/> a casa de tus <risa_inicio/>padres<risa_fin/> <risa/> y ya
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab2	<alargamiento>a</alargamiento> fuera<cita_fin/> <pausa/> y ella lo asumió ¡eh! <pausa/> lo entendió además es una <palabra_cortada>per</palabra_cortada> <pausa/> le decías y no le parecía mal ella <pausa/> lo entendía
+hab2	ella sabía que <alargamiento>no</alargamiento>
+hab1	mmm <alargamiento>ya</alargamiento>
+hab2	que no nos dejaba dormir y que tal
+hab2	<alargamiento>pero</alargamiento> este año <pausa/> ya tengo la gemela ya puede dormir en la gemela <alargamiento>que</alargamiento> si se cae de la cama ya se levantará
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	ella no dice nada ¡eh! <pausa/> si se cae de la cama no dice nada
+hab3	"
+      <risa/>
+    "
+hab2	se levanta <pausa/> se vuelve a poner en cama y ya está <pausa/> le hace gracia
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab2	sí <pausa/> a ella le hace gracia
+hab1	no pero a ellos dormir acompañados les gusta mucho es normal allí es <pausa/> duermen todos en una jaima <pausa/> todos juntos en el suelo
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	pues yo no sé cómo hacen con <ficticio>Nila</ficticio> ¡eh! <alargamiento>porque</alargamiento> ¡puf!
+hab1	<risa_inicio/>ya<risa_fin/>
+hab2	dormir con esa <alargamiento>mujer</alargamiento> <pausa/> tela marinera <pausa/> a <pausa/> normal que se <palabra_cortada>le</palabra_cortada>
+hab1	"
+      <risa/>
+    "
+hab2	mira por la mañana se levanta con unos <palabra_cortada>pe</palabra_cortada> <pausa/> ya la tiene así muy afro
+hab1	"
+      <risa/>
+    "
+hab2	se levanta con unos pelos de loca <pausa_larga/> que no hay por dónde cogerla ¡eh! <pausa_larga/> y es normal porque se revuelve tanto en la cama
+hab1	"
+      <risa/>
+    "
+hab3	"<ruido tipo=""chasquido boca""/><lengua_inicio nombre=""gl""/>e ao mellor alí non se revolve tanto porque alí <pausa/> non diciades <alargamiento>que</alargamiento>"
+hab3	os abrigaban moito?
+hab3	"
+      <asignación_dudosa_inicio/>
+      <ruido tipo=""chasquido boca""/>
+      <asignación_dudosa_fin/>
+    "
+hab3	que dormían moi abrigados porque facía moito frío e que <alargamiento>son</alargamiento> <palabra_cortada>e</palabra_cortada> eso sí ¿non ten contado <ficticio>Osama</ficticio> que <alargamiento>se</alargamiento> envían mantas o non sei <alargamiento>que</alargamiento><lengua_fin/>?
+hab1	sí están están <ininteligible/> más
+hab1	<alargamiento>sí</alargamiento> sí sí <alargamiento>sí</alargamiento>
+hab1	sí que es cierto ¡eh!
+hab2	sí <alargamiento>pero</alargamiento> <pausa/> pues no sé si <ininteligible/>
+hab3	"<lengua_inicio nombre=""gl""/>ao mellor alí non se move <alargamiento>tanto</alargamiento><lengua_fin/>"
+hab2	pues le va a poner un aire acondicionado o algo para que no se mueva la tipa <alargamiento>porque</alargamiento>
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	¡Dios mío! <pausa_larga/> ¡por Dios!
+hab2	es horrible ¡eh!
+hab2	pero bueno ella
+hab2	<alargamiento>el</alargamiento> aunque duerma en otra cama con tal de venir conmigo para casa
+hab2	a ella le da igual
+hab1	¿sabes a mí lo que me extrañaba mucho de <ficticio>Osama</ficticio>? que yo no sé si alguna vez
+hab2	a ella le gustaba
+hab1	con <ficticio>Nila</ficticio> salió el tema <pausa/> pero a mí de <ficticio>Osama</ficticio> me extrañaba mucho
+hab1	"<alargamiento>que</alargamiento> mmm <ruido tipo=""chasquido boca""/>"
+hab1	él
+hab1	o no sabía
+hab1	o mentía <pausa/> <alargamiento>sobre</alargamiento> en plan el problema del Sáhara él lo sabía no que
+hab1	yo recuerdo un día que <pausa/> mirando en un mapa <pausa/> yo le estaba explicando a <ficticio>Alberto</ficticio> el problema del Sáhara ¿no?
+hab1	pues <alargamiento>que</alargamiento> ellos venían de aquí del Sáhara Occidental
+hab1	pero <alargamiento>que</alargamiento> después de lo de la marcha verde tal los problemas con Marruecos que estaban en el desierto de Argelia
+hab1	entonces yo le <palabra_cortada>s</palabra_cortada> <palabra_cortada>s</palabra_cortada> <pausa/> le señalaba en el mapa de África a <ficticio>Alberto</ficticio>
+hab2	sí
+hab1	y le señalaba <pausa/> que vivían ahí en los campamentos de refugiados en Argelia <pausa/> en Tinduf
+hab1	y <ficticio>Osama</ficticio> me decía <cita_inicio/>no no no no<cita_fin/> y me señalaba el Sáhara Occidental <pausa/> que él vivía en el Sáhara Occidental
+hab2	sí
+hab1	entonces yo le decía <cita_inicio/>que no <ficticio>Osama</ficticio> que no sé <alargamiento>qué</alargamiento> tal<cita_fin/> entonces yo le decía <cita_inicio/>que pasó esto que no<cita_fin/> y él <cita_inicio/>no no no no <pausa/> es mentira<cita_fin/> él me lo negaba todo
+hab1	y cuando fuimos a la manifestación en Madrid ¿no?
+hab1	que estábamos con otros de la asociación que tenían niños también tal
+hab1	entonces decían que normalmente que los niños estaban desde pequeños <pausa/> desde muy pequeños
+hab2	sí
+hab1	enterados de la problemática y que estaban muy comprometidos los niños también y <alargamiento>que</alargamiento> ¿sabes?
+hab2	claro
+hab1	<cita_inicio/><alargamiento>que</alargamiento> que porque <vacilación/> Marruecos esto porque Marruecos lo otro porque nos hizo esto porque estamos en el desierto por culpa de Marruecos tal<cita_fin/>
+hab1	pero <ficticio>Osama</ficticio> nada ¡eh! <pausa/> de hecho lo negaba
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	"yo no sé <alargamiento>si</alargamiento> <pausa/> si <ficticio>
+  <alargamiento>Nila</alargamiento>
+</ficticio> lo sabría o no pero <ficticio>Osama</ficticio> decía que eso no era cierto <risa/>"
+hab2	<ficticio>Nila</ficticio><ininteligible/><pausa/><cita_inicio/>ay no <alargamiento>sé</alargamiento> ay no <alargamiento>sé</alargamiento> <pausa_larga/> no sé <pausa/> no sé ah yo no sé nada <pausa/> no sé nada <pausa_larga/> no pasa nada no pasa nada<cita_fin/> ella no sabía nada
+hab1	<cita_inicio/>no sé <pausa_larga/> <risa/> <pausa_larga/> no sé<cita_fin/>
+hab1	<cita_inicio/>da igual <pausa/> da igual<cita_fin/> <risa/>
+hab3	<risa/><risa_inicio/>¡qué feliz! <ininteligible/> <ininteligible/><risa_fin/> <risa/>
+hab2	ella no sabía nada
+hab2	pero puede ser ¡eh! porque la nuestra yo creo <alargamiento>que</alargamiento> <pausa/> fff <pausa/> no sé
+hab1	pero sí porque <ficticio>Nila</ficticio> ya era más <alargamiento>infantil</alargamiento> <pausa/> más niña pequeña <pausa_larga/> pero <ficticio>Osama</ficticio> <pausa_larga/> eeh eeh era más <pausa_larga/> maduro <pausa/> más mayor eh
+hab3	"<lengua_inicio nombre=""gl""/><ininteligible/> eu creo que <ficticio>Osama</ficticio>"
+hab3	"
+      <ininteligible/>
+    "
+hab3	euy creo que <palabra_cortada>a</palabra_cortada> <pausa/> que se avergonzaba<lengua_fin/>
+hab2	no <pausa_larga/> <ficticio>Nila</ficticio> es <énfasis_inicio/>muy<énfasis_fin/> <pausa/> infantil <pausa_larga/> mucho
+hab1	yo no sé
+hab1	por eso a mí me extraña que <ficticio>Osama</ficticio> no supiese lo que pasaba
+hab2	mucho
+hab3	"<lengua_inicio nombre=""gl""/>pero <ficticio>Osama</ficticio> eu creo que se avergonzaba <pausa/> ti acórdaste"
+hab2	yo creo que les da vergüenza
+hab3	"que un <alargamiento>día</alargamiento> <pausa/> cando fomos <alargamiento>a</alargamiento> mmm <pausa_larga/> <ruido tipo=""chasquido boca""/> aí ao acuarium <alargamiento>este</alargamiento>"
+hab1	a
+hab1	a Cerceda
+hab3	a Cerceda
+hab3	que non sei <alargamiento>cómo</alargamiento> dixera<lengua_fin/> <cita_inicio/>un niño del Sáhara no sé qué<cita_fin/> <ininteligible/>
+hab2	ah no <pausa/> porque le dije yo <cita_inicio/>ay <ficticio>Osama</ficticio> <pausa/> estábamos en la fila<cita_fin/> <pausa/> con más niños delante y detrás ¿no?
+hab2	para subir a una de <alargamiento>la</alargamiento> <pausa/> de los toboganes <pausa/> entonces le dije yo
+hab3	sí
+hab2	<cita_inicio/>ay <ficticio>Osama</ficticio> cuando enseñes esto en el Sáhara<cita_fin/> o <cita_inicio/>cuando cuentes esto en el Sáhara<cita_fin/> o algo así
+hab3	y el <cita_inicio/>tss<cita_fin/>
+hab2	y me dijo
+hab2	<cita_inicio/>¡calla!<cita_fin/>
+hab3	"<lengua_inicio nombre=""gl""/>el dáballe vergonza<lengua_fin/>"
+hab2	a él le daba vergüenza <ininteligible/> <pausa_larga/> puede ser
+hab1	<ininteligible/> de la gente <alargamiento>sí</alargamiento>
+hab1	tss
+hab3	sí <alargamiento>sí</alargamiento>
+hab1	"
+      <ininteligible/>
+    "
+hab2	en cambio <pausa/> en cambio la mía nada <pausa/> no tiene vergüenza ninguna
+hab1	"
+      <risa/>
+      <risa/>
+      <ininteligible/>
+    "
+hab2	<ininteligible/> a mí me hacía gracia cuando veía <pausa_larga/> cuando veía a un negrito o algo <pausa/> <alargamiento>decía</alargamiento>
+hab3	"
+      <ininteligible/>
+      <risa/>
+    "
+hab2	<cita_inicio/>¿tú Sáhara?<cita_fin/>
+hab3	"
+      <risa/>
+    "
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab2	y <alargamiento>yo</alargamiento> <pausa/> <cita_inicio/>¡<ficticio>Nila</ficticio>!<cita_fin/> <pausa/> <risa/> <risa/>
+hab1	"
+      <risa/>
+    "
+hab2	y la otra <cita_inicio/>no no no no<cita_fin/>
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	y yo <cita_inicio/><ficticio>Nila</ficticio>
+hab2	los <alargamiento>del</alargamiento> color así
+hab2	no todos son del Sáhara
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	en Galicia <alargamiento>también</alargamiento>
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	<cita_inicio/>aah aah
+hab1	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab2	aah<cita_fin/>
+hab3	¡qué linda!
+hab2	ah pero ella <transcripción_dudosa_inicio/>veía<transcripción_dudosa_fin/> <pausa_larga/> <cita_inicio/>¿tú Sáhara?<cita_fin/>
+hab1	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab3	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab2	y preguntaba si era del Sáhara y la <palabra_cortada>ti</palabra_cortada> <pausa/> los tipos flipaban
+hab2	porque eran negros
+hab1	claro
+hab2	ella los asocia que solo los hay allá
+hab3	"<lengua_inicio nombre=""gl""/>claro de alá<lengua_fin/>"
+hab2	"
+      <alargamiento>pero</alargamiento>
+    "
+hab2	<cita_inicio/>¿tú Sáhara?<cita_fin/> y tú
+hab2	y <pausa/> cuando fuéramos a <palabra_cortada>v</palabra_cortada> <pausa/> cuando la fuera a llevar <pausa/> <alargamiento>el</alargamiento> el <alargamiento>día</alargamiento> poco antes de que se marcharan
+hab2	a los chiringuitos todos <alargamiento>a</alargamiento> la colchoneta y a todo esto que había en Melide
+hab2	<alargamiento>el</alargamiento><pausa/> que fue el último día de las fiestas o algo así
+hab2	<alargamiento>y</alargamiento> cuando se acaban las orquestas <pausa_larga/> el último día es <palabra_cortada>po</palabra_cortada> <pausa/> la fiesta es por el día y es del <pausa/> de los niños le llaman
+hab2	y eso es <pausa/> las colchonetas <pausa_larga/> cochitos <pausa/> y nada más
+hab2	la llevara allí <pausa/> <cita_inicio/>te vas a hartar mujer<cita_fin/> porque a ella la salta salta como le llamaba ella
+hab2	le loqueaba
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	<alargamiento>y</alargamiento><pausa_larga/> y claro <pausa/> pero había algunos rollos por allí <alargamiento>de</alargamiento> de <palabra_cortada>ne</palabra_cortada> <pausa_larga/> de negritos ¿no sabes? por allí fuera con bolsos e historias así
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	pues le preguntó a todos
+hab3	"
+      <risa/>
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab2	a <énfasis_inicio/>todos<énfasis_fin/> pero uno de ellos era
+hab1	"
+      <risa/>
+    "
+hab2	flipa <pausa/> uno de ellos <pausa_larga/> era
+hab1	uno de hecho era saharaui
+hab2	era saharaui <pausa/> y a él le <palabra_cortada>compraram</palabra_cortada> <pausa/> le compráramos eh los bolsos que se llevara para allá
+hab2	para la madre y para la hermana
+hab3	mira <pausa/> <risa/>
+hab1	¡ostra! qué guay
+hab2	<alargamiento>sí</alargamiento> le hiciera <palabra_cortada>pre</palabra_cortada> <pausa/> bueno <pausa/> evidentemente cualquiera <alargamiento>te</alargamiento> <pausa/> te baja el precio pero bueno
+hab2	a ese ya no hizo <alargamiento>falta</alargamiento> decirle nada
+hab1	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	ya no hizo falta llorarle <pausa/> <alargamiento>pero</alargamiento> sí <alargamiento>sí</alargamiento>
+hab2	pero a todos <pausa_larga/> <cita_inicio/>el Sáhara el Sáhara<cita_fin/>
+hab2	lo peor que tenía <pausa/> era cuando veía a una persona muy gorda muy gorda muy gorda
+hab2	se reía
+hab1	que se reía
+hab1	y luego el día que estábamos en la playa con ellos
+hab2	y mi madre le llamó la atención <pausa/> hm
+hab1	que estaba fui yo con <ficticio>Sebas</ficticio> y con <ficticio>Manuela</ficticio> y <alargamiento>estaban</alargamiento> <ficticio>Nila</ficticio> y <ficticio>Osama</ficticio> también
+hab1	y una chica con cáncer ¿no? o sea llevaba un pañuelo iba así <pausa/> estaba sin pelo <pausa/> y llevaba el
+hab2	sí
+hab1	y empiezan los dos a cuchillar a señalarla y <cita_inicio/>ji jijí ja jajá<cita_fin/>
+hab1	mira de verdad me dio un corte y yo
+hab1	"<cita_inicio/><ficticio>Osama</ficticio><pausa_larga/><ficticio>
+  <palabra_cortada>Ni</palabra_cortada>
+</ficticio><cita_fin/> eh"
+hab3	"<lengua_inicio nombre=""gl""/>explicástesllo?<lengua_fin/>"
+hab1	"<ruido tipo=""chasquido boca""/> yo les intenté decir algo en plan <cita_inicio/>eso no tal no sé qué<cita_fin/> pero ellos seguían con su <cita_inicio/>jijí jajá<cita_fin/> y no <cita_inicio/>¡me cago en la madre!<cita_fin/>"
+hab2	sí pero se ríen se ríen
+hab2	"pero a <ficticio>
+  <alargamiento>Nila</alargamiento>
+</ficticio> eeh <pausa/> mi madre la dejó cortada ¡eh! <silencio/>"
+hab2	porque <palabra_cortada>l</palabra_cortada> <pausa/> le <risa_inicio/>le<risa_fin/> le dio así en la mano y le dijo <cita_inicio/>oíste
+hab1	¿por?
+hab2	eso no se hace ¡eh! <silencio/>
+hab2	que a lo mejor está enfermita<cita_fin/>
+hab2	entonces la otra también quedó
+hab1	ya <pausa/> no <pausa/> se quedan cortados cuando se lo dices quedan cortados sí
+hab3	mmm
+hab2	quedó planchada ¡eh! <pausa_larga/> quedó planchada la mujer <pausa_larga/> <alargamiento>sí</alargamiento>

@@ -1,0 +1,616 @@
+hab2	tema <pausa_larga/>
+hab1	digamos <pausa/>
+hab2	empezamos eso <pausa_larga/>
+hab2	digamos <pausa/> a ver bueno esta es la presentación
+hab1	digamos <pausa_larga/>
+hab1	eso ya lo leí o sea que entonces <pausa_larga/>
+hab2	eh entonces yo <pausa/> yo te <palabra_cortada>pre</palabra_cortada> te pregunto <pausa_larga/>
+hab2	y nos <palabra_cortada>cuen</palabra_cortada>
+hab1	"eeh <alargamiento>interés</alargamiento> mi vida infancia estudios viajes trabajo familia vecindario costumbres etcétera <ruido tipo=""pitido""/>"
+hab2	<palabra_cortada>pued</palabra_cortada><pausa/><palabra_cortada>p</palabra_cortada> puedes empezar contándome <pausa/> contándome <pausa/> un poco <alargamiento>de</alargamiento> tu infancia <pausa/> de cómo era tu vida <pausa/> mmm en Madrid ¿no?
+hab1	"¿mi vida? <pausa/> pues mi vida en Madrid era <alargamiento>bastante</alargamiento> pff <pausa/> monótona <pausa/> en Madrid como había <alargamiento>tanta</alargamiento> inseguridad <alargamiento>o</alargamiento> bueno <pausa/> eso era lo que creían los padres pues era del colegio a casa de casa al colegio <pausa/> y como <énfasis_inicio/>mucho<énfasis_fin/> <pausa/> pues a veces íbamos al parque <alargamiento>con</alargamiento> <pausa/> con mi madre si no <ruido tipo=""palmada""/> bueno la vida transcurría entre la casa <alargamiento>y</alargamiento> <pausa/> y el colegio <pausa/> no quedaba otra <pausa/> <alargamiento>y</alargamiento> y bueno <alargamiento>pues</alargamiento> <alargamiento>los</alargamiento> fines de <alargamiento>semana</alargamiento> íbamos <alargamiento>a</alargamiento> la casa de mi abuela que <alargamiento>vivía</alargamiento> por allí cerca <pausa/> de aquella <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento> los veranos nos los tirábamos en el pueblo <pausa/> nos íbamos tres meses a pasar allí mientras mi padre se quedaba de rodríguez <risa_inicio/>en Madrid <risa_fin/> <pausa_larga/>
+hab1	y allá nos íbamos <pausa/> ¿tú estás?
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	ah <pausa/> y allá nos <alargamiento>íbamos</alargamiento> a pasar los tres meses y aquello sí que era una <alargamiento>infancia</alargamiento> <alargamiento>realmente</alargamiento> apetecible <pausa/> pues <pausa/> pues nos juntábamos <pausa/> todos los <alargamiento>primos</alargamiento> <alargamiento>mi</alargamiento> <pausa/> mi <alargamiento>familia</alargamiento> mi abuela tenía muchos hermanos <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> y bueno pues todos su <alargamiento>toda</alargamiento> toda <alargamiento>las</alargamiento> ramas <pausa/> de la familia había bastantes niños <alargamiento>y</alargamiento> bueno pues disfrutábamos bastante <pausa_larga/>
+hab1	y bueno pues robábamos <alargamiento>manzanas</alargamiento> <risa/> estábamos todo el día con la <alargamiento>bici</alargamiento> <pausa/> en el río <alargamiento>y</alargamiento> disfrutábamos a tope <pausa_larga/>
+hab1	pero luego el resto del curso pues era bastante monótono y bastante <pausa_larga/>
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+      <silencio/>
+    "
+hab1	<alargamiento>así</alargamiento> muy
+hab2	ya <pausa/>
+hab1	un <alargamiento>poco</alargamiento> aburridillo <ininteligible/>
+hab2	de la escuela del colegio ¿tienes así recuerdos <pausa_larga/>
+hab1	<alargamiento>sí</alargamiento> tengo recuerdos
+hab2	mmm que <alargamiento>te</alargamiento> <risa/> que te <palabra_cortada>re</palabra_cortada> que te agrade recordar o que te guste recordar? <alargamiento>o</alargamiento> ¿o hay de todo un poco?
+hab1	¡hombre! <ininteligible/>
+hab1	hay de todo un poco <pausa/> <alargamiento>pero</alargamiento> bueno de hecho ahora están mis <alargamiento>compañeras</alargamiento> del <alargamiento>colegio</alargamiento> me localizaron a través de Facebook y <risa_inicio/>entonces tenemos ahí <risa_fin/> <pausa/> hicieron ya un par <pausa/> de encuentros <pausa/> <alargamiento>yo</alargamiento> me encontré con ellas vía internet porque <alargamiento>no</alargamiento> en Madrid tampoco iba a ir allí ¿no? <pausa/> pero bueno muchas <pausa/> pues claro todas mujeres más o menos de la misma quinta pues cincuenta <alargamiento>y</alargamiento> dos cincuenta y tres cincuenta y cuatro <pausa/> <alargamiento>y</alargamiento> todas con <alargamiento>sus</alargamiento> sus vidas personales que no conozco pero bueno <pausa/> pues bastante activas se las veía a todas ¿no? mandan fotos por internet <pausa_larga/>
+hab2	aah <pausa_larga/>
+hab1	"<alargamiento>y</alargamiento> y bueno estamos así un poquito en contacto lo cual pff pues bueno el me hace gracia <alargamiento>tampoco</alargamiento> <ruido tipo=""chasquido boca""/> <pausa/> quiere decir que me vaya a volcar ¿no? porque me da un poco de incluso un poco <alargamiento>de</alargamiento> <pausa/> <alargamiento>de</alargamiento> repelús <alargamiento>pensar</alargamiento> la vida que haya podido llevar cada una yo qué sé <pausa/> pues poco <alargamiento>difícil</alargamiento> <pausa/> de <pausa/> de saber ¿no? <pausa/> pero <pausa/> pero bueno en principio <pausa/> pues sí me acuerdo del colegio me <alargamiento>acuerdo</alargamiento> <pausa/> <alargamiento>de</alargamiento> mmm yo empecé a trabajar muy pronto <pausa_larga/>"
+hab2	ya
+hab2	ya <pausa/> ya
+hab1	<alargamiento>y</alargamiento> incluso estaba haciendo <sigla_inicio/>COU<sigla_fin/> <pausa/> <alargamiento>en</alargamiento> en el colegio cuando empecé a trabajar <pausa_larga/>
+hab1	"<alargamiento>y</alargamiento> además coincidió <alargamiento>que</alargamiento> cuando estaba haciendo sexto de bachillerato nos cambiamos de barrio <pausa/> entonces perdí un poco la conexión <alargamiento>con</alargamiento> con las amigas del cole y tal ¿no? cosa que bueno <pausa/> recuperamos ahora pero <ruido tipo=""boca""/> bah"
+hab2	ya <ininteligible/> <risa/> o sea que dentro de Madrid vivías en <alargamiento>un</alargamiento> en una parte de Madrid <pausa/> <palabra_cortada>e</palabra_cortada> hasta los <palabra_cortada>dieci</palabra_cortada> quince dieciséis años y y luego
+hab1	"sí <ruido tipo=""tos""/> mmm vivimos <alargamiento>en</alargamiento> eh primero vivimos en <vacilación/> <alargamiento>cuando</alargamiento> <pausa/> al principio <pausa/> bueno yo <palabra_cortada>s</palabra_cortada> nosotros somos seis hermanos entonces cuando yo era sola vivíamos en el barrio de Lavapiés <pausa_larga/>"
+hab1	después mis padres se trasladaron a la zona <alargamiento>de</alargamiento> de Manuel Becerra <pausa/> un piso un poco más grande <pausa/> pero tampoco <énfasis_inicio/>muy<énfasis_fin/> grande <pausa_larga/>
+hab1	hasta que nacieron los gemelos y después nos fuimos a vivir a San Blas <pausa/> y desde San Blas <pausa/> era donde estaba el colegio <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> a los <alargamiento>quince</alargamiento> catorce quince años mis padres se cambiaron <alargamiento>a</alargamiento> <pausa/> a Moratalaz <pausa_larga/>
+hab1	y luego ya a los dieciséis años empecé a trabajar <pausa_larga/>
+hab2	ya
+hab1	entonces ya se acabó la infancia <risa/>
+hab2	y es <pausa/> lo de empezar a trabajar tan pronto <alargamiento>¿fue</alargamiento> porque <énfasis_inicio/>tú<énfasis_fin/> querías o porque era lo que se esperaba que pasase? <alargamiento>o</alargamiento> ¿en algún momento te <alargamiento>planteaste</alargamiento> <vacilación/> seguir <alargamiento>estudiando</alargamiento> y no empezar a trabajar tan joven? porque realmente aun para aquella época era bastante joven ¿no? <pausa/>
+hab1	"
+      <ruido tipo=""tos""/>
+    "
+hab1	pues <alargamiento>fue</alargamiento> <pausa/>
+hab1	"
+      <ininteligible/>
+    "
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	<alargamiento>sí</alargamiento> lo que pasa es que bueno mi familia era una <alargamiento>familia</alargamiento> que donde no había mucho dinero <pausa/> mi padre trabajaba en el ramo de hostelería éramos <énfasis_inicio/>muchos<énfasis_fin/> en la familia y se necesitaba dinero y luego por otro lado pues a <alargamiento>mí</alargamiento> yo también quería tener mi propia independencia me fastidiaba pedirles <pausa_larga/>
+hab2	claro <pausa_larga/>
+hab1	a mis padres cada <alargamiento>día</alargamiento> <pausa/> eh un dinero y <alargamiento>prefería</alargamiento> bueno <pausa/> y entonces bueno surgió la oportunidad esta y a mis padres les venía muy bien porque un sueldo solo para <alargamiento>tanta</alargamiento> <pausa/> gente <alargamiento>tampoco</alargamiento> <pausa/> <alargamiento>y</alargamiento> y bueno pues yo aportaba y al mismo tiempo me daba la libertad de poder tener <pausa_larga/>
+hab1	un poco <alargamiento>de</alargamiento> <pausa/> de margen <pausa/> para moverme y <alargamiento>para</alargamiento> comprarme mis cosas y para estar con mis amigos por ahí <pausa/>
+hab2	¿y te dio también más libertad? <pausa/> es decir eso de que decías de que no podías salir <pausa/> tanto cuando eras niña por eeh ver que empezabas a trabajar <pausa/>
+hab1	sí
+hab1	sí <pausa/>
+hab1	sí
+hab2	aún siendo tan joven
+hab1	sí sí de <alargamiento>hecho</alargamiento> pues eso yo a los dieciocho años ya me <alargamiento>fui</alargamiento> <pausa/> con <alargamiento>mi</alargamiento> amiga <ficticio>Lorena</ficticio> a <alargamiento>París</alargamiento> <alargamiento>y</alargamiento> ya tuve <palabra_cortada>n</palabra_cortada> <pausa/> <alargamiento>una</alargamiento> libertad de movimientos <alargamiento>que</alargamiento> si no hubiera trabajado hubiera sido imposible <pausa/> claro <pausa/>
+hab2	y lo de <pausa/> y <pausa/> empezaste a trabajar <pausa/> todavía estudiando ¿no?
+hab1	sí
+hab2	y <palabra_cortada>¿co</palabra_cortada> cómo surgió eso? <pausa_larga/>
+hab1	<alargamiento>pues</alargamiento><pausa/> bueno mi <alargamiento>padre</alargamiento> lo del <palabra_cortada>tra</palabra_cortada> lo de empezar a a trabajar
+hab2	trabajar sí o sea el trabajo porque <palabra_cortada>tam</palabra_cortada>
+hab1	<alargamiento>sí</alargamiento><alargamiento>sí</alargamiento> no era fácil pero bueno mi padre tenía allí un <alargamiento>contacto</alargamiento> <alargamiento>en</alargamiento> en un ministerio <alargamiento>y</alargamiento> de <palabra_cortada>aque</palabra_cortada> estábamos hablando estamos hablando del año setenta y tres o sea <alargamiento>que</alargamiento> <pausa/> <risa_inicio/>tela marinera <risa_fin/> <pausa_larga/>
+hab1	el <risa_inicio/><alargamiento>momento</alargamiento> <pausa/> político <alargamiento>y</alargamiento> <risa_fin/> <pausa/> que había allí ¿no? <pausa/> pero bueno <pausa/> pues mi padre conocía a una persona que trabajaba en el Ministerio <alargamiento>de</alargamiento> Obras Públicas de aquella <pausa_larga/>
+hab1	y necesitaban a una <alargamiento>persona</alargamiento> y <pausa/> hicieron un proceso de selección entre comillas que nos presentamos solamente cuatro <alargamiento>y</alargamiento> yo de aquella que tenía dieciséis años <pausa/> ¿eh? <pausa_larga/>
+hab1	<alargamiento>pues</alargamiento><pausa/> eeh mi madre había <alargamiento>sido</alargamiento> <palabra_cortada>me</palabra_cortada> eh mecanógrafa <pausa/> y yo tenía nociones <alargamiento>de</alargamiento> <pausa_larga/>
+hab1	<palabra_cortada>taquin</palabra_cortada> de <énfasis_inicio/>mecanografía<énfasis_fin/> <pausa_larga/>
+hab1	de taquigrafía no <pausa/> de mecanografía <pausa_larga/>
+hab1	el examen consistió en <alargamiento>una</alargamiento> prueba <alargamiento>de</alargamiento> <alargamiento>de</alargamiento> mecanografía y en una redacción <pausa/> de un tema sobre un tema de actualidad <pausa/> nos presentamos cuatro y me llamaron a mí <pausa_larga/>
+hab1	y bueno pues <pausa/> pues empecé a trabajar al principio con un contrato no había ni contrato ni nada <pausa/> te metían el dinero en un <alargamiento>sobre</alargamiento> <pausa/> no había nóminas <alargamiento>ni</alargamiento> ningún tipo de relación <alargamiento>laboral</alargamiento> <pausa/> eeh clara <pausa/> <alargamiento>y</alargamiento> no había convenio ni había nada <alargamiento>y</alargamiento> <pausa/> y bueno a los seis meses fuimos a magistratura <alargamiento>y</alargamiento> conseguí que me hicieran fija <pausa_larga/>
+hab1	y hasta ahora <risa/> treinta y siete años en la administración pública <pausa_larga/>
+hab2	<risa_inicio/> no los aparentas <risa_fin/>
+hab1	que no <alargamiento>son</alargamiento> <risa/> ninguna tontería <pausa/> <risa_inicio/>pero bueno <risa_fin/> <pausa/>
+hab2	y y <pausa_larga/>
+hab2	¿te sentías bien <pausa/> trabajando? <pausa/> el trabajo <alargamiento>o</alargamiento> <alargamiento>fue</alargamiento> complicado <pausa/> sobre todo al principio <pausa/> supongo <pausa/>
+hab1	hombre al principio como era la más pequeña <alargamiento>de</alargamiento> un grupo la <alargamiento>gente</alargamiento> <pausa/> bueno coincidí allí con alguna gente <alargamiento>bastante</alargamiento> <alargamiento>maja</alargamiento> <alargamiento>y</alargamiento> <pausa_larga/>
+hab1	<alargamiento>rápidamente</alargamiento> conecté <alargamiento>con</alargamiento> gente un poco <alargamiento>de</alargamiento> <alargamiento>de</alargamiento> de la izquierda yo no <alargamiento>sé</alargamiento> <pausa/> no me acuerdo muy bien en qué momento surgió pero <pausa_larga/>
+hab1	"<alargamiento>empecé</alargamiento><pausa/> rápidamente <alargamiento>a</alargamiento> militar en un sindicato <alargamiento>con</alargamiento> diecisiete años <pausa/> coincidí en la facultad <alargamiento>y</alargamiento> <pausa/> <alargamiento>y</alargamiento> de aquella estaba en Comisiones Obreras <alargamiento>y</alargamiento> <pausa/> y bueno pues empecé a moverme <pausa/> <alargamiento>y</alargamiento> bueno pues eso hizo también <alargamiento>que</alargamiento> la dinámica del trabajo burocrático tan aburrido pues fuera un poco más <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> más gratificante y <alargamiento>más</alargamiento> apetecible en el sentido de que en aquel momento además había <alargamiento>que</alargamiento> mucho que hacer ¿no? <pausa_larga/>"
+hab2	<risa_inicio/>sí <risa_fin/> <pausa/> porque era la época de la transición justamente ¿no?
+hab1	<ininteligible/><pausa/> no de la transición <alargamiento>no</alargamiento> que estaba Franco <pausa/> estaba Franco vivito y coleando <pausa/> bueno en el <alargamiento>año</alargamiento> setenta y tres
+hab2	antes todavía <pausa/> claro <pausa_larga/>
+hab2	claro claro setenta y cinco fue <alargamiento>cuando</alargamiento> <pausa/>
+hab1	la <alargamiento>primera</alargamiento> <alargamiento>huelga</alargamiento> el primer convenio colectivo del Ministerio de Obras Públicas <pausa/> de del personal laboral <alargamiento>del</alargamiento> Ministerio de Obras Públicas se firmó en el <alargamiento>año</alargamiento> <pausa_larga/>
+hab1	setenta y siete yo ya <alargamiento>llevaba</alargamiento> <pausa/> unos cuantos años trabajando <pausa_larga/>
+hab2	y y <pausa/> ¿cómo recuerdas esos años en el sindicato? <alargamiento>y</alargamiento>
+hab1	"pff muy activos <alargamiento>muy</alargamiento> muy activos muy activos eh fue la <pausa/> de <alargamiento>hecho</alargamiento> <pausa/> bueno pues esa primera <alargamiento>huelga</alargamiento> supuso también <pausa/> la primera vez que me detuvieron <pausa/> eeh bueno pues la primer el primer enfrentamiento <énfasis_inicio/>fuerte<énfasis_fin/> con mis padres porque mi padre tampoco <alargamiento>podía</alargamiento> <pausa/> mmm <ruido tipo=""chasquido boca""/> <alargamiento>aunque</alargamiento> comprendiera lo que pasaba pero no podía permitir que su hija estuviera metida en <alargamiento>esos</alargamiento> berenjenales ¿no? tampoco entendía muy <alargamiento>bien</alargamiento> <pausa/> eeh <pausa_larga/>"
+hab1	mis motivos <pausa/> <alargamiento>que</alargamiento> bueno <pausa/> eh incluso a lo mejor yo tampoco los entendía mucho <pausa/> realmente porque <risa/> <pausa/> porque claro con esa edad tampoco estás <alargamiento>muy</alargamiento> confusa ¿no? tiendes mucho son <pausa/> por los los la las primeras <alargamiento>experiencias</alargamiento> pues <pausa/> tanto a <alargamiento>nivel</alargamiento> sexual como a <alargamiento>nivel</alargamiento> <pausa/> afectivo como a <alargamiento>nivel</alargamiento> <pausa/> a todos los niveles a nivel también las <pausa/> la caña que te daban en la facultad <alargamiento>también</alargamiento> <pausa_larga/>
+hab1	"era <alargamiento>bastante</alargamiento> importante ¿no? pero bueno <pausa/> eeh lo recuerdo <alargamiento>como</alargamiento> mmm <ruido tipo=""chasquido boca""/> <pausa/> eeh un poco problemático pero al mismo tiempo bueno pues forma parte también de toda su experiencia de toda <alargamiento>tu</alargamiento> <alargamiento>tu</alargamiento> <pausa/> tu <risa_inicio/> maleta <pausa/> que tienes <risa_fin/> <alargamiento>ahí</alargamiento> detrás ¿no? <pausa_larga/>"
+hab2	ya ya
+hab1	y necesaria también <pausa/> por otro lado porque <silencio/>
+hab1	sin <alargamiento>ese</alargamiento> sin <alargamiento>esos</alargamiento> palos <risa/> <alargamiento>tampoco</alargamiento> <silencio/>
+hab2	o sea que <pausa/> en realidad <pausa/> en cierta manera <pausa/> personalmente fue una suerte vivir una época <alargamiento>tan</alargamiento> <pausa/> efervescente o no sé cómo decirlo <vacilación/> <ininteligible/> visto desde ahora ¿no?
+hab1	hombre había
+hab1	"realmente <pausa/> fue una época <alargamiento>muy</alargamiento> apasionante porque todo lo vivías con <alargamiento>mucha</alargamiento> pasión ¿no? <pausa/> <alargamiento>realmente</alargamiento> pues eso eh las peleas <alargamiento>con</alargamiento> en la facultad las carreras delante de <alargamiento>la</alargamiento> policía <alargamiento>y</alargamiento> <pausa/> y todas esas cosas <alargamiento>que</alargamiento> que hacías <alargamiento>con</alargamiento> tanta fuerza y con tantas ganas <alargamiento>pues</alargamiento> <pausa/> hombre <pausa/> <alargamiento>son</alargamiento> ahora <pausa/> hoy en <alargamiento>día</alargamiento> yo creo que es un poco <alargamiento>más</alargamiento> monótono y está todo un poco más <ruido tipo=""chasquido boca""/> <pausa/> por un lado <pausa/> claro <pausa/> está bien <pausa/> menos mal <risa/> que esa época se acabó <pausa/> pero por otro lado no sé <pausa/> la gente joven de ahora me parece que está un poco <alargamiento>más</alargamiento> <pausa_larga/>"
+hab1	"un poco <alargamiento>más</alargamiento> adormecida <pausa/> quizá ¿no? <alargamiento>y</alargamiento> y bueno este adormecimiento también te impide <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> vivir <pausa/> <alargamiento>con</alargamiento> <pausa/> con ganas y con fuerza y <alargamiento>con</alargamiento> <pausa_larga/>"
+hab1	"y con energía toda <alargamiento>esa</alargamiento> toda esas <pausa/> yo no estoy diciendo que <pausa/> sea necesario que te den <pausa/> palos <alargamiento>para</alargamiento> para poder vivir <risa_inicio/>feliz ¿no? <risa_fin/> todo lo contrario ¿no? pero bueno <pausa/> <ruido tipo=""chasquido boca""/> que <alargamiento>también</alargamiento> <pausa/> pues el tener algo que hacer y tener un objetivo y tener <alargamiento>un</alargamiento> <alargamiento>una</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> <alargamiento>unas</alargamiento> ganas de acabar en <alargamiento>aquel</alargamiento> <pausa/> momento pues con la dictadura o con lo que fuera ¿no? pero <pausa/> eso es importante para <pausa/> tener <alargamiento>un</alargamiento> <silencio/>"
+hab1	un objetivo ahí
+hab2	mhm <pausa_larga/>
+hab2	y <pausa/> <alargamiento>y</alargamiento> eeh estar en Madrid <pausa/> además en esa época tuvo que ser bastante especial también ¿no? <pausa/> porque ahí <alargamiento>fue</alargamiento> <pausa/> donde murió Carrero donde luego la
+hab1	"sí <pausa/> sí <pausa/> sí <pausa/> eso fue <alargamiento>muy</alargamiento> pff <pausa/> <alargamiento>era</alargamiento> todo muy efervescente y cada día había una sorpresa y cada día había <alargamiento>un</alargamiento> motivo para porque siempre tenías o un compañero <alargamiento>aquí</alargamiento> <pausa/> machacado o el otro <alargamiento>que</alargamiento> pff yo qué sé siempre había algo <palabra_cortada>pa</palabra_cortada> por lo que de <pausa/> en desde luego había que moverse mucho <pausa/> y luego también había que divertirse eh también <pausa/> <alargamiento>porque</alargamiento> <pausa/> una cosa <alargamiento>era</alargamiento> <pausa/> la <alargamiento>pelea</alargamiento> política y otra cosa era <pausa/> <ruido tipo=""chasquido boca""/> que también te apetecía pues estar con tus amigos y descubrir cosas <alargamiento>y</alargamiento> bueno pues en fin los novios <risa/> <risa_inicio/>toda <alargamiento>la</alargamiento> <risa_fin/> <pausa/> toda <alargamiento>la</alargamiento> parafernalia <pausa/>"
+hab2	ya
+hab1	de <alargamiento>la</alargamiento> marcha <pausa/> después vino la movida madrileña después <alargamiento>de</alargamiento> <pausa_larga/>
+hab1	y aquellos fff años <alargamiento>fueron</alargamiento> divertidísimos creativísimos y <alargamiento>muy</alargamiento> <pausa_larga/>
+hab1	"
+      <alargamiento>muy</alargamiento>
+      <pausa_larga/>
+    "
+hab1	muy bonitos <pausa/>
+hab2	¿recuerdas a gente especialmente? eeh o <ininteligible/> <pausa/> sigo manteniendo
+hab1	¿sigues manteniendo contacto? contactos con mis <alargamiento>amigos</alargamiento> de <alargamiento>Madrid</alargamiento> <pausa/> con mis amigos del pueblo de mi abuela que <alargamiento>también</alargamiento> <pausa/> en el pueblo de mi abuela también hubo <pausa/> eeh gente que <alargamiento>me</alargamiento> <pausa/> que me influyó bastante <alargamiento>porque</alargamiento> <pausa/> allí eeh la gente que quería estudiar sobre todo <alargamiento>la</alargamiento> los chicos que eran los que estudiaban de aquella <pausa/> las mujeres pff <risa/> casi <alargamiento>eran</alargamiento> invisibles ¿no? pero <pausa/> los chicos que querían estudiar tenían que ir al seminario <pausa/> y entonces de allí pues <pausa/> claro <pausa/> eeh la mayoría salían <pausa/> no curas sino todo lo contrario <pausa/> todo el <alargamiento>mundo</alargamiento> <pausa/> que se <pausa/> que entraron en el seminario salía de allí <pausa/> <alargamiento>odiando</alargamiento> total y <alargamiento>absolutamente</alargamiento> <pausa/> <alargamiento>y</alargamiento> bueno <alargamiento>pues</alargamiento> eeh <alargamiento>en</alargamiento> aquella época yo debía tener esto fue antes de empezar a trabajar yo <palabra_cortada>cre</palabra_cortada> no <pausa/> fue después <pausa/> tenía yo <alargamiento>diecisiete</alargamiento> <pausa_larga/>
+hab1	por ahí <pausa/> <alargamiento>y</alargamiento> y bueno <pausa/> <alargamiento>pues</alargamiento> <pausa/> también tuve bastantes influencias <alargamiento>de</alargamiento> <pausa/> de estas personas que andaban por ahí sigo manteniendo contacto con ellos claro <silencio/>
+hab2	<alargamiento>y</alargamiento> me decías antes de los novios y las primeras <risa_inicio/>experiencias <risa_fin/> y tal <pausa/> ¿cómo viviste aquello? ¿cómo se vivía en realidad en aquella época? porque <pausa/> <alargamiento>nada</alargamiento> de eso se hablaba con la franqueza con la que habla <énfasis_inicio/>hoy<énfasis_fin/> <alargamiento>en</alargamiento> en muchas <pausa/> familias y entre los amigos <alargamiento>y</alargamiento>
+hab1	no
+hab1	<alargamiento>no</alargamiento> pero bueno yo <alargamiento>tuve</alargamiento> un <alargamiento>poco</alargamiento> <pausa/> yo tuve suerte ahí <pausa/> porque mis padres nunca <alargamiento>fueron</alargamiento> excesivamente religiosos <silencio/>
+hab1	<alargamiento>y</alargamiento> bueno a mí me explicaron <pausa/> más o menos <pausa/> a su <palabra_cortada>f</palabra_cortada> manera <pausa/> <alargamiento>también</alargamiento> como <alargamiento>era</alargamiento> <alargamiento>la</alargamiento> historia claro que había que tener muchísimo cuidado con todo y que no te <palabra_cortada>po</palabra_cortada> no <pausa/> pero bueno <pausa/> mmm yo afortunadamente <alargamiento>tuve</alargamiento> <pausa/> bastante libertad como empecé <alargamiento>en</alargamiento> Comisiones Obreras muy pronto y luego <alargamiento>empecé</alargamiento> en la militancia también <pausa_larga/>
+hab1	en la Liga y tal pues ahí <alargamiento>ya</alargamiento> estabas un poco al día ibas a charlas y <alargamiento>te</alargamiento> y tenías <pausa_larga/>
+hab1	acceso incluso <alargamiento>al</alargamiento> <pausa/> anticonceptivos <alargamiento>y</alargamiento> y bueno y yo viví una sexualidad bastante <pausa/> tranquila <alargamiento>y</alargamiento> sin traumas <pausa/>
+hab2	ya <pausa/> en una época en la que comprar <pausa/> preservativos o <pausa/> o anticonceptivos en una farmacia a veces era <pausa/> prácticamente imposible
+hab1	"era difícil <pausa/> era muy muy muy difícil <pausa/> pero bueno <pausa/> también tus <pausa/> conexiones <alargamiento>con</alargamiento> <alargamiento>grupos</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> un <alargamiento>poco</alargamiento> más organizados te facilitaba un poco <pausa/> <alargamiento>esa</alargamiento> <risa/> <risa_inicio/>tarea <pausa/> afortunadamente porque si no <risa_fin/>"
+hab2	<risa_inicio/>o sea que después de una educación <risa_fin/> bastante <pausa/> sexista ¿no? porque las <pausa/> niñas <pausa/> ¿tú estudiaste en un colegio femenino o mixto?
+hab1	sí sí sí sí sí sí sí
+hab1	yo estudié en un colegio mixto <pausa/> hasta <pausa/> pero <pausa/> eeh estábamos con los chicos <pausa/> a partir <alargamiento>de</alargamiento> cuarto de bachillerato creo recordar <pausa/> hasta tercero estábamos <pausa/> era aunque era mixto las mujeres en un sitio <pausa/> y los chicos en el otro ¿no? <pausa/> <alargamiento>y</alargamiento> <alargamiento>y</alargamiento> pero bueno a partir <alargamiento>de</alargamiento> cuarto ya estábamos <pausa/> todos juntos <alargamiento>y</alargamiento> <pausa/> estuve en monjas hasta los diez años también <pausa/> pero también era mixto el de monjas <pausa/> <alargamiento>estaba</alargamiento> incluso con mis hermanos pequeños <pausa_larga/>
+hab1	y bueno <pausa_larga/>
+hab1	luego ya <pausa/> en la facultad pues <alargamiento>ya</alargamiento> <silencio/>
+hab1	"bien <risa/> <ruido tipo=""tos""/> <pausa/> sí <pausa/> sí sí <pausa/> eso eso <alargamiento>también</alargamiento> <pausa/> me hizo a <alargamiento>mí</alargamiento> pelearme tener que pelearme un poquito eh <pausa/> porque claro yo estudiaba <pausa/> mis hermanos <pausa_larga/>"
+hab2	<ininteligible/> en tu familia eres la <palabra_cortada>ú</palabra_cortada> la única <pausa/> niña ¿no? de los seis
+hab1	"eran bastante <alargamiento>más</alargamiento> menos estudiosos no les gustaba mucho estudiar <pausa/> pero claro eran chicos entonces si había <alargamiento>que</alargamiento> <alargamiento>bajar</alargamiento> la basura o hacer cualquier tarea doméstica <pausa/> pues la tenía que hacer yo aunque fuera la <alargamiento>que</alargamiento> <pausa/> estaba estudiando en aquel momento y ellos estuvieran viendo la tele <risa/> la que tenía que hacer las <pausa/> historias era yo y eso <alargamiento>me</alargamiento> <alargamiento>molestaba</alargamiento> bastante <pausa/> la verdad ¿no? <pausa/> pero bueno claro mi madre siempre <pausa/> <ruido tipo=""chasquido boca""/> a pesar <alargamiento>de</alargamiento> ser una mujer que <alargamiento>yo</alargamiento> que bueno que <alargamiento>no</alargamiento> reniego de su educación y que <alargamiento>me</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> <alargamiento>pero</alargamiento> ella <alargamiento>siempre</alargamiento> de hecho incluso alguna vez que vino aquí <pausa/> <cita_inicio/>quita <ficticio>Fran</ficticio><cita_fin/> ¿no? a <ficticio>Fran</ficticio> no le dejaba hacer nada ¿no? <pausa/> <cita_inicio/>habiendo mujeres en casa <pausa/> ¿cómo vas a hacer tú esto?<cita_fin/> ¿no? <pausa/> sí cosas <pausa/> yo creo que <ruido tipo=""chasquido boca""/> <pausa/> bueno es una generación que es difícil <alargamiento>también</alargamiento> que <pausa_larga/>"
+hab1	saquen <pausa_larga/>
+hab1	<alargamiento>ese</alargamiento><pausa/><cita_inicio/>pues mira <alargamiento>tú</alargamiento> tendrás que ver el fútbol pero yo tengo <alargamiento>que</alargamiento> leer mi novela entonces a ver quién <alargamiento>baja</alargamiento> la basura<cita_fin/> ¿no?
+hab2	claro
+hab1	pero bueno <pausa_larga/>
+hab2	pero bueno <pausa_larga/>
+hab2	<risa/> te defendiste <pausa/> bien
+hab1	me defendí con uñas y dientes <risa_inicio/>sí <risa_fin/> <pausa/>
+hab2	y estuviste trabajando en Madrid hasta ¿hasta <pausa/> <alargamiento>qué</alargamiento> año o <ininteligible/> ? <pausa_larga/>
+hab1	me vine a vivir a Galicia en el año ochenta y cinco o sea que trabajé desde el año setenta y tres hasta el ochenta y <alargamiento>cinco</alargamiento> <pausa/> eeh doce años <pausa/> en Madrid <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> ¿cuándo conociste a <ficticio>Fran</ficticio>? <pausa_larga/>
+hab1	a <risa_inicio/><ficticio>Fran</ficticio> lo conocí <risa_fin/> cuando <alargamiento>ya</alargamiento> tenía yo pensado venirme a vivir aquí eh
+hab2	aah a ver cuéntame esa <risa_inicio/>historia <risa_fin/> <risa/> porque yo pensaba yo vine
+hab1	que habías a <alargamiento>Galicia</alargamiento> de vacaciones una vez <pausa/> eeh con <alargamiento>un</alargamiento> <alargamiento>un</alargamiento> amigo <pausa/> que era del pueblo de mi abuela <pausa/> un pueblo de <ficticio>Palencia</ficticio> que se llama <ficticio>Carrión de los Condes</ficticio> <pausa/> y este había hecho la mili con una gente <pausa/> de Galicia <pausa/> y <pausa/> ese verano <pausa/> pues nos vinimos para acá <pausa_larga/>
+hab1	eeh <alargamiento>decidimos</alargamiento> <pausa/> <alargamiento>jugando</alargamiento> si empezábamos por las Rías Altas o las Bajas <pausa/> <alargamiento>y</alargamiento> salieron las Bajas <pausa/> llegamos a Sanxenxo <pausa_larga/>
+hab1	estaba todo lleno de madrileños <pausa/> <risa_inicio/>y al día siguiente nos fuimos a <pausa/> a Viveiro corriendo <pausa/> bueno en coche pero vamos <risa_fin/> <pausa/> que salimos escapados porque no era lo que nosotros queríamos <pausa/> <alargamiento>y</alargamiento> una de las visitas que tuvimos que hacer fue Monforte de Lemos que era donde vivían estos amigos de <pausa/> de mi amigo <pausa_larga/>
+hab1	y me <alargamiento>quedé</alargamiento> absolutamente entusiasmada con la gente <pausa/> todas las casas abiertas los <palabra_cortada>co</palabra_cortada> nadie <pausa/> mmm <palabra_cortada>que</palabra_cortada> mmm quedaba sin coche <pausa/> estaban todos los coches hechos polvo pero bueno <pausa/> tú podías a <pausa/> tener uno ¿no? todo el mundo <pausa/> tenía <pausa/> y <alargamiento>esa</alargamiento> mmm no sé una forma de vida como muy comunitaria ¿no? todo el mundo <pausa/> todo era de todos todo no sé a lo mejor fue por <alargamiento>el</alargamiento> grupo de gente donde caí que <pausa/> después me di cuenta que no <alargamiento>todo</alargamiento> Galicia <pausa/> era así ¿no? <pausa_larga/>
+hab1	"pero bueno de aquella me <alargamiento>quedé</alargamiento> muy enamorada <pausa/> muy enamorada de la <alargamiento>zona</alargamiento> del <alargamiento>paisaje</alargamiento> de la <alargamiento>gente</alargamiento> y de todo <pausa/> y como estaba <alargamiento>ya</alargamiento> de aquella un poco <pausa/> <ruido tipo=""chasquido boca""/> harta de Madrid y de perder tanto tiempo en transportarme de un sitio a otro pues <pausa_larga/>"
+hab1	decidí pedirme el traslado <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> o sea en cuando"
+hab2	en principio venías sola
+hab1	"<ruido tipo=""chasquido boca""/> sí <pausa/> en principio venía sola <pausa/> aunque no estaba totalmente decidido venir a Galicia era norte <pausa/> norte <pausa/> Galicia pero sí mmm norte me daba un poco <ruido tipo=""chasquido boca""/> igual País <alargamiento>Vasco</alargamiento> Galicia eeh Asturias <silencio/>"
+hab1	y bueno después apareció <ficticio>Fran</ficticio> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>que</alargamiento> eeh <alargamiento>que</alargamiento> bueno pues él estaba haciendo Bellas Artes <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento> en principio <alargamiento>pues</alargamiento> <pausa/> como estábamos muy <risa_inicio/>enamorados <risa_fin/> <pausa/> pues <alargamiento>él</alargamiento> <alargamiento>seguía</alargamiento> <pausa/> mis pasos lo que yo quisiera hacer pues lo iba a hacer le daba igual empezar aquí que empezar en otro sitio <pausa/> le faltaban dos asignaturas para acabar la carrera <pausa/> las acabó <alargamiento>y</alargamiento> y nos vinimos <pausa_larga/>
+hab1	sin más <pausa_larga/>
+hab1	"<risa/> así un <alargamiento>poco</alargamiento> mmm <pausa/> de una forma <alargamiento>muy</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> muy aventura <pausa/> muy aventurera ¿no? o sea <alargamiento>de</alargamiento> pff <pausa/> bueno pues <alargamiento>dejando</alargamiento> toda la <alargamiento>familia</alargamiento> todos los <alargamiento>amigos</alargamiento> <pausa/> pero claro tampoco íbamos a ir a Monforte donde estaban estos amigos <pausa/> veníamos <alargamiento>a</alargamiento> Santiago y no conocíamos a nadie <pausa_larga/>"
+hab1	y además teníamos pocos recursos porque solo trabajaba yo que él estaba en paro <pausa/>
+hab2	claro <silencio/>
+hab2	y llegasteis <alargamiento>y</alargamiento> bueno supongo que sería difícil al principio
+hab1	<risa_inicio/>sí al principio sí <risa_fin/> pero el amor ya sabes ¡joder! <pausa/> nosotros nos metíamos en casa una botella de vino Savín <alargamiento>y</alargamiento> <risa/> y <alargamiento>y</alargamiento> musiquita por <risa_inicio/>aquí <risa_fin/> <pausa/> <alargamiento>y</alargamiento> tu perro tu casa tu cocina y allí estábamos felices y contentos eeh <pausa/> como estábamos de aquella muy enamorados y <alargamiento>muy</alargamiento> <pausa/> <alargamiento>muy</alargamiento> llevábamos <palabra_cortada>o</palabra_cortada> mmm no <alargamiento>llevábamos</alargamiento> <pausa_larga/>
+hab1	creo <palabra_cortada>llevamo</palabra_cortada> <pausa/> un <alargamiento>año</alargamiento> y poco juntos debíamos llevar <silencio/>
+hab1	<alargamiento>y</alargamiento> y bueno <pausa/> no algo más <pausa/> algo más quizás <silencio/>
+hab1	dos o tres años <pausa/> porque a <ficticio>Fran</ficticio> lo <alargamiento>conocí</alargamiento> <palabra_cortada>cuan</palabra_cortada> en el año ochenta y dos <silencio/>
+hab1	<alargamiento>y</alargamiento> y bueno pues al <alargamiento>principio</alargamiento> <alargamiento>fue</alargamiento> durillo teníamos que ajustarnos <alargamiento>bastante</alargamiento> al vivíamos en <ficticio>As Pereiras</ficticio> <pausa_larga/>
+hab2	¿dónde vivíais?
+hab1	en una <alargamiento>casa</alargamiento> muy bonita pero que era un desastre porque <pausa/> tenía mucha <alargamiento>humedad</alargamiento> y <pausa/> fff <pausa/> y había allí un paisanaje un <alargamiento>poco</alargamiento> <risa_inicio/>profundo de más <risa_fin/> <risa/>
+hab2	recuerdo vagamente alguna anécdota ¿no? <pausa/> de allí
+hab1	<alargamiento>sí</alargamiento> sí teníamos el perro amenazado de <alargamiento>muerte</alargamiento> <alargamiento>el</alargamiento>
+hab2	porque <risa_inicio/> ¿qué hacía el perro entonces? <risa_fin/>
+hab1	<risa_inicio/>el <alargamiento>perro</alargamiento> el <alargamiento>perro</alargamiento> <risa_fin/> <pausa/> era un perro <pausa/> eeh que bueno <palabra_cortada>tampo</palabra_cortada> yo que no creo que hiciera nada lo que pasa es que el vecino este que tenía manía a los perros <pausa_larga/>
+hab2	ya
+hab1	que estaban sueltos evidentemente <alargamiento>le</alargamiento> <alargamiento>atribuían</alargamiento> alguna gallina muerta <alargamiento>algún</alargamiento> <pausa/> y entonces bueno pues el vecino que era <alargamiento>bastante</alargamiento> macarra <pausa/> <alargamiento>porque</alargamiento> de <alargamiento>hecho</alargamiento> a su mujer la insultaba y la gritaba y <palabra_cortada>t</palabra_cortada> que eran cosas que a mí me <pausa/> me dejaba bastante horrorizada pero <pausa_larga/>
+hab1	"<alargamiento>pues</alargamiento> al final hubo que cerrar la finca <alargamiento>y</alargamiento> y en fin tuvimos algunos problemas con este vecino <pausa/> y bueno era una zona <alargamiento>que</alargamiento> <alargamiento>era</alargamiento> bastante más fría los alrededores de Santiago era una zona un poco <ruido tipo=""chasquido boca""/> un <alargamiento>poco</alargamiento> <pausa/> no sé <pausa/> mmm yo de todas las zonas que conozco de los alrededores de Santiago es donde <pausa/> la gente más <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab1	"más tozuda más más <alargamiento>más</alargamiento> Galicia profunda más de todo <pausa/> allí en <ficticio>As Pereiras</ficticio> <pausa/> entonces bueno <pausa/> a los seis años <pausa/> y <alargamiento>ya</alargamiento> una vez superado el tema <alargamiento>económico</alargamiento> <pausa/> agobiante y cuando ya <ficticio>Fran</ficticio> empezó a trabajar y todo eso <pausa/> pues fue cuando cambiamos de zona <alargamiento>y</alargamiento> encantados <alargamiento>de</alargamiento> <pausa/> cambiar y <pausa/> y estar en concello de <alargamiento>Ames</alargamiento> en <alargamiento>Bugallido</alargamiento> ya un nueva gente nueva <ruido tipo=""chasquido boca""/> gente diferente con otro <pausa/> espíritu y otras ganas <alargamiento>de</alargamiento> <silencio/>"
+hab1	y ahora pues nada estamos ahí en <ficticio>Biduido</ficticio> <risa/>
+hab2	<risa_inicio/>oye y cuando llegaste a la Xunta <risa_fin/> porque tú <pausa/> ya estaba claro funcionando ¿y estaba donde estaba ahora? o ¿cómo era? <pausa/> ¿cómo fue <risa_inicio/> tu llegada <pausa/> tu aterrizaje <risa_fin/> ?
+hab1	¡qué <alargamiento>va</alargamiento> ! <pausa/> ¡qué <alargamiento>va</alargamiento> ! yo llegué a la Xunta de Galicia y estaban de mudanza de aquella estaba la Consellería <alargamiento>de</alargamiento> <alargamiento>de</alargamiento> <pausa/> ¿cómo se llamaba la Consellería de <silencio/>
+hab1	ay <pausa/> ahora es Medioambiente Territorio e Infraestructuras antes fue <pausa/> Política Territorial <pausa/> pero antes <alargamiento>era</alargamiento> otra cosa no me acuerdo cómo se llamaba <pausa_larga/>
+hab1	<alargamiento>era</alargamiento> estaba en Laverde Ruiz <pausa/> en la calle Laverde Ruiz en Santiago y se estaban <pausa/> mudando <pausa_larga/>
+hab1	entonces yo cuando llegué allí <pausa/> claro <pausa/> acostumbrada <pausa/> al Ministerio de Obras Públicas que eran <pausa/> tremendas escaleras centrales aquellos techos tan altos <pausa/> los timbres cuando llamabas al ordenanza <pausa/> <palabra_cortada>toca</palabra_cortada> llamabas al a un timbre <pausa/> se encendía una luz fuera de la puerta el ordenanza sabía que lo estabas llamando porque se encendía la luz <pausa/> entraba y tú le decías <pausa/> <cita_inicio/>cinco <risa_inicio/>copias <risa_fin/><cita_fin/> <risa_inicio/><ininteligible/> <risa_fin/>
+hab2	como una señora
+hab1	<risa_inicio/> como una señora <risa_fin/> y aquí pues claro <pausa/> tú las copias te las haces tú a ti misma y si no no te las hace nadie <risa/> ni falta que hace efectivamente porque aquello sí que <alargamiento>era</alargamiento> de de de de eh de <pausa/> arcaico pero arcaico <alargamiento>de</alargamiento> <pausa/> de narices ¿no? o sea <pausa/> tú imagínate estar en un despacho cerrado <pausa/> tocas el timbre se enciende la luz viene el tío <pausa/> que por cierto <pausa_larga/>
+hab2	ni timbre
+hab1	tenían unos nombres <pausa/> los <palabra_cortada>lo</palabra_cortada> ordenanzas <risa/> <risa_inicio/>tremendos <pausa_larga/><risa_fin/>
+hab1	<risa_inicio/>bastante tremendos <risa_fin/> <pausa_larga/>
+hab1	y <palabra_cortada>e</palabra_cortada> y eran todos estos se se me olvidaba decirte antes muy curioso
+hab2	<risa_inicio/> pero dime dime pero dime <risa_fin/>
+hab1	eran todos <pausa/> todos <pausa/> eh mutilados de guerra <pausa/> entonces yo cuando llegaba al Ministerio de Obras Públicas <pausa/> entraba por un pasillo tremendo <pausa/> y primero lo primero que te encontrabas era <pausa/> un estanco <pausa_larga/>
+hab2	"
+      <alargamiento>ah</alargamiento>
+    "
+hab1	y allí aparecía <pausa/> una señora <pausa/> alta <pausa_larga/>
+hab1	"con un moño <pausa/> así <pausa/> todo recogido <pausa/> enjuta ella así <pausa/> que decían <pausa/> que había sido <pausa/> amante <pausa/> del general Moscardó <risa/> <risa_inicio/>yo no sé si esto era cierto <risa_fin/> <pausa/> o no <pausa/> pero el caso es que la señora estaba allí <pausa/> toda estirada toda altísima y tal <ruido tipo=""palmada""/> <pausa_larga/>"
+hab1	pasabas al pasillo a la derecha <pausa/> y te encontrabas <pausa/> al que vendía los periódicos <pausa/> que no tenía manos <pausa/> tenía <énfasis_inicio/>pinzas<énfasis_fin/> <pausa_larga/>
+hab1	y hacía los nudos de los <risa_inicio/>periódicos con los pinzas <risa/> aquellas <risa_fin/> <pausa/> y te daba las vueltas <risa_inicio/>así <pausa_larga/>
+hab1	<risa_inicio/>con los dedos <risa_fin/>
+hab2	<risa_inicio/>con la pinza vamos <risa_fin/>
+hab1	"tremendo <pausa/> y luego ibas subiendo por las plantas y te ibas encontrando todo <alargamiento>un</alargamiento> mogollón de ordenanzas <ruido tipo=""palmada""/> pues <pausa/> sordos tuertos mancos <risa_inicio/>cojos en fin todos mutilados de guerra <risa_fin/> <pausa/> aquello tremendo eh <pausa_larga/>"
+hab1	yo con mis <risa_inicio/>dieciséis añitos <risa_fin/> <risa/> en aquella tesitura <pausa/> entonces claro llegar aquí <pausa/> pues claro <pausa/> eemm una cosa totalmente distinta <pausa/> gente joven <pausa/> en general <pausa_larga/>
+hab1	todo el mundo se trataba de tú <pausa_larga/>
+hab1	yo en Madrid nunca vi <alargamiento>al</alargamiento> al ministro por supuesto nunca lo vi pero es que no vi tampoco al director y aquí con el director pues te tuteabas te tomabas una cerveza y hablabas tranquilamente <alargamiento>de</alargamiento> <pausa/> de trabajo o de cine o de lo que fuera ¿no? no había ningún problema <pausa/> pero bueno cuando llegué a Galicia se estaban instalando y estaba <alargamiento>en</alargamiento> en la calle Laverde Ruiz <pausa/> iban a ir al Araguaney que estuvieron dos años allí <silencio/>
+hab1	<alargamiento>y</alargamiento> y nada cuando <alargamiento>llegué</alargamiento> el subdirector directamente me mandó para casa <risa_inicio/>porque no había nada que hacer hasta que no <risa_fin/> <pausa/> hasta que no se instalaran <pausa/> entonces bueno <alargamiento>aparte</alargamiento> mmm <alargamiento>me</alargamiento> se portó muy bien <alargamiento>porque</alargamiento> <alargamiento>me</alargamiento> me dijo <alargamiento>que</alargamiento> que no me preocupara que me buscara casa que me <alargamiento>fuera</alargamiento> <pausa/> con mi familia a pasar la Navidad y tal y que después ya en enero pues ya me instalara tranquilamente <pausa_larga/>
+hab1	y nada después estuvimos dos años allí en el Araguaney <pausa/> y ahora <alargamiento>ya</alargamiento> <pausa/> después ya subimos <alargamiento>a</alargamiento> <pausa/> a San Caetano que es donde estamos ahora todo el mogollón <pausa/> de aquella éramos muy poquitos éramos <pausa/> yo qué sé <pausa/> pues era un rollo muy doméstico <alargamiento>muy</alargamiento> <pausa/> muy <pausa/> todo el mundo se conocía todo el <alargamiento>mundo</alargamiento> <pausa/> bueno pues eh <pausa/> de hecho en Laverde Ruiz tenían <alargamiento>una</alargamiento> mesa <pausa/> y estaban todos allí <pausa/> con las máquinas de escribir que no había ordenadores de aquella y bueno pues <pausa_larga/>
+hab2	claro <silencio/>
+hab1	ahora <alargamiento>ya</alargamiento> <alargamiento>está</alargamiento> todo un poco más <pausa/> <risa_inicio/>organizado <risa_fin/> no sé si para bien o para mal pero <silencio/>
+hab2	y el cambio <pausa/> o sea en todos estos años eeh <palabra_cortada>a</palabra_cortada> <pausa/> entonces se perdió familiaridad entre la gente y tal <pausa/> ¿se ganaron algunas cosas <alargamiento>o</alargamiento> crees <alargamiento>que</alargamiento> ? no sé <pausa/> ¿cómo la la administración cómo la ves tú? desde dentro
+hab1	pff <pausa/> no sé
+hab1	la veo fatal yo la veo fatal <pausa_larga/>
+hab1	la <alargamiento>veo</alargamiento> <pausa/> la veo mal <pausa/> porque sigue habiendo mucho amiguismo y sigue habiendo <alargamiento>mucho</alargamiento> <pausa/> mucha falta <alargamiento>de</alargamiento> pff no <alargamiento>hay</alargamiento> ningún <alargamiento>control</alargamiento> en las contrataciones cada vez se privatiza más <pausa/> el otro día estuvimos <pausa_larga/>
+hab1	<alargamiento>precisamente</alargamiento> porque van <alargamiento>a</alargamiento> despedir <alargamiento>a</alargamiento> diecinueve personas <alargamiento>en</alargamiento> <pausa_larga/>
+hab1	"<alargamiento>en</alargamiento><pausa/><ruido tipo=""chasquido boca""/><alargamiento>en</alargamiento><pausa/> ¿cómo se llama? <pausa/> Santiago Apóstol <pausa/> en un colegio <pausa/> sin <alargamiento>un</alargamiento> <pausa/> <alargamiento>allí</alargamiento> hay un centro eeh bueno <pausa/> hay diecinueve plazas que se van a amortizar <pausa_larga/>"
+hab1	los tres laborales fijos los van a reubicar <pausa_larga/>
+hab1	<alargamiento>en</alargamiento> Coruña y los otros dieciséis <pausa_larga/>
+hab1	se van a la calle <pausa/> entonces claro <pausa/> <alargamiento>son</alargamiento> <pausa/> y ¿por qué? pues porque van a privatizar servicios y <alargamiento>porque</alargamiento> lo público parece ser que <alargamiento>no</alargamiento> <pausa/> <alargamiento>no</alargamiento> <silencio/>
+hab1	"pues no mola <pausa/> ahora <pausa/> y entonces pues es mmm en ese <alargamiento>sentido</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> yo creo que la administración pública si no hacemos algo va a pff se va <pausa/> se va a hacer gárgaras <pausa_larga/>"
+hab1	con todo lo que significa <alargamiento>y</alargamiento> con todo lo que implica para el ciudadano que es <alargamiento>un</alargamiento> <pausa/> poco <pausa/> marrón <pausa/> de más <pausa/> la verdad <pausa/>
+hab2	y <pausa/> ¿qué crees que habría que hacer para <pausa/> para <pausa_larga/>
+hab1	"
+      <ruido tipo=""tos""/>
+    "
+hab2	que cambiase <pausa/> <alargamiento>la</alargamiento> <pausa/> a lo mejor la eficiencia también en algún aspecto <pausa/> y en general bueno mmm eh <pausa_larga/>
+hab2	la imagen también? <pausa/>
+hab1	sí la imagen también <pausa/> lo que pasa es que yo pienso <alargamiento>que</alargamiento> el <alargamiento>funcionario</alargamiento> público <pausa/> una cosa es la imagen que tenga hacia fuera y otra cosa yo tengo <pausa/> compañeros de trabajo que no <pausa/> no hacen nada pero porque nadie les dice lo que tienen que hacer <pausa/> y entonces eso no puede ser o sea ¿la responsabilidad de quién es? del que no lo hace <pausa/> o del que no <pausa/> le da <pausa/> tareas <pausa/> para hacer <pausa/> que estaría porque claro es muy cómodo decir <cita_inicio/>es que este no hace nada<cita_fin/> pero <pausa_larga/>
+hab2	quizá <alargamiento>y</alargamiento>
+hab2	exactamente
+hab2	es
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa/>
+    "
+hab2	es un problema también de dirección de gestión sobre todo ¿crees?
+hab1	sí <pausa/> sí <pausa/> sí sí sí sí <pausa/> sí yo creo que sí
+hab2	vamos lo que está pasando también <alargamiento>con</alargamiento> la sanidad pública ¿no? <alargamiento>que</alargamiento> eeh en el periódico por lo menos aparece como un problema de gestión <pausa/>
+hab1	hm <pausa/> hm <pausa_larga/>
+hab1	sí <silencio/>
+hab1	"
+      <pausa/>
+    "
+hab1	¡hombre! <pausa/> es <alargamiento>que</alargamiento>
+hab2	mmm los usuarios no lo que notan es que <pausa/> no son <pausa/> bien atendidos o tienen unas listas enormes
+hab1	claro <pausa/> que les <alargamiento>dan</alargamiento> <alargamiento>listas</alargamiento> de esperas y te dan vez para dentro de un año <pausa/> para dentro de dos o para <pausa_larga/>
+hab1	eeh pff <pausa/> incluso cuando tienes un <alargamiento>problema</alargamiento> pues tienes que pelearte y muchas veces pasan de ti como no tengas un poco un carácter un <alargamiento>poco</alargamiento> bueno <pausa/> <alargamiento>de</alargamiento> de de <énfasis_inicio/>permanecer<énfasis_fin/> de defender tus derechos <pausa/> pues desde luego no tienes absolutamente nada que hacer <pausa_larga/>
+hab1	<alargamiento>hay</alargamiento><pausa/> fff <pausa/> compañeras <alargamiento>que</alargamiento> están ahora con el problema igual <alargamiento>que</alargamiento> <pausa/> <énfasis_inicio/>todos<énfasis_fin/> con sus padres <pausa/> por la edad que tenemos que tenemos los padres mayores y que efectivamente <pausa/> pues <alargamiento>necesitan</alargamiento> <pausa_larga/>
+hab1	pff yo llevo cotizando a la Seguridad Social desde los dieciséis años nunca les necesité <pausa/> pero a partir de ahora <pausa_larga/>
+hab1	se supone que les voy a empezar a necesitar cada vez más <pausa_larga/>
+hab1	y claro si te van <alargamiento>a</alargamiento> <pausa/> <alargamiento>a</alargamiento> dar largas o no te van a atender o te van a atender mal en algunos casos <alargamiento>o</alargamiento> <pausa/> negligencias médicas hay muchas <pausa/> <alargamiento>hay</alargamiento> <pausa_larga/>
+hab1	la Xunta tiene un seguro <alargamiento>para</alargamiento> <alargamiento>cubrir</alargamiento> responsabilidades <alargamiento>y</alargamiento> <pausa/> creo <alargamiento>que</alargamiento> el <sigla_inicio/>SERGAS<sigla_fin/> se lleva <silencio/>
+hab1	la palma eh <pausa/> en el caso <alargamiento>de</alargamiento> bueno de denuncias <alargamiento>de</alargamiento> <pausa/> de gente que por negligencias y por historias que claro estás jugando con la salud <pausa/> no estás hablando de <pausa/> de cuestiones materiales estás hablando <alargamiento>de</alargamiento> <pausa/> de personas y de <alargamiento>su</alargamiento> <silencio/>
+hab1	yo no sé <pausa/> cuál sería la solución desde luego la solución no creo que sea privatizar <pausa/> todo lo contrario <pausa_larga/>
+hab1	habrá que pedir <alargamiento>más</alargamiento> <pausa/> especializar más al <alargamiento>personal</alargamiento> a base de cursos a base <alargamiento>de</alargamiento> bueno reciclajes <alargamiento>y</alargamiento> <pausa/> y bueno <pausa/> poner interés en que el servicio público tire para adelante y vaya cada vez más <pausa_larga/>
+hab1	invertir en eso más <alargamiento>que</alargamiento>
+hab2	sí o sea que que que a lo mejor no es siquiera una cuestión <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	de dinero ¿no? <pausa/> exactamente sino más bien de <pausa/> de gestionar mejor <pausa/> lo que hay <pausa/>
+hab1	y de no tener <pausa/> tanta avaricia <pausa/> pff <risa_inicio/>porque realmente <risa_fin/> claro aquí alguien se está <alargamiento>llevando</alargamiento> lo que sea <silencio/>
+hab1	yo no quiero acusar a nadie pero realmente <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> se escatima <pausa/> aquí <pausa_larga/>"
+hab1	donde no se debe escatimar <pausa/> y no se escatima <pausa/> en gastos en otras cosas que son <palabra_cortada>suf</palabra_cortada> <pausa/> superficiales <pausa/> que <alargamiento>hay</alargamiento> <pausa/> cosas que se <alargamiento>podían</alargamiento> dejar <alargamiento>de</alargamiento> <pausa/> de hacer <alargamiento>o</alargamiento> o de gastar o <alargamiento>de</alargamiento>
+hab2	¿por ejemplo? <pausa/> ¿se te ocurre algún ejemplo <ininteligible/> ?
+hab1	pues hombre por ejemplo los ingenieros de caminos de la Consellería de Medioambiente <pausa/> <alargamiento>están</alargamiento> haciendo tareas burocráticas <pausa/> mientras que los grandes proyectos se los encargan a las privadas <pausa_larga/>
+hab2	pagando <pausa/> <ininteligible/>
+hab1	pagando pues muchísimo más porque <pausa/> entonces <pausa_larga/>
+hab1	ese tipo de cosas <pausa/> <alargamiento>debería</alargamiento> eso claro evidentemente tiene que ser gestionado por <silencio/>
+hab1	por un equipo de gente que tenga <alargamiento>realmente</alargamiento> ganas de <alargamiento>que</alargamiento> lo público funcione <pausa/> y <alargamiento>no</alargamiento> pasa es que hay muchos <alargamiento>intereses</alargamiento> el que está <alargamiento>allí</alargamiento> que es cargo público aquí al mismo tiempo es cargo <pausa_larga/>
+hab2	ya <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> en la empresa <alargamiento>privada</alargamiento> y entonces bueno <pausa/> pues chocan ahí una serie <alargamiento>de</alargamiento> <pausa_larga/>"
+hab1	"elementos <alargamiento>que</alargamiento> que al final pues así nos va <risa/> <ruido tipo=""inspiración""/>"
+hab2	y notas mmm <pausa/> bueno ya estuviste <alargamiento>con</alargamiento> <pausa/> con el los gobiernos de Fraga trabajando en la Consellería ¿no? <pausa/> eeh luego <pausa/> con <alargamiento>el</alargamiento> bipartito <pausa/>
+hab1	un poquito <pausa/> con <alargamiento>el</alargamiento> con el tripartito <risa/> tripartito <pausa/> <risa/> con el <pausa/> con el tripartito un poquito porque duró un año
+hab2	tripartito <pausa/> <risa_inicio/> un poquito <risa_fin/>
+hab2	nada luego otra vez eh la <palabra_cortada>dere</palabra_cortada>
+hab1	"
+      <ininteligible/>
+      <pausa_larga/>
+    "
+hab1	<ininteligible/><énfasis_inicio/>muchos<énfasis_fin/> años <alargamiento>de</alargamiento>
+hab2	luego el bipartito <pausa/> ahora de nuevo tal <pausa_larga/>
+hab2	¿notas <pausa/> una <pausa/> manera diferente <alargamiento>de</alargamiento> gestionar <pausa_larga/>
+hab2	eeh la administración <alargamiento>en</alargamiento> en la Xunta? o realmente es eeh
+hab1	"¿entre el bipartito? <pausa/> <ruido tipo=""inspiración""/> <pausa/> hombre <pausa/> algo se notaba lo que pasa es <alargamiento>que</alargamiento> es cierto también <alargamiento>que</alargamiento> <pausa/> no sé si es que el poder <pausa_larga/>"
+hab1	"al final <alargamiento>acaba</alargamiento> pff <pausa/> comiéndote <alargamiento>o</alargamiento> no sé qué es lo que pasa ahí o realmente hay problemas <pausa/> técnicos o <pausa/> importantes para poder hacer las cosas de otra manera <pausa/> pero yo creo que el bipartito también cometió errores bastante gordos <pausa/> y hizo <alargamiento>también</alargamiento> un poco <alargamiento>de</alargamiento> amiguismo por <alargamiento>ahí</alargamiento> de <alargamiento>otro</alargamiento> color <pausa/> pero bueno a fin de cuentas al ciudadano le da lo mismo <pausa/> el color que tenga el <risa_inicio/><palabra_cortada>a</palabra_cortada> el amiguismo <risa_fin/> <pausa/> en cuestión ¿no? <pausa/> hombre yo <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> particularmente yo <pausa/> personalmente me sentí mucho más cómoda trabajando con <alargamiento>el</alargamiento> bipartito <silencio/>"
+hab1	por afinidad <pausa/> <alargamiento>pero</alargamiento> bueno <pausa/> también tiene <alargamiento>sus</alargamiento> <pausa_larga/>
+hab1	<alargamiento>sus</alargamiento> puntos <pausa/> oscuros <pausa/>
+hab2	ya <pausa/>
+hab1	"algún chiringuito que se montó por <alargamiento>ahí</alargamiento> alguna historia el plus de altos cargos <pausa/> que sigue estando por ahí que no lo quisieron <alargamiento>quitar</alargamiento> cosas <alargamiento>que</alargamiento> bueno <pausa/> también te <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab1	te hace un <alargamiento>poco</alargamiento> <pausa/> reflexionar y al final <pausa/> pues claro <pausa_larga/>
+hab1	acaba el ciudadano diciendo <cita_inicio/>mira <silencio/>
+hab1	no quiero saber nada <pausa/> con estos eh <pausa/> llego <pausa/> cumplo <pausa/> y me voy<cita_fin/> pero <pausa_larga/>
+hab1	esperemos <alargamiento>que</alargamiento> <pausa/> yo desde luego voy a intentar que a mí no me <risa_inicio/>pase <pausa/> aunque <risa_fin/>
+hab2	hm <pausa/> tú <risa_inicio/>sigues ahí al pie del cañón <risa_fin/> <pausa/>
+hab1	sí sí sí <alargamiento>y</alargamiento>
+hab2	y trabajando en el sindicato todo el tiempo
+hab1	sí sí yo sigo trabajando en el sindicato y me sigo movilizando por todo lo que haya que movilizarse <alargamiento>aunque</alargamiento> <pausa/> pff <pausa/> bueno <pausa/> pues <pausa/> muchas veces <alargamiento>te</alargamiento> sientes un poco derrotada y hay veces <alargamiento>que</alargamiento> joder <pausa/> pues dices <cita_inicio/>bueno <pausa_larga/>
+hab1	no tengo hijos a mí me importa un bledo lo que pase <pausa/> <alargamiento>y</alargamiento> lo que voy a hacer va a <alargamiento>ser</alargamiento> escalar como <alargamiento>hace</alargamiento> <pausa/> mucha gente<cita_fin/> <pausa_larga/>
+hab1	<alargamiento>aunque</alargamiento> bueno <pausa/> pff los <pausa/> son contados los que no <alargamiento>no</alargamiento> esos <pausa/> las personas que <alargamiento>no</alargamiento> <pausa_larga/>
+hab1	los cuatro que estamos ahí matados que al final pues no sé lo que <risa_inicio/>pasará <risa/> con nosotros <risa_fin/> <pausa/> si no nos amortizarán también y nos mandarán <alargamiento>para</alargamiento> <pausa/> <risa_inicio/>para Madrid otra vez <risa_fin/>
+hab2	otra vez <pausa/> <risa_inicio/>con los mutilados de guerra <risa_fin/> <risa/> <pausa/>
+hab1	"ahora <alargamiento>que</alargamiento> es <pausa/> es un poco <pausa/> <ruido tipo=""chasquido boca""/> y ahora <alargamiento>mismo</alargamiento> tal como está el panorama pff <pausa/> yo lo veo un poco negro <silencio/>"
+hab1	pero lo veo un poco negro porque tal y como está el patio <pausa/> pues ¡hale! sí <alargamiento>un</alargamiento> servicio lo consideran que no es rentable o que es más <alargamiento>rentable</alargamiento> eemm <pausa_larga/>
+hab1	que lo gestione la empresa privada <pausa/> pues allá te vas <silencio/>
+hab1	¿en qué situación? <pausa/> pues no se sabe pero <silencio/>
+hab1	"
+      <silencio/>
+    "
+hab1	futuro incierto
+hab2	ya <pausa/>
+hab1	vale <pausa/>
+hab2	bueno y aparte de esas <pausa_larga/>
+hab2	de <pausa/> esas eeh de bueno de esas actividades <pausa_larga/>
+hab2	"
+      <ininteligible/>
+      <pausa_larga/>
+    "
+hab2	"eemm bueno del trabajo del sindicato y todo eso <pausa/> eemm ¿me cuentas un poquito de tus aficiones? <ruido tipo=""teléfono""/> <silencio/>"
+hab2	ese es es tu móvil
+hab1	"ay sí <pausa/> <ruido tipo=""pasos""/> apaga <pausa_larga/>"
+hab1	apaga <silencio/>
+hab1	este debe ser de <ficticio>Fran</ficticio> <silencio/>
+hab1	"
+      <ruido tipo=""tos""/>
+      <silencio/>
+    "
+hab2	te <palabra_cortada>encien</palabra_cortada> <pausa/> enciende la luz <silencio/>
+hab1	ay no <pausa/> pues no es <ficticio>Fran</ficticio> <pausa/> ¡es de <ininteligible/> ! <pausa/> hola <ficticio>Emilia</ficticio> <silencio/>
+hab1	hola ¿qué tal? <risa/> <risa_inicio/>sí <risa_fin/> <risa/> <silencio/>
+hab1	muy bien ya ya va siendo hora ¡eh! <silencio/>
+hab1	vale entonces <palabra_cortada>co</palabra_cortada> saco las entradas para el Prado <pausa/> para el lunes <silencio/>
+hab1	para el lunes por la tarde <silencio/>
+hab1	sí <pausa/> sí sí ¿tú me oyes a mí? <silencio/>
+hab1	eeh <pausa/> mmm bueno <pausa/> saco las entradas para el lunes <pausa/> es que no estoy en casa <silencio/>
+hab1	<alargamiento>entonces</alargamiento> las saco <alargamiento>para</alargamiento> una franja horaria desde <alargamiento>la</alargamiento> eeh a ver a qué hora cierran <pausa/> pero bueno <pausa/> podemos comer el lunes ¿no? <pausa/> comemos el lunes y luego vamos <alargamiento>al</alargamiento> Prado <silencio/>
+hab1	vale cuando <ininteligible/> <silencio/>
+hab1	bueno pero comemos los tres <pausa/> comemos los tres <pausa/> entonces si él se incorpora <alargamiento>cuando</alargamiento> <pausa/> vale <pausa/> vale <pausa_larga/>
+hab1	vale pues entonces saco las entradas <alargamiento>para</alargamiento> Renoir <alargamiento>y</alargamiento> Rubens <pausa/> para el lunes <pausa/> por la tarde <silencio/>
+hab1	¿vale? <pausa_larga/>
+hab1	muy bien <silencio/>
+hab1	sí vale yo no <pausa/> te llamamos por la mañana y <alargamiento>ya</alargamiento> y <alargamiento>ya</alargamiento> quedamos o te vamos a buscar <alargamiento>o</alargamiento> <pausa_larga/>
+hab1	o lo que sea y ya quedamos para comer ¿vale? <silencio/>
+hab1	bueno <ficticio>Emilia</ficticio> que no te oigo muy bien yo tampoco ¡eh! <silencio/>
+hab1	bueno pues te dejo <pausa_larga/>
+hab1	¿quedamos así? <silencio/>
+hab1	vale <pausa/> venga <pausa_larga/>
+hab1	venga un beso <risa/> <pausa/> chao <silencio/>
+hab2	¡jo!
+hab1	es <ficticio>Emilia</ficticio> es amiga de <ficticio>Daniel</ficticio> <pausa/>
+hab2	¿vas <alargamiento>a</alargamiento> vas al <alargamiento>al</alargamiento> a ver la exposición esta <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	¡qué gusto! <pausa_larga/>
+hab2	¡qué bien!
+hab1	vamos a Rubens y <alargamiento>a</alargamiento> <pausa/> y <alargamiento>a</alargamiento> Renoir <pausa_larga/>
+hab1	que además <pausa_larga/>
+hab1	hay una oferta el lunes <pausa/> que los lunes está cerrado <alargamiento>los</alargamiento> <pausa/> museos <pausa/>
+hab2	sí y qué abren <ininteligible/>
+hab1	<alargamiento>pero</alargamiento><pausa/> pero excepcionalmente pues <alargamiento>tienen</alargamiento> una oferta <alargamiento>y</alargamiento> por siete euros vas a ver las dos cosas <pausa_larga/>
+hab1	"
+      <ininteligible/>
+    "
+hab2	¿todos los lunes mientras que estén las exposiciones o solo en Navidad?
+hab1	los lunes de diciembre <pausa/>
+hab2	uy ¡qué bien os <alargamiento>cuadra</alargamiento> !
+hab1	"todos los lunes de diciembre así que nada genial vamos el el mismo <ruido tipo=""palmada""/> día veintisiete nada más llegar vamos a ver <pausa/> y luego vamos a ir al Thyssen el miércoles pff <pausa_larga/>"
+hab2	perfecto
+hab1	es mejor
+hab2	¿y en el Thyssen hay cosas nuevas <pausa/> en la <alargamiento>exposición</alargamiento> ?
+hab1	en el Thyssen <alargamiento>están</alargamiento> <pausa/> eh jardines impresionistas <pausa/> que también tiene buena pinta <silencio/>
+hab1	y que también hay que ir a <pausa/> Caja Madrid yo qué sé <pausa/> porque es que <pausa/> Madrid es es <alargamiento>muy</alargamiento> pff <pausa_larga/>
+hab1	"no te da tiempo a nada estás todo el día en la calle y acabas <risa_inicio/>agotado <risa_fin/> pero bueno merece la pena también <ruido tipo=""inspiración""/> <pausa/>"
+hab2	me imagino <pausa/>
+hab2	¿fuisteis a <sigla_inicio/>ARCO<sigla_fin/> este año?
+hab1	no <pausa_larga/>
+hab1	a ver si vamos <alargamiento>en</alargamiento> <pausa/> este año en febrero <pausa/> porque <alargamiento>también</alargamiento> eso es una cosa que llevamos dos años sin ir <alargamiento>y</alargamiento> <pausa_larga/>
+hab1	y yo creo <alargamiento>que</alargamiento> de no <pausa/> no puede ser <pausa/> hay <alargamiento>que</alargamiento> <pausa/> hay que estar <risa_inicio/> ahí <risa_fin/>
+hab2	hay que retomarlo <risa/>
+hab1	<risa_inicio/>hay que retomarlo <risa_fin/> aunque <sigla_inicio/>ARCO<sigla_fin/> bueno es así muy <pausa/> pero es divertido yo me lo paso bien <pausa/> tampoco es que tenga mucho que ver <pausa/> no hay <alargamiento>mucho</alargamiento> no todo me gusta <alargamiento>ni</alargamiento> <pausa_larga/>
+hab1	muchas veces no me gusta ni la mitad
+hab2	<risa_inicio/>ya <risa_fin/><pausa/>
+hab1	pero bueno <pausa/> <ininteligible/>
+hab2	¿qué tipo de pintura te gusta a ti más? <pausa/>
+hab1	a mí me gusta <alargamiento>mucho</alargamiento> el impresionismo me gusta mucho <pausa/> mmm yo qué sé no sé no tengo una un <pausa/> una corriente especial <pausa/> yo al principio <alargamiento>no</alargamiento> no tenía <alargamiento>mucha</alargamiento> idea <pausa/> eh <pausa/> tampoco me fijaba demasiado pero claro <pausa_larga/>
+hab2	no hay un tipo <pausa_larga/>
+hab2	hm
+hab1	al conocer a <ficticio>Fran</ficticio> pues por lo menos mira <pausa/> aprendí a ver <pausa/> a mirar <pausa/> <alargamiento>a</alargamiento> ser un poco crítica <pausa/> y <alargamiento>a</alargamiento> saber un poco lo <alargamiento>que</alargamiento> <pausa/>
+hab2	lo que estás viendo
+hab1	"lo que te gusta y lo que no te gusta tener un poco más de criterio aunque tampoco podría decir <pausa/> <ruido tipo=""chasquido boca""/> me gusta el <alargamiento>impresionismo</alargamiento> <énfasis_inicio/>todo<énfasis_fin/> bueno el impresionismo me gusta casi todo pero <pausa/> por ejemplo <pausa/> pues yo qué sé <pausa/> de Dalí hay cosas que me gustan y cosas que no me gustan ahí <pausa_larga/>"
+hab1	el <alargamiento>realismo</alargamiento> soy un poco reacia <pausa_larga/>
+hab1	aunque hay cosas que me gustan también <silencio/>
+hab1	así <alargamiento>muy</alargamiento> <pausa/> ácrata <risa/>
+hab2	<risa_inicio/>bien <risa_fin/>
+hab1	<risa_inicio/>ácrata en ese sentido <alargamiento>no</alargamiento> <risa_fin/> <pausa_larga/>
+hab1	no sé <pausa/> <ininteligible/>
+hab2	y <pausa/> y esto de la fotografía ¿desde cuándo te gusta te atrae y te dedicas? mmm ¿me cuentas un poquito?
+hab1	pff
+hab1	sí la fotografía la fotografía que yo nunca le hice así demasiado caso <alargamiento>pero</alargamiento> <pausa/> me regaló <ficticio>Fran</ficticio> una <alargamiento>cámara</alargamiento> pequeñita una digital <pausa/> <alargamiento>y</alargamiento> empecé a experimentar <risa_inicio/>sensaciones <alargamiento>muy</alargamiento> <risa_fin/> increíbles <pausa_larga/>
+hab2	¿cuándo empezó la historia? <pausa/>
+hab1	y <alargamiento>a</alargamiento> observar un poco la naturaleza con un poco más de <alargamiento>atención</alargamiento> <pausa/> fijándome en detalles pequeñitos no solo <alargamiento>en</alargamiento> el pájaro que vuela sino <alargamiento>en</alargamiento> <pausa/> bueno <pausa/> en el agujerito que tiene en el pico <risa_inicio/>o en <risa_fin/> cosas así a través de la cámara <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> la verdad es que es un <alargamiento>mundo</alargamiento> apasionante <pausa_larga/>
+hab1	me <alargamiento>gustaría</alargamiento> aprender <pausa/> porque pff <pausa/> realmente no tengo ni idea <pausa/> o sea yo cojo la cámara disparo disparo disparo <pausa/> <alargamiento>y</alargamiento> y sin más <pausa/> <alargamiento>sin</alargamiento> tener <alargamiento>ningún</alargamiento> ni ni andar ahí mirando <cita_inicio/>a <alargamiento>ver</alargamiento> <pausa/> le cambio la luz le cambio el <pausa/> objetivo le cambio<cita_fin/> <pausa/> un <alargamiento>poco</alargamiento> pff <pausa_larga/>
+hab1	"un <alargamiento>poco</alargamiento> locamente ¿no? <pausa/> y me gustaría <pausa/> me <alargamiento>gustaría</alargamiento> saber <pausa/> un poco más <pausa/> pero claro soy mala alumna <ficticio>Fran</ficticio> <alargamiento>siempre</alargamiento> intenta enseñarme <risa_inicio/>pero al final acabamos <risa_fin/> <risa/> <risa_inicio/> discutiendo <risa_fin/> <alargamiento>porque</alargamiento> claro él <pausa/> <ruido tipo=""chasquido boca""/> él se prepara mucho para <alargamiento>hacer</alargamiento> una foto <pausa/> y <alargamiento>yo</alargamiento> soy más espontánea <pausa/> a mí <alargamiento>me</alargamiento> lo que salga sale y <pausa/> prefiero hacer <énfasis_inicio/>veinte<énfasis_fin/> <pausa_larga/>"
+hab2	<risa_inicio/> discutiendo <risa_fin/>
+hab1	"y a lo mejor no queda ninguna bien <pausa/> <alargamiento>pero</alargamiento> eso de <énfasis_inicio/>prepararme<énfasis_fin/> y <énfasis_inicio/>esperar<énfasis_fin/> el <énfasis_inicio/>momento<énfasis_fin/> en que la <énfasis_inicio/>luz<énfasis_fin/> <risa_inicio/>esté aquí o allá <risa_fin/> <pausa/> no está para mi paciencia entonces hay un poco más <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> en ese sentido un poco más impulsiva y por lo tanto <alargamiento>más</alargamiento> <silencio/>"
+hab1	pff más chapucera <pausa/> <risa_inicio/><ininteligible/> <ininteligible/> ¿no? <risa_fin/>
+hab2	bien
+hab2	pero <pausa/> pero tú sientes que tienes ojo de fotógrafo <pausa/> o de fotógrafa
+hab1	sí me gusta por lo menos me gusta mucho <pausa/> me gusta mucho <alargamiento>y</alargamiento> ¡hombre! las cosas que hago <palabra_cortada>tam</palabra_cortada> <pausa/> tampoco me disgustan <pausa/> me <alargamiento>gustan</alargamiento> las disfruto <alargamiento>y</alargamiento> <pausa/> y bueno <pausa/> pues <pausa/> bien aunque claro reconozco <silencio/>
+hab2	son
+hab2	"
+      <ininteligible/>
+    "
+hab1	que <alargamiento>no</alargamiento> no soy comparable <alargamiento>con</alargamiento> <pausa_larga/>
+hab1	<alargamiento>con</alargamiento> pues con las cosas que hace <alargamiento>él</alargamiento> o <alargamiento>con</alargamiento> otros <alargamiento>fotógrafos</alargamiento> mmm <pausa_larga/>
+hab2	<risa_inicio/>pero bueno yo mi opinión no es <alargamiento>muy</alargamiento> tampoco es <risa_fin/> <pausa/> es una opinión <alargamiento>de</alargamiento> <risa/> de amateur o de bueno de aficionado o de ni siquiera de aficionada <pausa_larga/>
+hab2	pero <pausa/> me da la impresión de que tus fotos son <pausa/> para mí son muy personales ¿no? <pausa/> esa mirada de lo pequeño ¿no? de como la vida <pausa_larga/>
+hab1	sí
+hab1	sí
+hab2	en <pausa/> pequeño
+hab1	sí sí
+hab2	y <palabra_cortada>tam</palabra_cortada> y y y y y el interés por la naturaleza <pausa/>
+hab1	"sí <pausa/> eso sí a mí siempre me ha gustado <alargamiento>mucho</alargamiento> <ruido tipo=""chasquido boca""/>"
+hab2	<ininteligible/><pausa/> como una especie de naturaleza a <pausa/> eh miniatura micro microscópica sí sí sí
+hab1	<ininteligible/> microscópica
+hab1	sí sí <pausa/> además a mí siempre me ha gustado mucho <pausa_larga/>
+hab1	eeh pues las el la <pausa/> las plantas <pausa/> los árboles <pausa/> los animales siempre ha sido una <alargamiento>cosa</alargamiento> <pausa/> <alargamiento>si</alargamiento> volviera a nacer <pausa_larga/>
+hab1	seguramente <alargamiento>que</alargamiento> <alargamiento>sería</alargamiento> o biólogo o veterinario o algo así <palabra_cortada>tene</palabra_cortada> elegiría una carrera de ciencias y <alargamiento>no</alargamiento> la que elegí que <pausa_larga/>
+hab1	así me salió como no me gustó al final no la acabé <risa_inicio/> evidentemente <risa_fin/> Derecho <pausa/> empecé <pausa_larga/>
+hab2	¿qué fue lo que empezaste?
+hab1	¿tú crees que yo tengo algo que ver con el <risa_inicio/>derecho <risa_fin/> ?
+hab2	no
+hab2	no pero bueno yo qué sé <risa/>
+hab1	<risa_inicio/>entonces <ininteligible/><risa_fin/> me <alargamiento>ya</alargamiento> me di cuenta yo desde el principio que no me gustaba pero bueno <pausa_larga/>
+hab2	tercera <palabra_cortada>reencarnac</palabra_cortada>
+hab1	"me <alargamiento>metí</alargamiento> <alargamiento>seguí</alargamiento> no me <alargamiento>resultaba</alargamiento> excesivamente difícil al final <pausa/> pues nada como <alargamiento>ya</alargamiento> <ruido tipo=""chasquido boca""/> <pausa/> no me gustaba y ya me metí en política estaba trabajando pues <pausa/> pasé <pausa/> pero si hubiera elegido una carrera de ciencias seguramente que la <palabra_cortada>habrí</palabra_cortada> la habría acabado <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento> me <alargamiento>encantan</alargamiento> <pausa/> pues eso las plantas ver su evolución ver cómo crecen cómo cambian de color <alargamiento>cómo</alargamiento> <pausa/> se desarrollan <alargamiento>y</alargamiento> <pausa_larga/>
+hab1	y bueno pues <alargamiento>eso</alargamiento> claro con la fotografía puedes <pausa_larga/>
+hab1	puedes hacer <pausa/> cositas <alargamiento>y</alargamiento> ir <alargamiento>plasmando</alargamiento> <silencio/>
+hab2	claro claro
+hab1	"<alargamiento>como</alargamiento> como <alargamiento>como</alargamiento> la semilla va <pausa/> <ruido tipo=""chasquido boca""/> <ruido tipo=""chasquido boca""/> <risa/> creciendo <alargamiento>y</alargamiento> transformándose <pausa/>"
+hab2	hm <pausa/> con la fotografía digital porque <pausa/> <alargamiento>hace</alargamiento> veinte años <alargamiento>no</alargamiento> <pausa/>
+hab1	no <pausa/> hace veinte años no
+hab2	luego para ti la fotografía digital realmente también fue un descubrimiento
+hab1	sí <ininteligible/> <pausa_larga/>
+hab1	"sí porque yo antes de la fotografía <alargamiento>digital</alargamiento> <ruido tipo=""boca""/> yo no hacía nada ¡eh! <pausa_larga/>"
+hab1	yo me metía en <alargamiento>una</alargamiento> <pausa_larga/>
+hab1	en <alargamiento>una</alargamiento> <pausa/> eeh cámara de estas <alargamiento>de</alargamiento> las fotos aquellas que nos hacíamos horribles que salíamos todos fatal <pausa/>
+hab2	Polaroid ¿o o no?
+hab1	la de <pausa/> esa no <pausa/> esas que te metías <alargamiento>que</alargamiento> te metías en <alargamiento>el</alargamiento> las <pausa/> fotomatón <risa_inicio/>la <alargamiento>fotomatón</alargamiento> esas <risa_fin/> y bueno pues mi padre tenía una cámara nos <alargamiento>sacaba</alargamiento> a todos cuando éramos pequeños <pausa/> pero bueno no tiene no tenía nada que ver en <palabra_cortada>es</palabra_cortada> <pausa/> yo creo que hay ahí ha habido una evolución muy muy muy <pausa_larga/>
+hab2	aah sí fotomatón
+hab1	<alargamiento>que</alargamiento> me perdonen los puristas que hay gente <alargamiento>que</alargamiento> <pausa/> tengo una amiga <pausa/> <ficticio>Ágata</ficticio> <pausa/> que se niega a entrar en la fotografía digital <pausa/> y es <énfasis_inicio/>muy<énfasis_fin/> buena fotógrafa ella <pausa/> pero ella siempre utilizó una cámara normal <pausa/> <alargamiento>una</alargamiento> <pausa/> <alargamiento>una</alargamiento> réflex normal <pausa_larga/>
+hab1	y <alargamiento>no</alargamiento> no no le gusta no le gusta no quiere saber nada con el mundo digital se niega a hacer <pausa/> a mí me resulta facilísimo hacer <palabra_cortada>cuat</palabra_cortada> cuarenta fotos lo difícil es deshacerse de ellas y elegir la <pausa/> la mejor <pausa/> pero bueno <pausa_larga/>
+hab1	prefiero que mi ordenador cargue <alargamiento>con</alargamiento> cuatrocientas fotos <alargamiento>y</alargamiento> hacer una selección de cuatro <pausa/> que <alargamiento>no</alargamiento> pff pues no <alargamiento>sé</alargamiento> la calidad de la imagen <alargamiento>también</alargamiento> es muchísimo mejor incluso ahora tienes técnicas para poder modificarlas y cambiarlas y hacer lo que quieras <pausa_larga/>
+hab1	que bueno eso también está bien es divertido y es creativo y <alargamiento>está</alargamiento> <pausa/>
+hab2	claro
+hab2	es un poco como la la lucha entre el artesano ¿no? <alargamiento>y</alargamiento> la <ininteligible/> la artesanía y la tecnología ¿no?
+hab1	sí
+hab1	sí
+hab2	y los artesanos algunos se se aferran <pausa/> por <vacilación/> ese arte <pausa/> <alargamiento>de</alargamiento> eeh de de lo manual <pausa/> que tiene un valor
+hab1	sí <pausa/> hombre por un lado <pausa/> claro
+hab1	"claro <pausa/> y tiene un <alargamiento>romanticismo</alargamiento> <alargamiento>total</alargamiento> y <alargamiento>que</alargamiento> oye <pausa/> pues claro de evidentemente <ruido tipo=""chasquido boca""/> <pausa/> no es lo mismo <pausa_larga/>"
+hab1	o sea hay que quitarse el sombrero ante la gente esta que sigue haciendo <alargamiento>cosas</alargamiento> <alargamiento>tan</alargamiento> <pausa/> tan así con las manos y eso pero realmente hay que estar también un <alargamiento>poco</alargamiento> en <alargamiento>tu</alargamiento> <pausa/> siglo <pausa/> o sea <pausa/> lo que no puedes hacer es en el siglo veintiuno <pausa/> andar con la cámara oscura y <risa/> <risa_inicio/>digo yo <risa_fin/> <risa/>
+hab2	<risa_inicio/>tú no sé si recuerdas que en la alameda <risa_fin/> cuando yo era niña y jovencita todavía estaban los fotógrafos <pausa_larga/>
+hab2	de <ininteligible/> <pausa_larga/>
+hab2	todavía <pausa/> <alargamiento>sí</alargamiento>
+hab1	sí <pausa_larga/>
+hab1	sí <pausa_larga/>
+hab1	y hay alguno <pausa/> hay uno todavía en la calle en la plaza esta que <alargamiento>está</alargamiento> mmm <pausa/> saliendo del Obradoiro hacia el Franco a la izquierda <pausa/> ¿eh? <pausa/> desde el Obradoiro hacia el Franco a la izquierda ¿cómo se llama de plaza?
+hab2	hm hm <pausa/> sí
+hab2	sí <pausa/> <ininteligible/> está en la Raíña ¿no? hay <ininteligible/>
+hab1	sí por allí cerca allí hay <alargamiento>un</alargamiento> <alargamiento>un</alargamiento> un fotógrafo <pausa/> <alargamiento>que</alargamiento> todavía <pausa/> se mete <pausa/> debajo de <alargamiento>la</alargamiento> <pausa/> tela esa oscura y te saca la foto <pausa/>
+hab2	<palabra_cortada>s</palabra_cortada> mmm y luego te daban la foto <pausa_larga/>
+hab1	así
+hab2	mmm en <palabra_cortada>fo</palabra_cortada> con forma de corazón
+hab1	<palabra_cortada>cla</palabra_cortada> sí <risa/> <risa_inicio/>sí sí sí sí sí <risa_fin/> <pausa/> y bueno <alargamiento>todavía</alargamiento> pff <ficticio>Fran</ficticio> <alargamiento>todavía</alargamiento> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> el otro día a <ficticio>Isaura</ficticio> le <alargamiento>estuvo</alargamiento> haciendo una <alargamiento>una</alargamiento> <pausa_larga/>"
+hab1	una prueba con un papel fotográfico pusimos allí unas cositas <pausa/> <alargamiento>y</alargamiento> el sol le <alargamiento>dio</alargamiento> ¿no te lo contó? <pausa/>
+hab2	"
+      <alargamiento>ah</alargamiento>
+    "
+hab2	no
+hab1	"y al final <palabra_cortada>sal</palabra_cortada> va a saliendo la imagen es <pausa/> mágico realmente ¿no? porque del no haber nada <pausa/> a empezar <alargamiento>a</alargamiento> aparecer <pausa/> allí <alargamiento>una</alargamiento> una historia pues claro <alargamiento>te</alargamiento> <pausa/> te quedas así un poco sorprendida ahora todo eso <ruido tipo=""chasquido boca""/> está <alargamiento>totalmente</alargamiento> <pausa/> ya pasas <pausa/> de eso de ya nadie te lo enseña <pausa/> tú coges la cámara digital empiezas a disparar y pim pam pim pam pim pam <pausa_larga/>"
+hab2	claro a impresionar <ininteligible/>
+hab1	luego las descargas las modificas las <risa_inicio/>cambias las pones <risa_fin/> <pausa/> es un poco <alargamiento>más</alargamiento> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> más fácil <pausa_larga/>"
+hab1	pero bueno <pausa/> también tiene <alargamiento>su</alargamiento> <alargamiento>su</alargamiento> proceso creativo y <alargamiento>su</alargamiento> y desde luego si <alargamiento>no</alargamiento> ves <pausa/> está claro que si no sabes mirar <pausa/> y si no sabes <pausa/> ver <pausa/> pues no puedes sacar nada <silencio/>
+hab1	"<alargamiento>tú</alargamiento> mmm a veces <pausa/> vamos por <alargamiento>la</alargamiento> vida <alargamiento>sin</alargamiento> sin ver nada <alargamiento>ni</alargamiento> <pausa/> <alargamiento>ni</alargamiento> ni miramos a veces ¿no? pero a veces aunque miremos tampoco vemos entonces <pausa/> <ruido tipo=""chasquido boca""/> hay que fijarse un poco más estamos todos un poco histéricos y andamos por <alargamiento>ahí</alargamiento> <silencio/>"
+hab1	a toda velocidad pero <pausa_larga/>
+hab1	"yo creo <alargamiento>que</alargamiento> merece la pena <pausa/> y <alargamiento>aquí</alargamiento> lo podemos hacer a lo mejor en Madrid andas un poco más histérico pero en Galicia una de las cosas que me gustan es que <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> normalmente tienes tiempo para poder disfrutar un poco la naturaleza y darte un paseíto por ahí y ver a los bichitos y a las <risa_inicio/>plantitas cómo crecen <risa_fin/> <risa/> y cómo <pausa_larga/>"
+hab1	¿no? <pausa/>
+hab2	sí <silencio/>
+hab2	y bueno para compensar esa calma ahora te vas <alargamiento>a</alargamiento> a <pausa/> en vacaciones te vas a hacer una turné <pausa/> <risa_inicio/> <ininteligible/> <risa_fin/>
+hab1	"ah sí sí sí <pausa/> <ruido tipo=""chasquido boca""/> sí sí sí porque dentro de lo que cabe a mí también me <alargamiento>gusta</alargamiento> <pausa/> me <alargamiento>gusta</alargamiento> <pausa/> Madrid <pausa/> mmm <pausa/> para mí <alargamiento>tiene</alargamiento> yo lo paso bien <pausa/> allí <pausa/> <alargamiento>tengo</alargamiento> amigos que me llevan y me traen <alargamiento>me</alargamiento> y además <alargamiento>ahora</alargamiento> la ventaja de estar lejos <pausa/> es que vas allí y todo el mundo te trata fenomenal <pausa/> te llevan a un sitio te llevan a otro no es lo <alargamiento>mismo</alargamiento> estar trabajando <pausa_larga/>"
+hab1	y estar ahí con el estrés de coger el transporte de llegar a la hora <pausa/> entonces claro <pausa/> eeh es otra cosa <pausa/> es otra cosa <pausa/> y Madrid <alargamiento>dentro</alargamiento> de lo que cabe es una ciudad que <alargamiento>tiene</alargamiento> <pausa/> tiene barrios <alargamiento>muy</alargamiento> <pausa/> con encanto y <alargamiento>tiene</alargamiento> <pausa/> tiene cosas para ver <alargamiento>y</alargamiento> <pausa/> y la gente <pausa/> es divertida <alargamiento>y</alargamiento> <pausa_larga/>
+hab1	y está bien <pausa/>
+hab2	"<risa/><alargamiento>y</alargamiento> no sé <alargamiento>qué</alargamiento> <alargamiento>más</alargamiento> te <risa/> bueno a ver con <alargamiento>
+  <palabra_cortada>pa</palabra_cortada>
+</alargamiento> lo que te gusta hacer en vacaciones <pausa/> así hablemos de cosas en plan relax <pausa/> ¿qué haces en vacaciones? <risa/>"
+hab1	que más <pausa/> que más me puedo
+hab1	"<ruido tipo=""inspiración""/><pausa/> en <alargamiento>vacaciones</alargamiento> <pausa_larga/>"
+hab1	"<ruido tipo=""chasquido boca""/> en <alargamiento>vacaciones</alargamiento> <silencio/>"
+hab1	"<ruido tipo=""chasquido boca""/> en <alargamiento>vacaciones</alargamiento> el problema es que <alargamiento>son</alargamiento> <pausa/> pocas vacaciones las que <risa_inicio/>tenemos <risa_fin/> en general pero bueno a mí me gustaría viajar más de lo que viajo <pausa_larga/>"
+hab1	pasa que tengo una pareja un <alargamiento>poco</alargamiento> mmm para eso demasiado sedentaria <pausa/> este verano por ejemplo disfruté mucho sin hacer <risa_inicio/>absolutamente nada <risa_fin/> <pausa/> lo único que hice <alargamiento>fue</alargamiento> <pausa/> eeh trasladar <alargamiento>el</alargamiento> tumbing <pausa/> de la <alargamiento>playa</alargamiento> a la hamaca <risa/> <pausa/> y de la hamaca a la cama <pausa/> y eso fue lo que hice durante todo el verano <pausa/> recibir amigos <pausa/> que también está bien <pausa_larga/>
+hab1	pero vamos no salimos a ningún sitio <alargamiento>ni</alargamiento> bueno aquí <alargamiento>también</alargamiento> se está bien en verano <pausa/> porque tienes las playas al lado <alargamiento>están</alargamiento>
+hab2	o sea que tú te levantas por la mañana <pausa/>
+hab1	yo me levanto por la mañana desayuno tranquilamente me cojo el coche me pongo en la playa <pausa/> a las diez de la mañana no hay nadie nada más que cuatro gaviotas <pausa_larga/>
+hab2	"
+      <ininteligible/>
+      <pausa/>
+    "
+hab1	<alargamiento>y</alargamiento> y <alargamiento>un</alargamiento> tío haciendo surf <pausa/> a lo mejor <pausa/> y yo <alargamiento>allí</alargamiento> <pausa/> con mi periódico debajo de <risa_inicio/><alargamiento>mi</alargamiento> <risa_fin/> arbolito tranquilamente <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> y nada a la una chiringuito caña y para casa a comer <pausa/> después una siesta <pausa/> <risa_inicio/>relajante <risa_fin/> <risa/>
+hab2	<risa_inicio/>para descansar <risa_fin/>
+hab1	<risa_inicio/>para descansar <risa_fin/> del estrés de la playa y después pues no <alargamiento>sé</alargamiento> un poco <alargamiento>de</alargamiento> <pausa/> de lectura quizás <alargamiento>o</alargamiento> <pausa/> o bueno <alargamiento>si</alargamiento> <pausa_larga/>
+hab2	"
+      <ininteligible/>
+      <pausa_larga/>
+    "
+hab2	¿qué lees? ¿qué te gusta leer? <pausa/>
+hab1	ay a mí me <alargamiento>gusta</alargamiento> yo leo <alargamiento>casi</alargamiento> de todo me gusta <alargamiento>mucho</alargamiento> la <alargamiento>novela</alargamiento> pff de acción la <alargamiento>novela</alargamiento> <pausa/> policíaca me gusta el ensayo me <alargamiento>gusta</alargamiento> no sé <pausa/> me <alargamiento>gusta</alargamiento> <pausa_larga/>
+hab1	"todo <pausa/> todo <risa/> <ruido tipo=""inspiración""/>"
+hab2	¿alguna novela que te haya gustado mucho últimamente? y así también <alargamiento>me</alargamiento> me haces alguna recomendación para estas vacaciones que <pausa/>
+hab1	pues hombre este verano <silencio/>
+hab1	<alargamiento>leí</alargamiento><pausa/> este verano leí bastante <silencio/>
+hab1	<alargamiento>leí</alargamiento><alargamiento>una</alargamiento><alargamiento>novela</alargamiento><pausa/> no me acuerdo cómo se llamaba el autor <pausa/> que era de <alargamiento>un</alargamiento> perro <alargamiento>le</alargamiento> lo que le <palabra_cortada>pas</palabra_cortada> eeh <pausa_larga/>
+hab2	¿la del Perro muerto a medianoche? <pausa/> no <risa/>
+hab1	"<alargamiento>
+  <palabra_cortada>s</palabra_cortada>
+</alargamiento> no <pausa/> era eeh eeh era el nombre del perro que no me acuerdo cómo se llamaba <pausa/> era una historia bastante truculenta de una pareja homosexual <pausa_larga/>"
+hab1	"que se <alargamiento>encuentra</alargamiento> <pausa/> que tiene él <pausa/> bueno el protagonista tiene un perro <pausa/> su pareja es <alargamiento>un</alargamiento> pff <pausa/> un elemento de mucho cuidado <alargamiento>que</alargamiento> ni el perro ni él ni nada de nada de nada solamente por el interés entonces bueno <pausa/> el perro desaparece coincidió cuando <pausa/> desaparecieron <pausa/> mis perras entonces yo estaba <ruido tipo=""chasquido boca""/> <pausa/> <alargamiento>demasiado</alargamiento> mmm sensible con ese tema y la novela me impactó bastante porque al final el perro tiene <alargamiento>un</alargamiento> un final <alargamiento>muy</alargamiento> <pausa_larga/>"
+hab2	"
+      <alargamiento>ah</alargamiento>
+    "
+hab2	sensible
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> muy desagradable por culpa <alargamiento>del</alargamiento> <pausa/> de la pareja del tío este <pausa_larga/>"
+hab1	pero bueno <pausa/> es <pausa/> <alargamiento>cuenta</alargamiento> contaba la <alargamiento>historia</alargamiento> un poco la <palabra_cortada>sa</palabra_cortada> la aventura del perro <pausa/> desde que desaparece <pausa/> que lo abandona el colega <pausa/> este <pausa_larga/>
+hab1	en el quinto pino <pausa/> y el tío intenta llegar a casa y llegar a casa es toda su <pausa/> pero claro por el camino se va encontrando <alargamiento>con</alargamiento> <pausa/> impedimentos pues el uno que lo coge para llevárselo a la suya lo mete en un <pausa/> coche <pausa/> y se lo lleva al quinto pino de que mmm volviendo atrás de donde el perro estaba intentando llegar que el perro sabía muy bien donde te <pausa/> donde quería ir <pausa/> pero por el camino se encontraba con <alargamiento>el</alargamiento> ser humano que le <alargamiento>iba</alargamiento> modificando y alterando su destino <pausa_larga/>
+hab1	entonces bueno al final tiene un final <alargamiento>bastante</alargamiento> heavy <pausa/> que hasta que se me saltaron las lágrimas después <pausa/> que que bueno <pausa_larga/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	"y bueno leí también otra novela <alargamiento>de</alargamiento> mmm <pausa/> de una escritora gallega <pausa/> Luisa Castro <pausa/> <ruido tipo=""boca""/> que también era <alargamiento>un</alargamiento> tochito <pausa_larga/>"
+hab2	ah sí
+hab1	"<ruido tipo=""chasquido boca""/> bastante grande <pausa_larga/>"
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab2	y ¿qué tal? hace tiempo que no leo nada de ella
+hab1	"
+      <alargamiento>bien</alargamiento>
+    "
+hab1	bien <pausa/> ¿tú leíste algo <alargamiento>de</alargamiento> de ella?
+hab2	hm <pausa/> sí sí <pausa/> leí <pausa/> mmm <alargamiento>algo</alargamiento> leí sí cuentos <alargamiento>y</alargamiento>
+hab1	esta se llama <pausa/> Y punto se llama <pausa/> Y punto entonces es la historia de <alargamiento>una</alargamiento> mujer <pausa/> que es policía <pausa/> y entonces claro está en <alargamiento>un</alargamiento> mundo <alargamiento>de</alargamiento> hombres <pausa/> <alargamiento>y</alargamiento> bueno pues cuenta un poco todas las dificultades que tiene ella <alargamiento>para</alargamiento> <pausa/> tanto para realizarse como persona <pausa/> <alargamiento>porque</alargamiento> la <alargamiento>tratan</alargamiento> pues como si fuera una cosa mucho <alargamiento>más</alargamiento> blanda más débil más <pausa/> de todo <pausa_larga/>
+hab2	no la leí esa
+hab1	y bueno luego después hay una <alargamiento>trama</alargamiento> policíaca y <alargamiento>bastante</alargamiento> <pausa/> es <alargamiento>un</alargamiento> <alargamiento>son</alargamiento> <pausa/> bastantes páginas es un tocho así no sé cuántas páginas hay lo tiene <ficticio>Antonio</ficticio> ahora <pausa/> en este momento <risa/>
+hab2	hm hm <pausa/> vale <risa_inicio/>vale <pausa/> lo tengo en cuenta <risa_fin/> <risa/> tengo así como cuatro o cinco libros <ininteligible/>
+hab1	y luego estoy leyendo el tuyo también <pausa/> a ratos <pausa/> el que me dejaste ¿te acuerdas?
+hab2	"<ruido tipo=""chasquido boca""/> ay el el de sí sí sí bueno claro no es una novela eso es una especie de autobiografía"
+hab1	"sí <ruido tipo=""inspiración""/> <pausa/>"
+hab1	sí no <pausa/> no <pausa_larga/>
+hab1	eso <pausa_larga/>
+hab1	claro eso hay que <pausa/> no pero es muy interesante <pausa/> es muy interesante porque realmente <pausa/> claro <pausa/> claro claro claro <pausa/> entonces está bien <pausa/> está bien <pausa/> y estoy leyendo el <alargamiento>de</alargamiento> el <alargamiento>del</alargamiento> <pausa/> <alargamiento>el</alargamiento> <pausa_larga/>
+hab2	pero es muy interesante <pausa_larga/>
+hab2	está contado de primera mano <pausa/> no
+hab1	eeh <pausa_larga/>
+hab1	"<sic_inicio/>Screc <pausa/> Screpf<sic_fin/> <pausa/> bueno es un es <alargamiento>una</alargamiento> historia así un <alargamiento>poco</alargamiento> <ruido tipo=""chasquido boca""/> <pausa/> <alargamiento>antimilitarista</alargamiento> se desarrolla en la Primera Guerra Mundial un tío que bueno parece un poco tonto <pausa/> por <alargamiento>su</alargamiento> por lo que hace por lo que dice por lo que <pausa/> todo por el trasfondo es <alargamiento>un</alargamiento> rollo antimilitarista el tío <alargamiento>está</alargamiento> <pausa/> lo <alargamiento>han</alargamiento> <pausa_larga/>"
+hab1	enrolado en las filas <pausa/> eeh <alargamiento>para</alargamiento> para la guerra él es <alargamiento>de</alargamiento> es polaco me parece <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> y bueno pues tiene toda hay <alargamiento>toda</alargamiento> una movida también es <alargamiento>un</alargamiento> <pausa/> un <pausa/> un buen tocho ese lo tengo sin acabar también <pausa/> pero bueno
+hab2	bueno o sea que <alargamiento>no</alargamiento> no paras encadenas dos o tres <ininteligible/>
+hab1	<alargamiento>no</alargamiento> sí sí <pausa/> me gusta tener <alargamiento>siempre</alargamiento> <pausa_larga/>
+hab1	un par de libros <pausa_larga/>
+hab1	<alargamiento>en</alargamiento><pausa/> en mano <pausa/> <alargamiento>para</alargamiento> <alargamiento>no</alargamiento> <pausa/> <risa/> <alargamiento>no</alargamiento> centrarme solamente en uno <alargamiento>así</alargamiento>
+hab2	y aparte haces deporte <risa/>
+hab1	sí <pausa/> un poquito <risa/> <risa_inicio/> un poquito <risa_fin/>
+hab2	<risa_inicio/> ¡qué chica más completa! <risa_fin/>
+hab1	"<alargamiento>no</alargamiento> hay que <pausa/> ya me gustaría a mí <risa/> que <alargamiento>también</alargamiento> hago mucho tumbing ¡eh! <pausa/> me gustaría a mí <palabra_cortada>tene</palabra_cortada> <pausa/> tener un poco más <alargamiento>de</alargamiento> <pausa/> de actividad lo que pasa es <alargamiento>que</alargamiento> pff también es <alargamiento>muy</alargamiento> <ruido tipo=""chasquido boca""/> <pausa/> no sé <pausa/> <risa/> <alargamiento>también</alargamiento> a veces <pausa_larga/>"
+hab1	caes en la pereza y tampoco es desagradable la pereza en un momento dado <pausa_larga/>
+hab1	el repantingarte en el <alargamiento>sofá</alargamiento> no está mal <pausa/> y el no tener nada nada nada nada que hacer <pausa_larga/>
+hab1	me encanta <risa/>
+hab2	<risa_inicio/>te ocurre pocas veces ¿no? <risa_fin/> <risa/>
+hab1	<risa_inicio/>cierto <risa_fin/><risa/>
+hab2	es un bien escaso vamos
+hab1	"es un bien escaso sí sí <pausa/> la verdad es que sí <pausa/> pero bueno <alargamiento>aquí</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> se vive <alargamiento>bien</alargamiento> <pausa/> jolín tienes una calidad de <alargamiento>vida</alargamiento> estupenda tienes mucho tiempo libre <pausa/> mi horario es cómodo porque <pausa/> salgo a las tres y cuarto me olvido del tema el hecho de no <alargamiento>ser</alargamiento> <pausa/> eeh no tener una responsabilidad muy grande ni <palabra_cortada>ten</palabra_cortada> ser alto cargo ni bajo cargo ni nada de nada <pausa/> pues tiene su punto <pausa/> yo a las <alargamiento>tres</alargamiento> y cuarto <pausa/> cuelgo el <alargamiento>chiringuito</alargamiento> <alargamiento>y</alargamiento> nadie sabe más de mí hasta el día siguiente"
+hab2	claro <pausa/> tú no tienes que hacer horas extras <pausa_larga/>
+hab2	"
+      <alargamiento>ni</alargamiento>
+    "
+hab1	"exactamente <pausa/> exactamente ni tengo hombre alguna tarde siempre me he tenido que quedar pero bueno igual son dos al año que tampoco <ruido tipo=""boca""/> <pausa_larga/>"
+hab1	"<alargamiento>y</alargamiento> el resto del tiempo pues claro yo en Madrid no <alargamiento>podría</alargamiento> a lo mejor ir al gimnasio ni pasear con los perros <alargamiento>ni</alargamiento> <pausa/> <alargamiento>ni</alargamiento> ver a mis <alargamiento>amigos</alargamiento> <pausa/> cuando quiera <alargamiento>ni</alargamiento> <alargamiento>ni</alargamiento> <pausa/> ya <ruido_inicio tipo=""ruido de fondo""/><alargamiento>ni</alargamiento> <pausa/> ni ni meterme en inglés como me metí después bueno<ruido_fin tipo=""ruido de fondo""/> <pausa_larga/>"
+hab2	yo <ininteligible/> <pausa/>
+hab1	ni aprender música <alargamiento>como</alargamiento> aprendí <ininteligible/>
+hab2	es <alargamiento>verdad</alargamiento> <risa_inicio/>que eso <pausa/> eso no hablamos pero yo creo que ya no nos da tiempo eso lo dejamos para otra entrevista <pausa/> de <palabra_cortada>cuan</palabra_cortada> <pausa/> tú tocabas <alargamiento>el</alargamiento> <risa_fin/> saxo <pausa/> ¿y todavía tienes el saxo en casa o qué? <pausa/> aah claro claro es que si no
+hab1	"
+      <ininteligible/>
+    "
+hab1	saxofón <pausa/> sí
+hab1	lo <alargamiento>vendí</alargamiento> lo vendí lo vendí
+hab1	"lo vendí porque me daba pena verlo encerrado <pausa/> <alargamiento>todo</alargamiento> <alargamiento>allí</alargamiento> en su estuche un <alargamiento>instrumento</alargamiento> que <alargamiento>tiene</alargamiento> tanta vitalidad y es <alargamiento>tan</alargamiento> <pausa/> tan importante y <alargamiento>tan</alargamiento> <pausa/> que <pausa/> tiene ese sonido <alargamiento>tan</alargamiento> <pausa/> para mí <alargamiento>tan</alargamiento> estupendo tan mágico <pausa/> verlo ahí encerrado <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> cinco años seis años siete años <pausa_larga/>"
+hab1	me estaba agobiando <pausa/> y entonces había una persona <alargamiento>que</alargamiento> yo sabía que lo iba a tocar <pausa_larga/>
+hab1	y <alargamiento>me</alargamiento> <pausa/> me propuso comprármelo <alargamiento>y</alargamiento> <pausa/> y se lo vendí encantada
+hab2	muy bien
+hab1	"<alargamiento>porque</alargamiento><pausa/><ruido tipo=""boca""/> bueno por lo menos anda por ahí <pausa/>"
+hab2	si lo puedes oír <ininteligible/>
+hab1	<ininteligible/> exactamente y sé que el saxo va a estar <palabra_cortada>sona</palabra_cortada> vas a va a estar tocado <alargamiento>y</alargamiento> va a ser disfrutado hombre
+hab2	entonces descartaste ya <pausa/> lo de volver <alargamiento>en</alargamiento> ya no
+hab1	sí
+hab1	sí <pausa/> pero bueno aprendí mucho aprendí a escuchar música aprendí <alargamiento>a</alargamiento> <pausa_larga/>
+hab1	<alargamiento>a</alargamiento><pausa/> a escuchar a diferenciar los distintos sonidos dentro <alargamiento>de</alargamiento> una melodía que <alargamiento>son</alargamiento> muchos y bueno <pausa/> mmm <pausa/> me doy por satisfecha <pausa/> en esa etapa que fueron <pausa/> cinco o seis años <pausa_larga/>
+hab1	y que conocí a gente encantadora <alargamiento>y</alargamiento> me <alargamiento>metí</alargamiento> mucho en el mundo del jazz conocí grupos <alargamiento>que</alargamiento> en otras circunstancias pues no no no habría podido yo conocerlos <pausa/> <alargamiento>y</alargamiento> y bueno pues también aprendí un poco a tener un <pausa/> sentido del oído y <alargamiento>de</alargamiento> <pausa_larga/>
+hab1	y a cantar <risa_inicio/>un poco mejor <risa_fin/> no a cantar no <pausa/> pero bueno <pausa/> <alargamiento>a</alargamiento> tener criterio <pausa/> musical <pausa/> que ya es muy importante
+hab2	ah bueno pero eso ya es <pausa/> <palabra_cortada>y</palabra_cortada> ya es un paso importante <pausa/> otros nunca llegaremos a tener <pausa_larga/>
+hab1	sí
+hab2	ese criterio <pausa_larga/>
+hab2	yo voy a coger mi boli <pausa/> porque tenemos que hacer el cuestionario

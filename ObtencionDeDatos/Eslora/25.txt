@@ -1,0 +1,218 @@
+hab3	"
+      <ininteligible/>
+    "
+hab2	mamá te dejo aquí lo de papá <pausa/> no os olvidéis
+hab3	sí <pausa/> que no se puede ni <pausa/> ni ni ni <palabra_cortada>sen</palabra_cortada> ni
+hab1	¿pero qué tiene ella?
+hab2	¡joder!
+hab3	pues mira <pausa/> la han operado <pausa/> <palabra_cortada>te</palabra_cortada>
+hab2	tiene <pausa/> cáncer
+hab1	¿tiene cáncer?
+hab3	lo tuvo
+hab2	y aparte ahora se le reprodujo tiene que volverse a abrir todo
+hab3	se le reprodujo
+hab1	¿pero cáncer de qué?
+hab3	abajo
+hab2	abajo <pausa/> en la matriz en los ovarios <pausa/> pero aparte
+hab2	<ininteligible/><pausa/> y dicen que tiene <pausa/> que tiene una enfermedad inmune del sistema inmunológico que está relacionada con el cáncer porque le aparece cuando tal
+hab3	le quitaron todo
+hab2	<alargamiento>que</alargamiento><pausa/> que le afecta a los huesos las articulaciones que no puede moverse no puede ni andar
+hab1	ah
+hab2	o sea en la cama
+hab3	la tienen que ayudar <risa/>
+hab2	o sea ya no es que se esté dando la quimio como la de abajo que hace vida normal está en la cama tumbada pero coge el coche
+hab3	no <pausa/> ella está que no puede
+hab2	ella quedó <palabra_cortada>in</palabra_cortada> <pausa/> queda invalidada y no saben
+hab1	¿pero del cáncer está curada ahora es la otra enfermedad?
+hab2	no
+hab2	otra vez quimio está
+hab3	quimio
+hab1	¿otra <alargamiento>vez</alargamiento>?
+hab2	otra vez claro si se le volvió a reproducir
+hab2	otra vez la quimio por lo que me dijo <ficticio>Bego</ficticio> a mí <pausa/> que <ficticio>Bego</ficticio> la va a ver <pausa/> que es la madrina de <ficticio>Bego</ficticio>
+hab1	¿y esta? <pausa_larga/> y <palabra_cortada>est</palabra_cortada> <pausa_larga/> ya ya lo sé
+hab1	"¿y <alargamiento>esta</alargamiento> mmm <pausa/> <ruido tipo=""chasquido boca""/> la la amiga esta <alargamiento>de</alargamiento> de <ficticio>Sara</ficticio> del <alargamiento>cole</alargamiento> <ficticio>Carla</ficticio> <pausa/> la que su madre también tenía cáncer"
+hab2	sí
+hab2	ah <ficticio>Lola</ficticio> sí
+hab1	¡buah! esa llevaba enferma muchísimo tiempo pero muchísimo y
+hab2	esa lleva
+hab2	yo no sé cómo resiste <pausa/> la que <pausa/> la que vino a la comunión de <ficticio>Sara</ficticio> <pausa/> ¿no sabes mamá? <ininteligible/>
+hab1	y no se le consigue
+hab3	aah
+hab1	pero <pausa_larga/> fatal además está anoréxica ¡eh!
+hab2	¡buah! <pausa/> está fatal <pausa/> yo a veces le <palabra_cortada>pregun</palabra_cortada> <pausa/> <ficticio>Mari</ficticio> me cuenta porque <ficticio>Mari</ficticio> llama
+hab2	¡buah! ya ya no puede ni cuidarla <pausa/> la madre tiene Alzheimer <pausa_larga/> con lo cual vive con la hermana <pausa_larga/> ahora ya no puede
+hab2	ella vive sola <pausa_larga/> en el piso
+hab1	¿sola?
+hab2	en <ficticio>Viveiro</ficticio> la hija aquí con el <palabra_cortada>pad</palabra_cortada>
+hab2	sola o la ingresarán o estará en algún sitio
+hab1	y la hija ¿con quién está?
+hab2	con el padre
+hab2	¿no ves que volvió al hogar? <silencio/>
+hab1	¡bah!
+hab2	yo no entiendo nada <pausa/> la pobre mujer
+hab2	claro la hija no la puede atender como está
+hab2	la niña se fue con el padre y ahora parece ser que feliz
+hab2	feliz eeh o sea que bien con él pero fff
+hab3	pero además ahora viene <pausa/> viene <pausa/> en los niños también porque ya ves que nos contara <ficticio>Elena</ficticio>
+hab2	"
+      <ininteligible/>
+    "
+hab4	¡rosquillas!
+hab3	de ese niño que fue de excursión <pausa/> bueno <pausa_larga/> dice que le dolían las piernas <pausa/> que le dolían <pausa/> <transcripción_dudosa_inicio/>las piernas<transcripción_dudosa_fin/>
+hab2	ahí <ininteligible/>
+hab1	así
+hab4	¿dónde están mamá?
+hab2	en ese tupper que está delante de tus narices
+hab4	¿en qué tupper? hay dos
+hab2	no <pausa/> esos son los de hoy <pausa/> estos son los de ayer que los dejamos para tomar con leche mejor <silencio/>
+hab2	"
+      <ruido tipo=""carraspeo""/>
+    "
+hab3	y y <alargamiento>ya</alargamiento> apareció también
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab4	"
+      <ininteligible/>
+    "
+hab3	dos niños que contó <ficticio>Elena</ficticio> <pausa/> uno
+hab1	y eso que es una niña pequeña
+hab4	¿quién?
+hab3	uno que tenía en en la <pausa/> la rodilla que tenía <ininteligible/> <pausa/> y el otro le dolía un poco la cabeza también
+hab2	"
+      <ininteligible/>
+    "
+hab2	cosas de tristeza <pausa/> mejor no hablar
+hab3	y no sé qué <palabra_cortada>ten</palabra_cortada> <pausa_larga/> no sé dónde lo tenía
+hab3	¿no ves? <pausa/> no con todo y no <vacilación/>
+hab2	era una niñita también del curso de <ficticio>Sara</ficticio> <ficticio>Belén</ficticio> que también tenía cáncer <ficticio>Sara</ficticio> <pausa/> de las rodillas no sé si
+hab3	sí
+hab1	y una niña que
+hab4	y una amiga mía tiene leucemia
+hab2	¿una <palabra_cortada>t</palabra_cortada> amiga tuya?
+hab4	se lo detectaron hace una semana
+hab1	¿qué dices?
+hab2	¿de de tu curso?
+hab4	no <pausa/> a ver <pausa/> no es amiga mía porque no me llevo mucho con ella <alargamiento>pero</alargamiento> mmm
+hab2	¿pero de tu cole? <silencio/>
+hab2	ah ah
+hab3	¡ay Dios! <ininteligible/> de que vive del cáncer de pecho <pausa/> sobre todo
+hab2	"
+      <ininteligible/>
+    "
+hab3	dura un <pausa/> toda <pausa/> muchísimo <palabra_cortada>tiemp</palabra_cortada> ya no a lo mejor mueren de otra cosa ¡eh!
+hab3	que <ficticio>Eugenia</ficticio> murió de otra cosa y no murió de eso
+hab2	la madre de ella <pausa_larga/> de esa chica <pausa_larga/> que te decía yo
+hab1	¿de qué chica?
+hab1	"
+      <alargamiento>de</alargamiento>
+      <alargamiento>las</alargamiento>
+    "
+hab3	"<ruido tipo=""chasquido boca""/><pausa_larga/> de <ficticio>Ana Isabel</ficticio> la madre"
+hab2	la madre de <ficticio>Ana Isabel</ficticio> <pausa/> se llamaba <ficticio>Geni</ficticio> que estaba operada del pecho <pausa/> no tenía un pecho
+hab3	<alargamiento>pues</alargamiento><pausa_larga/> ¡ay!
+hab3	te digo <pausa_larga/> que y ya <alargamiento>estaba</alargamiento> <pausa/> ya tenía la niña mayor ¡eh!
+hab2	era como <ficticio>Cha</ficticio> de la edad de <ficticio>Concha</ficticio>
+hab3	y nada más que hacía beber y beber y beber y beber y beber y digo bueno <pausa_larga/> <ficticio>Eugenia</ficticio>
+hab2	"¿<ficticio>
+  <alargamiento>Eugenia</alargamiento>
+</ficticio>?"
+hab2	¿<ficticio>Eugenia</ficticio> <alargamiento>bebía</alargamiento>?
+hab2	¿vino?
+hab3	¡agua <alargamiento>hija</alargamiento>!
+hab2	¡oh!
+hab1	¡<alargamiento>joba</alargamiento>! <pausa_larga/> ¡tú <alargamiento>también</alargamiento>!
+hab3	y de noche y todo
+hab3	y entonces <pausa/> le le salió eso del <alargamiento>el</alargamiento> el <alargamiento>el</alargamiento> <pausa/> el cáncer en el pecho
+hab3	y aún fuera <ficticio>Jovita</ficticio> la que era amiga <alargamiento>de</alargamiento>
+hab3	de <ficticio>Paredes</ficticio>
+hab2	peluquería <pausa/> sí
+hab3	eso
+hab3	<alargamiento>y</alargamiento><palabra_cortada>est</palabra_cortada> y fue allí claro <pausa/> como como la <palabra_cortada>con</palabra_cortada> <pausa/> ya
+hab2	hm
+hab2	"
+      <comentario_inicio valor=""susurrando""/>
+      <ininteligible/>
+      <comentario_fin/>
+    "
+hab3	le operaron
+hab1	<ininteligible/> en la terraza
+hab2	ah
+hab3	la operaron y dijo <silencio/>
+hab3	y dijo el médico <pausa/> delante de esa <ficticio>Jovita</ficticio> <pausa/> dijo el médico
+hab2	pues <pausa_larga/> habrá que <ininteligible/> abrir los rosquitos
+hab3	<cita_inicio/>¡ay madre mía <pausa/> esta mujer como está!<cita_fin/> <pausa/> que echó la mano a la cabeza
+hab2	¿qué tenía?
+hab3	pues tenía el cáncer en el pecho
+hab2	pero y ¿cómo lo iba a saber la pobre?
+hab3	¿pero qué? <pausa_larga/> pero ¿cuántos años no tardó en morir si no murió de cáncer de pecho? <ininteligible/>
+hab1	ya
+hab1	ya
+hab3	pues no sé si es la más
+hab1	porque dicen que a partir de que es más mayor va más lento
+hab3	¡<alargamiento>claro</alargamiento>! <pausa/> nada <alargamiento>sí</alargamiento>
+hab2	claro es menos agresivo <pausa/> el cáncer ataca a las células jóvenes
+hab3	pero también porque hizo así con la <palabra_cortada>ma</palabra_cortada>
+hab2	ya viste que la tía <ficticio>Argentina</ficticio> tenía leucemia y no murió de la leucemia murió de una neumonía de tal porque <pausa_larga/> con ochenta años que te detecten una leucemia
+hab3	no <pausa/> claro
+hab1	¿cuál es esta enfermedad de los niños? <pausa/> eso que le salen las manchas en <alargamiento>las</alargamiento> rodillas <pausa_larga/> <alargamiento>y</alargamiento> que normalmente afecta a los niños <pausa/> que también se mueren de eso
+hab2	que se mueren <alargamiento>de</alargamiento> <pausa_larga/> meningitis
+hab1	"eso eso <pausa/> también lo tiene <palabra_cortada>
+  <alargamiento>muchís</alargamiento>
+</palabra_cortada>"
+hab2	eso es horroroso
+hab4	¿el qué? <pausa/> ¿el qué?
+hab2	¡jo qué miedo! <pausa/> eso me da terror <pausa_larga/> la meningitis
+hab3	de meningitis <pausa/> eso es terrible
+hab4	¿el qué? <pausa/> ¿laringitis?
+hab2	meningitis
+hab3	¡meningitis!
+hab4	¿qué es eso?
+hab2	<ininteligible/> tu cole había muerto <ininteligible/>
+hab1	es que en mi cole <pausa/> y en y en Compañía también o sea que eso
+hab3	te <alargamiento>dan</alargamiento>
+hab4	¿el qué?
+hab3	te puedes quedar
+hab1	¡joder! ¿otra vez? <pausa_larga/> ¡qué <alargamiento>pesada</alargamiento>!
+hab2	de meningitis <ficticio>Sara</ficticio> <ininteligible/>
+hab4	¿pero de qué va esa <alargamiento>enfermedad</alargamiento>?
+hab3	pues <pausa/> te quedas <pausa/> te quedas te te <vacilación/> te quedas inútil <ininteligible/>
+hab2	no lo <alargamiento>sé</alargamiento>
+hab2	hay gente que la <alargamiento>cura</alargamiento>
+hab1	no inútil <alargamiento>no</alargamiento> <pausa/> te mueres <pausa/> normalmente
+hab2	te mueres <pausa/> no te quedas inútil te mueres
+hab3	ya te mueres claro
+hab4	¿no hay cura?
+hab2	mmm poco
+hab3	no
+hab3	no sé ahora pero
+hab2	hay hay tratamiento pero hay gente que responde y hay gente que no responde
+hab2	que ese es el problema
+hab3	mira la hermana de <ficticio>Marisa</ficticio> se quedó así
+hab2	se había muerto un niño <pausa_larga/> en vuestro cole y <alargamiento>que</alargamiento> después los padres
+hab1	sí <pausa/> sí que tenía una hermana mayor
+hab2	sí <pausa_larga/> que vivía en casa de <ficticio>Lisa</ficticio>
+hab4	pero
+hab2	después otro <pausa_larga/> otro niño <pausa_larga/> que iba al <alargamiento>parque</alargamiento> los padres que habían tenido después
+hab4	en tu cole hay hay todo
+hab4	cosas raras
+hab1	en el <pausa/> en el mío y en el tuyo que era en el Hogar ¡eh!
+hab2	hablamos del <pausa/> hablamos <pausa/> era del Hogar claro
+hab3	que tú no lo sabes
+hab4	ah <pausa/> ¿eran del Hogar?
+hab1	eran del Hogar <pausa/> o sea que cállate
+hab3	"y en el <ficticio>E</ficticio> y en el de <ficticio>
+  <palabra_cortada>Ele</palabra_cortada>
+</ficticio>"
+hab4	pensaba que era en Compañía <pausa/> pero es que en Maristas
+hab2	en Compañía también habías <pausa/> es que eso eso <pausa_larga/> eso ocurre en todos los sitios
+hab1	en Compañía también <pausa/> una niña
+hab3	claro
+hab3	¿y <ficticio>Elena</ficticio> no cuenta cosas? <pausa/> bueh
+hab1	y y y <ficticio>Xi</ficticio> <pausa/> y <ficticio>Xiana</ficticio> me había dicho que en su instituto una niña lo superó
+hab3	¡pero <ininteligible/> <pausa/> que hace frío!
+hab4	¿qué?
+hab2	en <ininteligible/> una niña lo superó
+hab1	¡qué raro que lo superen! <pausa/> ¿verdad?
+hab2	<alargamiento>sí</alargamiento><pausa/> hay gente que <palabra_cortada>sa</palabra_cortada>

@@ -1,0 +1,160 @@
+hab1	pasando el rato
+hab2	hm <silencio/>
+hab1	si no descansan el domingo
+hab1	¿cuándo van a descansar? <silencio/>
+hab2	hombre pues todo el fin de semana ¿no? <silencio/>
+hab1	los sábados trabaja ella <pausa/> también
+hab3	trabajan los dos
+hab3	y <ficticio>Josu</ficticio> también
+hab2	"
+      <ruido tipo=""carraspeo""/>
+    "
+hab1	<transcripción_dudosa_inicio/>claro sí<transcripción_dudosa_fin/>
+hab1	<ficticio>Josu</ficticio> tiene <alargamiento>que</alargamiento>
+hab1	cocinar y planchar
+hab2	hombre pero la <palabra_cortada>facul</palabra_cortada> <pausa/> la facultad cierra los fines de semana ¿no?
+hab1	pero ella da clases <silencio/>
+hab1	particulares los sábados
+hab2	<asignación_dudosa_inicio/>¡aay!<asignación_dudosa_fin/>
+hab2	<asignación_dudosa_inicio/>ya<asignación_dudosa_fin/>
+hab3	no
+hab2	sí
+hab1	ella va a la academia
+hab2	va a la academia los sábados
+hab3	los <palabra_cortada>sa</palabra_cortada>
+hab2	los días que estoy yo a comer allí <silencio/>
+hab2	ella siempre viene <pausa/> como a las dos y tal
+hab3	"
+      <ininteligible/>
+    "
+hab1	a las dos y media o por ahí <pausa_larga/> exactamente <silencio/>
+hab3	"
+      <ininteligible/>
+    "
+hab1	pero de semana da clases
+hab3	hm
+hab2	sí no no estaba nada contenta <pausa_larga/> la verdad con las alumnas que le tocaron
+hab1	"
+      <ininteligible/>
+    "
+hab1	ya
+hab1	alguna creo que cargó y ya la dejó
+hab2	hm <silencio/>
+hab2	sí además se quejaba de <alargamiento>que</alargamiento> <pausa/> le <alargamiento>querían</alargamiento>
+hab2	le <pausa/> le pedían más <silencio/>
+hab2	que lo que ella <pausa/> sabía vamos
+hab2	o que no <pausa/> no le parecía a ella que <alargamiento>era</alargamiento> pertinente
+hab1	"
+      <ininteligible/>
+    "
+hab1	un niño atrasado creo que era lo
+hab2	no <pausa/> ella se quejaba del <pausa/> de lo mal de las alumnas universitarias
+hab3	"
+      <ininteligible/>
+    "
+hab3	exacto <pausa_larga/> de las universitarias no de los niños de <sigla_inicio/>COU<sigla_fin/> y <alargamiento>de</alargamiento>
+hab1	"
+      <ininteligible/>
+    "
+hab2	que dice que no <alargamiento>son</alargamiento>
+hab3	aah
+hab2	que le piden más de lo <alargamiento>que</alargamiento>
+hab1	se exige en la materia
+hab2	<alargamiento>sí</alargamiento> y que le discuten todo lo que les enseña
+hab3	exacto
+hab1	<risa/> tal vez que no vienen a aprender <silencio/>
+hab3	una la había dejado ahora últimamente
+hab1	si no quieren aprender
+hab1	es imposible enseñarles <silencio/>
+hab2	a ver qué hace cuando venga a <ficticio>Lalín</ficticio> a <palabra_cortada>ve</palabra_cortada> <alargamiento>a</alargamiento> dar las clases <pausa_larga/> bueno
+hab1	a <ficticio>Lalín</ficticio>
+hab2	a la academia
+hab3	no <pausa/> ella viene a recibirlas a <ficticio>Lalín</ficticio>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	a <ficticio>Lalín</ficticio> viene <pausa/> a la academia
+hab2	sí <pausa/> en febrero ¿no?
+hab1	mmm <silencio/>
+hab3	hm <silencio/>
+hab1	¿tú quieres? <silencio/>
+hab1	el profesor cambia de sitio
+hab2	<ininteligible/> a mí <pausa/> me <alargamiento>parece</alargamiento>
+hab2	mejor sitio <ficticio>Lalín</ficticio> eh desde luego <pausa_larga/> para dar las clases <silencio/>
+hab1	a ver dónde le toca porque no sabe <alargamiento>dónde</alargamiento>
+hab1	mmm las da
+hab2	pero tú ¿qué crees? <pausa/> ¿que va a ser en plan academia <pausa/> alguna academia <pausa/> o o un <pausa/> o un piso de esos? <silencio/>
+hab1	que seguro que será una academia
+hab3	una academia
+hab2	y ¿cuál crees que es? <silencio/>
+hab1	con alguna que tenga conciertos tipo <alargamiento>de</alargamiento>
+hab2	¿la Postal?
+hab3	o
+hab3	o alquila un local <pausa/> como hizo la profesora que me preparó
+hab1	ya ninguno alquila un local <pausa_larga/> en una academia
+hab3	"
+      <ininteligible/>
+    "
+hab3	<ininteligible/> alquiló aquí en la <ficticio>Joma</ficticio> <pausa/> y este año <pausa/> <palabra_cortada>a</palabra_cortada> alquiló
+hab3	en la calle Conde en el aula
+hab3	"<lengua_inicio nombre=""gl""/>galega<lengua_fin/>"
+hab2	y ¿donde está la <ficticio>Joma</ficticio> esa?
+hab1	aquí al lado en nuestra calle <pausa/> en el <alargamiento>número</alargamiento>
+hab2	ah ¿es la que está al lado <alargamiento>de</alargamiento> <pausa/> la calle esta de pintor Laxeiro?
+hab1	"
+      <ininteligible/>
+    "
+hab1	entresuelo
+hab2	aah yo <ininteligible/> pensé que solo daban clases de informática
+hab3	luego ¿tú no sabes cuando fui yo ahí <pausa/> cuando preparé la <sigla_inicio/>OPE<sigla_fin/>?
+hab2	buf
+hab3	"
+      <ininteligible/>
+    "
+hab3	iba por las tardes los viernes
+hab2	ahora no dan nada ni informática ni otra cosa
+hab1	no <transcripción_dudosa_inicio/>dan<transcripción_dudosa_fin/> nada
+hab1	<asignación_dudosa_inicio/>pero<asignación_dudosa_fin/>
+hab2	yo pensé que solo daba clases de informática
+hab3	toma cari come más jamón que a mí me es mucho
+hab1	es mucho
+hab2	¿te es mucho?
+hab1	están los locales eh vacíos <silencio/>
+hab2	mmm <silencio/>
+hab2	bueno <pausa/> no sería mal sitio además le les quedaría al lado de casa
+hab1	"
+      <palabra_cortada>pa</palabra_cortada>
+    "
+hab1	para ella sería fantástico
+hab2	o sea ahí llega en cinco minutos
+hab1	en un minuto
+hab3	yo venía de trabajar a las tres y <ininteligible/>
+hab1	lo que pasa que es difícil <alargamiento>de</alargamiento> <silencio/>
+hab1	que sea ahí
+hab2	¿por qué?
+hab3	hombre pero come <transcripción_dudosa_inicio/>yo<transcripción_dudosa_fin/> que es mucho
+hab1	porque no sabemos dónde está <ininteligible/>
+hab3	mira si te es mucho ¿no la comes?
+hab1	<palabra_cortada>n</palabra_cortada> no sé dónde está el profesor ni dónde es
+hab1	da clases en el politécnico <pausa/> me dijeron <silencio/>
+hab2	yo es que pienso que tendrá más bien un piso para darlas
+hab1	pero si es negro
+hab2	por eso <silencio/>
+hab2	me parecería mucho riesgo meterse a una academia
+hab3	no <pausa/> <pausa/> porque mi profesora daba en negro también <pausa/> y tenía ahí un aula alquilada y nadie
+hab2	eeh
+hab2	bueno claro <pausa/> a nadie le interesa irse de la lengua <silencio/>
+hab2	buen punto ese <pausa/> sí señor
+hab1	desde el profesor eemm
+hab1	que dan oficial no puede dar clases particulares por su cuenta
+hab2	mhm
+hab1	para eso le <pausa/> le cobran un sueldo del estado
+hab2	vale vale <pausa/> no <pausa/> <alargamiento>no</alargamiento>
+hab1	"
+      <ininteligible/>
+    "
+hab3	vale
+hab1	lo más probable es que alquile un local clandestino
+hab2	no tenía yo en cuenta eso
+hab2	vale vale
+hab1	es un profesor que da clases oficiales

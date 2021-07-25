@@ -1,0 +1,978 @@
+hab1	"
+      <silencio/>
+    "
+hab1	a ver déjame encenderla porque si no la enciendo se me olvida <pausa/>
+hab2	sí <pausa_larga/>
+hab2	"
+      <risa/>
+      <pausa_larga/>
+    "
+hab2	importante <silencio/>
+hab2	"
+      <ruido tipo=""puerta""/>
+      <ruido tipo=""pasos""/>
+    "
+hab3	subiendo a mano izquierda ¿vale?
+hab1	gracias <silencio/>
+hab1	vamos a buscar un sitio donde estemos sin mucho ruido <pausa_larga/>
+hab1	"
+      <ruido tipo=""pasos""/>
+    "
+hab2	sí <silencio/>
+hab2	"<ruido tipo=""pasos""/><ruido tipo=""puerta""/> pasa <silencio/>"
+hab2	"<ruido tipo=""puerta""/> siéntate donde más cómodo estés <silencio/>"
+hab2	nada <pausa/> no no <pausa/>
+hab1	y yo pongo esto aquí <silencio/>
+hab1	¿sabes? como te comenté por teléfono <pausa_larga/>
+hab1	a nosotros <pausa/> lo que más nos interesa es <pausa/> que conversemos <pausa/> que me cuentes de ti <pausa/> <alargamiento>y</alargamiento> <pausa/> no tengo un guión no es <pausa/> no es una <alargamiento>entrevista</alargamiento> de preguntas y respuestas <pausa/>
+hab2	no no ya ya
+hab2	ya
+hab1	sino que lo que estamos interesados precisamente es <pausa/> personas que nos cuenten sus <alargamiento>costumbres</alargamiento> sus modos de <alargamiento>vida</alargamiento> <pausa_larga/>
+hab1	sus <alargamiento>hábitos</alargamiento> sus <alargamiento>aficiones</alargamiento> que nos hablen un poquito <alargamiento>de</alargamiento> <pausa_larga/>
+hab1	de ellos mismos <pausa_larga/>
+hab2	bueno <pausa/> pff mmm <pausa/> ¿por dónde empiezo? <risa/>
+hab1	por donde quieras <pausa/> si quieres cuéntame un poco de ti y de lo que te gusta <silencio/>
+hab2	"no pues <pausa/> <ininteligible/> <ruido tipo=""boca""/> <pausa_larga/>"
+hab2	soy <alargamiento>un</alargamiento> chaval <alargamiento>bastante</alargamiento> <pausa_larga/>
+hab2	bastante sencillo y bastante común me <alargamiento>gusta</alargamiento> <pausa_larga/>
+hab2	"
+      <alargamiento>pues</alargamiento>
+      <pausa_larga/>
+    "
+hab2	<palabra_cortada>sue</palabra_cortada> suena a tópico <alargamiento>de</alargamiento> <pausa/> de casting de televisión <alargamiento>pero</alargamiento> <pausa_larga/>
+hab2	la <alargamiento>música</alargamiento> <pausa_larga/>
+hab2	el <alargamiento>cine</alargamiento> <pausa_larga/>
+hab2	el <alargamiento>deporte</alargamiento> <pausa_larga/>
+hab2	nada <silencio/>
+hab2	"<alargamiento>leer</alargamiento> así da <pausa/> aunque lo tengo algo abandonado <ruido tipo=""inspiración""/> <silencio/>"
+hab2	y pff <pausa/> <alargamiento>poco</alargamiento> poco más <pausa/> <palabra_cortada>na</palabra_cortada> bueno pues <pausa_larga/>
+hab2	lo normal en un chaval de veinte años también pues <pausa/> pues <pausa_larga/>
+hab2	la fiesta y todo esto <pausa_larga/>
+hab2	"
+      <alargamiento>y</alargamiento>
+      <alargamiento>tampoco</alargamiento>
+      <pausa_larga/>
+    "
+hab2	no <alargamiento>eeh</alargamiento> no mucho más <pausa_larga/>
+hab1	¿y qué tipo de cine te gusta por ejemplo? <silencio/>
+hab2	hombre <pausa/> eeh <pausa/> pues fff
+hab1	¿vas al cine con frecuencia o?
+hab2	"<ruido tipo=""chasquido boca""/> no eeh fff lo <alargamiento>de</alargamiento> pagar ocho euros para una <pausa/> <risa_inicio/> peli <risa_fin/> <pausa/> <alargamiento>bastante</alargamiento> <pausa/> regular que suele ser lo habitual <pausa_larga/>"
+hab1	ya
+hab2	salvo excepciones pues <pausa/> no <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	no me tira demasiado pagar ocho euros para tener que estar metido en una sala de cine <pausa_larga/>
+hab2	pues sobre todo con lo de internet <pausa/> <alargamiento>pues</alargamiento> pilla <alargamiento>y</alargamiento> <pausa/> <alargamiento>y</alargamiento> visualiza <pausa_larga/>
+hab1	claro <pausa_larga/>
+hab2	lo cual está bastante bien <pausa_larga/>
+hab2	pero fff hombre ¿el cine? pues me gusta <pausa/> todo el cine que <alargamiento>sea</alargamiento> que sea bueno <pausa_larga/>
+hab2	desde el fff <alargamiento>cine</alargamiento> <pausa_larga/>
+hab2	<palabra_cortada>po</palabra_cortada> clásico digamos <pausa_larga/>
+hab2	<alargamiento>hasta</alargamiento><pausa/> si una <pausa/> película de de es <pausa/> el año pasado si es buena pues me gusta <pausa_larga/>
+hab2	es decir hombre evidentemente <pausa/> pff <pausa/> para ver <alargamiento>una</alargamiento> tontería de dos horas de Nicolas Cage <pausa/> me quedo en casa <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> fff <pausa_larga/>
+hab1	sí <pausa/> no compensa <pausa/>
+hab2	<alargamiento>sí</alargamiento> sí que si la película es buena <pausa_larga/>
+hab2	pues <palabra_cortada>m</palabra_cortada> pues me gusta <silencio/>
+hab2	mmm yo de hecho pff fff <pausa/> pienso que hay <pausa/> películas <pausa_larga/>
+hab2	que solo por verlas <pausa/> ya eh ya <pausa/> vale la pena vivir <pausa/> eh ya la existencia es decir <pausa_larga/>
+hab2	por <pausa/> pues mira <pausa/> <alargamiento>pues</alargamiento> me alegro <pausa_larga/>
+hab2	<alargamiento>de</alargamiento><palabra_cortada>esta</palabra_cortada><alargamiento>de</alargamiento> estar vivo <risa/> para ver esto <pausa/>
+hab1	¿alguna en concreto por ejemplo así que te haya marcado que recuerdes? <silencio/>
+hab2	mmm pff uff pues <pausa/> que recuerde a ver <pausa/> que me haya marcado fff <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> hombre es que <pausa/> también <pausa/> te puede marcar <alargamiento>por</alargamiento> <pausa_larga/>"
+hab2	"<ruido tipo=""chasquido boca""/> por ciertas cosas una película aunque sea bastante fff <pausa/> bastante mala <pausa_larga/>"
+hab2	yo por ejemplo de pequeño me <alargamiento>marcó</alargamiento> fff una película que era <pausa/> mala pero <pausa/> <risa_inicio/>pero a <palabra_cortada>m</palabra_cortada> <pausa/> a morirse ¡Dios mío! <risa_fin/> <pausa_larga/>
+hab2	que era una <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	de miedo <pausa/> pues bueno pff si la veo ahora <pausa/> <palabra_cortada>p</palabra_cortada> seguramente <pausa/> pues <alargamiento>me</alargamiento> quedo como estoy <pausa_larga/>
+hab2	pero claro <pausa/> la vi <alargamiento>con</alargamiento> con ocho años <pausa_larga/>
+hab2	<alargamiento>era</alargamiento> eeh una era El barco fantasma creo que era <pausa_larga/>
+hab2	claro la vi con ocho años <pausa/> <alargamiento>es</alargamiento> <alargamiento>es</alargamiento> <alargamiento>ves</alargamiento> eh fantasmas y todo esto <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> joder estuve <alargamiento>un</alargamiento> par de meses con pesadillas <pausa_larga/>
+hab2	claro <pausa/> fff <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	hm hm <alargamiento>pero</alargamiento> la <palabra_cortada>v</palabra_cortada> eso ya te digo la veo ahora <pausa/> y me <alargamiento>quedo</alargamiento> quieto inmóvil <pausa_larga/>
+hab2	y aparte que es una <risa_inicio/> <énfasis_inicio/><alargamiento>mierda</alargamiento><énfasis_fin/> pero <alargamiento>con</alargamiento> con ganas <risa_fin/> <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> puf <pausa/> ¿películas que me han marcado? buf <pausa/> <ininteligible/>
+hab1	no te digo porque dices que hay <pausa/> que <pausa/> que hay películas que las ves
+hab2	sí sí no hay películas <pausa/> que es lo que dices <cita_inicio/>¡coño! <pausa/> pues <pausa/> vale la <alargamiento>pena</alargamiento> <pausa_larga/>
+hab2	"verlas<cita_fin/> <pausa/> sí pues <pausa/> <ruido tipo=""boca""/> hombre te podría <pausa/> tampoco es <pausa/> te diría muchas de las que he visto <pausa_larga/>"
+hab2	me quedaría quizás con <alargamiento>unas</alargamiento> cuatro o cinco <pausa_larga/>
+hab2	por ejemplo no no más <pausa_larga/>
+hab2	pero bueno <pausa/> menos <alargamiento>un</alargamiento> <pausa/> si es lo que digo si la película es buena siempre vale la <alargamiento>pena</alargamiento> <pausa_larga/>
+hab2	gastarse dos horas en eso <silencio/>
+hab2	eeh hay algunas que claro <pausa/> pues sí <pausa/> te gustó más te gustó menos pero bueno <silencio/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	y a ver ¿y ves series de televisión porque <alargamiento>si</alargamiento> <pausa_larga/>
+hab1	si usas internet <alargamiento>para</alargamiento> para ver <pausa/> pelis <pausa_larga/>
+hab2	"sí eeh fff hombre no soy de estos <pausa/> <ruido tipo=""inspiración""/> de estos mmm modernitos de tres al cuarto que mmm se <alargamiento>pasan</alargamiento> <pausa_larga/>"
+hab2	eeh veintitrés horas diarias <alargamiento>viendo</alargamiento> series de internet <pausa/> series de culto <pausa_larga/>
+hab2	<alargamiento>para</alargamiento> después ponerlo en Twitter <pausa/> <alargamiento>pero</alargamiento> <pausa/> mmm <pausa_larga/>
+hab2	sí que <palabra_cortada>m</palabra_cortada> <pausa/> también es lo mismo <pausa/> si la serie es buena <pausa_larga/>
+hab2	pues me gusta más en la televisión <pausa/> pff a ver <pausa_larga/>
+hab2	tampoco como no estoy demasiado en casa <pausa_larga/>
+hab2	tampoco por suerte no consumo demasiada televisión porque tampoco hay demasiado que consumir <pausa_larga/>
+hab2	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab2	y <palabra_cortada>n</palabra_cortada> de de la televisión nada ves así algo de puf <pausa/> pff quizás <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	si llegas a casa por la noche o algo así de mmm <pausa/> comedia tal pero <vacilación/> <pausa_larga/>
+hab2	que bueno <alargamiento>es</alargamiento> humor barato todo <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> si <alargamiento>no</alargamiento> es lo mismo siempre por suerte está internet <pausa/> <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	y puedes recurrir a todo <pausa/> lo que pasa es <pausa/> ahora mismo tampoco tengo mucho tiempo lo tengo <pausa_larga/>
+hab2	abandonado <pausa/> también
+hab1	¿y por qué no tienes mucho tiempo? porque ya me has dicho varias veces que que que en <pausa/> ¿qué haces normalmente? <silencio/>
+hab2	pues normalmente eeh fff <pausa_larga/>
+hab2	pues <pausa/> por el si tengo así algo <alargamiento>que</alargamiento> hacer <alargamiento>de</alargamiento> de instituto y tal <pausa_larga/>
+hab2	pues fff <pausa/> <alargamiento>o</alargamiento> dedico las mañanas a estudiar de <pausa/> o por lo menos lo intento <pausa_larga/>
+hab2	y después <pausa/> por <pausa/> bueno el instituto me quita toda la tarde <pausa_larga/>
+hab2	entre tal y cual a lo mejor <alargamiento>hasta</alargamiento> las once de la noche <palabra_cortada>n</palabra_cortada> no llego a casa <pausa/>
+hab1	claro <pausa/>
+hab2	entonces claro y <pausa/> te es <pausa/> <alargamiento>poco</alargamiento> <pausa_larga/>
+hab2	poco tiempo <pausa/> no no no da para más la cosa <pausa_larga/>
+hab1	y los fines de semana ¿qué haces? <pausa/> ¿estudias también o te <palabra_cortada>dedi</palabra_cortada> <pausa/> te dedicas un poco de tiempo a?
+hab2	"<ruido tipo=""chasquido boca""/> mmm <ruido tipo=""chasquido boca""/> <pausa/> los fines de semana pues los dedico <alargamiento>para</alargamiento> fff <pausa_larga/>"
+hab2	aprovechar un poco pues lo que no puedo hacer por la semana <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	eeh o estar un poco más con la familia <alargamiento>o</alargamiento> <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> quedar con los <alargamiento>amigos</alargamiento> <alargamiento>y</alargamiento> <pausa_larga/>"
+hab2	normal <pausa/> tampoco demasiado más <pausa/> mmm <alargamiento>no</alargamiento> <pausa_larga/>
+hab1	¿vives en Santiago? <pausa/>
+hab2	sí sí vivo aquí <pausa/>
+hab1	y ¿qué tal la infancia? <pausa/> ¿recuerdas algo de <pausa_larga/>
+hab1	de <palabra_cortada>cuan</palabra_cortada>
+hab2	bueno <alargamiento>la</alargamiento> la infancia no la pasé aquí <alargamiento>pero</alargamiento> fff <pausa_larga/>
+hab2	eeh soy de pueblo <pausa_larga/>
+hab2	pero <pausa/> sí hombre en la infancia pues eeh mmm <silencio/>
+hab2	hombre <pausa_larga/>
+hab2	pues no <palabra_cortada>m</palabra_cortada> no me quejo la verdad <pausa_larga/>
+hab2	<alargamiento>me</alargamiento><pausa/> puedo presumir <alargamiento>de</alargamiento> fff haber pillado quizás <pausa_larga/>
+hab2	yo veo a los niños de ahora y digo <cita_inicio/>¡Dios mío de mi vida!<cita_fin/> <pausa_larga/>
+hab2	tal es es un esperpento todo <pausa_larga/>
+hab2	yo por lo menos <pausa_larga/>
+hab2	creo que <pausa_larga/>
+hab2	recogí <pausa/> cogí <palabra_cortada>mej</palabra_cortada> la <palabra_cortada>m</palabra_cortada> última época buena <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> de infancia es decir <alargamiento>yo</alargamiento> fff <pausa_larga/>"
+hab2	recuerdo empezar a escuchar música por ejemplo <pausa_larga/>
+hab2	con <alargamiento>un</alargamiento> con un walkman y una cinta de cassette <pausa_larga/>
+hab2	eeh fff <pausa_larga/>
+hab2	<alargamiento>de</alargamiento> jugar con cosas <alargamiento>como</alargamiento> <pausa/> bueno <pausa/> básicamente <pausa/> <alargamiento>mi</alargamiento> <pausa_larga/>
+hab2	mi máximo tiempo de juego iba al fútbol <alargamiento>pero</alargamiento> <pausa_larga/>
+hab2	jugaba <alargamiento>con</alargamiento> <pausa/> con cosas <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	digamos de toda la vida <pausa/> <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	hasta que <palabra_cortada>m</palabra_cortada> <pausa/> quizás <pausa/> empecé a cogerle gustillo a las videoconsolas también <pausa_larga/>
+hab2	pero bueno aun así eso <pausa/> pillé época de <alargamiento>walkman</alargamiento> <pausa/> todo esto <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> ¿qué más? pues <pausa_larga/>
+hab2	mmm <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> a ver ¿qué más? <pausa/> así de infancia <silencio/>"
+hab2	mmm <silencio/>
+hab2	la época quizás es <alargamiento>una</alargamiento> época <pausa/> por ejemplo a un niño siempre le <alargamiento>gusta</alargamiento> <pausa_larga/>
+hab2	ver buenos <alargamiento>dibujo</alargamiento> ver dibujos tal pillé una época mmm <pausa/> quizás de unos dibujos bastante mejores que ahora <pausa_larga/>
+hab2	"
+      <alargamiento>y</alargamiento>
+      <silencio/>
+    "
+hab2	no sé si con <palabra_cortada>m</palabra_cortada> <pausa/> con más valores <pausa/> eeh fff <pausa/> porque a ver <alargamiento>tampoco</alargamiento> veía <alargamiento>dibujos</alargamiento> <silencio/>
+hab2	mmm eh que <alargamiento>fueran</alargamiento> ética pura <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento><palabra_cortada>j</palabra_cortada><pausa/> ¡joder! <pausa_larga/>
+hab2	"por lo menos no <alargamiento>eran</alargamiento> dos alienígenas dándose de hostias <ruido tipo=""inspiración""/> <pausa/> que ya es bastante <pausa/> <alargamiento>y</alargamiento> fff <silencio/>"
+hab2	mmm <pausa/> por lo menos con bastante más contenido eso sí <pausa_larga/>
+hab2	eeh fff <pausa_larga/>
+hab2	más <pausa/> <alargamiento>también</alargamiento> <pausa/> mmm pues <pausa/> como todos los niños <pausa_larga/>
+hab2	querías ser <alargamiento>pues</alargamiento> ser <alargamiento>futbolista</alargamiento> <alargamiento>cantante</alargamiento> tal <pausa_larga/>
+hab2	todo esto <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> mmm digamos que <palabra_cortada>m</palabra_cortada> <pausa/> eso <pausa/> pillé mmm que yo me considero que <palabra_cortada>f</palabra_cortada> <pausa/> cogí quizás la última generación de esta finales de los noventa <pausa_larga/>
+hab2	"principios de los dos mil <pausa/> la última digamos <pausa/> generación <pausa/> mmm buena de disfrutar de mmm <pausa/> <ruido tipo=""chasquido boca""/> <ruido tipo=""palmada""/> como niño <silencio/>"
+hab2	entonces <pausa/>
+hab1	¿por qué? porque <palabra_cortada>n</palabra_cortada> ¿notas un cambio de tu generación con <pausa_larga/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	la infancia en la que te formaste y la de ahora? <alargamiento>porque</alargamiento> creo que usaste la palabra <palabra_cortada>esperpe</palabra_cortada> esperpento dijiste <pausa/> ¿en qué sentido por ejemplo? <pausa_larga/>
+hab2	<alargamiento>sí</alargamiento><pausa/> sí hombre
+hab2	sí sí pff <pausa/> sí <ininteligible/>
+hab2	"<ruido tipo=""chasquido boca""/> hombre a ver es fff <palabra_cortada>jod</palabra_cortada> mmm los niños con doce años <pausa_larga/>"
+hab2	tienen smartphone <pausa/> pss <pausa_larga/>
+hab2	decir eh fff <pausa/> con doce años <silencio/>
+hab2	fff es una <palabra_cortada>b</palabra_cortada> <pausa/> barbaridad <silencio/>
+hab2	¿qué haces? yo qué sé pues mmm <pausa_larga/>
+hab2	¿actualizas el Facebook con doce años? es que <pausa_larga/>
+hab2	yo yo eh <pausa/> por ejemplo el primer móvil que tuve sí lo tuve <alargamiento>con</alargamiento> <pausa_larga/>
+hab2	doce <palabra_cortada>te</palabra_cortada> <pausa/> <alargamiento>doce</alargamiento> años más o menos <pausa_larga/>
+hab2	eh pero claro <pausa/> y <pausa/> tenía un móvil <pausa/> que era pff lo <énfasis_inicio/>más<énfasis_fin/> de lo más en aquella <pausa/> tenía cámara <pausa_larga/>
+hab2	¡ojo! <pausa_larga/>
+hab2	tenía cámara y politonos <pausa_larga/>
+hab2	ahí está <pausa_larga/>
+hab2	pero nada más <pausa/> suficiente <pausa_larga/>
+hab2	decir <pausa/> eso sí <pausa/> vale <pausa_larga/>
+hab2	joder <pausa/> mmm tal <pausa_larga/>
+hab2	pero yo un smartphone no lo tuve hasta <alargamiento>los</alargamiento> <pausa_larga/>
+hab2	hasta los diecisiete año <pausa_larga/>
+hab2	que es <pausa/> es una buena época <vacilación/> <pausa/> ya sé <pausa/> manejar <pausa_larga/>
+hab2	ya sé más o menos <pausa/> lo que <pausa_larga/>
+hab2	debo <pausa/> lo que no <pausa/> debo o <silencio/>
+hab2	<alargamiento>más</alargamiento> o menos <pausa/> eso <silencio/>
+hab2	y ese tipo de cosas <pausa/> pero <alargamiento>un</alargamiento> <pausa/> un niño prácticamente eso con ese tipo de cosas <pausa_larga/>
+hab2	eeh fff <silencio/>
+hab2	también <alargamiento>con</alargamiento> <pausa_larga/>
+hab2	con internet que es que ya lo sabes todo <pausa_larga/>
+hab2	pero es que si <pausa/> si ya lo sabes todo no tiene gracia tampoco <pausa_larga/>
+hab2	"es decir pff <pausa/> tampoco aprendes porque <ruido tipo=""boca""/> <pausa_larga/>"
+hab2	<palabra_cortada>n</palabra_cortada> eso <pausa/> ya lo sabes todo <silencio/>
+hab2	yo qué sé yo por ejemplo <pausa/> pff te pongo un ejemplo <pausa_larga/>
+hab2	a ver <alargamiento>yo</alargamiento> <pausa_larga/>
+hab2	pues otra cosa es que <pausa_larga/>
+hab2	pff <pausa_larga/>
+hab2	mmm <pausa/> yo por ejemplo a ver <pausa/> me un ejemplo que <alargamiento>me</alargamiento> me <pausa/> acabo de acordar ahora <pausa_larga/>
+hab2	eeh porque estaba <alargamiento>hablando</alargamiento> <pausa/> ayer con <alargamiento>un</alargamiento> <pausa/> anteayer con un amigo de ese <pausa/> tal <pausa_larga/>
+hab2	eeh yo por ejemplo <alargamiento>con</alargamiento> nueve diez años <pausa_larga/>
+hab2	eeh <pausa/> no <pausa/> no te voy a decir que lo escuchaba porque no no era tan <pausa_larga/>
+hab2	extremadamente intelectual <pausa_larga/>
+hab2	pero yo con nueve diez años <pausa/> no lo escuchaba <pausa/> <alargamiento>ni</alargamiento> <pausa_larga/>
+hab2	ni a lo mejor había escuchado la pieza pero yo con nueve diez años <pausa/> sabía quién era Chopin <silencio/>
+hab2	pero no <alargamiento>por</alargamiento> tal porque tenía un libro de historietas <pausa/> y me gustaba <pausa_larga/>
+hab2	y pues salía su <pausa/> su vida y <palabra_cortada>sa</palabra_cortada> sabía quién era <pausa_larga/>
+hab2	pero ahora claro <pausa/> con diez años <pausa_larga/>
+hab2	"mmm <ininteligible/> <pausa/> Wikipedia <ruido tipo=""inspiración""/> <pausa/> pff <pausa/> no <ruido tipo=""palmada""/> no <palabra_cortada>tien</palabra_cortada> no tiene gracia <pausa_larga/>"
+hab2	"<ruido tipo=""chasquido boca""/> no sé no es de no <pausa/> no es la misma esencia para mí <pausa_larga/>"
+hab2	yo creo que <pausa/> pff en ese aspecto <pausa_larga/>
+hab2	yo <pausa/> ¡joder! <pausa/> pues <pausa/> por ejemplo fff <pausa/> es que ahora también eso los niños <pausa_larga/>
+hab2	<alargamiento>no</alargamiento> no leen <pausa/> o a lo mejor fff <pausa_larga/>
+hab2	un padre <alargamiento>con</alargamiento> <pausa_larga/>
+hab2	"<alargamiento>con</alargamiento> diez años ya le regalas <pausa/> a su hijo un best seller de <pausa/> pff yo qué sé de Ken Follet por ejemplo <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	"<ruido tipo=""golpe""/> yo <palabra_cortada>m</palabra_cortada> pff me crié <alargamiento>leyendo</alargamiento> a Gloria Fuertes <pausa_larga/>"
+hab2	<alargamiento>y</alargamiento> libros <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	"de niños y cosas así <ruido tipo=""golpe""/> <pausa/> y fff <pausa/> <ruido tipo=""golpe""/> <pausa_larga/>"
+hab2	yo creo que más más enriquecido sin duda <pausa/> que lo que <pausa/> puede ser cualquier niño actual <pausa_larga/>
+hab2	yo y cualquier niño de mi época que hiciera algo parecido <pausa/>
+hab1	y ¿por qué tú crees que hay un cambio? porque si te das cuenta <palabra_cortada>so</palabra_cortada> son pocos años es decir tú eres muy joven <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> sí pero es <alargamiento>es</alargamiento> fff <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	"mmm sí hombre claro a ver no no te lo puedo decir desde el punto de <alargamiento>vista</alargamiento> <alargamiento>de</alargamiento> de un señor <alargamiento>de</alargamiento> <pausa/> <cita_inicio/>yo estuve en la guerra<cita_fin/> <pausa/> <ruido tipo=""chasquido boca""/> claro sí"
+hab1	no pero tú con tu edad percibes la diferencia y es <pausa/> es es interesante
+hab2	sí pero es <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	es eso a ver yo creo <alargamiento>el</alargamiento> mmm pff <pausa_larga/>
+hab2	"<palabra_cortada>ta</palabra_cortada> bueno <pausa/> esta <palabra_cortada>ge</palabra_cortada> esta generación en particular <pausa/> también la mía es imbécil pero bueno <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	eeh y <alargamiento>el</alargamiento> pff cada <alargamiento>día</alargamiento> fff el mundo se pudre más <pausa_larga/>
+hab2	pero yo creo que eso ese cambio de fff <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> de la <alargamiento>información</alargamiento> de la tecnología <pausa_larga/>"
+hab2	evidentemente es <pausa/> <énfasis_inicio/>genial<énfasis_fin/> <pausa_larga/>
+hab2	para muchísimas cosas <pausa/> pero tampoco hay que olvidar <pausa/> que tiene un lado malo <pausa_larga/>
+hab2	no <alargamiento>es</alargamiento> pff <pausa_larga/>
+hab2	claro eh sí <pausa/> mmm <pausa_larga/>
+hab2	podemos <pausa/> saber muchas cosas conseguir muchas cosas <pausa_larga/>
+hab2	pero también tiene <alargamiento>su</alargamiento> su su lado malo como todo más o menos <pausa_larga/>
+hab2	supongo <pausa_larga/>
+hab1	¿y por qué dices que tu <alargamiento>generación</alargamiento> <pausa/> que los de tu generación son imbéciles o que no no <palabra_cortada>r</palabra_cortada> ? <pausa_larga/>
+hab2	"<alargamiento>pues</alargamiento> por mmm <pausa/> hombre también <alargamiento>ves</alargamiento> excepciones <alargamiento>que</alargamiento> mmm <pausa/> <ruido tipo=""chasquido boca""/> ¡joder! <pausa/> te <alargamiento>dan</alargamiento> algo de esperanza en el ser humano ¿no? <pausa_larga/>"
+hab2	<alargamiento>pero</alargamiento> fff <pausa/> mmm ves a lo mejor gente de mi edad <pausa_larga/>
+hab2	<alargamiento>lo</alargamiento> que fff <pausa/> lo que hay por ahí <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> fff <pausa/> y dices tú mmm yo qué sé mmm <silencio/>
+hab2	eeh <pausa_larga/>
+hab2	"
+      <ruido tipo=""boca""/>
+      <pausa_larga/>
+    "
+hab2	<alargamiento>pues</alargamiento> yo es decir <pausa_larga/>
+hab2	vale eeh <silencio/>
+hab2	<alargamiento>petas</alargamiento> pantalones <alargamiento>rotos</alargamiento> <pausa_larga/>
+hab2	"<alargamiento>y</alargamiento> zapatillas Nike muy bien pero <pausa/> no sabes quién es el ministro de Sanidad <pausa/> <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	vale pues <pausa/> ¡joder! <pausa_larga/>
+hab2	venga <pausa_larga/>
+hab2	cógete <alargamiento>un</alargamiento> cógete <alargamiento>una</alargamiento> tuberculosis y a ver si después me lo <risa_inicio/>cuentas <risa_fin/> <pausa_larga/>
+hab2	"es decir eeh fff <ruido tipo=""inspiración""/> <silencio/>"
+hab2	ah <alargamiento>es</alargamiento> <pausa/> hay cosas que son mmm fff <pausa_larga/>
+hab2	<alargamiento>son</alargamiento> que obviamente son <énfasis_inicio/>bestiales<énfasis_fin/> <pausa/> es decir y dices tú <pausa/> <cita_inicio/>¡Dios mío! <pausa_larga/>
+hab2	<risa_inicio/>¿dónde vivo? <risa_fin/><cita_fin/> <silencio/>
+hab2	<alargamiento>y</alargamiento> quizá <pausa/> y por cosas así es decir pff no <palabra_cortada>s</palabra_cortada> <pausa_larga/>
+hab2	no sé y fff <pausa/> no eh eso hay cosas que a lo mejor eeh <pausa/> te dan esperanza a ver si <pausa/> dices <pausa/> ¡hostia! un poco de esperanza de su mano <pausa/> <risa/> <pausa/> pero hay cosas que eh eh eemm que las ves y <pausa/> pff es que te desarman <pausa/> <alargamiento>no</alargamiento> <silencio/>
+hab2	<alargamiento>no</alargamiento> mmm <pausa/> al <pausa/> por ese tipo de cosas más o menos <pausa_larga/>
+hab1	y ¿dónde crees que podría estar la raíz? <pausa_larga/>
+hab1	a ver <pausa/> ¿dónde podría trabajarse mejor? ¿en la familia en la <alargamiento>escuela</alargamiento> ? <pausa_larga/>
+hab1	si tú <silencio/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa_larga/>
+    "
+hab2	mmm pff hombre a ver no creo que el <alargamiento>problema</alargamiento> <pausa_larga/>
+hab1	o en otro sitio <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> claro sí mmm <silencio/>"
+hab2	mmm <alargamiento>no</alargamiento> creo que el <pausa/> problema sea fff <pausa/> hombre yo creo que es un <pausa/> problema <silencio/>
+hab2	<alargamiento>de</alargamiento><pausa/> de aborregamiento <alargamiento>social</alargamiento> <pausa/> mmm <pausa/> o sea es un fenómeno sociológico interesante <pausa_larga/>
+hab2	pero aparte de eso eeh fff <pausa_larga/>
+hab2	que eso <pausa/> <risa_inicio/>daría <risa_fin/> para <pausa/> para un par de tesis <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento><pausa/> aparte de eso <pausa/> <alargamiento>no</alargamiento> <pausa/> no la familia no porque pff <pausa/> tú puedes <pausa_larga/>
+hab2	ser <alargamiento>de</alargamiento> <pausa/> fff mmm de tener unos buenos valores familiares o tal o una buena educación <pausa_larga/>
+hab2	pff <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	y todo lo contrario después <pausa_larga/>
+hab2	¿mmm la educación? <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> hombre <pausa/> eh fff <pausa/> yo creo por ejemplo <pausa_larga/>"
+hab2	eh con <palabra_cortada>l</palabra_cortada> <pausa/> la situación que <alargamiento>hay</alargamiento> <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> ahora en España <pausa_larga/>"
+hab2	eeh fff <pausa_larga/>
+hab2	yo creo que en la educación <pausa/> está la clave en una cosa <silencio/>
+hab2	eeh <pausa_larga/>
+hab2	el pobre cree que el dinero es todo <pausa/> pero es que el rico lo sabe <pausa_larga/>
+hab2	y eso es <pausa/> es <palabra_cortada>a</palabra_cortada> es algo muy interesante <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> pues así con pff un montón de cosas más <pausa_larga/>
+hab2	¿la educación? hombre <pausa_larga/>
+hab2	<alargamiento>no</alargamiento> no es pff <pausa_larga/>
+hab2	pss <pausa_larga/>
+hab2	si el tema es <pausa/> la educación en casa <pausa/> pues eso no tiene nada que ver <pausa_larga/>
+hab2	"puede <palabra_cortada>inf</palabra_cortada> a que <ruido tipo=""palmada""/> <alargamiento>puedes</alargamiento> <pausa_larga/>"
+hab2	tener una buena educación en casa y tal y <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	"
+      <alargamiento>pero</alargamiento>
+      <pausa_larga/>
+    "
+hab2	mmm lo <pausa/> el sistema educativo es es <alargamiento>un</alargamiento> <alargamiento>desastre</alargamiento> <silencio/>
+hab2	"<alargamiento>es</alargamiento> yo consideraría casi un arma de destrucción masiva <ruido tipo=""inspiración""/>"
+hab1	¿en qué sentido? <pausa_larga/>
+hab2	mmm <silencio/>
+hab2	pues fff <pausa/> mmm <silencio/>
+hab2	mmm a ver <silencio/>
+hab2	"
+      <alargamiento>no</alargamiento>
+      <pausa_larga/>
+    "
+hab2	no está bien estructurada evidentemente <pausa_larga/>
+hab2	<alargamiento>en</alargamiento> yo creo que no está hecho para aprender <pausa_larga/>
+hab2	yo qué sé es fff <silencio/>
+hab2	mmm <pausa/> yo <alargamiento>quizá</alargamiento> fff pues <pausa_larga/>
+hab2	hasta llegar <alargamiento>a</alargamiento> <pausa/> a bachillerato <pausa/> fff <pausa_larga/>
+hab2	<palabra_cortada>nunc</palabra_cortada> nunca he sentido que haya estudiado algo que me hayan <pausa_larga/>
+hab2	eeh sss <silencio/>
+hab2	dado algo en el instituto que <palabra_cortada>m</palabra_cortada> <pausa_larga/>
+hab2	con lo que digas <pausa/> hombre sí a ver <pausa/> pues puedes aprender <pausa/> cosas <pausa_larga/>
+hab2	pero que digas <pausa_larga/>
+hab2	<cita_inicio/>¡joder! <pausa/> aprendo <pausa/> <alargamiento>de</alargamiento><cita_fin/> <pausa_larga/>
+hab2	¿verdad? y aun así <pausa/> pues <pausa_larga/>
+hab2	poca cosa se salva <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> después <pausa/> pues <pausa/> por ejemplo <pausa/> ya se ve que sale a lo mejor <pausa_larga/>
+hab2	gente <alargamiento>con</alargamiento> <alargamiento>con</alargamiento> carrera <pausa_larga/>
+hab2	pues que no tiene <pausa_larga/>
+hab2	<palabra_cortada>na</palabra_cortada> a lo mejor quizás ni una cultura general <pausa_larga/>
+hab2	<énfasis_inicio/>mínima<énfasis_fin/> <pausa/> eh buah <palabra_cortada>mínim</palabra_cortada> <pausa/> o <pausa/> por lo menos <pausa_larga/>
+hab2	acorde <pausa/> a lo que ¡joder! <silencio/>
+hab2	¡coño has estudiado! <silencio/>
+hab2	después por ejemplo hay gente que a lo mejor <pausa/> pff <pausa/> no tiene <pausa/> ni <alargamiento>el</alargamiento> ni el <alargamiento>título</alargamiento> de la secundaria <pausa_larga/>
+hab2	y a lo mejor ¡joder! <pausa/> pues flipas es decir fff <pausa_larga/>
+hab2	flipas <pausa/> entonces <pausa/> ese <pausa/> tipo <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	de desestructuración <alargamiento>es</alargamiento> <pausa/> es grave <silencio/>
+hab2	y a mí me parece bastante grave <silencio/>
+hab2	pff <alargamiento>y</alargamiento> bueno <pausa/> ahora lo que nos viene encima con esto de la <sigla_inicio/>LOMCE<sigla_fin/> y tal ya <alargamiento>es</alargamiento> <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	es <alargamiento>el</alargamiento> el remate final <pausa/>
+hab1	¿te parece? <pausa/>
+hab2	¡poh! <pausa_larga/>
+hab2	sí ¿no? y lo que pasa es que no tampoco se intenta parar eh fff <pausa_larga/>
+hab2	<alargamiento>yo</alargamiento> hay una manifestación de estudiantes ahí en Santiago es <palabra_cortada>q</palabra_cortada> mmm me deprimo <pausa_larga/>
+hab2	me deprimo viendo el panorama <silencio/>
+hab2	y fff sí yo creo que <alargamiento>es</alargamiento> sí fff pues esto <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	<alargamiento>es</alargamiento> el <pausa_larga/>
+hab2	pff <silencio/>
+hab2	volvemos <alargamiento>a</alargamiento> volvemos <alargamiento>a</alargamiento> los profesores con <alargamiento>reglas</alargamiento> <pausa_larga/>
+hab2	con anillos para <alargamiento>pegar</alargamiento> <pausa_larga/>
+hab2	y el retrato de Juan Carlos encima de la pizarra <pausa/> es es lo que nos falta <silencio/>
+hab2	<alargamiento>poco</alargamiento><pausa/> pero por el resto <risa_inicio/>vamos <risa_fin/> <pausa/> vamos creo <pausa_larga/>
+hab2	ha llegado a un nivel casi igual <silencio/>
+hab1	¿y cuánto crees que influye la crisis <alargamiento>en</alargamiento> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> en esta falta de <pausa/> a ver de valores o de proyectos? porque por lo que describe es como una especie de <palabra_cortada>des</palabra_cortada> de desesperanza o <alargamiento>de</alargamiento> <pausa/>"
+hab2	no <alargamiento>no</alargamiento> no tiene que ver <pausa/> con <alargamiento>la</alargamiento> con la crisis creo yo no fff es la crisis es un proceso económico <pausa_larga/>
+hab2	"<risa_inicio/>bueno <risa_fin/><pausa/> puf <pausa/> ya se ya se veía es decir es <pausa/> <ruido tipo=""chasquido boca""/> eso iba a explotar por algún lado <pausa/>"
+hab1	cíclico y y <pausa/>
+hab2	<alargamiento>sí</alargamiento> no no es es lógico <pausa/> período de bonanza económica <silencio/>
+hab2	bonanza económica tampoco lo que pasa es que <pausa/> mmm la <alargamiento>gente</alargamiento> era feliz <pausa/> currando nueve horas al día <pausa_larga/>
+hab2	para tener <alargamiento>un</alargamiento> <pausa/> coche y una hipoteca <pausa/> sss pero bueno <pausa/> eso no <risa/> <pausa_larga/>
+hab2	cada uno ¡oye! <pausa/> vale <pausa/> me parece genial <pausa_larga/>
+hab2	pasa <alargamiento>eso</alargamiento> fff <pausa/> iba a explorar por algún lado porque <pausa/> no <alargamiento>no</alargamiento> <pausa/> no era normal <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> fff <pausa/> yo creo que <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	la la la crisis de valores <pausa/> sí que es grave <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> fff yo creo que mmm <pausa/> pff un mundo fff <pausa/> en general fff <pausa/> la sociedad <pausa_larga/>
+hab2	postmoderna directamente <pausa/> fff que esa <pausa_larga/>
+hab2	"yo soy <alargamiento>estoy</alargamiento> mmm bastante en <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> no soy un gran admirador <pausa_larga/>"
+hab2	<alargamiento>y</alargamiento> yo creo <alargamiento>que</alargamiento> fff <pausa/> la eso es <alargamiento>la</alargamiento> sociedad postmoderna donde hay una crisis de <alargamiento>valores</alargamiento> <pausa_larga/>
+hab2	"
+      <alargamiento>de</alargamiento>
+      <alargamiento>ética</alargamiento>
+      <pausa_larga/>
+    "
+hab2	<alargamiento>de</alargamiento><alargamiento>solidaridad</alargamiento><alargamiento>de</alargamiento> fff etcétera de tantas cosas <pausa_larga/>
+hab2	y fff <pausa/> pues <pausa/> sí <pausa/> de una crisis de valores también puede venir <pausa/> <risa/> una crisis económica <pausa/> una crisis <alargamiento>social</alargamiento> <pausa/> es decir fff <pausa_larga/>
+hab2	mmm <pausa_larga/>
+hab1	¿pero si los actores sociales? <pausa/>
+hab2	sí sí no <pausa/> el mundo se cae a trozos pero fff <pausa_larga/>
+hab2	sí hombre no <pausa/> <alargamiento>no</alargamiento> hay <alargamiento>engañar</alargamiento> engañar es es <pausa/> fácil mucho más ahora <pausa_larga/>
+hab2	<alargamiento>con</alargamiento><pausa/> internet <pausa/> televisión <pausa_larga/>
+hab2	<risa/> el aborregamiento es <pausa/> totalmente vamos es <pausa_larga/>
+hab2	es <alargamiento>como</alargamiento> <pausa_larga/>
+hab2	como enchufar un cable <pausa/> <ininteligible/>
+hab1	pero ¿no te parece que hay una especie de contradicción que supuestamente se haya más <pausa/> haya más acceso a la información <silencio/>
+hab1	y que eso no permite un mejor ejercicio de la libertad del? <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/><alargamiento>no</alargamiento> porque <pausa/> por ejemplo fff eemm <pausa_larga/>"
+hab2	claro <pausa/> es <pausa_larga/>
+hab2	tú tienes acceso a <alargamiento>la</alargamiento> <pausa_larga/>
+hab2	eso <pausa/> <alargamiento>internet</alargamiento> tal eso la gente está <pausa_larga/>
+hab2	todo el día <alargamiento>con</alargamiento> con internet con la televisión ¿no? <pausa_larga/>
+hab2	a lo mejor fff <pausa/> <alargamiento>no</alargamiento> <pausa/> a lo mejor también <pausa/> ¡oye! pues <pausa/> sin eso <pausa_larga/>
+hab2	pues <pausa/> podías coger y <pausa/> a lo mejor llegas a casa <pausa_larga/>
+hab2	y te lees un libro <pausa_larga/>
+hab2	<alargamiento>es</alargamiento> decir <pausa_larga/>
+hab2	que <pausa/> también eemm <pausa/> por eso te digo yo <pausa/> eso <pausa/> si <pausa/> se usa bien <pausa/> la <pausa/> la tecnología es <pausa/> genial porque tú lo que puedes coger es <pausa_larga/>
+hab2	de leer un libro que tengas por casa <pausa/> tal <pausa_larga/>
+hab2	pues a lo mejor <pausa/> puedes coger en internet <pausa/> y tienes <pausa/> todos los libros lo que más te guste <pausa_larga/>
+hab2	"<ruido tipo=""golpe""/><pausa/> puedes <alargamiento>leer</alargamiento> <pausa/> <alargamiento>política</alargamiento> <pausa_larga/>"
+hab2	<palabra_cortada>novel</palabra_cortada> bah lo <pausa/> lo que te salga la gana <silencio/>
+hab2	"
+      <alargamiento>pero</alargamiento>
+      <pausa_larga/>
+    "
+hab2	"
+      <alargamiento>también</alargamiento>
+      <pausa_larga/>
+    "
+hab2	pff es <palabra_cortada>t</palabra_cortada> <pausa/> puedes usarlo para <pausa_larga/>
+hab2	eeh fff <pausa/> consumo barato <alargamiento>de</alargamiento> cosas que no <pausa/> no sirven para nada realmente <silencio/>
+hab2	es decir <pausa/> claro es eso <pausa/> tiene sus cosas buenas <pausa/> y sus cosas malas como todo <pausa_larga/>
+hab2	"
+      <alargamiento>no</alargamiento>
+      <silencio/>
+    "
+hab2	mmm <silencio/>
+hab1	"<ruido tipo=""inspiración""/> y hablando a ver en términos de proyectos <pausa/> tú por ejemplo <silencio/>"
+hab1	¿cómo te gustaría verte de <alargamiento>aquí</alargamiento> <pausa/> a unos años? ¿qué te gustaría hacer? <alargamiento>¿qué</alargamiento> ? <pausa_larga/>
+hab1	¿cómo te gustaría estar? <pausa_larga/>
+hab1	¿tienes <pausa/> <alargamiento>algún</alargamiento> <pausa/> plan alguna idea <palabra_cortada>al</palabra_cortada> <pausa_larga/>
+hab2	claro
+hab1	algún deseo? <pausa/>
+hab2	a ver <pausa/> eeh <pausa_larga/>
+hab2	<palabra_cortada>¿dón</palabra_cortada><pausa/><alargamiento>dónde</alargamiento> ? <pausa/> yo <pausa/> ah lo vi en una <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> en <alargamiento>un</alargamiento> vídeo en <palabra_cortada>inter</palabra_cortada> el otro día <alargamiento>en</alargamiento> Youtube de <alargamiento>un</alargamiento> <pausa_larga/>"
+hab2	chico de unos <pausa/> treinta <alargamiento>y</alargamiento> <pausa/> veinte <pausa/> mmm nacido sobre el ochenta o así <pausa_larga/>
+hab2	<alargamiento>que</alargamiento><pausa/> que la suya era una generación perdida <pausa_larga/>
+hab2	yo es en la mía también me siento un poco así <pausa_larga/>
+hab2	y <pausa/> <alargamiento>me</alargamiento> ¡joder! <pausa/> <alargamiento>me</alargamiento> llamaba una atención una cosa que decía <pausa_larga/>
+hab2	<cita_inicio/><alargamiento>a</alargamiento><pausa/> a mí me educaron <pausa/> para tener eeh <pausa_larga/>
+hab2	un <pausa/> vamos <pausa/> para <alargamiento>ser</alargamiento> un gran estudiante <pausa_larga/>
+hab2	tener un buen trabajo <pausa_larga/>
+hab2	una casa <pausa_larga/>
+hab2	eeh <pausa_larga/>
+hab2	una mujer <pausa/> una familia <pausa/> dos niños <pausa_larga/>
+hab2	y un perro <pausa/> y un coche<cita_fin/> <silencio/>
+hab2	un perro lo tengo <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> está <pausa_larga/>
+hab2	es decir <pausa/> y yo me fijo <pausa/> ¡joder! <pausa/> a mí también prácticamente <pausa/> es que <pausa/> <alargamiento>me</alargamiento> <pausa/> prácticamente <alargamiento>me</alargamiento> me educaron para lo mismo <pausa/> <pausa/> tener unos <pausa/> bueno <pausa/> unos <alargamiento>estudios</alargamiento> <pausa_larga/>
+hab2	<alargamiento>un</alargamiento><alargamiento>trabajo</alargamiento> bien posicionado <pausa_larga/>
+hab2	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab2	una mujer dos hijos <pausa_larga/>
+hab2	un perro y un coche <pausa/> y una casa <silencio/>
+hab2	mmm <pausa_larga/>
+hab2	mmm tampoco fff siento una gran <sic_inicio/>actración<sic_fin/> <pausa/> atracción por caer en eso ¡eh! <pausa/> realmente <pausa_larga/>
+hab2	"<ruido tipo=""inspiración""/> eeh entonces <pausa/> pff hombre <silencio/>"
+hab2	eeh fff <pausa_larga/>
+hab2	es decir <alargamiento>estudiar</alargamiento> <pausa/> sí <pausa/> pff estudiar oye <pausa/> mmm <pausa/> está bien <pausa_larga/>
+hab2	que a lo mejor también te digo pues <pausa/> voy <alargamiento>ahora</alargamiento> al al bachillerato voy la universidad <pausa_larga/>
+hab2	y acabo fregando platos en Londres <pausa_larga/>
+hab2	puede ser <pausa_larga/>
+hab2	o si hay suerte reponedor en un Mercadona <pausa_larga/>
+hab2	"
+      <alargamiento>pero</alargamiento>
+      <pausa_larga/>
+    "
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> hombre fff <pausa_larga/>"
+hab2	paso <pausa_larga/>
+hab2	"
+      <alargamiento>que</alargamiento>
+      <pausa_larga/>
+    "
+hab2	"<ruido tipo=""chasquido boca""/> claro tú dices por ejemplo ¡joder! <pausa/> <alargamiento>si</alargamiento> <pausa/> lo que hacía mucha gente en <pausa/> hace <pausa/> unos <pausa/> diez quince años <pausa_larga/>"
+hab2	que es a lo mejor <alargamiento>con</alargamiento> <alargamiento>dieciocho</alargamiento> diecinueve años <pausa_larga/>
+hab2	"yo es acabas los estudios <pausa/> o sea el bachillerato tal lo <ruido tipo=""golpe""/> <pausa/> bueno lo que antes podía ser el <sigla_inicio/>COU<sigla_fin/> o así <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	"<ruido tipo=""chasquido boca""/><pausa/><alargamiento>y</alargamiento> o bueno <pausa/> gente mucho antes también pero por ejemplo pongamos más o menos esa edad <pausa_larga/>"
+hab2	"<alargamiento>y</alargamiento><pausa/><alargamiento>tú</alargamiento><ruido tipo=""golpes""/><pausa/> tienes las opciones de <pausa/> seguir estudiando <pausa_larga/>"
+hab2	o trabajar <pausa_larga/>
+hab2	"tú a lo mejor dices <pausa/> <cita_inicio/>bueno <pausa/> mmm <pausa/> yo <alargamiento>con</alargamiento> la <ruido tipo=""golpe""/> edad <pausa_larga/>"
+hab2	"oye yo lo que quiero es <ruido tipo=""golpe""/> <pausa/> mi <alargamiento>dinero</alargamiento> <pausa_larga/>"
+hab2	salir de <alargamiento>fiesta</alargamiento> <pausa/> pasármelo <alargamiento>bien</alargamiento> <alargamiento>disfrutar</alargamiento> tal bueno me pongo a trabajar<cita_fin/> <pausa_larga/>
+hab2	bien <pausa/> ahora ya no hay esa opción <pausa_larga/>
+hab2	pues <pausa/> lo de ponerse a <pausa/> tal <pausa_larga/>
+hab2	y <pausa/> si no también está la opción de estudiar a ver pff <pausa_larga/>
+hab2	eeh <pausa_larga/>
+hab2	"<ruido tipo=""boca""/> es que ahora <alargamiento>estudiar</alargamiento> <alargamiento>es</alargamiento> casi pff <pausa/> <ruido tipo=""chasquido boca""/> una obligación <silencio/>"
+hab2	"
+      <alargamiento>porque</alargamiento>
+      <silencio/>
+    "
+hab2	es <pausa_larga/>
+hab2	<cita_inicio/>voy a <alargamiento>estudiar</alargamiento><silencio/>
+hab2	porque <pausa/> como no voy <pausa/> sé que ahora mismo no voy a trabajar <pausa_larga/>
+hab2	<alargamiento>pues</alargamiento><pausa/> como no hay opciones de trabajo <pausa/> hasta que esto no se solucione o así <pausa_larga/>
+hab2	pues estudio porque es que si no estoy sentado en el sofá de casa<cita_fin/>
+hab1	claro <pausa/> con un paraguas en lo <alargamiento>que</alargamiento> <pausa/> pasa la tormenta <pausa_larga/>
+hab2	claro claro <pausa/> entonces el problema <pausa/> es que <pausa_larga/>
+hab2	eso no es la manera <pausa/> eso <pausa_larga/>
+hab2	la gente no <pausa/> puede estudiar obligada <pausa_larga/>
+hab2	por <pausa/> es decir <pausa_larga/>
+hab2	hay gente <alargamiento>con</alargamiento> <pausa/> que a lo mejor se meten en <alargamiento>un</alargamiento> ciclo de <sigla_inicio/>FP<sigla_fin/> <pausa_larga/>
+hab2	que eso <pausa/> <alargamiento>hace</alargamiento> <pausa/> pff <pausa/> diez años quince <pausa_larga/>
+hab2	era para el matado que quería ser el carpintero del pueblo <pausa_larga/>
+hab2	y ahora gente con carrera <pausa/> se mete en un ciclo <pausa/> <pausa_larga/>
+hab2	porque dice <pausa/> <cita_inicio/>pff <pausa/> he estudiado la carrera <pausa/> no tengo trabajo <silencio/>
+hab2	"pff sigo viviendo con mis padres <pausa/> ¡joder! en casa me aburro<cita_fin/> <pausa/> <ruido tipo=""inspiración""/> no no <pausa/> no tienes que estudiar por eso <pausa/> tienes que <palabra_cortada>es</palabra_cortada> <pausa/> mmm <pausa/> tienes que estudiar ¡joder! por <pausa/> porque <cita_inicio/>quiero estudiar esto <pausa/> me gusta esto <silencio/>"
+hab2	<alargamiento>y</alargamiento><pausa/> bueno <pausa/> me gusta estudiar<cita_fin/> <pausa/> o a lo mejor <pausa/> <cita_inicio/>no me gusta estudiar la mayoría de las cosas que me tengo que tragar <pausa_larga/>
+hab2	pero como <pausa/> sí me gustaría estudiar esto pues <pausa/> hago un esfuerzo <pausa_larga/>
+hab2	y <pausa/> después <pausa/> estudio lo que me guste<cita_fin/> <pausa_larga/>
+hab2	eso sí <pausa/> pero no estudiar <alargamiento>por</alargamiento> <pausa_larga/>
+hab2	no hay <alargamiento>trabajo</alargamiento> <pausa/> no <pausa_larga/>
+hab2	tal es que <pausa_larga/>
+hab2	es <alargamiento>una</alargamiento> es una desidia general <pausa_larga/>
+hab2	es como como fff los años treinta en Estados Unidos es una desidia general <pausa_larga/>
+hab2	¿qué <pausa/> qué hacemos? ¿qué? <silencio/>
+hab2	es <pausa/> nada <pausa/> tal es <alargamiento>yo</alargamiento> <pausa_larga/>
+hab2	lo veo grave lo veo <énfasis_inicio/>muy<énfasis_fin/> grave <pausa_larga/>
+hab2	es decir eh fff <silencio/>
+hab2	eso <pausa/> mmm y aparte eso yo considero que <palabra_cortada>m</palabra_cortada> <pausa/> muchos <pausa/> se van a quedar por el camino <pausa_larga/>
+hab2	y en ese aspecto <pausa/> <alargamiento>va</alargamiento> <silencio/>
+hab2	"<ruido tipo=""boca""/><pausa/><alargamiento>va</alargamiento> va a ser una generación perdida <pausa_larga/>"
+hab2	"<alargamiento>lo</alargamiento><palabra_cortada>l</palabra_cortada><pausa/> lo vi en un programa de televisión que a eeh también por ejemplo me pareció muy interesante que hablaba sobre <alargamiento>la</alargamiento> <ruido tipo=""boca""/> <pausa_larga/>"
+hab2	sobre el sistema educativo finlandés <pausa_larga/>
+hab2	que es <pausa_larga/>
+hab2	bueno <pausa/> muy destacado y tal <pausa_larga/>
+hab2	y decían <pausa/> <cita_inicio/>sí pero <pausa/> ahora para los niños <pausa_larga/>
+hab2	ojalá <pausa/> suerte por los niños que hayan nacido en esta época<cita_fin/> <pausa_larga/>
+hab2	pero es que por ejemplo aquí la gente que tiene sobre unos <pausa/> <alargamiento>veinticinco</alargamiento> <silencio/>
+hab2	treinta años <pausa/> eeh fff <pausa_larga/>
+hab2	es una generación perdida <silencio/>
+hab2	<alargamiento>porque</alargamiento> fff también debido <pausa/> a la crisis económica <pausa_larga/>
+hab2	y social que hubo después <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	pues después <alargamiento>de</alargamiento> la caída de la Unión Soviética y tal <pausa_larga/>
+hab2	pues <pausa/> que hubo un <pausa_larga/>
+hab2	un <alargamiento>impacto</alargamiento> terrible y que fff <alargamiento>no</alargamiento> había <pausa/> pues fff <pausa_larga/>
+hab2	era <alargamiento>un</alargamiento> desastre aquello y <pausa/> salió <pausa/> prácticamente una generación perdida de gente en paro gente sin estudios <alargamiento>mínimos</alargamiento> <pausa_larga/>
+hab2	gente tal <pausa/> y <pausa_larga/>
+hab2	y <pausa/> ahora aquí está pasando algo <pausa/> algo lo mismo es prácticamente <pausa_larga/>
+hab2	"es <pausa/> pff <pausa/> no <palabra_cortada>di</palabra_cortada> no sé igual porque no sé cómo estaba aquello en aquella época <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	"
+      <alargamiento>pero</alargamiento>
+      <pausa_larga/>
+    "
+hab2	pero pff <pausa_larga/>
+hab2	<palabra_cortada>vi</palabra_cortada> viendo los hechos es algo parecido <pausa/> totalmente <pausa_larga/>
+hab2	bastante similar <silencio/>
+hab1	y ¿cómo tú por ejemplo crees que puedas salir a flote de <pausa_larga/>
+hab1	de esa situación de <alargamiento>desidia</alargamiento> <pausa_larga/>
+hab1	general que que por lo que describes <pausa/> te preocupa que sea contagiosa <alargamiento>o</alargamiento> o te parece que es contagiosa? ¿no?
+hab2	sí sí no es es <alargamiento>un</alargamiento> virus <alargamiento>letal</alargamiento> es <pausa_larga/>
+hab2	es que es eso es <pausa/> <alargamiento>ves</alargamiento> fff <pausa_larga/>
+hab2	yo ese yo <pausa/> pff aparte por ejemplo yo <alargamiento>me</alargamiento> <pausa_larga/>
+hab2	me crié porque yo no estuve <alargamiento>unos</alargamiento> años <pausa/> mmm viviendo en Ferrol <silencio/>
+hab2	y fff <pausa_larga/>
+hab2	es decir <pausa/> es una ciudad <pausa_larga/>
+hab2	eso que <pausa/> yo ya <pausa/> bueno <pausa/> <sic_inicio/>quicé<sic_fin/> eh quizás <pausa_larga/>
+hab2	pillé también la última época <pausa_larga/>
+hab2	en la que había algo de gente <pausa/> digamos <pausa_larga/>
+hab2	<alargamiento>ya</alargamiento> fff no <palabra_cortada>es</palabra_cortada> no estaba <pausa_larga/>
+hab2	unos <pausa/> grandes <pausa/> mmm <pausa/> pff <pausa_larga/>
+hab2	eeh <silencio/>
+hab2	digamos mmm <silencio/>
+hab2	una de las grandes temáticas de la ciudad que era el tema <alargamiento>del</alargamiento> rollo militar ya se estaba desarmando después <alargamiento>de</alargamiento> la caída de la mili y todo <silencio/>
+hab2	<alargamiento>pero</alargamiento> aún pillé una <alargamiento>época</alargamiento> tal <pausa/> pero aún así <pausa_larga/>
+hab2	"<palabra_cortada>ve</palabra_cortada><pausa/> fui hace <palabra_cortada>uno</palabra_cortada> es que <pausa/> fui hace unos dos tres años <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	eso era un <pausa/> eso era un <pausa/> un <alargamiento>desierto</alargamiento> fff <pausa_larga/>
+hab2	era el <palabra_cortada>fa</palabra_cortada> eh todo <alargamiento>cerrado</alargamiento> <pausa/> barrios <alargamiento>abandonados</alargamiento> <silencio/>
+hab2	puerto <alargamiento>vacío</alargamiento> fff es <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> eso pasa en muchas ciudades <pausa/> digamos <pausa/> que son sobre todo <pausa_larga/>
+hab2	que son sobre todo obreras <pausa/> y son sobre todo de la industria <pausa_larga/>
+hab2	es <alargamiento>decir</alargamiento> eh fff <pausa_larga/>
+hab2	"
+      <alargamiento>no</alargamiento>
+      <pausa_larga/>
+    "
+hab2	por eso <alargamiento>me</alargamiento> recuerda también por ejemplo eso <alargamiento>los</alargamiento> años treinta estadounidenses <pausa/> es decir las fábricas <alargamiento>cerradas</alargamiento> <pausa_larga/>
+hab2	las <pausa_larga/>
+hab2	<alargamiento>las</alargamiento> chimeneas que dejan de echar <alargamiento>vapor</alargamiento> eeh fff <silencio/>
+hab2	y claro <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> no hay trabajo <alargamiento>no</alargamiento> hay pan no hay esperanza <silencio/>"
+hab2	tampoco se hace nada por cambiarlo <pausa/> y claro fff es <silencio/>
+hab2	<alargamiento>es</alargamiento><alargamiento>una</alargamiento> mmm <alargamiento>es</alargamiento> eso esa desidia ese <pausa_larga/>
+hab2	"
+      <ruido tipo=""resoplido""/>
+      <pausa_larga/>
+    "
+hab2	esa soledad <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> fff hombre ¿para cambiarlo? <pausa_larga/>
+hab2	"
+      <alargamiento>pues</alargamiento>
+      <silencio/>
+    "
+hab2	<alargamiento>como</alargamiento> mmm <pausa_larga/>
+hab2	"no sé yo <pausa/> creo que el <pausa/> problema es <ruido tipo=""inspiración""/> <silencio/>"
+hab2	mmm todo un poco es fff a ver <pausa_larga/>
+hab2	económico no es porque ya te digo <pausa/> no es la crisis <pausa_larga/>
+hab2	eeh sino que el problema es social <silencio/>
+hab2	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab2	"también <pausa/> también político y claro <pausa/> si es social es político <pausa/> tiene que ser económico <ruido tipo=""inspiración""/> <pausa/> porque fff <pausa_larga/>"
+hab2	claro <pausa/> prácticamente es algo <pausa_larga/>
+hab2	que <palabra_cortada>v</palabra_cortada> <pausa/> va de la mano casi <pausa_larga/>
+hab2	entonces <pausa/> hombre <pausa/> mmm <silencio/>
+hab2	un cambio es necesario mmm <pausa_larga/>
+hab2	ahí ya depende <pausa/> la opinión esto claro <pausa/> puede variar <pausa_larga/>
+hab2	depende de la <alargamiento>ideología</alargamiento> política de cada uno <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento><pausa/> un cambio es necesario sin duda <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> fff <pausa_larga/>
+hab2	pues <pausa/> por la vía que sea necesaria pero <alargamiento>el</alargamiento> cambio es <pausa/> necesario ya <pausa/>
+hab1	¿qué cosas crees que tendrían que cambiar? <silencio/>
+hab2	hombre fff <alargamiento>pues</alargamiento> <pausa/> cosas es que <silencio/>
+hab2	"<alargamiento>¿pero</alargamiento><ruido tipo=""boca""/> a <alargamiento>nivel</alargamiento> <pausa_larga/>"
+hab2	"<ruido tipo=""chasquido boca""/> digamos <alargamiento>global</alargamiento> <alargamiento>o</alargamiento> a <alargamiento>nivel</alargamiento> <pausa_larga/>"
+hab2	"digamos <ruido tipo=""golpe""/> <alargamiento>aquí</alargamiento> mmm <pausa/> <ruido tipo=""golpe""/> <alargamiento>nacional</alargamiento> ?"
+hab1	no lo sé ¿qué crees tú que pueda ser algo <pausa/>
+hab2	fff
+hab1	que <pausa/> que que cambie el signo <alargamiento>de</alargamiento> de la tendencia <pausa/> social que ves? <silencio/>
+hab2	claro es eeh fff <silencio/>
+hab2	mmm <pausa/> más <alargamiento>acción</alargamiento> eeh <silencio/>
+hab2	más acción y más acciones <pausa/> por parte <pausa_larga/>
+hab2	"pues <pausa/> eso de esa <pausa/> <palabra_cortada>pro</palabra_cortada> <pausa/> de esa misma gente que <alargamiento>son</alargamiento> <pausa/> la <alargamiento>gente</alargamiento> sin <ruido tipo=""golpe""/> futuro sin esperanza sin trabajo <silencio/>"
+hab2	eeh <silencio/>
+hab2	¿cómo <palabra_cortada>e</palabra_cortada> era un lema que <alargamiento>había</alargamiento> visto? eeh <pausa_larga/>
+hab2	que ponía <cita_inicio/><alargamiento>sin</alargamiento> <pausa_larga/>
+hab2	<alargamiento>sin</alargamiento> dinero <pausa_larga/>
+hab2	<alargamiento>sin</alargamiento> trabajo <pausa_larga/>
+hab2	<alargamiento>sin</alargamiento> vivienda <pausa_larga/>
+hab2	y sin miedo<cita_fin/> <pausa/> que es <palabra_cortada>u</palabra_cortada> <risa/> es una frase que me gustó bastante <pausa_larga/>
+hab2	es decir eeh <pausa/> algo así <pausa/> <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	pasa es <pausa/> claro <pausa_larga/>
+hab2	veo que esto está <alargamiento>ya</alargamiento> <alargamiento>el</alargamiento> el hoyo es tan profundo <silencio/>
+hab2	que fff <alargamiento>esto</alargamiento> fff o <alargamiento>un</alargamiento> <pausa/> va a costar levantarlo <pausa_larga/>
+hab2	"esto va a costar levantarlo <pausa/> <ruido tipo=""inspiración""/> <pausa/> hombre <alargamiento>no</alargamiento> fff <pausa_larga/>"
+hab2	"<alargamiento>no</alargamiento> me <risa_inicio/>pretendo <risa_fin/> nombrar como un estandarte <ruido tipo=""inspiración""/> <pausa/> de <alargamiento>la</alargamiento> <pausa/> de la liberación nacional <silencio/>"
+hab2	pero fff ss <pausa_larga/>
+hab2	¡joder! <pausa/> que alguien haga algo ¡por Dios! <risa/> <silencio/>
+hab2	"por favor <ruido tipo=""golpe""/> <silencio/>"
+hab1	pero ¿no crees que sea también <alargamiento>algo</alargamiento> <pausa_larga/>
+hab1	cíclico <alargamiento>del</alargamiento> de de un mecanismo de compensación de las propias sociedades o esto te parece completamente novedoso? <pausa/> o quizá puede ser el discurso que a <pausa/> que nuestros abuelos o alguien en algún momento <pausa/> pudo haber <palabra_cortada>n</palabra_cortada> enarbolado de <cita_inicio/>sí y vamos camino a la <pausa_larga/>
+hab1	a la falta de esperanza o<cita_fin/> <pausa/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> hombre <pausa/> la falta de esperanza <pausa/> es <pausa/> <alargamiento>que</alargamiento>"
+hab1	"los contextos sociales son muy <ruido tipo=""chasquido boca""/> <pausa/> por ejemplo"
+hab2	"diferentes <pausa/> es cierto pero fff a ver <alargamiento>a</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab2	"<ruido tipo=""boca""/> a nivel global ya sería otra cosa pero por ejemplo <pausa/> aquí <pausa_larga/>"
+hab2	a ver <pausa/> eeh fff <pausa_larga/>
+hab2	la esperanza <pausa/> llevamos eeh <pausa/> aún solo la mantenemos <pausa/> eeh fff <pausa_larga/>
+hab2	un poco <silencio/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa_larga/>
+    "
+hab2	hay que ser <palabra_cortada>i</palabra_cortada> <alargamiento>idealista</alargamiento> está muy bien <pausa_larga/>
+hab2	tampoco hay que olvidar que todos tenemos un precio <pausa_larga/>
+hab2	eso sí <pausa/> eeh <pausa_larga/>
+hab2	pero <pausa/> por ejemplo era que llevamos <alargamiento>unos</alargamiento> <pausa_larga/>
+hab2	ochenta años <pausa/> pagando que se perdió una guerra <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> sí claro a ver es es evidente <pausa_larga/>
+hab2	que es <pausa/> ahí yo creo que está el <alargamiento>el</alargamiento> motor de todo <pausa_larga/>
+hab2	que es <pausa/> que vivimos en <alargamiento>un</alargamiento> mundo eeh capitalista <pausa_larga/>
+hab2	y claro <pausa/> eso <pausa/> también es <pausa_larga/>
+hab2	es aparte de económico evidentemente <pausa/> es político y social también <pausa_larga/>
+hab2	y es normal a ver es <pausa/> bueno la <alargamiento>gran</alargamiento> <silencio/>
+hab2	mmm la <alargamiento>gran</alargamiento> <pausa/> cosa que destapó el fraude del capitalismo <pausa/> y <pausa/> el fallo las lagunas <pausa/> <alargamiento>la</alargamiento> <pausa_larga/>
+hab2	todos los problemas que supone es eso <alargamiento>el</alargamiento> veintinueve en Estados Unidos <pausa_larga/>
+hab2	pero <pausa/> es normal <pausa/> dentro de <alargamiento>un</alargamiento> <pausa_larga/>
+hab2	eh <palabra_cortada>in</palabra_cortada> <pausa/> incluso <pausa/> ¡joder! <pausa/> mmm gente <pausa/> que defiende el capitalismo <pausa/> teoriza lo de los <pausa/> lo de los ciclos <alargamiento>de</alargamiento> las <pausa/> por ejemplo las crisis económicas <pausa_larga/>
+hab2	decir hay ciclos <alargamiento>cortos</alargamiento> de <alargamiento>cinco</alargamiento> <pausa_larga/>
+hab2	diez quince años hay ciclos de quince veinticinco <pausa_larga/>
+hab2	<alargamiento>hay</alargamiento> ciclos <alargamiento>de</alargamiento> veinticinco <alargamiento>cuarenta</alargamiento> y hay ciclos <alargamiento>de</alargamiento> <pausa/> treinta sesenta años <pausa/> de crisis <pausa/> es decir de crisis económicas <silencio/>
+hab2	"es decir eso está ahí <pausa/> de momento llevamos un <pausa/> por ejemplo aquí en España uno cortito y aún bueno <ruido tipo=""inspiración""/> <silencio/>"
+hab2	es decir porque a la gente parece claro <pausa/> que <alargamiento>fue</alargamiento> ¡buf! <pausa/> donde ya quedó <pausa_larga/>
+hab2	pero es que ¡joder! <pausa/> a ver <pausa_larga/>
+hab2	esto puede durar sesenta años es decir eeh <silencio/>
+hab2	entonces claro <alargamiento>es</alargamiento> una cosa a la que te arriesgas en <alargamiento>este</alargamiento> con un sistema <pausa_larga/>
+hab2	<alargamiento>económico</alargamiento> así <pausa/> te arriesgas a este tipo de cosas <pausa/> lo de antes <pausa/> iba a explotar por algún lado <silencio/>
+hab2	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab2	"claro <pausa/> si explota en un sitio explota en otro también <pausa/> si dependes de Estados Unidos <pausa/> explota en Estados Unidos te explota a ti en la cara <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	<alargamiento>y</alargamiento> mmm <pausa/> en el <palabra_cortada>cir</palabra_cortada> contexto <pausa/> de sociedad actual <alargamiento>en</alargamiento> digamos <pausa/> en España lo que está pasando <pausa_larga/>
+hab2	situación social actual <pausa/> y la situación económica <pausa_larga/>
+hab2	es <pausa/> es todo eso <pausa_larga/>
+hab2	después otras cosas ya es <alargamiento>más</alargamiento> <pausa_larga/>
+hab2	más profundo el tema <silencio/>
+hab1	"¿y no crees que el <pausa/> <ruido tipo=""chasquido boca""/> el hecho de sentir que uno tiene un futuro menos <pausa_larga/>"
+hab1	seguro <pausa/> con un camino menos trillado <pausa_larga/>
+hab1	no puede inducir a un cambio de mentalidad <pausa/> que traiga algo positivo? <silencio/>
+hab2	a ver fff <pausa/> yo te digo que yo <pausa/> veo cosas que <pausa/> de vez en cuando me dan esperanza <silencio/>
+hab2	pero fff <pausa_larga/>
+hab2	también veo cosas de veo otras cosas que me dejan <pausa_larga/>
+hab2	suele ser <palabra_cortada>m</palabra_cortada> <pausa/> mayoritario <pausa_larga/>
+hab2	que me dejan desolado <pausa_larga/>
+hab2	eeh <pausa_larga/>
+hab2	y yo creo que es <pausa/> que <alargamiento>es</alargamiento> <alargamiento>un</alargamiento> <alargamiento>aborregamiento</alargamiento> general <silencio/>
+hab2	entonces claro <pausa/> <alargamiento>si</alargamiento> si la población vive aborregada <pausa_larga/>
+hab2	pues <pausa/> es que <pausa/> la gente no quiere <pausa/> no quiere <pausa_larga/>
+hab2	<alargamiento>el</alargamiento> problema es <pausa/> que <pausa/> mucha gente <pausa_larga/>
+hab2	que ahora está sin trabajo <pausa/> sin tal <alargamiento>sin</alargamiento> eeh tal <pausa_larga/>
+hab2	<énfasis_inicio/>no<énfasis_fin/> quieren digamos <silencio/>
+hab2	una buena calidad de vida <pausa_larga/>
+hab2	o <pausa/> volver a tener o tener <alargamiento>un</alargamiento> bienestar tal <pausa_larga/>
+hab2	sino quieren volver a lo que les habían vendido <pausa_larga/>
+hab2	de tener <pausa/> una hipoteca <pausa/> un piso <pausa/> <pausa/> <alargamiento>y</alargamiento> una televisión como <pausa/> <alargamiento>en</alargamiento> dos mil cinco hace <pausa/> como hace diez años <pausa_larga/>
+hab2	es decir <pausa_larga/>
+hab2	si <pausa_larga/>
+hab2	lo que quieres es cambiar <pausa/> para volver a eso <pausa_larga/>
+hab2	no <pausa/> no es el camino tampoco <pausa_larga/>
+hab2	es decir <palabra_cortada>n</palabra_cortada> <pausa/> eeh <silencio/>
+hab2	veo muchas cosas eh que me desolan <alargamiento>y</alargamiento> fff y sss <silencio/>
+hab2	y claro a ver fff <pausa/> creo <alargamiento>que</alargamiento> hace falta un poco más <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	de lucidez <pausa_larga/>
+hab2	"
+      <alargamiento>en</alargamiento>
+      <pausa_larga/>
+    "
+hab2	<alargamiento>en</alargamiento> las <alargamiento>mentes</alargamiento> <pausa/> de de de mucha gente <pausa/> de la mayoría <silencio/>
+hab2	es decir <pausa_larga/>
+hab2	fff <pausa/> <alargamiento>y</alargamiento> si dices lo <alargamiento>contrario</alargamiento> a ese tipo de cosas eres un <alargamiento>loco</alargamiento> <pausa_larga/>
+hab2	"<alargamiento>eres</alargamiento><alargamiento>un</alargamiento> pff <pausa/> <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	"pff vamos eres un <alargamiento>lunático</alargamiento> <alargamiento>tal</alargamiento> fff <pausa/> <alargamiento>comunista</alargamiento> <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	"ese tipo de cosas <alargamiento>no</alargamiento> <ruido tipo=""inspiración""/> <silencio/>"
+hab2	entonces <pausa/> no sé a ver fff <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> evidentemente no <alargamiento>soy</alargamiento> fff <pausa_larga/>"
+hab2	ni <alargamiento>un</alargamiento> ni <alargamiento>un</alargamiento> <pausa_larga/>
+hab2	teórico <alargamiento>sociológico</alargamiento> ni <alargamiento>económico</alargamiento> <pausa_larga/>
+hab2	ni político <silencio/>
+hab2	simplemente que fff <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> ¡joder macho! <alargamiento>esto</alargamiento> es <pausa/> totalmente infame <silencio/>"
+hab2	esto es fff <silencio/>
+hab2	"
+      <ruido tipo=""resoplido""/>
+      <pausa_larga/>
+    "
+hab2	pan y circo prácticamente no no no hay <pausa_larga/>
+hab2	no hay más <pausa/> <alargamiento>y</alargamiento> <silencio/>
+hab2	pff <pausa/> no sé de <pausa/> que eso <pausa/> que alguien haga algo ¡coño! <silencio/>
+hab1	y tú ¿cómo te ves en tu día a día? <pausa_larga/>
+hab1	en tu <silencio/>
+hab1	en tu día a día dentro de <alargamiento>este</alargamiento> <silencio/>
+hab2	<alargamiento>ah</alargamiento> bueno
+hab1	"<ruido tipo=""chasquido boca""/> a ver ¿cómo haces para sentirte bien? porque uno en última instancia necesita mecanismos para sentirse bien para construir una vida para"
+hab2	sí
+hab2	<alargamiento>ah</alargamiento> no yo <pausa/> yo <pausa/> conmigo mismo me <alargamiento>me</alargamiento> me siento bien <alargamiento>porque</alargamiento> <pausa_larga/>
+hab2	mmm yo <pausa/> a ver <pausa/> yo con mis ideas de yo creo que soy una <pausa_larga/>
+hab2	persona <pausa/> con <alargamiento>bastante</alargamiento> <silencio/>
+hab2	mmm <pausa_larga/>
+hab2	capacidad de pensar libremente <pausa_larga/>
+hab2	es decir <pausa_larga/>
+hab2	mmm yo <pausa/> por lo menos <pausa/> veo el telediario <silencio/>
+hab2	y no me creo casi nada <pausa_larga/>
+hab2	es decir <pausa_larga/>
+hab2	dices <alargamiento>tú</alargamiento> <pausa/> <cita_inicio/>¡puf! a lo mejor porque tienes <alargamiento>una</alargamiento> ideología <alargamiento>política</alargamiento><cita_fin/> <pausa/> <cita_inicio/>bueno <pausa/> ¡oye! <pausa_larga/>
+hab2	la tengo así<cita_fin/> <silencio/>
+hab2	<alargamiento>pero</alargamiento> ¡oye! <pausa/> por lo menos tengo la capacidad de pensar <alargamiento>que</alargamiento> <pausa/> creo que la conservo <pausa_larga/>
+hab2	eeh <alargamiento>y</alargamiento> pff <pausa_larga/>
+hab2	eso <alargamiento>es</alargamiento> <palabra_cortada>su</palabra_cortada> suficiente <palabra_cortada>p</palabra_cortada> <pausa/> eso es suficiente <pausa_larga/>
+hab2	<alargamiento>la</alargamiento> capacidad de pensar por mí mismo <pausa/> que eso lo que te digo eso es <pausa/> ahora mismo <pausa_larga/>
+hab2	es <énfasis_inicio/>muy<énfasis_fin/> difícil encontrarlo <silencio/>
+hab2	entonces <pausa_larga/>
+hab2	vale <pausa_larga/>
+hab2	mmm yo creo que ya es bastante <silencio/>
+hab2	<alargamiento>y</alargamiento> ¡joder! eso <pausa/> cada vez que me encuentro a una persona <pausa/> que tiene una <alargamiento>capacidad</alargamiento> <pausa_larga/>
+hab2	<alargamiento>de</alargamiento><pausa/> de pensar <pausa_larga/>
+hab2	por sí mismo <pausa_larga/>
+hab2	eeh <pausa/> pues me alegro y me da esperanza <silencio/>
+hab1	¿y tienes un círculo de amigos grande <alargamiento>o</alargamiento> <pausa_larga/>
+hab1	o pequeños? a ver ¿tienes personas con las cuales puedas <pausa/> mmm <pausa_larga/>
+hab1	dialogar sentirte <alargamiento>que</alargamiento> que <alargamiento>son</alargamiento> <silencio/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab1	interlocutores con los cuales puedas conversar sobre las cosas que te preocupan? <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> hombre a ver <alargamiento>no</alargamiento> <ruido tipo=""resoplido""/> <silencio/>"
+hab2	<alargamiento>no</alargamiento> suelo <pausa/> mmm <pausa/> a ver <pausa/> ¿qué pasa? <pausa/> la política quizás tampoco es el tema que más sale <pausa_larga/>
+hab2	"<alargamiento>en</alargamiento><ruido tipo=""boca""/> mmm <silencio/>"
+hab2	en conversaciones con colegas <pausa/> es <pausa/> mmm vamos <pausa/> yo qué sé <alargamiento>con</alargamiento> <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> ¿qué pasa? una cosa eemm <alargamiento>que</alargamiento> mmm <pausa_larga/>"
+hab2	que a mí me gusta también <alargamiento>es</alargamiento> eeh mmm <silencio/>
+hab2	aprovechar <pausa/> <alargamiento>y</alargamiento> descojonarme del mundo realmente <pausa_larga/>
+hab2	es decir fff <pausa_larga/>
+hab2	<alargamiento>el</alargamiento> humor es es básico <silencio/>
+hab2	¡por Dios! que no nos lo quiten <pausa/> es <risa/> decir <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	es <alargamiento>como</alargamiento> <alargamiento>si</alargamiento> <palabra_cortada>des</palabra_cortada> es como si le hubieran cortado la cabeza a Groucho Marx <pausa/> no ¡por Dios! <pausa_larga/>
+hab2	"<ruido tipo=""inspiración""/> entonces <pausa/> eeh <pausa_larga/>"
+hab2	eso siempre está bien y el <pausa/> puedes meter de todo <pausa/> lo <pausa/> de la <pausa/> sobre la vida social la economía tal <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/><alargamiento>y</alargamiento> bueno mmm <pausa/> <alargamiento>esta</alargamiento> <pausa/> <ininteligible/> <pausa/> eso <pausa/> bueno no a ver con los amigos hablas <alargamiento>de</alargamiento> pff <pausa/> claro <pausa/> <ininteligible/> después de todo también tienes veinte años <pausa_larga/>"
+hab2	a ver <pausa/> eeh me <alargamiento>preocupa</alargamiento> <alargamiento>la</alargamiento> situación <alargamiento>social</alargamiento> <alargamiento>la</alargamiento> <alargamiento>situación</alargamiento> <silencio/>
+hab2	<alargamiento>política</alargamiento> mmm <silencio/>
+hab2	eeh la situación <pausa_larga/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa_larga/>
+    "
+hab2	que buah <pausa/> por considerarme así <pausa/> sí la situación <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	de mi clase porque <alargamiento>aunque</alargamiento> yo digamos <pausa_larga/>
+hab2	de mi clase social porque aunque yo no digamos no he tenido un <pausa/> trabajo <pausa/> nunca en plan <pausa/> <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	"ganarme el pan <pausa/> nunca he trabajado <pausa/> <ruido tipo=""inspiración""/> vamos que no he vendido <alargamiento>mi</alargamiento> mi capacidad de trabajo por un salario <pausa_larga/>"
+hab2	eeh <pausa_larga/>
+hab2	soy de familia trabajadora es decir <pausa/> <alargamiento>entonces</alargamiento> <silencio/>
+hab2	evidentemente <pausa_larga/>
+hab2	"
+      <alargamiento>claro</alargamiento>
+      <pausa_larga/>
+    "
+hab2	no puedo ser <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> ya lo <pausa/> lo decía <alargamiento>una</alargamiento> <pausa/> también es <pausa/> es que es <pausa/> aunque <pausa/> pero bueno <pausa/> claro a ver si no eres <alargamiento>de</alargamiento> de esa <pausa/> no procedes <alargamiento>de</alargamiento> de ese mundo <pausa_larga/>"
+hab2	quizá es más <pausa/> difícil verlo <pausa_larga/>
+hab2	pero es <alargamiento>una</alargamiento> una cosa que es <pausa/> decía Salvador Allende que decía <pausa_larga/>
+hab2	<cita_inicio/>ser eeh <palabra_cortada>j</palabra_cortada> ser joven <pausa_larga/>
+hab2	y no ser eeh revolucionario <pausa_larga/>
+hab2	es una contradicción <pausa/> incluso hasta biológica<cita_fin/> <pausa/> es decir eeh <pausa_larga/>
+hab2	un <alargamiento>poco</alargamiento> así llevado a su manera <pausa/> pero bien tirado <silencio/>
+hab2	"<alargamiento>y</alargamiento> mmm <ruido tipo=""chasquido boca""/> <pausa/> mujer claro <pausa/> me <pausa/> me preocupo por esos temas <pausa_larga/>"
+hab2	pero bueno a ver <pausa_larga/>
+hab2	también <alargamiento>tengo</alargamiento> veinte años también me <alargamiento>preocupo</alargamiento> <pausa_larga/>
+hab2	<alargamiento>pues</alargamiento><pausa/> por cosas que me <alargamiento>gustan</alargamiento> <vacilación/> <pausa/> bah pues <pausa_larga/>
+hab2	por el fútbol por el tal por las chicas ¿no sabes?
+hab1	¿te gustan los deportes? <pausa_larga/>
+hab2	sí <pausa/> <alargamiento>lo</alargamiento> lo tengo abandonado también pero <alargamiento>me</alargamiento> me gustan me gustan <silencio/>
+hab2	también claro <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	"los deportes sí eeh vamos <pausa/> eeh fff <pausa/> hombre a ver hay deportes que me gusta practicarlos <pausa/> y verlos <pausa/> <ruido tipo=""golpe""/> <pausa_larga/>"
+hab2	hay deportes <pausa/> que a lo mejor mmm <pausa/> practicarlos puede ser interesante pero verlos es horrible <pausa/> no no <alargamiento>no</alargamiento> no no tal <pausa_larga/>
+hab2	no me interesa <pausa_larga/>
+hab2	y hay deportes que a lo mejor solo me <alargamiento>gusta</alargamiento> solo me <alargamiento>gusta</alargamiento> ver es decir <pausa_larga/>
+hab2	"<ruido tipo=""inspiración""/> eeh <pausa_larga/>"
+hab2	y mmm sí porque el deporte en general me gusta <pausa_larga/>
+hab2	es eso tanto como verlo <alargamiento>como</alargamiento> <silencio/>
+hab2	mmm <alargamiento>el</alargamiento> <palabra_cortada>depor</palabra_cortada> <alargamiento>el</alargamiento> <pausa/> <alargamiento>los</alargamiento> <pausa/> la competición profesional de <pausa/> deportes que me gusten como el deporte en la vida diaria <pausa_larga/>
+hab2	"
+      <alargamiento>me</alargamiento>
+      <pausa_larga/>
+    "
+hab2	pero y esto y aparte el deporte es <pausa_larga/>
+hab2	es importante <pausa/> ¡joder! <pausa/> aparte evidentemente <pausa_larga/>
+hab2	al nivel <alargamiento>de</alargamiento> <pausa/> mmm mmm <pausa/> de salud <pausa/> claro <pausa_larga/>
+hab2	hacer deporte eeh <pausa_larga/>
+hab2	siempre está bien mmm <pausa_larga/>
+hab2	que claro también <pausa_larga/>
+hab2	puedes eeh <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> drogarte y morir a <alargamiento>los</alargamiento> setenta años <pausa/> y y y hacer <alargamiento>deporte</alargamiento> y tal y morir a los veinticinco <pausa/> <pausa/> pero <pausa/> pff <pausa/> <ruido tipo=""chasquido boca""/> hombre <pausa/> si ya vas provocando <pausa/> pues <pausa/> ¡joder! <pausa_larga/>"
+hab2	<alargamiento>tampoco</alargamiento> claro <pausa_larga/>
+hab2	y aparte <pausa/> el deporte <pausa_larga/>
+hab2	pues <pausa/> porque te guste mmm mmm decir mmm <pausa_larga/>
+hab2	por ejemplo <pausa/> mmm <pausa_larga/>
+hab2	a eh <alargamiento>mi</alargamiento> <pausa/> a mi padre le gusta correr y mmm siempre intenta <alargamiento>que</alargamiento> que <alargamiento>yo</alargamiento> <pausa_larga/>
+hab2	<alargamiento>que</alargamiento> yo mmm <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> vaya y tal <pausa_larga/>"
+hab2	lo lo hice en su momento me gustaba tal me acabó cansando <alargamiento>y</alargamiento> pff no <alargamiento>no</alargamiento> no lo soporto ahora mismo <pausa_larga/>
+hab2	es algo que me gusta ver por la tele pero no lo soporto <pausa_larga/>
+hab2	eeh yo <pausa/> sin embargo sí otros <alargamiento>deportes</alargamiento> <pausa/> <alargamiento>con</alargamiento> <pausa/> deportes de balón el fútbol baloncesto tal <pausa/> me gustan <silencio/>
+hab2	"<ruido tipo=""boca""/> y aparte también <alargamiento>es</alargamiento> <pausa/> <palabra_cortada>dep</palabra_cortada> mmm <palabra_cortada>vo</palabra_cortada> verlo diario tal aunque todo es <pausa/> también si te fijas <pausa/> está <pausa/> <palabra_cortada>con</palabra_cortada> contaminado por lo <alargamiento>que</alargamiento> <pausa_larga/>"
+hab2	y es <pausa/> fiel reflejo de lo que vemos <pausa/> de lo <alargamiento>que</alargamiento> hablamos antes de lo <pausa_larga/>
+hab2	"<ruido tipo=""golpe""/><pausa/><alargamiento>social</alargamiento> de lo <alargamiento>económico</alargamiento> <pausa_larga/>"
+hab2	de <alargamiento>lo</alargamiento> político también <pausa_larga/>
+hab2	también bueno a ver <pausa/> es verdad que claro <pausa/> <alargamiento>el</alargamiento> deporte <pausa/> <vacilación/> su historia <pausa_larga/>
+hab2	estuvo relacionado <alargamiento>con</alargamiento> la <alargamiento>economía</alargamiento> <pausa_larga/>
+hab2	con la <alargamiento>sociedad</alargamiento> <pausa_larga/>
+hab2	y sobre todo mucho con la política <pausa/> es decir <pausa_larga/>
+hab2	mmm <pausa/> eso da para una tesis doctoral <pausa/> la relación deporte política <pausa_larga/>
+hab2	<alargamiento>es</alargamiento> es <alargamiento>realmente</alargamiento> <pausa_larga/>
+hab2	impresionante vamos <pausa_larga/>
+hab2	se podría escribir fff <silencio/>
+hab2	pues hasta hasta morirse se podría escribir prácticamente <pausa_larga/>
+hab2	no solo como <pausa/> como arma de <alargamiento>propaganda</alargamiento> o <alargamiento>tal</alargamiento> eso eh y en <pausa/> en la vida <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> es decir yo qué sé fff <silencio/>"
+hab2	y <alargamiento>no</alargamiento> <alargamiento>y</alargamiento> <pausa/> a ver porque siempre los deportistas <alargamiento>son</alargamiento> <pausa_larga/>
+hab2	hombre ahora <pausa/> ya con <alargamiento>los</alargamiento> <pausa_larga/>
+hab2	"bueno ya son <alargamiento>como</alargamiento> <alargamiento>como</alargamiento> mascotas prácticamente como marionetas <ruido tipo=""inspiración""/> <pausa_larga/>"
+hab2	<alargamiento>en</alargamiento><alargamiento>en</alargamiento> el <palabra_cortada>m</palabra_cortada> ahora actualmente <pausa_larga/>
+hab2	pero bueno siempre fueron influencia <pausa/> para mmm
+hab1	sí patrones <palabra_cortada>mo</palabra_cortada> <pausa_larga/>
+hab2	<alargamiento>sí</alargamiento><pausa/> sí claro es decir
+hab1	sí sí sí en cierta medida <alargamiento>son</alargamiento> modelos de éxito también de la <pausa_larga/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	sí claro lo ¿qué pasa? fff ahora
+hab1	a ver <palabra_cortada>al</palabra_cortada> algunos <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> ahora son unos modelos <alargamiento>del</alargamiento> del éxito que te venden claro es decir <pausa_larga/>"
+hab2	el <alargamiento>éxito</alargamiento> mmm <pausa/> es fff <pausa/> estar saliendo con una modelo <pausa_larga/>
+hab2	tener unos <pausa/> cuantos coches de lujo <pausa/>
+hab1	ir corriendo además por
+hab2	<alargamiento>una</alargamiento> una sí <pausa/> ir corriendo con el <alargamiento>coche</alargamiento> <vacilación/> no pasa nada <pausa/> la multa no te va a doler demasiado <pausa_larga/>
+hab2	eeh <pausa/> la puedes pagar con tarjeta incluso si <alargamiento>tiene</alargamiento> <pausa_larga/>
+hab2	si tienen el <pausa/> el rollo <palabra_cortada>l</palabra_cortada> <pausa/> los guardias civiles <pausa_larga/>
+hab2	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab2	mmm <pausa/> y eso <alargamiento>de</alargamiento> mmm fff <pausa/> pero es es como todo es es frivolidad y <palabra_cortada>p</palabra_cortada> y <palabra_cortada>plas</palabra_cortada> digo es <pausa/> pero claro como toda <palabra_cortada>so</palabra_cortada> como <risa_inicio/>toda sociedad <risa_fin/> <pausa_larga/>
+hab2	es el es la sociedad <pausa_larga/>
+hab2	es decir fff <pausa_larga/>
+hab2	mmm <pausa_larga/>
+hab2	hace treinta <alargamiento>años</alargamiento> <pausa/> eran unos <pausa/> <alargamiento>tíos</alargamiento> con <alargamiento>bigote</alargamiento> <pausa_larga/>
+hab2	pelos en el <alargamiento>pecho</alargamiento> alguna barriguita <risa_inicio/><alargamiento>y</alargamiento> tal <alargamiento>y</alargamiento> <risa_fin/> <pausa_larga/>
+hab2	¡joder! <pausa_larga/>
+hab2	pues tenían <alargamiento>un</alargamiento> <silencio/>
+hab2	pff <alargamiento>un</alargamiento> pff <pausa/> yo qué sé un Simca mil <pausa_larga/>
+hab2	bueno es un coche de tal <pausa/>
+hab1	sí era más un más un <alargamiento>empleo</alargamiento>
+hab2	"<ruido tipo=""chasquido boca""/> claro a ver <pausa/> <ruido tipo=""chasquido boca""/> <alargamiento>hace</alargamiento> <pausa_larga/>"
+hab2	mmm hasta hace yo creo que mmm <alargamiento>unos</alargamiento> <pausa/> quince <alargamiento>años</alargamiento> <silencio/>
+hab2	la <palabra_cortada>ma</palabra_cortada> la mayoría de ese mundillo <pausa/> no <pausa/> el deporte no porque <pausa/> pff <pausa/> bueno pues <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> oye si <pausa_larga/>"
+hab2	<alargamiento>si</alargamiento> te gusta yo qué sé el fútbol o el baloncesto pues te puede gustar <pausa/> pff <pausa/> el de los <alargamiento>ochenta</alargamiento> el de los <alargamiento>noventa</alargamiento> o más el de ahora <pausa_larga/>
+hab2	el pff deporte simplemente tiene <pausa/> <risa/> lo que lo único que puede cambiar son <pausa/> innovaciones técnicas <pausa_larga/>
+hab2	"<ruido tipo=""palmada""/><pausa/> y físicas prácticamente <pausa_larga/>"
+hab2	pero <pausa_larga/>
+hab2	lo <alargamiento>de</alargamiento> <pausa/> deporte para fuera <pausa_larga/>
+hab2	sí que <pausa/> cambia mucho antes era todo bastante más <pausa/> más puro <silencio/>
+hab2	quizás <pausa/> pff <pausa/> mmm eso también quizás <vacilación/> <alargamiento>a</alargamiento> <pausa_larga/>
+hab2	a remolque con la sociedad <silencio/>
+hab2	"
+      <alargamiento>es</alargamiento>
+      <pausa_larga/>
+    "
+hab2	es indispensable todo porque claro <ininteligible/> van <pausa/> van de la mano <pausa_larga/>
+hab2	en el momento que algo tiene <pausa/> tanta importancia y tanta repercusión <pausa_larga/>
+hab2	como <alargamiento>el</alargamiento> <pausa/> como lo tienen algunos deportes <pausa_larga/>
+hab2	pues claro es <pausa/> va de la mano <pausa_larga/>
+hab2	pero <alargamiento>una</alargamiento> persona <pausa_larga/>
+hab2	sabe <pausa/> quién es <alargamiento>el</alargamiento> <pausa/> te puede decir a lo mejor el nombre <pausa_larga/>
+hab2	<alargamiento>de</alargamiento> cinco <pausa_larga/>
+hab2	"
+      <alargamiento>políticos</alargamiento>
+      <silencio/>
+    "
+hab2	o actuales <pausa_larga/>
+hab2	o importantes de la historia <pausa/> pero es que también <pausa/> seguramente <pausa/> te <palabra_cortada>p</palabra_cortada> sepa decir <pausa/> cinco deportistas <silencio/>
+hab2	eeh <pausa/> o actuales <pausa/> o importantes de la historia <pausa_larga/>
+hab2	es decir <pausa/> fff <pausa/> va de la mano <silencio/>
+hab2	<alargamiento>y</alargamiento> yo qué sé <pausa/> por ejemplo <pausa_larga/>
+hab2	la forma de usarlo como <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> la la ideología también <pausa/> por ejemplo la ideología política que lo rodea es decir <pausa_larga/>"
+hab2	también <alargamiento>es</alargamiento> <pausa/> es herramienta política <pausa_larga/>
+hab2	desde pero eso ya desde <alargamiento>hace</alargamiento> fff <pausa_larga/>
+hab2	fff <pausa/> prácticamente desde la <alargamiento>época</alargamiento> <pausa_larga/>
+hab2	desde la época de <alargamiento>la</alargamiento> eh fff <pausa/> en España por ejemplo es <pausa/> vamos prácticamente desde que empezó prácticamente <pausa_larga/>
+hab2	"
+      <alargamiento>no</alargamiento>
+      <pausa_larga/>
+    "
+hab2	sí desde que empezó es es herramienta política <pausa_larga/>
+hab2	porque <palabra_cortada>f</palabra_cortada> fue algo fff <pausa/> claro la gente claro si <pausa/> tiene percusión entonces <pausa_larga/>
+hab2	"pues <ruido tipo=""golpe""/> va de la mano eso con todo <silencio/>"
+hab1	sí es algo además que visible <alargamiento>que</alargamiento> <pausa/>
+hab2	hm <silencio/>
+hab2	"hm hm <pausa/> <ruido tipo=""chasquido boca""/> es decir es <pausa_larga/>"
+hab2	es <pausa/> tema de <alargamiento>conversación</alargamiento> <alargamiento>es</alargamiento> <alargamiento>tal</alargamiento> <silencio/>
+hab1	y ¿hay algo más que quieras contarme de ti <alargamiento>de</alargamiento> ? <silencio/>
+hab2	mmm pues <alargamiento>no</alargamiento> sé bueno a ver eeh <pausa/> pff <silencio/>
+hab1	o si quieres a ver <pausa/> pasamos una segunda parte que tengo <palabra_cortada>al</palabra_cortada> <palabra_cortada>al</palabra_cortada> algunas preguntas <alargamiento>para</alargamiento> <pausa/>
+hab2	ah bueno
+hab1	de un cuestionario <pausa/> y <palabra_cortada>des</palabra_cortada> y si quieres después <alargamiento>me</alargamiento> <silencio/>
+hab1	eso <pausa/> ¿sí?
+hab2	bueno <pausa/> como como veas sí <pausa/> vale
