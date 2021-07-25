@@ -6,7 +6,7 @@ En estos cuadernos describimos los procesos que hemos seguido para limpiar y pro
 
 Para la preparación de la data de entrenamiento necesitamos obtener pares de oraciones por ejemplo una frase en inglés y una frase en español que representa su tradución nos serviría para entrenar un chatbot que traduce frases del inglés al español.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/Grupo8IA/ChatbotUni/main/imagenes/traductor.png?raw=true)
 
 En la imágen anterior se muestra una data antes de ser procesada, ésta data serviría para hacer un traductor del inglés al español.
 
