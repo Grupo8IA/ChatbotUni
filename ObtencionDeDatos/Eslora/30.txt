@@ -1,0 +1,168 @@
+hab1	¿pero qué pasa? ¿hay mucho legado <alargamiento>de</alargamiento> <pausa/> de Picasso allí en el museo <alargamiento>de</alargamiento>
+hab2	no hay nada
+hab1	de Bellas Artes?
+hab2	¡nada! <silencio/>
+hab2	todo eso viene de otras partes
+hab2	viene de la familia <pausa/> viene de tal
+hab2	además <silencio/>
+hab2	la exposición esa es un poco un pluf ¡eh!
+hab1	¿sí?
+hab2	porque dicen <cita_inicio/>doscientas y pico obras tal<cita_fin/> ¡mentira!
+hab2	de Picasso debe haber treinta o cuarenta obras <silencio/>
+hab1	¿pero dónde? ¿en el museo?
+hab2	"
+      <ininteligible/>
+    "
+hab2	no no <pausa/> en la exposición
+hab1	¿ah sí?
+hab3	¿y después el resto?
+hab2	y el resto son
+hab2	pintores contemporáneos
+hab2	a Picasso
+hab2	"que había en Coruña <pausa_larga/> <ruido tipo=""inspiración""/> <pausa/> cuadros <alargamiento>de</alargamiento> gente que había sido profesor de él en la <alargamiento>escuela</alargamiento>"
+hab2	<palabra_cortada>cua</palabra_cortada> cuadros <pausa/> de <pausa/> un
+hab3	pero ¿dónde es la exposición?
+hab1	en el Museo de Bellas Artes <alargamiento>de</alargamiento>
+hab2	de Coruña
+hab1	de Coruña <pausa/> en el que hay en Panaderas
+hab3	hm
+hab2	cuadros <alargamiento>del</alargamiento>
+hab2	artistas de la época de Coruña
+hab2	por ejemplo claro <silencio/>
+hab2	de los hermanos Brocos
+hab2	que fuera un profesor de él <pausa/> ponen muchísimas cosas las que tienen <pausa/> el rollo es que tienen mucho
+hab2	de <sic_inicio/>Novarro<sic_fin/> <pausa/> igual <pausa/> de Román <sic_inicio/>Novarro<sic_fin/> <silencio/>
+hab2	y entonces de <pausa/> ¿<alargamiento>de</alargamiento> Picasso?
+hab1	yo es que ni recuerdo <pausa/> debe de haber mucho fondo allí porque para que vengan los reyes a inaugurarlo
+hab2	"
+      <alargamiento>no</alargamiento>
+    "
+hab2	ponen
+hab1	se me hace tan raro
+hab2	es que no sé si no vendrá <silencio/>
+hab2	"una eh la nieta de Picasso o <comentario_inicio valor=""susurrando""/><ininteligible/> eso es <ininteligible/><comentario_fin/>"
+hab1	¿hm?
+hab2	sí <pausa_larga/> <alargamiento>porque</alargamiento> creo que cedió bastantes cosas esa <silencio/>
+hab3	¿y cuánto tiempo va a estar?
+hab2	además <pausa_larga/> yo creo que eso es un <pausa_larga/> una movida <silencio/>
+hab2	ahí la exposición <silencio/>
+hab2	la organiza un tal <pausa_larga/> Rubén Ventureira
+hab2	que a decir de la gente por ahí <silencio/>
+hab1	¿tiene varios? <silencio/>
+hab2	es un <silencio/>
+hab2	un mandado <pausa/> porque eso el Rubén Ventureira este se dedicaba <pausa/> a cosas de deportes no <alargamiento>de</alargamiento> <silencio/>
+hab2	no de cultura <pausa/> <énfasis_inicio/>pero<énfasis_fin/> <pausa_larga/> yo me imagino <silencio/>
+hab2	que debe haber bastante cosa <silencio/>
+hab2	y eso es <alargamiento>que</alargamiento> había en Coruña la sociedad
+hab2	esa que <alargamiento>hay</alargamiento> de amigos de Picasso
+hab1	hm <silencio/>
+hab2	y seguramente alguno de estos hará <pausa/> habrá querido meter
+hab2	algún cuadrito
+hab1	aah para autentificarlo a lo mejor y <alargamiento>después</alargamiento> <pausa/> ponerlo en circulación
+hab2	no <pausa/> autentificarlo no <pausa/> porque <ininteligible/>
+hab1	porque ¿no era?
+hab1	¿no era que ahora ya no dejaban autentificar nada <alargamiento>más</alargamiento>?
+hab2	"
+      <ininteligible/>
+    "
+hab2	no autentifican <pausa/> no autentifican más ya <silencio/>
+hab2	porque me imagino que la
+hab1	"¿y tú crees que a lo mejor para esta exposición no <alargamiento>habrán</alargamiento> <pausa_larga/> <ruido tipo=""chasquido boca""/> intentado meter alguno"
+hab2	no
+hab1	que no estaba autentificado y <alargamiento>ahora</alargamiento> <pausa_larga/> puede estar?
+hab2	sí sí sí
+hab2	habrán metido alguno
+hab1	¿pues entonces?
+hab2	que no esté autentificado
+hab2	pero esta exposición <pausa/> no lo autentifica <ficticio>Sonia</ficticio> <silencio/>
+hab1	bueno pero a lo mejor mediante esta exposición
+hab2	tampoco
+hab1	tienen una forma de llegar a
+hab2	no <pausa/> lo único que pasa <pausa/> es que
+hab2	si tú tienes <pausa_larga/> por ejemplo
+hab1	porque ¿eso qué es? la Fundación Pablo <pausa/> Picasso la que <alargamiento>la</alargamiento> <pausa/> los <palabra_cortada>au</palabra_cortada> <pausa/> lo autentifica ¿no?
+hab2	no <pausa/> las los autentificaba
+hab2	la hija <silencio/>
+hab2	pero además es la hija
+hab2	¿eh? la <alargamiento>que</alargamiento> <silencio/>
+hab2	iba a Málaga
+hab2	primero la seleccionaba <pausa/> el Patronato Picasso de Málaga <pausa_larga/> el cuadro <pausa/> lo <alargamiento>veía</alargamiento> tal tal
+hab2	y si veía que había posibilidades de que fuera un Picasso <silencio/>
+hab2	era la hija <pausa_larga/> la que <alargamiento>iba</alargamiento> <silencio/>
+hab2	a certificarlo
+hab1	aah <silencio/>
+hab2	y la hija <pausa_larga/> <ininteligible/> desde hace no sé cuántos años ya <pausa/> debe hacer veinte años o algo así que dijo <pausa/> <cita_inicio/>nada<cita_fin/>
+hab1	<cita_inicio/>ya nada más<cita_fin/>
+hab2	nada <pausa/> más
+hab2	y no había más
+hab1	parece ser que se dedicaba a hacer muchos dibujitos por ahí
+hab1	como hacía Dalí por ejemplo que <pausa/> pagaba
+hab2	como todos
+hab3	¡oh! como <alargamiento>Chicho</alargamiento> <risa/>
+hab1	que pagaba <alargamiento>los</alargamiento>
+hab2	"
+      <ininteligible/>
+    "
+hab2	"
+      <palabra_cortada>na</palabra_cortada>
+    "
+hab1	las <pausa/> las partidas de cartas <pausa/> y le pagaba al fontanero aquel ¿te acuerdas? aquel fontanero que lo <alargamiento>quisieron</alargamiento>
+hab2	Picasso
+hab2	Dalí
+hab2	"Dalí sí <pausa/> <alargamiento>pero</alargamiento> <pausa/> <ruido tipo=""inspiración""/> <pausa/> Picasso no"
+hab1	no
+hab1	Picasso creo que no era nada generoso ¡eh!
+hab1	"<observación_inicio tipo=""platos""/>era bastante <pausa_larga/> miserable <silencio/><observación_fin/>"
+hab1	"<observación_inicio tipo=""platos""/>miserable<observación_fin/>"
+hab2	"<observación_inicio tipo=""platos""/>Picasso<observación_fin/>"
+hab2	"<observación_inicio tipo=""platos""/>cuentan una leyenda de él<observación_fin/>"
+hab1	miserable en cuanto a <pausa/> a la familia
+hab2	porque una vez en una comida
+hab1	hm
+hab2	en Niza <pausa_larga/> que era donde veraneaba él
+hab1	¿vais a querer sopa?
+hab2	un poquito
+hab3	hm
+hab2	uno de esos pequeñitos <silencio/>
+hab1	¿cuántos cucharones?
+hab2	"<observación_inicio tipo=""platos""/>pues una <pausa/> dos<observación_fin/>"
+hab2	imagínate
+hab2	estaba en la comida
+hab1	"
+      <ruido tipo=""suspiro""/>
+    "
+hab2	y eran diez o doce y <pausa/> invitaba él a comer
+hab2	y no le llegó los cuartos
+hab1	sí <silencio/>
+hab2	entonces cogió
+hab2	y le extendió un talón al tío <silencio/>
+hab1	y el tío no lo cobró <pausa/> porque tenía la firma <pausa_larga/> no me digas más
+hab2	"¡no! <pausa_larga/> le dijo <pausa/> <cita_inicio/>mire ahí tiene <ruido tipo=""golpes""/> <silencio/>"
+hab2	son <alargamiento>doscientos</alargamiento> <silencio/>
+hab2	francos ahí van <pausa/> tal
+hab1	¡aay qué rico!
+hab2	tenga ahí el talón
+hab2	mañana le vengo con el dinero y devuélvame el talón
+hab2	que tiene mi firma<cita_fin/>
+hab2	"
+      <risa/>
+    "
+hab1	¿sí?
+hab1	¡qué <alargamiento>miserable</alargamiento>!
+hab1	¡qué <alargamiento>asqueroso</alargamiento>! <silencio/>
+hab1	¡sí! <pausa/> decían que era un asqueroso ¡eh!
+hab3	¡qué divo!
+hab3	"
+      <ruido tipo=""carraspeo""/>
+    "
+hab1	¡un divo! un gilipollas coño
+hab2	<cita_inicio/>y vale más mi firma que esos doscientos francos<cita_fin/> dijo el tío
+hab1	ya
+hab3	que por otra parte es cierto
+hab1	sí bueno <silencio/>
+hab1	pero hay que ser más generoso ¡hombre!
+hab1	con esas cosas <silencio/>
+hab1	en fin <silencio/>
+hab2	Dalí no <pausa_larga/> Dalí era <ininteligible/>
+hab1	Dalí era muy generoso
+hab2	Dalí <ininteligible/>

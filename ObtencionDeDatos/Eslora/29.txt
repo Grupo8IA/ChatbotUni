@@ -1,0 +1,181 @@
+hab1	"<observación_inicio tipo=""cafetera""/>¿qué? <silencio/><observación_fin/>"
+hab2	"<observación_inicio tipo=""cafetera""/>¡<alargamiento>bonita</alargamiento>!<observación_fin/>"
+hab2	"<observación_inicio tipo=""cafetera""/>tener <alargamiento>los</alargamiento><silencio/><observación_fin/>"
+hab2	dedos de pianista <silencio/>
+hab2	mmm <silencio/>
+hab2	cómo se hace <alargamiento>más</alargamiento>
+hab2	"<observación_inicio tipo=""golpes""/>transparente la piel ¿eh?<observación_fin/>"
+hab3	eh <pausa/> me gustaría <pausa/> saber <pausa/> es como <pausa/> <ficticio>Irene</ficticio> por ejemplo
+hab2	¡oh! ¡vaya café eeh!
+hab3	cómo <palabra_cortada>colabo</palabra_cortada>
+hab2	¡<alargamiento>joder</alargamiento>! <pausa_larga/> ¡qué crema eeh!
+hab3	cómo colaboraron
+hab2	tu <alargamiento>padre</alargamiento> <pausa/> tu padre el café es único eeh
+hab3	¡hombre!
+hab2	"<observación_inicio tipo=""cafetera""/>el mejor cafetero del <alargamiento>mundo</alargamiento><alargamiento>mundial</alargamiento><observación_fin/>"
+hab3	"<observación_inicio tipo=""cafetera""/>¡hombre!<observación_fin/>"
+hab1	"<observación_inicio tipo=""cafetera""/>toma café azúcar mujer <silencio/><observación_fin/>"
+hab2	"<observación_inicio tipo=""cafetera""/>no<observación_fin/>"
+hab2	"<observación_inicio tipo=""cafetera""/>bueno <pausa/> toma <ininteligible/> las cosas<observación_fin/>"
+hab3	"
+      <observación_inicio tipo=""cafetera""/>
+      <ininteligible/>
+      <observación_fin/>
+    "
+hab1	"<observación_inicio tipo=""cafetera""/>toma azúcar <ficticio>Irene</ficticio> <pausa/> que <ficticio>Ernesto</ficticio> siempre te decía de<observación_fin/>"
+hab2	"<observación_inicio tipo=""cafetera""/><risa_inicio/>eso era el <ficticio>Bernabé</ficticio><risa_fin/><pausa/> pero el <ficticio>Bernabé</ficticio> también es más raro que raro <pausa_larga/><observación_fin/>"
+hab3	"<observación_inicio tipo=""cafetera""/>¿el qué?<observación_fin/>"
+hab3	"<observación_inicio tipo=""cafetera""/>¿qué decía Inés?<observación_fin/>"
+hab2	"<observación_inicio tipo=""cafetera""/>que<observación_fin/>"
+hab1	"<observación_inicio tipo=""cafetera""/>no es cierto<observación_fin/>"
+hab2	"<observación_inicio tipo=""cafetera""/><alargamiento>no</alargamiento> pero <pausa/> no es cierto tendrías que tomar muchísima cantidad y no está demostrado yo lo leo eh<observación_fin/>"
+hab3	"<observación_inicio tipo=""cafetera""/>¿el qué?<observación_fin/>"
+hab2	que la sacarina dé cáncer <silencio/>
+hab3	¿qué dices? <pausa/> hm <pausa/> ¿qué le <transcripción_dudosa_inicio/>vas a decir tú a<transcripción_dudosa_fin/> tu hija? <transcripción_dudosa_inicio/>macho<transcripción_dudosa_fin/>
+hab2	¿qué dices?
+hab2	es lo que me dice que <alargamiento>no</alargamiento>
+hab2	que no tome <pausa_larga/> pero <alargamiento>no</alargamiento>
+hab3	claro <pausa/> porque a lo mejor te vuelves más tonta <pausa/> <risa_inicio/>aún<risa_fin/>
+hab2	¡<alargamiento>hombre</alargamiento>! <pausa_larga/> pues tú más listo mira
+hab1	¿sí? <pausa/> ¿por <alargamiento>qué</alargamiento>?
+hab2	echa la mitad <risa_inicio/>fuera la mitad dentro y la otra mitad la deja en <alargamiento>el</alargamiento><risa_fin/> <risa/>
+hab1	por lo menos toma menos
+hab3	"
+      <risa/>
+    "
+hab2	en el vaso <pausa_larga/> y <palabra_cortada>t</palabra_cortada> cuando lavo <alargamiento>los</alargamiento> <silencio/>
+hab3	"
+      <risa/>
+    "
+hab3	¿qué quieres?
+hab2	"
+      <ruido tipo=""tos""/>
+    "
+hab1	siéntate un poco
+hab2	¡quédate aquí anda!
+hab3	voy a ver el
+hab2	espérate aquí un poquito anda <alargamiento>que</alargamiento> que la niña la tenemos poco ¡eeh!
+hab3	subo <ininteligible/> la tele
+hab3	¡Dios mío! con lo tonta que es <risa/> <risa/>
+hab2	<risa_inicio/>con lo tonta que es<risa_fin/>
+hab2	"
+      <alargamiento>aay</alargamiento>
+    "
+hab3	"
+      <risa/>
+      <risa/>
+    "
+hab2	ahora es como si ya viviéramos solos
+hab2	el nido vacío
+hab3	¡joder! <pausa/> pobrecita ¿no?
+hab2	¡pobrecitos nosotros!
+hab3	a ver <alargamiento>si</alargamiento> consigue algo ¿no? a ver si <silencio/>
+hab2	más tonto que tonto de verdad <silencio/>
+hab3	"
+      <risa/>
+      <silencio/>
+    "
+hab2	"
+      <alargamiento>aay</alargamiento>
+    "
+hab3	<alargamiento>aay</alargamiento> a ver si <silencio/>
+hab3	saca algo
+hab2	no sé quién era el otro día que mmm <silencio/>
+hab3	"
+      <ruido tipo=""suspiro""/>
+    "
+hab2	trabajaba en el Instituto Cervantes
+hab3	¡hostia!
+hab1	<asignación_dudosa_inicio/>¿quién?<asignación_dudosa_fin/>
+hab2	¡hombre! es una chulada
+hab3	¿y qué <pausa_larga/> eh?
+hab2	Instituto Cervantes hay <alargamiento>en</alargamiento>
+hab2	en Sudamérica también ¡eh!
+hab3	"¡hombre! <pausa_larga/> <ruido tipo=""golpe""/>"
+hab1	"pero si hay hasta en <ruido tipo=""golpe""/> Manchester"
+hab2	y en Madrid
+hab2	aah
+hab3	claro
+hab1	si es que no es no es <palabra_cortada>so</palabra_cortada> no hay solo <alargamiento>en</alargamiento> países de <alargamiento>habla</alargamiento>
+hab3	claro
+hab1	de <alargamiento>habla</alargamiento> <pausa_larga/> española sino que
+hab2	"
+      <ininteligible/>
+    "
+hab1	"hay sede por todo el <pausa/> sedes por todo el mundo hay en Japón porque es la sede <ruido tipo=""golpe""/> del español <ruido tipo=""golpe""/> <alargamiento>en</alargamiento> cada <pausa_larga/> cada país"
+hab3	claro <pausa_larga/> hay <ininteligible/>
+hab2	¿ah sí?
+hab3	que no <palabra_cortada>entien</palabra_cortada> <pausa/> un noruego no lo entiende
+hab2	y al español yo no sé por qué no le damos más importancia ¡eeh!
+hab2	si si somos
+hab3	pero
+hab2	si lo habla más gente que <pausa/> que el <alargamiento>inglés</alargamiento>
+hab1	también se le da más importancia al peninsular y <alargamiento>hay</alargamiento> ciento cuarenta millones de hablantes <alargamiento>en</alargamiento> México o algo así
+hab3	"
+      <ininteligible/>
+    "
+hab2	<alargamiento>ya</alargamiento> pero quiero decir que
+hab1	y el la <alargamiento>la</alargamiento>
+hab1	la norma es la española de la Península <pausa/> pero en realidad <pausa/> si quisieran ellos se impondrían eh
+hab3	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab1	si nos triplican bueno ¿no?
+hab2	pero quiero decir que nosotros España debería vender el <palabra_cortada>es</palabra_cortada> el español ¡eeh!
+hab3	bueno <pausa_larga/> hm <pausa_larga/> pues
+hab2	que es una riqueza que tenemos
+hab3	"
+      <ininteligible/>
+    "
+hab3	ah
+hab2	es una riqueza que tenemos ¡eeh!
+hab3	"
+      <alargamiento>hola</alargamiento>
+    "
+hab2	<alargamiento>de</alargamiento><pausa/> para <alargamiento>enseñar</alargamiento> y <alargamiento>para</alargamiento> <pausa_larga/> transmitir
+hab3	hola <alargamiento>yo</alargamiento>
+hab2	igual que <alargamiento>hay</alargamiento> <pausa_larga/> cursos de inglés por todos los sitios <silencio/>
+hab2	cursos de español <alargamiento>cariño</alargamiento> yo pienso que hay <alargamiento>que</alargamiento> mmm
+hab2	hay algunos que defienden eso que nosotros deberíamos vender el español ¡eeh!
+hab2	igual que vendemos el sol de España el turismo
+hab2	que deberíamos vender el idioma
+hab1	hay una chica en mi clase <silencio/>
+hab1	italiana <pausa_larga/> que tiene tatuado <pausa/> <cita_inicio/>el sol de España<cita_fin/> <silencio/>
+hab2	bueno <silencio/>
+hab2	"pues le gustará cariño <pausa_larga/> hay que <comentario_inicio valor=""susurrando""/>respetar a la gente<comentario_fin/>"
+hab2	"
+      <ininteligible/>
+    "
+hab1	pero ¿qué le gusta? ¿el sol de España?
+hab2	claro España o sea
+hab1	es que <pausa/> pero que ella es <pausa/> ¿ella el sol de España? <pausa_larga/> ¿o?
+hab2	no hombre no yo creo <alargamiento>que</alargamiento> <pausa/> claro el sol de España digamos España en general digamos está aquí pues
+hab1	el sol
+hab2	que le gusta este país <silencio/>
+hab2	"
+      <ruido tipo=""tos""/>
+    "
+hab2	yo pienso que mmm
+hab2	que debemos amar lo nuestro ¿<alargamiento>no</alargamiento>?
+hab1	¡hombre! <silencio/>
+hab2	"y en España <comentario_inicio valor=""susurrando""/><ininteligible/><comentario_fin/> que tiene <alargamiento>que</alargamiento>"
+hab2	o sea que está <alargamiento>bien</alargamiento> <pausa/> saber otros idiomas porque por ejemplo <pausa/> yo supongo que <silencio/>
+hab2	si te quieres ir al Instituto Cervantes <alargamiento>de</alargamiento> <pausa/> Japón
+hab2	tienes que dominar el japonés
+hab2	o si te quieres ir a un Instituto Cervantes de cualquier parte <alargamiento>de</alargamiento>
+hab2	de habla <alargamiento>inglesa</alargamiento>
+hab1	nosotros nos lo encontramos por Manchester de casualidad <silencio/>
+hab2	pues <palabra_cortada>tie</palabra_cortada>
+hab1	íbamos a un museo y al lado y ¡hostia!
+hab2	claro
+hab2	hm <pausa_larga/> tienes <alargamiento>que</alargamiento> <silencio/>
+hab1	el Instituto Cervantes tiene máster <alargamiento>de</alargamiento>
+hab1	español como lengua extranjera <silencio/>
+hab2	¿el Instituto Cervantes?
+hab1	sí <pausa_larga/> en Madrid
+hab2	pues yo ese lo haría cariño <silencio/>
+hab2	¡hombre! <pausa/> yo creo que eso <silencio/>
+hab1	Sara va a hacer el <alargamiento>de</alargamiento>
+hab1	profesorado <silencio/>
+hab2	¡hombre! de <palabra_cortada>profes</palabra_cortada> <pausa_larga/> <ininteligible/>

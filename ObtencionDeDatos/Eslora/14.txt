@@ -1,0 +1,463 @@
+hab1	comentario <alargamiento>fue</alargamiento> <pausa/> pero fue comentario de flipado ¿sabes? <pausa_larga/> y <risa_inicio/>luego le contesté yo<risa_fin/>
+hab5	fuera rollo
+hab1	pero <pausa/> <énfasis_inicio/>muy<énfasis_fin/> de dentro del corazón ¿sabes? en <alargamiento>plan</alargamiento>
+hab1	así <pausa_larga/> muy potentemente le dije <pausa/> <cita_inicio/>sí <pausa/> tú sí<cita_fin/>
+hab2	"
+      <risa/>
+    "
+hab3	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab4	"
+      <risa/>
+    "
+hab5	"
+      <risa/>
+    "
+hab1	en <alargamiento>plan</alargamiento>
+hab1	<risa_inicio/>pero tan fuerte ¿sabes? que <palabra_cortada>se</palabra_cortada> <pausa/> que se quedó todo picado<risa_fin/> y claro nos empezamos a partir <pausa/> en <alargamiento>plan</alargamiento> <pausa_larga/> por cómo había sonado en plan que sonó así un poco brusco ¿sabes?
+hab3	"
+      <risa/>
+    "
+hab5	ya
+hab5	no por él sino por <pausa_larga/> la forma de decirlo
+hab1	por <palabra_cortada>com</palabra_cortada> <pausa_larga/> claro por la forma en que lo dije ¿sabes?
+hab5	y se picó el chaval <risa/>
+hab1	y luego <pausa/> y luego le dijo <pausa/> le mandó un wasap a <ficticio>Anastasia</ficticio> diciendo que estaba enfadado <risa/>
+hab2	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab5	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab1	<risa/> y yo <pausa/> pero si luego cuando se fue <pausa/> fuimos en <alargamiento>plan</alargamiento> <palabra_cortada>felic</palabra_cortada> <pausa/> en paz ¿sabes? felices en <alargamiento>plan</alargamiento>
+hab5	felices <risa_inicio/><ininteligible/><risa_fin/> <risa/>
+hab2	<risa_inicio/>felices<risa_fin/><risa/>
+hab1	paz
+hab1	<risa_inicio/>paz <ininteligible/> ¿sabes? en <alargamiento>plan</alargamiento> <pausa_larga/> ¡joder! estamos aquí <alargamiento>de</alargamiento> de raisas así y te vas ahí todo cabreado y luego mandas un wasap diciendo que estás enfadado<risa_fin/>
+hab3	como en Madrid que se cabreó porque fuimos a cenar al <sigla_inicio/>KFC<sigla_fin/> sin él
+hab5	¡ya chaval!
+hab5	en <alargamiento>plan</alargamiento> <pausa/> <alargamiento>y</alargamiento> ese día creo que no nos ofreció ni cenar con él ¿sabes? <alargamiento>rollo</alargamiento>
+hab3	"
+      <alargamiento>ya</alargamiento>
+    "
+hab5	eh
+hab4	"es un <lengua_inicio nombre=""en""/>loser<lengua_fin/>"
+hab5	ah <risa/>
+hab4	"
+      <transcripción_dudosa_inicio/>
+      <alargamiento>ya</alargamiento>
+      <transcripción_dudosa_fin/>
+    "
+hab5	"
+      <risa/>
+      <risa/>
+    "
+hab3	y en el tren <risa_inicio/>que no lo quisimos invitar a un <alargamiento>café</alargamiento><risa_fin/>
+hab5	<risa_inicio/>ya<risa_fin/>
+hab5	y se enfadó también en <alargamiento>plan</alargamiento>
+hab5	"
+      <ininteligible/>
+      <pausa/>
+      <risa/>
+    "
+hab3	hoy vi a <ficticio>Emilio</ficticio> otra vez
+hab5	¿sí?
+hab3	en la cafetería
+hab5	pero ¿qué está mmm por allí?
+hab3	trabaja allí
+hab5	sí ¿trabaja allí? <pausa_larga/> ah trabaja allí <pausa/> yo pensaba que trabajaba cerca
+hab3	"
+      <ininteligible/>
+    "
+hab3	no
+hab5	y ¿te conoce?
+hab3	no sé
+hab5	¡háblale!
+hab3	<cita_inicio/><ficticio>Emilio</ficticio> ¿<alargamiento>qué</alargamiento>? ¿qué tal?<cita_fin/> <pausa/> se habla <pausa_larga/> y ya <risa_inicio/>está<risa_fin/>
+hab5	<ininteligible/> conoce <ininteligible/> fijo
+hab2	<risa_inicio/><ininteligible/> tío<risa_fin/>
+hab2	chulo ¿<alargamiento>qué</alargamiento>? <risa/>
+hab3	"<alargamiento>no</alargamiento><pausa/> te conoce a ti porque yo estaba hablando un día con él <pausa/> me lo presentó <ficticio>Anastasia</ficticio> me dice <cita_inicio/>es <ficticio>Emilio</ficticio><cita_fin/> y tú <pausa/> <comentario_inicio valor=""gritando""/><cita_inicio/>¿es <ficticio>Emilio</ficticio>?<cita_fin/><comentario_fin/>"
+hab2	<risa/><risa_inicio/>estaba borracha ¿no?<risa_fin/>
+hab5	"
+      <risa/>
+      <pausa/>
+      <ininteligible/>
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab5	no <pausa/> no sé fue el día del concierto de él
+hab2	<alargamiento>ah</alargamiento> sí
+hab4	sí <pausa/> estaba borracha
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+    "
+hab5	"
+      <risa/>
+    "
+hab2	yo sola <pausa/> <risa/>
+hab5	y te <pausa/> y te miró rollo <pausa_larga/> <cita_inicio/><risa_inicio/><ininteligible/> <pausa/> ¿por qué me habla así?<risa_fin/><cita_fin/> <risa/> <risa/>
+hab3	yo no me acuerdo ni de su cara ¡eh! <pausa/> <ininteligible/>
+hab1	pero eso <pausa/> eso es divertido ¡eh!
+hab4	ya
+hab5	y al día siguiente <ininteligible/> <risa/>
+hab4	<ininteligible/> su cara
+hab2	<risa/><pausa/><risa_inicio/>es que yo si <palabra_cortada>m</palabra_cortada><pausa/> viene alguien y me saluda yo no sé quien es<risa_fin/>
+hab4	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab1	es que <pausa/> es que a mí por la noche me cambia mucho la gente ¡eh!
+hab2	"
+      <risa/>
+    "
+hab1	igual es mi <alargamiento>visión</alargamiento>
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	<risa_inicio/>estratosférica <pausa_larga/> pero<risa_fin/>
+hab5	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab4	"
+      <risa/>
+      <risa/>
+    "
+hab1	"<risa/> que voy ahí <lengua_inicio nombre=""en""/>high<lengua_fin/> pero ¡joder!"
+hab2	ya tío
+hab1	¿no?
+hab2	yo es que ese día estaba borracha yo sola <silencio/>
+hab4	¿no estabas con <ficticio>Juan</ficticio>?
+hab2	sí bueno <ficticio>Juan</ficticio>
+hab2	pero nadie más
+hab4	no estabas sola
+hab5	eso mola eh <pausa/> de emborracharte tú solo <pausa/> un día
+hab2	y después marchamos por ahí los dos solos y no había nadie en la calle
+hab1	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab2	"
+      <alargamiento>nadie</alargamiento>
+    "
+hab4	"
+      <risa/>
+    "
+hab3	sí no <pausa/> si no había nadie en la calle ¡eh! <pausa_larga/> que fue cuando llevé la maleta <alargamiento>de</alargamiento>
+hab1	ni falta que hace <pausa_larga/> ¿qué quieres gente en la calle?
+hab2	y acabamos en Tarasca solos <pausa/> no había nadie <pausa/> <ininteligible/> vino gente después
+hab3	¡uy!
+hab5	¿no había nadie?
+hab5	pero fue un <pausa/> miércoles
+hab2	claro no vino nadie <pausa/> hasta hasta <palabra_cortada>la</palabra_cortada> <pausa_larga/> tardísimo <pausa_larga/> empezó a llegar gente
+hab2	y ya <pausa/> fff <pausa/> ya nos pasó la borrachera
+hab4	"
+      <risa/>
+      <risa/>
+    "
+hab1	eso es una putada ¡eh!
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	yo ya cuando noto que empiezo así a decaer <pausa/> digo yo <cita_inicio/>no no no no no<cita_fin/>
+hab4	¡para casa!
+hab2	hm hm
+hab1	no <pausa/> ¿qué para casa? <pausa/> yo no <alargamiento>sé</alargamiento> <pausa_larga/> eso que dicen de que una retirada a tiempo es una victoria <alargamiento>no</alargamiento>
+hab5	"
+      <ruido tipo=""chasquido boca""/>
+      <ininteligible/>
+      <risa/>
+    "
+hab5	bah <pausa/> como el día <pausa/> el martes ese <alargamiento>de</alargamiento> de Tarasca a Maycar <alargamiento>que</alargamiento> en plan se nos estaba bajando muchísimo la borrachera porque <pausa/> era un puto martes <risa_inicio/>¿sabes?<risa_fin/> no había nadie <pausa/> y de repente acabamos en Maycar <pausa/> y casi acabamos en el aeropuerto <risa_inicio/><ininteligible/> <pausa_larga/> pero <pausa/> ¡qué grande <ininteligible/>!<risa_fin/>
+hab4	"
+      <risa_inicio/>
+      <ininteligible/>
+      <risa_fin/>
+    "
+hab1	mentira todo ¡eh!
+hab1	"
+      <risa/>
+    "
+hab1	"<risa/> pero es que se nos fue muy de las manos porque <pausa/> hubo un momento que dice ella  <cita_inicio/><ruido tipo=""chasquido boca""/> ¡ay <ficticio>Carlota</ficticio>! <pausa/> esperamos a que abra Zara y vamos a mirar algo de ropa ¿no?<cita_fin/>"
+hab5	"
+      <risa/>
+    "
+hab5	<risa/> rollo a las siete de la mañana por la plaza de Galicia <ininteligible/>
+hab2	"
+      <risa/>
+    "
+hab1	y justo <palabra_cortada>apare</palabra_cortada>
+hab1	en plaza Galicia
+hab1	y justo aparece el <alargamiento>el</alargamiento> <pausa/> el <palabra_cortada>av</palabra_cortada> <pausa/> <cita_inicio/>el avión<cita_fin/> iba a decir <pausa/> el avión del aeropuerto
+hab5	un martes
+hab2	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab4	"
+      <risa/>
+    "
+hab5	"
+      <risa/>
+    "
+hab1	y justo aparece el autobús <pausa/> del aeropuerto
+hab5	<risa/><pausa_larga/><risa_inicio/>y nos miramos la una a la otra  <risa/><pausa/> tenemos dinero para ir <pausa/> pero no para volver<risa_fin/> <risa/>
+hab1	en <alargamiento>plan</alargamiento>
+hab2	"
+      <risa/>
+    "
+hab1	y claro <pausa/> quedarme <alargamiento>ahí</alargamiento> tirada en Lavacolla <risa_inicio/>pues no <alargamiento>es</alargamiento><risa_fin/>
+hab3	ya
+hab3	"
+      <ininteligible/>
+    "
+hab2	pues sería gracioso durmiendo allí ¿no? <risa/>
+hab3	"
+      <risa/>
+    "
+hab3	hay cajeros y tía esas cosas en Lavacolla ¡eh!
+hab1	ya tío pero uff <silencio/>
+hab1	no sé
+hab5	<alargamiento>pero</alargamiento> fue bonito en ese momento pensando <alargamiento>rollo</alargamiento> <pausa_larga/> y <alargamiento>si</alargamiento> <risa/> <risa/> <alargamiento>pero</alargamiento>
+hab1	<alargamiento>sí</alargamiento><alargamiento>sí</alargamiento><pausa_larga/> sí
+hab2	"
+      <risa/>
+    "
+hab1	es que además <pausa/> lo recordamos como el día que <énfasis_inicio/>casi<énfasis_fin/> vamos al aeropuerto ¿sabes?
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	como el <énfasis_inicio/>casi<énfasis_fin/>
+hab5	<risa_inicio/>y que te pusiste a hacer mierdas <pausa_larga/> de los ciegos<risa_fin/> <risa/>
+hab1	¡hostia es verdad! <pausa/> tienen eh <pausa/> una <palabra_cortada>plac</palabra_cortada> bueno una placa <alargamiento>un</alargamiento>
+hab4	un coso
+hab1	un aparato ahí
+hab1	en plan que es para los <pausa/> eeh <pausa/> <palabra_cortada>invi</palabra_cortada> <pausa_larga/> <palabra_cortada>in</palabra_cortada> <palabra_cortada>in</palabra_cortada> <pausa/> invidentes
+hab5	invidentes
+hab1	entonces claro <pausa_larga/> eeh yo empecé ahí a fuchicar <pausa/> porque tú imagínate que yo soy invidente <pausa_larga/> voy allí al parque
+hab1	le doy <pausa_larga/> y no va
+hab5	y todo esto con un borracho al lado en <alargamiento>plan</alargamiento> de estos <risa_inicio/>mendigos <ininteligible/><risa_fin/> <risa/> <risa/>
+hab1	¡claro!
+hab2	"
+      <risa_inicio/>
+      <alargamiento>jo</alargamiento>
+      <risa_fin/>
+    "
+hab1	y yo <palabra_cortada>m</palabra_cortada> <pausa/> yo me indigné toda tío <pausa/> porque digo yo <pausa/> <cita_inicio/>¿para qué tienen esto aquí? <pausa/> si no funciona<cita_fin/>
+hab5	ya <pausa/> y queríamos ir a los columpios y ¡estaba cerrado tío! <ininteligible/> y yo en plan <cita_inicio/>¡bua! no voy a saltar porque fijo que me caigo <pausa_larga/> <risa/> <risa_inicio/> <ininteligible/> <pausa/> y si me caigo para a dentro <pausa/> <ininteligible/><cita_fin/><risa_fin/> <risa/> <risa/>
+hab1	¡estaba cerrado tío!
+hab2	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+    "
+hab3	"<transcripción_dudosa_inicio/><risa_inicio/><lengua_inicio nombre=""gl""/><ininteligible/><pausa/> mellor <alargamiento>así</alargamiento> <pausa/> <ininteligible/> <pausa/> calquera<lengua_fin/><risa_fin/><transcripción_dudosa_fin/>"
+hab2	<risa_inicio/>van a abrir y<risa_fin/>
+hab3	"
+      <cita_inicio/>
+      <alargamiento>hola</alargamiento>
+    "
+hab5	<risa/><risa/> ¿sabes? que a ver la valla <transcripción_dudosa_inicio/>medía<transcripción_dudosa_fin/> por aquí <alargamiento>pero</alargamiento> <risa/>
+hab3	solo quería
+hab2	<risa_inicio/><ininteligible/> Peppa Pig<risa_fin/>
+hab3	<risa_inicio/>yo solo quería <alargamiento>jugar</alargamiento><risa_fin/><cita_fin/>
+hab2	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab1	no <pausa/> pues fijo que hacíamos colegas ¡eh! ¿o qué?
+hab5	pero bueno <pausa/> <ininteligible/>
+hab2	"
+      <risa/>
+    "
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab5	sí <pausa/> niños de tres años ¿oíste?
+hab3	¿queréis caramelos? <ininteligible/>
+hab1	joder
+hab2	"
+      <risa/>
+      <risa/>
+      <pausa_larga/>
+      <ininteligible/>
+    "
+hab1	<palabra_cortada>l</palabra_cortada><pausa/> les hago ahí un <sic_inicio/>perful<sic_fin/> <palabra_cortada>e</palabra_cortada> <pausa/> un perfil evolutivo del Corpus Koiné
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	es que el Corpus Koiné <pausa/> es <pausa/> un corpus <pausa/> en donde <pausa/> se <pausa_larga/> almacenan <pausa/> datos <pausa/> de habla infantil
+hab2	"
+      <risa/>
+    "
+hab1	en <alargamiento>plan</alargamiento>
+hab1	va <pausa/> fueron a <pausa/> a varias guarderías <pausa/> a una de Lugo
+hab3	<asignación_dudosa_inicio/>cosas<asignación_dudosa_fin/>
+hab1	<alargamiento>a</alargamiento><pausa/> y a tres de Santiago <pausa/> entonces grabaron a los niños
+hab1	¿sabes? entonces <pausa/> iba <alargamiento>la</alargamiento> <palabra_cortada>g</palabra_cortada> <silencio/>
+hab5	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab1	"<ficticio>Eva</ficticio><palabra_cortada>Caba</palabra_cortada><pausa/><ficticio>Eva</ficticio> Caballero y otros más ¿sabes? en plan <lengua_inicio nombre=""en""/>investigators<lengua_fin/> <lengua_inicio nombre=""gl""/>destes<lengua_fin/> <pausa/> <ininteligible/> allí"
+hab4	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab4	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <risa/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab1	llegan hacen unas preguntas tal y cual
+hab1	y los niños hablan ¿no?
+hab1	y entonces claro <pausa/> había cosas que eran muy graciosas porque <risa_inicio/><ininteligible/><risa_fin/>
+hab4	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab3	<asignación_dudosa_inicio/>¿qué está pasando?<asignación_dudosa_fin/>
+hab2	<asignación_dudosa_inicio/>soy joven aún ¡eh!<asignación_dudosa_fin/>
+hab1	"
+      <alargamiento>porque</alargamiento>
+    "
+hab4	"
+      <silencio/>
+    "
+hab3	ay <silencio/>
+hab1	no <alargamiento>este</alargamiento>
+hab4	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <ruido tipo=""inspiración""/>
+      <asignación_dudosa_fin/>
+    "
+hab2	<asignación_dudosa_inicio/>va a caer<asignación_dudosa_fin/>
+hab3	"
+      <risa/>
+    "
+hab1	me están puteando no a ver
+hab1	<alargamiento>y</alargamiento> mmm
+hab4	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab1	y nada <pausa/> y como tenía que hacer un trabajo ¿sabes? en plan <ininteligible/> <palabra_cortada>evoluti</palabra_cortada> <pausa/> o sea de analizar un niño ¿sabes? yo escogí <pausa/> a <ficticio>Xoán</ficticio>
+hab3	<asignación_dudosa_inicio/>¿de qué vais? <ininteligible/><asignación_dudosa_fin/>
+hab4	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab3	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab1	entonces lo tuve que analizar
+hab3	<asignación_dudosa_inicio/>eres la única tú rara aquí<asignación_dudosa_fin/>
+hab1	<alargamiento>sus</alargamiento><pausa/> cosas tal
+hab1	entonces claro <pausa/> cuando hablamos de alguien en plan que es muy jovenzuelo le digo <cita_inicio/>¡joder! y yo con este ¿qué hago? ¿un perfil evolutivo?<cita_fin/> entonces <pausa/> es ahí la gracia
+hab4	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab5	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <pausa_larga/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab5	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab2	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab1	que tienen <pausa_larga/> la magia
+hab5	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <ininteligible/>
+      <ininteligible/>
+      <ininteligible/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab3	<asignación_dudosa_inicio/>merma<asignación_dudosa_fin/>
+hab1	la merma
+hab1	no podemos hablar de una merma que la <pausa_larga/> no <risa/> <risa_inicio/>no <pausa/> mierda<risa_fin/> <pausa_larga/> ahí no
+hab5	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab4	<asignación_dudosa_inicio/><risa/>al revés al revés<asignación_dudosa_fin/>
+hab1	<risa_inicio/>no podemos hablar<risa_fin/> de un retraso hay que hablar de una merma <silencio/>
+hab3	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab1	<asignación_dudosa_inicio/>es que hay cada mermado por <alargamiento>ahí</alargamiento><asignación_dudosa_fin/>
+hab5	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+      <silencio/>
+    "
+hab4	<asignación_dudosa_inicio/>aay<asignación_dudosa_fin/>
+hab1	y así andamos <silencio/>
+hab3	<asignación_dudosa_inicio/>nada a la noche <ininteligible/> ¿no?<asignación_dudosa_fin/>
+hab4	<asignación_dudosa_inicio/>sí<asignación_dudosa_fin/>
+hab1	sí vente
+hab2	<asignación_dudosa_inicio/>¡venga! venir<asignación_dudosa_fin/>
+hab5	venga venir
+hab3	<asignación_dudosa_inicio/>sí<asignación_dudosa_fin/>
+hab5	lo que pasa

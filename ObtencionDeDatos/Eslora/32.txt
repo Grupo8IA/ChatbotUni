@@ -1,0 +1,1346 @@
+hab1	tú <risa/> <pausa/> dices lo que quieras sin ningún problema <risa_inicio/>pero bueno <risa_fin/> no te imaginas la de cosas que dice la gente al final
+hab2	<risa_inicio/>sinceridad <risa_fin/> total
+hab1	<risa_inicio/>total <risa_fin/> sinceridad es una pasada vamos
+hab2	bueno eso está bien
+hab1	<risa_inicio/>sí es <alargamiento>un</alargamiento> <risa_fin/> <pausa/> un poco <alargamiento>como</alargamiento> terapia de grupo o algo así deben <risa/>
+hab2	ah bueno hm hm <pausa/>
+hab1	<alargamiento>de</alargamiento> muchos <alargamiento>lo</alargamiento> <alargamiento>lo</alargamiento> lo deben considerar así <pausa/> bueno <pausa/> mira <pausa_larga/>
+hab1	eh <pausa/> aceptas participar voluntariamente en esta grabación <pausa/>
+hab2	hm hm <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/> aceptas que los datos de esta grabación sean utilizados con finalidad investigadora por estudiantes e investigadores del departamento de Lengua Española de la universidad <pausa_larga/>"
+hab1	aceptas que la grabación pueda transcribirse y usarse para los propósitos académicos <pausa/> eh especificados <pausa/> en la página dos que es esta <pausa/> y que son <pausa/> las grabaciones podrán ser utilizadas en proyectos de investigación por miembros del departamento de Lengua Española de la universidad <pausa/> lo aceptas ¿no? <pausa/>
+hab2	sí <pausa/>
+hab1	eh podrán ser utilizadas en publicaciones científicas preservando tu anonimato <pausa_larga/>
+hab2	sí
+hab1	eeh los archivos sonoros y transcripciones podrán ser introducidas en <palabra_cortada>ar</palabra_cortada> <pausa/> en un archivo con el fin de ser utilizadas en el futuro por otros investigadores <silencio/>
+hab1	"<ruido tipo=""chasquido boca""/> las grabaciones podrán ser mostradas en encuentros científicos congresos etcétera preservando tu anonimato <pausa_larga/>"
+hab1	y las grabaciones podrán ser mostradas en clases a estudiantes también preservando tu anonimato <pausa_larga/>
+hab1	vale <pausa/> entonces tienes que <alargamiento>firmar</alargamiento> <pausa_larga/>
+hab1	aquí <pausa_larga/>
+hab1	en esta hoja <pausa_larga/>
+hab1	y <alargamiento>también</alargamiento> <pausa/> en <pausa/> esta <pausa_larga/>
+hab1	aquí abajo <pausa/>
+hab2	mmm vale <pausa/>
+hab1	este es <pausa/> como el formulario de consentimiento <pausa/> de <alargamiento>que</alargamiento> <silencio/>
+hab1	de que nos permites eh utilizar los datos extraídos de la grabación <silencio/>
+hab1	<pausa/> y esto es para ti de regalo <pausa/>
+hab2	vale
+hab1	<risa/> has nacido en Santiago ¿verdad?
+hab2	sí <silencio/>
+hab1	eeh ¿en qué fecha? ¿qué años tienes? <pausa/>
+hab2	veintiuno <pausa/> veinticuatro <alargamiento>del</alargamiento> tres del noventa y tres <pausa_larga/>
+hab1	vale <silencio/>
+hab1	y ¿has vivido fuera de Galicia? <pausa_larga/>
+hab2	no <pausa/>
+hab1	nunca <silencio/>
+hab1	vale <silencio/>
+hab1	bien <pausa/> <alargamiento>y</alargamiento> mmm <pausa_larga/>
+hab1	cuéntame un <alargamiento>poco</alargamiento> ¿has visto así cambios importantes en la ciudad desde que eras pequeño? <pausa_larga/>
+hab2	¿aquí en Santiago?
+hab1	hasta <pausa/> <alargamiento>sí</alargamiento> <silencio/>
+hab2	mmm no <silencio/>
+hab2	no <pausa/> lo veo todo bastante igual
+hab1	todo bastante igual <pausa_larga/>
+hab2	sí
+hab1	hm <pausa/>
+hab2	sí <pausa/> salvo <alargamiento>las</alargamiento> quizás las afueras <pausa_larga/>
+hab2	Fontiñas <alargamiento>y</alargamiento>
+hab1	¿sí? ¿tú vives en las afueras <alargamiento>o</alargamiento> vives más bien en el centro?
+hab2	yo vivir vivo en Milladoiro <pausa/> viví aquí
+hab1	ah vives en el Milladoiro <pausa/>
+hab2	"
+      <alargamiento>pero</alargamiento>
+      <pausa_larga/>
+    "
+hab2	la verdad es que lo veo todo bastante igual <pausa/>
+hab1	hm
+hab2	quizá Santa Marta <alargamiento>o</alargamiento> <pausa_larga/>
+hab2	Fontiñas quizá lo veo más cambiado pero <pausa/>
+hab1	sí las nuevas urbanizaciones ¿no? <pausa/> estaba antes <pausa/> esa parte menos <pausa/> urbanizada <pausa_larga/>
+hab2	sí
+hab1	hm <pausa/> <alargamiento>y</alargamiento> <pausa/> ¿cómo has decidido estudiar <palabra_cortada>a</palabra_cortada> <pausa/> así en <alargamiento>esta</alargamiento> <risa_inicio/>en estos momentos de tu vida? <risa_fin/> <pausa_larga/>
+hab1	estás haciendo el bachiller <pausa/>
+hab2	sí <silencio/>
+hab2	eeh a ver <pausa/> primero hice un ciclo medio <pausa_larga/>
+hab2	de cocina <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> bueno <pausa/> visto que <alargamiento>no</alargamiento> había trabajo <silencio/>
+hab2	pues decidí hacer esto <pausa/> porque quiero llegar a una carrera <pausa/>
+hab1	hm <pausa_larga/>
+hab2	ya que el ciclo no acabó de ser como esperaba <pausa_larga/>
+hab1	y ¿qué <pausa/> qué problemas viste en el ciclo? <silencio/>
+hab1	¿qué es lo que te <alargamiento>decepcionó</alargamiento> que esperabas?
+hab2	<alargamiento>daba</alargamiento> demasiado asignaturas que creo que no <alargamiento>eran</alargamiento> <pausa/> muy esenciales <pausa/>
+hab1	mmm <pausa/>
+hab2	creo que las asignaturas más importantes <silencio/>
+hab2	<alargamiento>tenían</alargamiento><pausa/> compartían horas con otras que no lo eran tanto <pausa_larga/>
+hab2	y que no me gustaban también entonces
+hab1	<risa_inicio/>ya <risa_fin/><pausa_larga/>
+hab1	y ¿qué estudiabas? ¿allí <alargamiento>en</alargamiento> <alargamiento>en</alargamiento> a <palabra_cortada>La</palabra_cortada> <vacilación/>
+hab2	sí
+hab2	<alargamiento>en</alargamiento> Lamas de Abade en <alargamiento>el</alargamiento> <sigla_inicio/>CIFP<sigla_fin/> Compostela <pausa_larga/>
+hab1	Lamas de Abade
+hab1	"
+      <alargamiento>ya</alargamiento>
+      <pausa_larga/>
+    "
+hab2	<alargamiento>y</alargamiento> nada <pausa/> eso <pausa_larga/>
+hab1	entonces ¿te gusta la cocina? <pausa/>
+hab2	sí <pausa/> <ininteligible/>
+hab1	y ¿cuál es tu plato favorito? <silencio/>
+hab2	espagueti boloñesa quizá <pausa_larga/>
+hab2	"
+      <risa/>
+    "
+hab1	<risa_inicio/>es bastante común ¿no? <alargamiento>en</alargamiento> <risa_fin/> <pausa_larga/>
+hab2	sí
+hab1	¿y cómo haces
+hab2	bueno el mío no el el mío
+hab1	<risa_inicio/>ah ¿lo haces <risa_fin/> de forma especial? <pausa/> distinto digamos <pausa/> ¿tienes <pausa/> tu toque profesional <risa/> y ¿cómo lo haces? <silencio/>
+hab2	"
+      <palabra_cortada>s</palabra_cortada>
+    "
+hab2	distinto no pero está está más bueno
+hab2	eso ya es secreto <risa/> <risa_inicio/>eso <risa_fin/> <risa/> <risa_inicio/>eso ya es secreto <risa_fin/>
+hab1	vale vale no quiero <risa_inicio/>arrebatarte <alargamiento>tu</alargamiento> <risa_fin/> <risa/> tu copyright
+hab2	<risa_inicio/>ahí está ahí está <risa_fin/> <pausa/>
+hab1	y ¿qué te iba a decir? <pausa/> eeh <pausa/> es raro ¿no? que no encuentres trabajo en la hostelería cuando es un sector bastante <alargamiento>demandado</alargamiento> <pausa_larga/>
+hab2	sí
+hab2	a ver lo que es demandado <pausa_larga/>
+hab2	en sí o sea <pausa_larga/>
+hab2	hay trabajo <pausa/> pero hay un trabajo <alargamiento>demasiado</alargamiento> <silencio/>
+hab2	se explota demasiado al trabajador <pausa_larga/>
+hab2	o sea estuve trabajando después del ciclo <silencio/>
+hab2	en sitios donde me prometieron pagarme y <alargamiento>en</alargamiento> <pausa/> casi medio año no <pausa_larga/>
+hab2	no ver <alargamiento>un</alargamiento> duro <pausa_larga/>
+hab1	o sea que te estuvieron explotando sin haberte pagado
+hab2	sí
+hab2	sí <pausa/> trabajando doce horas <pausa/> todos los días <pausa_larga/>
+hab2	costándome <pausa/> dinero ir a trabajar <pausa_larga/>
+hab2	y <pausa/> y no recibí ningún dinero <alargamiento>entonces</alargamiento> <silencio/>
+hab2	quedas un <alargamiento>poco</alargamiento> <pausa/> quemado <pausa/> y le coges cierto asco <alargamiento>a</alargamiento> a la profesión ¿no? <pausa/>
+hab1	hm hm <pausa_larga/>
+hab1	ya <pausa_larga/>
+hab1	y eso ¿qué se <alargamiento>da</alargamiento> mucho en la zona <alargamiento>vieja</alargamiento> en Santiago o o crees que un <palabra_cortada>cua</palabra_cortada> que es generalizado <pausa_larga/>
+hab2	<alargamiento>estuve</alargamiento> aquí en Santiago trabajando <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> y bueno me pasó <pausa/> me pasó también en Coruña <pausa/> en <alargamiento>Coruña</alargamiento> <pausa_larga/>
+hab2	de hecho tenía un contrato firmado <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> y me enseñaron las instalaciones y tal <pausa_larga/>
+hab2	y cuando pregunté por el sueldo me dijeron que no me iban a pagar <silencio/>
+hab1	"
+      <vacilación/>
+      <pausa/>
+    "
+hab2	y cuando pregunté <pausa/> o sea <alargamiento>cuando</alargamiento> <pausa_larga/>
+hab2	dije que yo gratis no trabajaba en ningún sitio <pausa_larga/>
+hab2	el dueño del <alargamiento>local</alargamiento> me puso una cara <alargamiento>de</alargamiento> <silencio/>
+hab2	<cita_inicio/>¿qué me estás pidiendo? <pausa/> ¿que te paguen por trabajar?<cita_fin/> <silencio/>
+hab1	pero
+hab2	fue un <alargamiento>poco</alargamiento> cómico <pausa/> <risa_inicio/>la situación <risa_fin/> <pausa_larga/>
+hab1	es alucinante más que cómica es increíble <pausa/> pero ¿era un contrato <pausa/> eh pero en prácticas <pausa/> o <alargamiento>era</alargamiento> ?
+hab2	sí
+hab2	sí sí
+hab2	<alargamiento>de</alargamiento> de <alargamiento>trabajo</alargamiento> <pausa/>
+hab1	un contrato de <palabra_cortada>tra</palabra_cortada>
+hab2	normal sí sí <silencio/>
+hab2	y después de haberme enseñado todo le pregunté por días libres <alargamiento>y</alargamiento> <pausa/> y <alargamiento>cuando</alargamiento> fue el salario ya me dijo que nada <pausa_larga/>
+hab2	entonces me fui <risa_inicio/>evidentemente <risa_fin/> <pausa_larga/>
+hab1	claro lógico <risa/>
+hab2	yo gratis <alargamiento>no</alargamiento> <pausa/>
+hab1	y y ¿has pensado a lo mejor <alargamiento>en</alargamiento> <pausa/> en montar tu propio negocio un <pausa/> un bar o un <alargamiento>restaurante</alargamiento> ? <pausa/>
+hab2	lo pensé <pausa_larga/>
+hab2	lo pensé <pausa/> pero no estoy preparado todavía <pausa/>
+hab1	mmm ya <pausa/>
+hab2	quizá necesito un poco más de <alargamiento>formación</alargamiento> <pausa/>
+hab1	hm <pausa_larga/>
+hab2	más de trabajo <pausa_larga/>
+hab2	"primero trabajar luego formarme otra vez en una escuela y luego ya <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> dar el salto <pausa_larga/>"
+hab2	porque es difícil triunfar sin base <pausa_larga/>
+hab1	claro
+hab2	y <alargamiento>base</alargamiento> tengo poca <pausa_larga/>
+hab1	hm <pausa_larga/>
+hab1	tampoco te permiten mucho porque <alargamiento>si</alargamiento> las oportunidades no <pausa_larga/>
+hab2	claro
+hab2	claro
+hab1	<risa_inicio/>que te salen <risa_fin/><alargamiento>no</alargamiento><pausa/>
+hab2	es decir eh tú para trabajar en un sitio te piden experiencia <pausa_larga/>
+hab2	pero la experiencia <pausa/> hoy se <alargamiento>consigue</alargamiento> <pausa_larga/>
+hab2	trabajando sin <pausa/> <alargamiento>sin</alargamiento> <pausa/> ganar dinero <pausa/>
+hab1	mmm ya <pausa_larga/>
+hab2	no compensa <pausa/>
+hab1	hm <pausa_larga/>
+hab1	y ¿cómo ves eh el sector turístico en <alargamiento>Santiago</alargamiento> ? <silencio/>
+hab2	es <pausa/> me gusta <pausa/> me <alargamiento>gusta</alargamiento> <pausa/> trabajar sobre todo con gente del extranjero <pausa/> si trabajo en restaurante que la clientela sea de fuera <silencio/>
+hab2	<alargamiento>porque</alargamiento><alargamiento>siempre</alargamiento> mmm <pausa/> tienen un punto de vista bastante distinto a la gente de aquí la gente de aquí <pausa_larga/>
+hab2	por lo que sé <pausa/> por lo que trabajé <pausa_larga/>
+hab2	es <pausa/> más conservadora en cuanto a sabores <pausa/> presentación <pausa_larga/>
+hab2	en el <alargamiento>extranjero</alargamiento> suelen ser lo contrario <pausa_larga/>
+hab1	hm
+hab2	normalmente <silencio/>
+hab2	<ininteligible/> sí
+hab1	les gusta <alargamiento>más</alargamiento> <alargamiento>experimentar</alargamiento> <pausa/>
+hab2	sí <pausa/> cocina de autor <pausa/> trabajé en un restaurante de cocina de autor <pausa_larga/>
+hab2	y luego trabajé <alargamiento>en</alargamiento> <pausa/> restaurantes más normales y sí que no gusta mucho <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	que intentes <pausa/> hacer algo distinto <alargamiento>a</alargamiento> <pausa_larga/>
+hab2	al guion establecido ¿no? <pausa_larga/>
+hab1	y ¿en qué consiste eso de la cocina de autor? <silencio/>
+hab2	"
+      <risa/>
+      <pausa_larga/>
+    "
+hab2	eeh <pausa/> por mi experiencia <pausa_larga/>
+hab2	el <pausa/> chef <silencio/>
+hab2	pone su nombre al restaurante <pausa_larga/>
+hab2	pone el nombre a los platos <pausa/> y los que trabajan son el resto <pausa_larga/>
+hab1	<risa_inicio/>hm <risa_fin/><pausa/>
+hab2	<risa_inicio/>esa es mi experiencia <risa_fin/><silencio/>
+hab2	más allá de <alargamiento>eso</alargamiento> <pausa/> yo considero que es algo distinto <pausa_larga/>
+hab2	es investigar es jugar con texturas sabores <pausa_larga/>
+hab2	presentación es <pausa/> innovar en un mundo <alargamiento>que</alargamiento> <silencio/>
+hab2	cualquiera puede decir que es cocinero pero cocinero realmente es el que <pausa/> crea algo nuevo el que sabe hacer algo más que lo <pausa/> típico <pausa_larga/>
+hab1	hm hm <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> ¿no hay mucho de artificiosidad quizá en los ingredientes y en la experimentación? no sé cómo ves eso <pausa/> a lo Arzak ¿no? me imagino que Arzak es el prototipo <alargamiento>de</alargamiento>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	<alargamiento>sí</alargamiento> Arzak es eh sí <pausa/> sería uno <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	de esos grandes <silencio/>
+hab2	la verdad es que yo creo que mucho <vacilación/> <silencio/>
+hab2	<alargamiento>está</alargamiento> situado o sea <pausa_larga/>
+hab2	gira todo alrededor <alargamiento>a</alargamiento> <pausa/> <alargamiento>al</alargamiento> ingrediente <pausa/> que utilices <pausa_larga/>
+hab2	si la materia prima es buena <pausa_larga/>
+hab2	"
+      <alargamiento>con</alargamiento>
+      <pausa_larga/>
+    "
+hab2	no te hace falta tampoco elaborar demasiado <pausa/> o sea la materia prima te marca <énfasis_inicio/>todo<énfasis_fin/> <silencio/>
+hab2	entonces al trabajar con materia prima de calidad eeh <pausa/> es mucho más fácil hacer platos de calidad <pausa_larga/>
+hab2	aunque <alargamiento>no</alargamiento> <pausa/> tengas un nivel tan alto <alargamiento>como</alargamiento> <pausa/> como un grande de esos ¿no? <pausa_larga/>
+hab1	ya <pausa_larga/>
+hab1	y y no hay <pausa/> esa materia prima es natural toda ¿sí? la que utilizáis <pausa_larga/>
+hab2	sí <pausa_larga/>
+hab2	eh lo que yo vi sí <pausa_larga/>
+hab1	ya <pausa_larga/>
+hab2	es todo <alargamiento>natural</alargamiento> <pausa_larga/>
+hab2	pescados por ejemplo pescados <pausa/> eeh <pausa_larga/>
+hab2	siempre de lonja <énfasis_inicio/>siempre<énfasis_fin/> fresco <pausa/>
+hab1	mhm <pausa_larga/>
+hab2	eh <alargamiento>carnes</alargamiento> también lo más fresco de <pausa/> <énfasis_inicio/>siempre<énfasis_fin/> fresco <pausa/> todo <pausa_larga/>
+hab2	y <alargamiento>luego</alargamiento> alguna cosa <alargamiento>de</alargamiento> bote <silencio/>
+hab2	pero por <pausa/> por pura comodidad <pausa/> son cosas complicadas de hacer <pausa/> todos los días <pausa/> entonces <pausa_larga/>
+hab1	hm hm <pausa_larga/>
+hab1	"es que a veces <pausa/> eeh <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> oigo que introducen no sé qué <alargamiento>nitrógeno</alargamiento> <alargamiento>líquido</alargamiento> <risa_inicio/>no sé qué es eso <ininteligible/> me suena así como <alargamiento>todo</alargamiento> <pausa/> como si fuese <alargamiento>un</alargamiento> <risa_fin/> <pausa/> un laboratorio químico ¿no?"
+hab2	yo con nitrógeno no trabajé <risa/> no trabajo
+hab2	sí
+hab2	sí es <alargamiento>que</alargamiento> ahora <pausa/> los <pausa/> grandes cocineros <pausa/> parecen químicos en vez de cocineros <ininteligible/>
+hab1	ya <pausa/> sí sí <silencio/>
+hab2	eh <pausa/> tampoco acabo de ver muy bien eso <alargamiento>del</alargamiento> nitrógeno y todas esas cosas
+hab1	hm <silencio/>
+hab2	si haces algo bueno <pausa/> lo haces con lo que <pausa/> puedes tener tú en tu casa con lo que puedo tener yo o cualquiera <pausa/>
+hab1	hm <pausa_larga/>
+hab2	el mérito es hacer <pausa_larga/>
+hab2	un plato <pausa/> realmente bueno <pausa_larga/>
+hab2	con lo que puede tener <silencio/>
+hab2	cualquiera en su despensa nada de nitrógenos <alargamiento>ni</alargamiento> <pausa_larga/>
+hab2	ni cosas extrañas ¿no? <pausa/>
+hab1	ya <pausa/>
+hab2	ahí <énfasis_inicio/>está<énfasis_fin/> el <alargamiento>verdadero</alargamiento> <silencio/>
+hab2	el gran cocinero para mí <pausa_larga/>
+hab1	mmm ya <pausa_larga/>
+hab1	sí el que con poco <alargamiento>hace</alargamiento> <pausa/>
+hab2	claro <pausa/>
+hab1	construye un plato ¿no? <pausa_larga/>
+hab1	y ¿qué restaurante te parece de los mmm que hay por aquí cerca en Santiago en Galicia <pausa/> así para ti un restaurante de referencia o? <pausa_larga/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+      <silencio/>
+    "
+hab2	eeh de referencia <alargamiento>quizá</alargamiento> <pausa/> el Playa Club en Coruña comí allí <pausa/> me gustó mucho <pausa_larga/>
+hab2	comí en el restaurante <alargamiento>de</alargamiento> Yayo <pausa_larga/>
+hab2	en Vigo <silencio/>
+hab2	el que sale en Topchef <pausa/>
+hab1	hm <pausa_larga/>
+hab2	y la verdad es <alargamiento>que</alargamiento> genial es <pausa_larga/>
+hab2	es un tipo de cocina que me gusta muchísimo de autor <alargamiento>y</alargamiento> <silencio/>
+hab2	y son la referencia pasa que llegar a un nivel <pausa/> <énfasis_inicio/>tan<énfasis_fin/> alto es <pausa/> realmente complicado <pausa_larga/>
+hab1	ya
+hab2	luego aquí en Santiago Casa Marcelo <pausa/>
+hab1	hm <silencio/>
+hab2	"
+      <alargamiento>o</alargamiento>
+      <pausa_larga/>
+    "
+hab2	o <ficticio>Carlos Costa</ficticio> también <pausa_larga/>
+hab1	<ficticio>Carlos Costa</ficticio> eh ¿está en Santiago?
+hab2	sí
+hab1	¿cuál es? <pausa_larga/>
+hab2	es <alargamiento>en</alargamiento> <ficticio>San Pedro</ficticio> <pausa/> trabajé allí <risa/> <pausa_larga/>
+hab1	ah no <pausa/> no me doy cuenta <pausa/> trabajaste allí en <ficticio>Carlos</ficticio> Costa <pausa/>
+hab2	si
+hab2	"fue jefe de cocina del <ficticio>el</ficticio> <ficticio>Hotel</ficticio> <alargamiento>
+  <ficticio>Monumento</ficticio>
+</alargamiento> pff <pausa/> montón de años <silencio/>"
+hab1	<alargamiento>del</alargamiento><pausa/><ficticio>el Hotel Monumento</ficticio><pausa/> del <ficticio>San Francisco</ficticio> del que ah <pausa_larga/>
+hab2	sí
+hab1	ah <silencio/>
+hab1	y te gusta <alargamiento>ese</alargamiento> mmm
+hab2	sí
+hab2	es <pausa/> realmente un nivelazo <pausa/>
+hab1	ya <pausa_larga/>
+hab2	pero bueno lo dicho ¿no?
+hab1	yo al <ficticio>San Francisco</ficticio> sí <alargamiento>que</alargamiento> <pausa/> ya <pausa_larga/>
+hab1	ya
+hab2	el nombre <alargamiento>y</alargamiento> <risa/> y poco más
+hab1	ya <risa_inicio/>y trabaja el resto <risa_fin/> <risa_inicio/>¿no? <risa_fin/>
+hab2	sí
+hab2	sí
+hab1	"bueno también es una forma de aprender <alargamiento>o</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> quiero decir <pausa/> ¿ellos os dan <alargamiento>pautas</alargamiento> de cómo debéis elaborar los <alargamiento>platos</alargamiento> o? <pausa/> tú <pausa_larga/>"
+hab1	cuando estás trabajando ahí en esos sitios <pausa/> ¿notas que <alargamiento>tú</alargamiento> <pausa/> te <alargamiento>formas</alargamiento> o?
+hab2	sí aprendes mucho <pausa/> aprendes mucho y sobre <alargamiento>todo</alargamiento> <pausa_larga/>
+hab2	ves que lo que hiciste en la escuela <silencio/>
+hab2	es muy poco útil <silencio/>
+hab2	no <pausa/> tiene nada que ver <pausa/> la escuela con el trabajo <silencio/>
+hab2	y <alargamiento>en</alargamiento> <alargamiento>sitios</alargamiento> así aprendes <énfasis_inicio/>muchísimo<énfasis_fin/> <silencio/>
+hab2	te formas a nivel <alargamiento>de</alargamiento> <silencio/>
+hab2	las nuevas tendencias de cocina la nueva forma de cocinar y luego ya en sitios más normales <pausa_larga/>
+hab2	la agilidad <alargamiento>la</alargamiento> la rapidez a la hora <alargamiento>de</alargamiento> trabajar es <pausa_larga/>
+hab2	sí que se aprende mucho más ¿no? <silencio/>
+hab1	<alargamiento>ya</alargamiento><pausa/> y y ¿qué diferencias percibes entonces? dices que es <pausa/> muy distinta la escuela a lo que aprendes <alargamiento>al</alargamiento> después lo que necesitas aplicar en el trabajo <pausa_larga/>
+hab1	¿qué diferencias hay entre mmm? <silencio/>
+hab2	eeh <silencio/>
+hab2	la escuela quizá es <silencio/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa_larga/>
+    "
+hab2	te enseñan a hacer las cosas de forma muy cuadriculada <pausa_larga/>
+hab2	es decir <pausa/> eeh tú no puedes hacer una tortilla de patatas sin pelar las patatas <pausa_larga/>
+hab2	eeh limpiar <pausa_larga/>
+hab2	cortar <pausa/> y luego ponerte a batir los huevos <pausa/> etcétera etcétera <pausa_larga/>
+hab2	si estás trabajando no puedes hacer eso <pausa/> pierdes <énfasis_inicio/>muchísimo<énfasis_fin/> tiempo <silencio/>
+hab2	es decir <alargamiento>si</alargamiento> <pausa_larga/>
+hab2	está sucio <pausa_larga/>
+hab2	evidentemente tienes que recogerlo <alargamiento>la</alargamiento> <alargamiento>la</alargamiento> <pausa_larga/>
+hab2	la limpieza es lo primero <silencio/>
+hab2	pero si estás en un servicio con mucha gente en el comedor tú lo que no puedes hacer es perder el tiempo ordenando las cositas <alargamiento>y</alargamiento> ponerte a limpiar ¿no? <pausa/> lo primero es el cliente <pausa_larga/>
+hab2	y una vez <alargamiento>terminado</alargamiento> <pausa_larga/>
+hab2	el plato o el trabajo ya viene el resto <pausa_larga/>
+hab2	y eso <alargamiento>en</alargamiento> <pausa_larga/>
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa_larga/>
+    "
+hab2	en el colegio no te lo enseñan en la escuela ¿no? <silencio/>
+hab2	eso se <alargamiento>aprende</alargamiento> fuera <pausa/> trabajando siempre <pausa_larga/>
+hab1	ya <pausa/> que es como un <alargamiento>aprendizaje</alargamiento> muy teórico y poco aplicado ¿no?
+hab2	claro sí <pausa/> sí <alargamiento>muy</alargamiento> <pausa_larga/>
+hab2	es eso <alargamiento>muy</alargamiento> <silencio/>
+hab2	muy esquematizado todo siempre tiene que ser así <pausa_larga/>
+hab2	es como que no <pausa/> tienes libertad <alargamiento>para</alargamiento> <pausa_larga/>
+hab2	para nada ¿no? <pausa_larga/>
+hab2	un plato equis plato <pausa_larga/>
+hab2	si no está hecho <pausa_larga/>
+hab2	"<ruido tipo=""golpe""/> primero <ruido tipo=""golpe""/> segundo <ruido tipo=""golpe""/> tercero <alargamiento>y</alargamiento> <silencio/>"
+hab2	lo cambias de orden o haces algo distinto <pausa/> parece que el plato ya está mal <pausa_larga/>
+hab2	aunque esté más bueno <silencio/>
+hab2	son cosas <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	realmente chocan <pausa/> pero bueno <pausa_larga/>
+hab2	es así la <risa_inicio/>escuela <risa_fin/> <pausa/>
+hab1	y no valoran la creatividad ¿no? <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	no
+hab1	hm <pausa/>
+hab2	no <pausa_larga/>
+hab2	ellos te enseñan <pausa/> y tú te tienes que ceñir a lo que te enseñan <silencio/>
+hab2	<alargamiento>si</alargamiento> haces algo distinto <pausa_larga/>
+hab2	a ver <pausa/> juegan también con el que <pausa/> tú no sabes <pausa/> es decir tú empiezas y realmente conoces poco <silencio/>
+hab2	te dicen que si la textura de esto no es la misma que <alargamiento>si</alargamiento> esto que si aquello <silencio/>
+hab2	el plato es el mismo <pausa/> pero bueno <silencio/>
+hab2	si no está tal cual ellos no te valoran <silencio/>
+hab1	ya <pausa/> o sea que tú tienes que hacer lo que ellos te marcan y <alargamiento>aunque</alargamiento> lo que puedas hacer sea incluso un poco mejor <alargamiento>o</alargamiento> más arriesgado <alargamiento>no</alargamiento> <pausa/>
+hab2	claro
+hab2	sí
+hab2	claro <pausa/>
+hab1	ya
+hab2	o o más cómodo para ti <pausa/> <risa_inicio/>realmente <risa_fin/> <pausa_larga/>
+hab2	"o sea ¿qué más te da echar este ingrediente antes que otro? pues a mí por comodidad a lo mejor <pausa/> me viene <ruido tipo=""golpe""/> mejor uno que otro ¿no? <pausa_larga/>"
+hab2	ellos <énfasis_inicio/>no<énfasis_fin/> lo ven así <silencio/>
+hab1	hm hm <pausa_larga/>
+hab1	y son cocineros profesionales los <alargamiento>que</alargamiento> <pausa/> pero ¿se dedican solo a dar clases en la escuela o tienen sus <alargamiento>negocios</alargamiento> sus <alargamiento>restaurantes</alargamiento> ?
+hab2	sí <pausa/> sí <pausa/> todos
+hab2	la verdad es que no sé <pausa/> sé <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	alguno <pausa/> tenía restaurante uno tiene una casa rural <pausa/>
+hab1	mmm <silencio/>
+hab2	eeh <pausa_larga/>
+hab2	pero el resto la verdad es que no lo sé nunca se me dio <alargamiento>por</alargamiento> <pausa_larga/>
+hab2	por interesarme <pausa_larga/>
+hab1	no mmm <pausa_larga/>
+hab1	y ¿qué te iba a decir? <pausa/> ahora en Navidad <pausa/> eh ¿quién hace la cena en tu casa? ¿tú? <pausa_larga/>
+hab2	yo <pausa_larga/>
+hab2	siempre <pausa/> siempre <pausa/>
+hab1	ah ¿sí? <pausa/> ¿qué haces? a ver cuenta <pausa/>
+hab2	lo típico <pausa_larga/>
+hab2	<alargamiento>no</alargamiento><pausa/> es que en casa tampoco gusta <alargamiento>que</alargamiento> que me ponga a hacer cosas raras ¿no? <pausa_larga/>
+hab2	nada <pausa/> un poco de marisco <pausa/> cocido <pausa/> luego langostino a la plancha hago vieiras <pausa_larga/>
+hab1	hm hm <pausa_larga/>
+hab2	eeh luego hago carne al horno <pausa_larga/>
+hab2	chuletón <pausa_larga/>
+hab2	eh a <alargamiento>la</alargamiento> plancha <silencio/>
+hab2	mmm hago algo de pescado <pausa_larga/>
+hab2	suele ser merluza en salsa verde <pausa/>
+hab1	hm hm
+hab2	<alargamiento>o</alargamiento><pausa/> o a la gallega <silencio/>
+hab2	<alargamiento>y</alargamiento><alargamiento>de</alargamiento> postre un suflé <pausa/> o algo así <pausa/> un poco más elaborado <pausa/> coulant <pausa_larga/>
+hab1	"ya <pausa/> <ruido tipo=""chasquido boca""/> y ¿cómo haces la salsa de vieira? ¿puedes dar alguna receta? <pausa/> <risa_inicio/><alargamiento>o</alargamiento> todas son <risa_fin/> <pausa/> <risa_inicio/>todas tienen copyright <pausa/><risa_fin/>"
+hab2	<risa_inicio/>no <pausa/> la verdad es <alargamiento>que</alargamiento> <risa_fin/> eh <pausa_larga/>
+hab2	no sigo receta <pausa/> no sigo el patrón es <silencio/>
+hab2	un año la hago muy distinta a otra ¿no? suele llevar lo mismo eeh <pausa_larga/>
+hab2	jamón <pausa/> o beicon <pausa/> o los dos <pausa/> eeh <pausa/> pollo <silencio/>
+hab2	luego cebolla <pausa_larga/>
+hab2	eeh <pausa_larga/>
+hab2	va todo rehogado <pausa/> eeh <silencio/>
+hab2	corto <alargamiento>la</alargamiento> la vieira <pausa_larga/>
+hab2	"la meto también allí <pausa/> luego junto todo y luego <ruido tipo=""golpe""/> <pausa/> lo meto en la concha"
+hab1	ah ¿no la dejas entera <alargamiento>la</alargamiento> <pausa/> vieira? <pausa/> ah <pausa/>
+hab2	no
+hab2	<alargamiento>y</alargamiento> le <alargamiento>hecho</alargamiento> pan rallado por encima la meto al horno <pausa/> <alargamiento>y</alargamiento> gratina <pausa_larga/>
+hab1	hm
+hab2	pero bueno <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> varía ¿no? <risa/>"
+hab1	"
+      <alargamiento>ya</alargamiento>
+      <pausa_larga/>
+    "
+hab2	un <alargamiento>poco</alargamiento> según me apetezca o según me parezca más cómodo en ese momento
+hab1	hm <pausa/>
+hab2	porque al cocinar <alargamiento>en</alargamiento> <pausa/> en un sitio pequeño pues <pausa/> buscas <alargamiento>la</alargamiento> la comodidad <pausa/>
+hab1	ya sí <pausa_larga/>
+hab1	¿qué te iba a decir? ¿y lo haces todo tú? <pausa/>
+hab2	todo <pausa_larga/>
+hab1	¡caray! ¿cuántos sois? <pausa_larga/>
+hab2	"
+      <alargamiento>somos</alargamiento>
+      <pausa_larga/>
+    "
+hab2	en casa somos cinco <pausa/> bueno <pausa/> una no come que es pequeñita <pausa_larga/>
+hab2	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab2	cinco <pausa_larga/>
+hab2	diez <pausa/> más o menos <pausa/> diez once <pausa/>
+hab1	<alargamiento>entre</alargamiento> tus padres hermanos abuelos y demás
+hab2	sí
+hab2	sí <pausa_larga/>
+hab1	mmm <silencio/>
+hab1	¿y qué piensas hacer una vez que termines el instituto? ¿en qué curso estás? <alargamiento>en</alargamiento> en <pausa_larga/>
+hab2	primero
+hab1	¿en primero <alargamiento>de</alargamiento> bac? <pausa/>
+hab2	sí <pausa_larga/>
+hab1	y <alargamiento>¿qué</alargamiento> tienes previsto? ¿qué te gustaría hacer? <silencio/>
+hab2	<alargamiento>pues</alargamiento><pausa/> si <alargamiento>acabo</alargamiento> <pausa/> pronto <pausa/> o sea <risa_inicio/>si me lleva dos años <risa_fin/> <pausa/> <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	quiero ir a la universidad <silencio/>
+hab2	no tengo claro qué hacer <silencio/>
+hab2	pero quiero ir a la universidad <silencio/>
+hab1	hm <pausa/>
+hab2	me gustan varias carreras pero claro como depende de selectividad tampoco me quiero <alargamiento>poner</alargamiento> <silencio/>
+hab2	una carrera exacta <pausa/> que tenga <alargamiento>una</alargamiento> nota media muy alta a lo mejor no llego y me desilusiono <silencio/>
+hab2	una vez que llegue allí luego ya veré lo que me interesa o lo que no <silencio/>
+hab1	hm <pausa/>
+hab2	pero bueno no tengo prisa <risa/>
+hab1	mmm ya <pausa/> pero ¿qué? <pausa/> ¿cuáles te gustarían así hay algún perfil <pausa/> que te guste más? <pausa_larga/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+      <pausa_larga/>
+    "
+hab2	Periodismo me gusta mucho <pausa/> <alargamiento>y</alargamiento> <alargamiento>luego</alargamiento> <silencio/>
+hab2	quizá dedicarme <alargamiento>a</alargamiento> a la enseñanza <pausa/> Magisterio o <silencio/>
+hab2	<alargamiento>o</alargamiento> algo así <pausa/> estudiar por ejemplo Historia y luego hacer oposiciones para algún colegio <silencio/>
+hab2	porque lo de la cocina eso ya <palabra_cortada>m</palabra_cortada> <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/><alargamiento>no</alargamiento> no me veo ahora mismo allí ya <risa/> <pausa/>"
+hab1	ya eso <alargamiento>ya</alargamiento> lo has descartado ¿no? <ininteligible/>
+hab2	"<ruido tipo=""chasquido boca""/> aparte <alargamiento>tengo</alargamiento> <alargamiento>problemas</alargamiento> <pausa_larga/>"
+hab2	serios <pausa/> graves de vista <pausa/>
+hab1	hm <pausa_larga/>
+hab2	entonces claro <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/><alargamiento>cocinar</alargamiento> y todo eso me <alargamiento>cuesta</alargamiento> <alargamiento>más</alargamiento> <pausa/> mucho más que antes <pausa_larga/>"
+hab2	se me hace mucho más difícil entonces dedicarme a eso profesionalmente <silencio/>
+hab2	es <pausa/> es difícil y es duro <pausa/>
+hab1	porque tienes que fijar mucho la vista o ¿qué? <pausa/>
+hab2	<alargamiento>sí</alargamiento><alargamiento>para</alargamiento><pausa/> cortar alimentos para limpiar <alargamiento>es</alargamiento> <pausa_larga/>
+hab2	<alargamiento>necesito</alargamiento><pausa/> fijarme mucho <pausa_larga/>
+hab2	y eso la verdad es <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	<alargamiento>me</alargamiento> joroba bastante la vista <pausa/>
+hab1	hm <pausa_larga/>
+hab2	hm <pausa/>
+hab1	y ¿cómo ves un poco el futuro así profesional de tu generación? <alargamiento>porque</alargamiento> <pausa/> tal y como están las cosas <pausa/> ya <pausa_larga/>
+hab2	en el extranjero
+hab2	en el extranjero <pausa/> o abres un negocio <pausa/> te arriesgas <pausa_larga/>
+hab2	abriendo un negocio o te vas <pausa_larga/>
+hab2	eh yo aquí en España <alargamiento>no</alargamiento> <pausa/> no veo futuro <pausa_larga/>
+hab2	pero en <alargamiento>ningún</alargamiento> <pausa/> en ningún trabajo <silencio/>
+hab2	"quizá la clase política es el futuro <pausa/> <risa/> <ruido tipo=""puerta""/> <silencio/>"
+hab3	"perdón <lengua_inicio nombre=""gl""/>ola <pausa/> son <ficticio>Antonio</ficticio> o xefe de estudios"
+hab1	hola
+hab1	sí <pausa/> ah hola <alargamiento>sí</alargamiento>
+hab3	estades de entrevista <pausa/> ola son
+hab1	gracias
+hab3	<risa_inicio/>nada home <risa_fin/><lengua_fin/> ¿qué tal?
+hab1	"pues aquí <alargamiento>estamos</alargamiento> <ruido tipo=""golpe""/> en pleno <ininteligible/>"
+hab3	de tú a tú
+hab2	de <risa_inicio/>tú a tú <risa_fin/> <risa/>
+hab3	"<lengua_inicio nombre=""gl""/>moi ben<lengua_fin/>"
+hab1	sí sí
+hab3	"vale <pausa/> <lengua_inicio nombre=""gl""/>pois así me gusta <pausa/> nada <pausa/> non vos interrumpo<lengua_fin/> <lengua_inicio nombre=""gl""/><ininteligible/> lévavos muito tempo ou que? <pausa/> <palabra_cortada>na</palabra_cortada><lengua_fin/>"
+hab1	hm
+hab1	"<lengua_inicio nombre=""gl""/>nada <pausa/> tranquilo <pausa/> muitas gracias eh <pausa/> sobre unha hora<lengua_fin/> <lengua_inicio nombre=""gl""/>necesitades usar a biblioteca? <pausa/> ah <pausa/> pois si necesitades<lengua_fin/>"
+hab3	vale <pausa/> no no no no <pausa/> no no <pausa/> <ininteligible/> vale <pausa/> con mis sí sí no <pausa/> <ininteligible/> nada <ininteligible/> <pausa_larga/>
+hab2	sí oye
+hab3	"
+      <ininteligible/>
+    "
+hab1	ah vale <risa/> gracias ¿eh? <ficticio>Antonio</ficticio> chao <pausa_larga/>
+hab1	"<ruido tipo=""carraspeo""/><ruido tipo=""puerta""/><alargamiento>¿qué</alargamiento><pausa/> mmm <pausa/> qué te estaba yo preguntando? <pausa/> ah <pausa/> lo del futuro sí <pausa/> sí <alargamiento>en</alargamiento> política ¿no? <pausa/> pues si te dedicas a la política no te hace falta estudiar ya sabes"
+hab2	lo del futuro
+hab2	aquí no <risa/> o sea <pausa/> o la clase política <risa/>
+hab2	claro <risa_inicio/>claro <risa_fin/> <pausa/> <risa_inicio/>por eso <risa_fin/> <risa/> con saber de números <pausa/>
+hab1	"
+      <ininteligible/>
+    "
+hab1	sí <pausa/>
+hab2	o con que alguien sepa de números ya está ¿no? <risa_inicio/>es <risa_fin/> <pausa_larga/>
+hab2	es triste <alargamiento>pero</alargamiento> lo <alargamiento>veo</alargamiento> muy así <pausa_larga/>
+hab1	¿y no crees que puede cambiar así un poco el panorama <alargamiento>político</alargamiento> <pausa/> para mejor? ¿hay alguna esperanza? ¿tú crees que hay esperanza? <pausa_larga/>
+hab2	esperanza sí <pausa/> lo que hay es miedo también <pausa_larga/>
+hab1	¿por qué crees eso? <pausa/> que hay miedo <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> cuando se habla del <pausa/> <alargamiento>partido</alargamiento> <risa/> <pausa/> el que está de moda <pausa/> Podemos <pausa_larga/>"
+hab2	veo <alargamiento>que</alargamiento> <pausa/> la gente de mi generación <silencio/>
+hab2	normalmente todos tenemos esperanzas <alargamiento>en</alargamiento> <pausa_larga/>
+hab2	en ese partido pero la verdad es <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	tiene un mensaje muy claro y es <pausa_larga/>
+hab2	es la honestidad <pausa/> es <alargamiento>algo</alargamiento> <pausa_larga/>
+hab2	primordial sobre todo <alargamiento>en</alargamiento> <pausa/> en política <silencio/>
+hab2	pero creo que la <alargamiento>gente</alargamiento> mmm <pausa/> mmm mayor <pausa/> tiene <pausa/> cierto <pausa/> miedo <silencio/>
+hab2	tiene cierto miedo a que la cosa <pausa/> sea un cambio <énfasis_inicio/>tan<énfasis_fin/> radical que no <silencio/>
+hab2	que la cosa vaya aún a peor <pausa/> lo veo muy difícil <pausa/>
+hab1	hm
+hab2	que vaya a peor <pausa/>
+hab1	hm <silencio/>
+hab2	pero bueno <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> eso percibes en <pausa/> en la gente mayor que te rodea a ti ¿no?
+hab2	<alargamiento>sí</alargamiento> sí <pausa/> o sea <pausa/> cada vez que hablo <alargamiento>de</alargamiento> <risa_inicio/><alargamiento>política</alargamiento> <risa_fin/> <silencio/>
+hab2	lo típico ¿no? <cita_inicio/><alargamiento>tú</alargamiento> tú no sabes nada de la <alargamiento>vida</alargamiento> <pausa/> tú eres un <alargamiento>niño</alargamiento> <pausa/> <alargamiento>tú</alargamiento><cita_fin/> <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> negativismo <pausa_larga/>"
+hab2	<alargamiento>y</alargamiento> eso lo veo mmm <pausa_larga/>
+hab2	creo que es lo que se ve en la sociedad ¿no? <pausa_larga/>
+hab2	no vería normal que <pausa/> después de esto <pausa_larga/>
+hab2	ganase las elecciones <pausa/> el <sigla_inicio/>PP<sigla_fin/> <pausa_larga/>
+hab2	sería un escándalo <pausa/>
+hab1	hm <pausa_larga/>
+hab2	pero ni siquiera el Partido Socialista o sea es que me parecería
+hab1	hm <pausa_larga/>
+hab2	realmente un país <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	de <énfasis_inicio/>estúpidos<énfasis_fin/> <pausa/>
+hab1	sí soy soy mayor pero pienso como tú o sea que no todos los <risa_inicio/> mayores pensamos <risa_inicio/>lo mismo <risa_fin/><risa_fin/>
+hab2	<risa_inicio/>sinceramente<risa_fin/>
+hab2	"<risa_inicio/><ruido tipo=""chasquido boca""/><pausa/> sí pero bueno<risa_fin/>"
+hab2	<risa_inicio/>por suerte <risa_fin/> <pausa/> eeh <pausa/> hay gente que no <alargamiento>piensa</alargamiento> como digo yo <pausa/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+      <pausa_larga/>
+    "
+hab2	quiero decir <pausa/> gente más mayor que yo <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> la mayoría creo que sí <pausa_larga/>
+hab2	o por lo menos con <alargamiento>la</alargamiento> <risa/> con la gente que hablo
+hab1	ya
+hab1	que te rodea a ti ¿no? <pausa_larga/>
+hab2	sí
+hab1	y <pausa/> hablando <alargamiento>de</alargamiento> tú mmm lo que te dicen <cita_inicio/>tú eres pequeño no sabes nada <risa_inicio/>de la vida<cita_fin/> <pausa/> ¿qué te parece el pequeño Nicolás? <risa_fin/> <risa/> <pausa/>
+hab2	sí
+hab2	mmm sé poco <pausa/> nada de él <pausa/> <alargamiento>sé</alargamiento> <vacilación/> <pausa_larga/>
+hab2	es que la verdad es <alargamiento>que</alargamiento> conozco muy <risa_inicio/>poco <risa_fin/> <pausa_larga/>
+hab1	pero así ¿no has oído lo <palabra_cortada>q</palabra_cortada> ? mmm <alargamiento>¿no</alargamiento> ? <pausa/> lo que ha hecho <risa_inicio/>por los <risa_fin/> medios <alargamiento>o</alargamiento> ? <pausa_larga/>
+hab2	poca cosa <pausa/> <alargamiento>no</alargamiento>
+hab2	no <pausa/> creo que timó a unos cuantos empresarios o algo así <silencio/>
+hab2	¡oye! <pausa_larga/>
+hab2	hay que ganarse la vida <risa/> hay que ganarse la vida <pausa/> yo si timas a un timador a mí no me parece que esté mal <pausa_larga/>
+hab1	hm
+hab2	el que robe a un ladrón tiene cien años de perdón o algo así es
+hab1	sí eso dice sí <pausa_larga/>
+hab2	bueno <pausa/> <alargamiento>si</alargamiento> timas a un timador <pausa/> para mí es lo mismo <risa_inicio/>¡eh! <risa_fin/>
+hab1	sí <silencio/>
+hab2	¿por qué no? <pausa/>
+hab1	hm <pausa_larga/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+      <silencio/>
+    "
+hab2	pero bueno
+hab1	y viendo cómo nos están timando ellos a <risa_inicio/> nosotros<risa_fin/>
+hab2	<risa_inicio/>sí sí claro ves <pausa/> que tendríamos <alargamiento>que</alargamiento> que hacerlo todos ¿no? <risa/> <risa_fin/>
+hab1	sí <pausa_larga/>
+hab1	¿y qué te parece este centro? <pausa/> ¿qué tal está? <silencio/>
+hab2	me gusta <pausa/>
+hab1	hm <pausa/>
+hab2	me gusta <alargamiento>estoy</alargamiento> <pausa/> estoy cómodo el nivel es <pausa/> es bastante bueno <silencio/>
+hab2	y la verdad es <alargamiento>que</alargamiento> <silencio/>
+hab2	bueno <pausa/> los profesores <alargamiento>me</alargamiento> <pausa/> la mayoría me gustan bastante <silencio/>
+hab2	estoy contento <pausa/>
+hab1	hm
+hab2	en general <pausa/> sí <pausa/>
+hab1	eh en nocturno ¿qué hay? gente así más mayor ¿no? <alargamiento>que</alargamiento> <alargamiento>ya</alargamiento> sobre veinte años o
+hab2	<alargamiento>sí</alargamiento><pausa/> de mi edad <alargamiento>de</alargamiento> <palabra_cortada>diecio</palabra_cortada> <pausa/> de dieciocho a <palabra_cortada>veinti</palabra_cortada> <pausa/>
+hab1	hm <pausa/>
+hab2	cuatro veinticinco <pausa/>
+hab1	hm <pausa/>
+hab2	más o menos <silencio/>
+hab1	y se nota quizá un poco en la clase ¿no? <alargamiento>que</alargamiento> no sé la madurez digo <alargamiento>no</alargamiento>
+hab2	mmm eeh yo no lo noto <risa/> <risa_inicio/>yo no lo noto <risa_fin/> <risa/> <risa_inicio/>eeh <risa_fin/> <pausa/> de hecho <pausa/> eeh <pausa/> cuando llegué <pausa_larga/>
+hab2	la <alargamiento>clase</alargamiento> <pausa/> lo típico ¿no? me <alargamiento>caía</alargamiento> <pausa/> todo el mundo bien <silencio/>
+hab2	con <alargamiento>lo</alargamiento> <pausa/> con la época esta de exámenes te das cuenta de que hay mucho niñato <silencio/>
+hab2	<alargamiento>y</alargamiento> mucho estúpido <pausa_larga/>
+hab2	realmente <alargamiento>que</alargamiento> que habla de compañerismo <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	y se <alargamiento>salta</alargamiento> <pausa/> el compañerismo en la primera que puede <pausa/> eso me parece de niñatos <pausa_larga/>
+hab1	pero <pausa/> ¿por qué son malos compañeros? <alargamiento>¿por</alargamiento> ? <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> eeh insultos a un compañero mío con el que me llevo muy bien <silencio/>"
+hab2	eh <pausa/> faltas de respeto continuas <pausa/> y a la mínima <silencio/>
+hab2	y claro <alargamiento>cuando</alargamiento> <pausa/> entro por ejemplo es <pausa/> yo que soy muy de defender <risa/>
+hab1	hm
+hab2	eeh <pausa/> cuando entro a defender es <pausa/> que yo no soy buen compañero que nosotros no somos buenos compañeros <silencio/>
+hab2	yo no falté al respeto <pausa_larga/>
+hab1	pero ¿hay rivalidad o <alargamiento>qué</alargamiento> ? para <pausa/> por las notas ¿o <palabra_cortada>có</palabra_cortada> ? <alargamiento>¿o</alargamiento> ? <pausa_larga/>
+hab2	fff no lo veo así es
+hab1	por las calificaciones <alargamiento>¿o</alargamiento> ? <pausa/> para dejar apuntes ¿o qué?
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> formas distintas <alargamiento>de</alargamiento> de ver las cosas <pausa/>"
+hab1	hm <silencio/>
+hab2	simplemente <pausa_larga/>
+hab2	me <alargamiento>luego</alargamiento> las notas <pausa/> eh <pausa_larga/>
+hab2	yo soy de los que piensan que si aprobamos todos mejor que que apruebe uno solo <pausa/>
+hab1	hm
+hab2	aunque ese solo sea yo <pausa_larga/>
+hab1	hm <pausa/>
+hab2	es decir si tengo apuntes <pausa/> eh yo los dejo <pausa/> hay gente que no lo hace a mí me <pausa/> parece estúpido <pausa/>
+hab1	hm hm
+hab2	no estamos compitiendo por un puesto de trabajo <pausa_larga/>
+hab2	estamos <pausa/> buscando todos un objetivo <silencio/>
+hab2	si podemos conseguirlo todos mejor ¿no? <pausa_larga/>
+hab1	¿crees que quizá haya falta de formación en valores? ¿sabes? con esto <pausa/> <alargamiento>que</alargamiento> habían introducido una materia que era educación para la ciudadanía que a lo mejor <pausa/> iba un poco por la educación en valores eh solidaridad etcétera ¿crees <alargamiento>que</alargamiento> falta <alargamiento>esa</alargamiento> ?
+hab2	creo que sí <pausa/> <alargamiento>y</alargamiento> <silencio/>
+hab2	creo que <alargamiento>los</alargamiento> valores <pausa_larga/>
+hab2	y la educación <énfasis_inicio/>real<énfasis_fin/> <silencio/>
+hab2	<énfasis_inicio/>no<énfasis_fin/> se dan en los colegios <silencio/>
+hab2	<alargamiento>y</alargamiento> tampoco los padres <pausa/> es decir eeh <pausa/> la televisión <pausa/> tú pones la televisión <silencio/>
+hab2	lo primero que te aparece es Gran hermano <pausa/> Sálvame <pausa_larga/>
+hab2	¿qué clase de educación va a tener un chaval que ve Sálvame que ve Gran hermano? <silencio/>
+hab2	eh <pausa/> ¿qué clase de educación va a tener? <pausa/> ninguna <pausa/> ¿qué te aporta eso? <pausa/> nada <silencio/>
+hab2	eeh libros <pausa/> Belén Esteban vendiendo libros <pausa/> es <pausa/> de <énfasis_inicio/>chiste<énfasis_fin/> <pausa_larga/>
+hab2	cine <pausa/> Torrente <pausa_larga/>
+hab2	es de chiste <silencio/>
+hab2	eh música eh <pausa/> Pitbull Juan Magan <silencio/>
+hab2	es de chiste <pausa/>
+hab1	hm
+hab2	creo que no se puede educar a la gente <silencio/>
+hab2	con una cultura <énfasis_inicio/>tan <pausa/> pobre <alargamiento>tan</alargamiento> <pausa_larga/>
+hab2	pésima<énfasis_fin/> <silencio/>
+hab2	y eso <pausa_larga/>
+hab2	me da la sensación de que pasa <alargamiento>en</alargamiento> <pausa/> muchas partes del mundo <silencio/>
+hab2	claro <pausa/> si tienes una cultura pobre si la mayoría de <alargamiento>tu</alargamiento> <pausa_larga/>
+hab2	de mi generación en todo caso considero <alargamiento>que</alargamiento> que es poco culta <silencio/>
+hab2	<énfasis_inicio/>no<énfasis_fin/> vas a crear individuos excesivamente inteligentes o que sepan pensar por sí mismos <pausa_larga/>
+hab2	se van a guiar por lo que haga todo el mundo y eso <alargamiento>no</alargamiento> <pausa/> no puede ser <pausa/>
+hab1	hm hm hm
+hab2	después pasa lo que pasa <pausa_larga/>
+hab2	después eeh <pausa/> o <pausa_larga/>
+hab2	eso se puede asociar a la política ¿no?
+hab1	hm <pausa/>
+hab2	pues <alargamiento>o</alargamiento> <sigla_inicio/>PP<sigla_fin/> o <sigla_inicio/>PSOE<sigla_fin/> <pausa/>
+hab1	hm
+hab2	y si haces otra cosa eres el raro <pausa/>
+hab1	hm
+hab2	aunque sea <pausa/> otra cosa esté bien y tenga unos principios sólidos <silencio/>
+hab2	pero me parece tal cual así la cultura es fundamental <pausa/>
+hab1	hm <pausa_larga/>
+hab2	"no es <pausa/> cuestión <alargamiento>de</alargamiento> simplemente colegios <alargamiento>o</alargamiento> <pausa/> <ruido tipo=""golpe""/> o padres <silencio/>"
+hab1	sí que está en todas partes digamos
+hab2	claro <pausa/> sí sí <pausa/>
+hab1	¿y qué? eh ¿por qué consideras tú que cuando tenemos el mando <pausa/> en lugar de poner <pausa/> algo interesante en la tele <alargamiento>que</alargamiento> <alargamiento>nos</alargamiento> <pausa/> enseñe algo <pausa_larga/>
+hab1	sintonizamos Gran hermano <pausa/> o ahora <pausa/> <risa_inicio/>Adán y Eva? que es lo mismo pero <risa_fin/> salen en <risa_inicio/> pelotas <risa_fin/> <risa/> <pausa_larga/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	pues es que no lo sé <pausa/> es algo <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	a ver no me las voy a dar de cultureta que yo aquí no <alargamiento>soy</alargamiento> <risa/> <pausa_larga/>
+hab2	no soy un erudito <pausa_larga/>
+hab2	pero me llama mucho la atención <pausa/> no lo sé <pausa/> es que <silencio/>
+hab2	quizá buscan algo <alargamiento>distinto</alargamiento> <silencio/>
+hab2	a lo que pueda pasar <alargamiento>en</alargamiento> su casa <silencio/>
+hab2	situaciones distintas <alargamiento>o</alargamiento> <pausa/> o gente con una forma de pensar similar <pausa/> gente que vive de <pausa/> <énfasis_inicio/>para<énfasis_fin/> la fiesta <pausa/> <énfasis_inicio/>por<énfasis_fin/> y para la fiesta <pausa/> y se cree que <palabra_cortada>to</palabra_cortada> la vida es una fiesta <silencio/>
+hab2	"
+      <ruido tipo=""teléfono""/>
+    "
+hab1	"hm <ruido tipo=""teléfono""/> <pausa/> <ininteligible/> el teléfono"
+hab2	lo veo <pausa/> lo veo así <pausa_larga/>
+hab2	es que otro sentido no tiene <pausa/> <alargamiento>realmente</alargamiento> <pausa/> también es difícil poner la televisión y encontrarte algo interesante <pausa/>
+hab1	hm <silencio/>
+hab2	<alargamiento>cuando</alargamiento> todo lo que echan es <pausa/> es es mierda <risa/>
+hab1	<risa_inicio/>sí <risa_fin/> <silencio/>
+hab1	"sí eh <pausa/> es un poco un círculo vicioso <alargamiento>porque</alargamiento> <ruido tipo=""chasquido boca""/> no puedes escoger porque es un poco todo el mismo patrón ¿no?"
+hab2	claro
+hab2	hm <pausa_larga/>
+hab1	<alargamiento>pero</alargamiento><pausa/> supongo que también <pausa/> <alargamiento>echan</alargamiento> <alargamiento>ese</alargamiento> tipo de programas porque es <palabra_cortada>l</palabra_cortada> <pausa/> son los que tienen mayor audiencia no sé <pausa_larga/>
+hab2	claro es que a ver <alargamiento>tampoco</alargamiento> <pausa_larga/>
+hab2	yo creo que a los medios de comunicación tampoco les <alargamiento>interesa</alargamiento> <silencio/>
+hab2	cambiar ese formato ¿no? <pausa/> les ha ido bien <pausa/> ¿por qué van a cambiarlo? <silencio/>
+hab2	es lógico <pausa_larga/>
+hab2	pero quizá cambiando eso la gente se habituaría ¿no? <silencio/>
+hab1	hm <pausa/>
+hab2	es decir eeh fumar es malo <pausa/> que tú estés habituado a fumar no significa que el hecho <pausa/> <alargamiento>que</alargamiento> <pausa/> que fumar sea bueno para ti <silencio/>
+hab2	si cambias tus hábitos <pausa/> te acostumbras <pausa/>
+hab1	hm <pausa/>
+hab2	y puede que te acabe gustando yo lo veo así <pausa_larga/>
+hab1	hm hm <pausa/>
+hab2	introduciría programación de calidad música de calidad en las radios <silencio/>
+hab2	otras cosas <pausa/> que ahora no hay <pausa/> o que hay poco <silencio/>
+hab1	hm <pausa/> <alargamiento>y</alargamiento> ¿tú ves <pausa/> algunos de los <pausa/> mmm <pausa/> o sea dentro del panorama televisivo ¿hay algún programa que te interese realmente? <pausa/> al que <alargamiento>sigas</alargamiento> que te resulte <alargamiento>más</alargamiento> <pausa/>
+hab2	mmm <pausa_larga/>
+hab2	Salvados <silencio/>
+hab2	eeh <alargamiento>lo</alargamiento> <pausa/> Chester <pausa_larga/>
+hab2	eeh Viajando con Chester <alargamiento>y</alargamiento> <pausa/> y después las series estas americanas Big Bang Theory y cosas así <silencio/>
+hab2	después no <pausa/> no suelo ver mucho la tele prefiero escuchar música <pausa_larga/>
+hab1	hm
+hab2	o incluso leer <pausa/> que tampoco me gusta <risa_inicio/>demasiado<risa_fin/>
+hab1	<risa_inicio/>hm <risa_fin/>
+hab2	pero bueno <pausa_larga/>
+hab2	mejor que ver ciertas cosas es <pausa_larga/>
+hab1	hm
+hab2	muchas veces <ininteligible/>
+hab1	¿has <alargamiento>visto</alargamiento> True Detective? <pausa_larga/>
+hab2	mmm no <pausa_larga/>
+hab1	es <palabra_cortada>m</palabra_cortada> <pausa/> una miniserie que está <pausa/> <énfasis_inicio/>genial<énfasis_fin/> <pausa_larga/>
+hab1	yo la <alargamiento>vi</alargamiento> bueno online <pausa_larga/>
+hab1	eemm <silencio/>
+hab1	trabaja Matthew McDonaway <pausa/> <alargamiento>y</alargamiento> Robert Harrelson <silencio/>
+hab1	y está genial ¡eh! <pausa/> eh no sé si <alargamiento>tiene</alargamiento> cinco o seis capítulos o así <pausa/>
+hab2	ah pues me la tengo que ver <pausa/>
+hab1	y también hay una muy buena que me encantó <pausa/> esta tiene muchas temporadas <pausa_larga/>
+hab1	que se <alargamiento>llama</alargamiento> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>ay</alargamiento> sobre un químico <pausa_larga/>"
+hab2	Breaking Bad
+hab1	<alargamiento>ah</alargamiento> sí la viste <pausa/>
+hab2	me la vi <risa_inicio/>sí <risa_fin/> <risa/> sí soy muy <risa_inicio/>fan de esa serie <risa_fin/> <risa/>
+hab1	"
+      <ininteligible/>
+    "
+hab1	buenísima <pausa/> es <alargamiento>que</alargamiento> bueno <pausa_larga/>
+hab1	te engancha muchísimo
+hab2	sí <pausa/>
+hab1	"
+      <alargamiento>aparte</alargamiento>
+      <pausa/>
+    "
+hab2	esa es programación que deberían poner aquí <pausa/>
+hab1	hm <pausa/>
+hab2	a ver <pausa/> Breaking Bad tampoco es un ejemplo <risa_inicio/>a seguir ¿no? <risa_fin/> <risa/> <pausa/> pero bueno <pausa/> es es <énfasis_inicio/>muy<énfasis_fin/> buena <pausa/>
+hab1	pero es buena
+hab1	hm
+hab2	realmente es una serie <alargamiento>de</alargamiento> de mucho nivel <pausa_larga/>
+hab1	sí te enseña un poco también sobre la psicología humana ¿no? <pausa/>
+hab2	claro
+hab2	sí <pausa_larga/>
+hab1	porque como va evolucionando
+hab2	las formas de ver <alargamiento>las</alargamiento> <pausa/> las cosas <alargamiento>en</alargamiento> función de la situación en la que estés eso es importantísimo <pausa_larga/>
+hab2	no reaccionar siempre igual <pausa/> pues <pausa_larga/>
+hab1	y cómo va cambiando <pausa/> quizá tu sistema de valores en base a las circunstancias <pausa_larga/>
+hab2	sí hm <pausa/>
+hab1	sí es una pasada esa serie <pausa_larga/>
+hab1	¿y tienes así algún hobby <pausa/> <vacilación/> o afición? <pausa_larga/>
+hab2	toco la guitarra <pausa/>
+hab1	ah ¿sí? <pausa_larga/>
+hab2	cantaba antes en un grupo <alargamiento>pero</alargamiento> <pausa/> <risa_inicio/>no <risa_fin/> <pausa/> no funcionó <pausa_larga/>
+hab1	¿en qué grupo?
+hab2	eeh <pausa/> nos llamábamos <pausa/> eeh <ficticio>Agua de granito</ficticio> <pausa_larga/>
+hab1	y <pausa/> ¿qué pasa? se deshizo ¿o qué? <pausa/>
+hab2	<alargamiento>sí</alargamiento> eeh <pausa/> a ver <alargamiento>éramos</alargamiento> <pausa/> los <pausa/> los amigos de siempre <silencio/>
+hab2	<alargamiento>y</alargamiento> cuando íbamos a dar un concierto bueno <pausa/> hubo un pequeño problema con uno de nosotros <silencio/>
+hab2	<alargamiento>y</alargamiento> no dimos el concierto <pausa_larga/>
+hab2	y claro <alargamiento>eso</alargamiento> generó más tensión <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	y nada <pausa_larga/>
+hab1	hm
+hab2	tampoco <alargamiento>éramos</alargamiento> <risa/> <pausa/> no éramos los Stones ¿no? pero
+hab1	ya <risa/> no erais profesionales pero bueno <pausa/>
+hab2	claro nosotros lo intentábamos <alargamiento>¿no</alargamiento> ? <pausa_larga/>
+hab2	lo pasábamos bien <pausa/>
+hab1	ya <pausa_larga/>
+hab1	bueno <pausa/> de eso se trata sobre todo
+hab2	claro
+hab2	sí <pausa/>
+hab1	¿qué te iba a decir? ¿qué tipo de música hacíais? <pausa_larga/>
+hab2	rock and roll <pausa_larga/>
+hab1	<alargamiento>ah</alargamiento> rock <pausa/>
+hab2	siempre <silencio/>
+hab1	hm <pausa/>
+hab2	rock and <alargamiento>roll</alargamiento> <silencio/>
+hab2	<alargamiento>con</alargamiento><pausa/> algo de blues <pausa/> algo de jazz <silencio/>
+hab2	teníamos <pausa/> <alargamiento>diferentes</alargamiento> tipos <pausa/> teníamos cuatro canciones hechas <silencio/>
+hab2	dos eran <alargamiento>así</alargamiento> rock bastante normal y luego teníamos una con blues <pausa_larga/>
+hab2	y <alargamiento>una</alargamiento> <pausa_larga/>
+hab2	con algo de salsa <pausa_larga/>
+hab2	como emulando a los Rolling Stones <pausa/>
+hab1	hm <pausa_larga/>
+hab2	pero <risa_inicio/>evidentemente <risa_fin/> no <alargamiento>era</alargamiento> <pausa/> no era muy allá ¿no? <pausa/>
+hab1	ya <pausa_larga/>
+hab2	también dibujo <silencio/>
+hab2	<alargamiento>y</alargamiento> bueno la cocina <pausa/> <alargamiento>que</alargamiento> <pausa/> ahora es hobby <risa/>
+hab1	<alargamiento>ya</alargamiento><risa/> ¿y deportes nada? <pausa_larga/>
+hab2	juego al fútbol <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> lo dejé hace tiempo porque me rompí la rodilla <pausa/>
+hab1	"
+      <alargamiento>ah</alargamiento>
+      <pausa_larga/>
+    "
+hab2	<alargamiento>y</alargamiento><pausa/> bueno ya hace <pausa/> de eso <pausa/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+      <pausa/>
+    "
+hab2	pero bueno la verdad es que le <alargamiento>cogí</alargamiento> algo de miedo <pausa_larga/>
+hab2	y para jugar así en algún equipo <alargamiento>no</alargamiento> <silencio/>
+hab2	no me veo <pausa/> tengo miedo a que me pase algo parecido y la verdad es que <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	partidillos con amigos <risa/> <pausa/>
+hab1	mmm ya <pausa_larga/>
+hab1	más suave <pausa/> ¿y qué piensas de esto del fútbol? lo que está pasando ahora <alargamiento>con</alargamiento> <pausa/> que pasó <risa_inicio/><alargamiento>entre</alargamiento> <risa_fin/> <pausa/> el Atletic los radicales de uno y otro <risa_inicio/>bando <risa_fin/>
+hab2	sí
+hab2	yo es que
+hab2	<risa/> soy atlético además <pausa_larga/>
+hab2	<énfasis_inicio/>muy<énfasis_fin/> atlético <silencio/>
+hab2	me <alargamiento>parece</alargamiento> <pausa/> me parece increíble lo primero que <pausa_larga/>
+hab2	por lo que sé <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	se puedan <pausa/> citar para una pelea <pausa/> me parece <pausa/> increíble <pausa_larga/>
+hab2	eso me parece de siglo <pausa/> pasado <pausa/> <énfasis_inicio/>muy<énfasis_fin/> pasado <pausa_larga/>
+hab1	hm <silencio/>
+hab2	pero bueno es que <pausa/> creo que no tiene nada que ver con el fútbol <silencio/>
+hab2	es decir a mí me gusta el fútbol yo soy <palabra_cortada>m</palabra_cortada> <pausa_larga/>
+hab2	<énfasis_inicio/>muy<énfasis_fin/> del Atlético de <risa_inicio/>Madrid <risa_fin/> <silencio/>
+hab2	y no tengo problemas con nadie por el hecho de ser de otro equipo <pausa/> tú puedes discutir pero de ahí a llegar a las manos es <silencio/>
+hab2	es difícil ¿no? <pausa/> creo que ahí hay motivos políticos <pausa/>
+hab1	hm <pausa/>
+hab2	que se pongan una camiseta o otra <alargamiento>eso</alargamiento> <pausa/> me parece secundario <pausa_larga/>
+hab2	hay motivos políticos <pausa_larga/>
+hab2	que no puedan entrar a los campos <pausa/> sí lo veo <pausa_larga/>
+hab2	evidentemente <pausa/> tú te peleas <alargamiento>con</alargamiento> <pausa/> con un símbolo <alargamiento>de</alargamiento> <énfasis_inicio/>mi<énfasis_fin/> equipo <pausa_larga/>
+hab2	tú no vas a poder entrar eso está claro <pausa_larga/>
+hab2	es una cuestión más de imagen no me parece que <palabra_cortada>t</palabra_cortada> <pausa/> que <alargamiento>sea</alargamiento> <silencio/>
+hab2	ejemplarizante <pausa_larga/>
+hab2	quieres dar buena imagen haces eso <pausa/> es lógico <pausa_larga/>
+hab2	simplemente <silencio/>
+hab1	¿y tú crees que ese fenómeno de la <alargamiento>violencia</alargamiento> futbolística se ha fomentado <alargamiento>desde</alargamiento> los <alargamiento>propios</alargamiento> <pausa/> clubs? <silencio/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+      <pausa/>
+    "
+hab2	fomentado no sé pero sí que se dio mucha libertad a los ultras <pausa_larga/>
+hab2	por lo que sé <silencio/>
+hab2	no es normal que un grupo de ultras tenga <pausa/> su parcela en el estadio <pausa/> y que ahí solo puedan entrar ellos <pausa_larga/>
+hab2	no es normal <pausa/> es que eso <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	no tiene sentido <pausa/> a saber qué hay ahí <pausa/> dentro <pausa_larga/>
+hab1	hm <pausa_larga/>
+hab2	creo que eso pudo ser controlado <pausa_larga/>
+hab2	si no fue controlado es porque había algún interés <pausa/> yo no creo <alargamiento>en</alargamiento> <pausa_larga/>
+hab2	en las casualidades <pausa/> yo creo en los intereses <silencio/>
+hab1	hm hm <pausa/>
+hab2	<alargamiento>si</alargamiento><pausa/> si estaban allí es por algo <pausa_larga/>
+hab2	porque a alguien le convenía <silencio/>
+hab1	hm ya que fueron protegidos en cierto modo ¿no? <pausa_larga/>
+hab2	sí <pausa/> siempre siempre es <alargamiento>como</alargamiento> <silencio/>
+hab2	eeh la política ¿no? <pausa_larga/>
+hab2	eh <vacilación/> es que lo relaciono todo mucho con la política
+hab1	hm <pausa/>
+hab2	eeh estos casos de corrupción y todo eso yo no me creo que eso no lo supiera nadie antes <pausa/> es que no me lo creo <pausa/>
+hab1	hm <pausa_larga/>
+hab2	"simplemente que <alargamiento>alguien</alargamiento> <ruido tipo=""golpes""/> <pausa/> de otro sitio no le interesaba que se supiera <pausa_larga/>"
+hab2	eeh <pausa/> <alargamiento>a</alargamiento> <alargamiento>alguien</alargamiento> de un <alargamiento>rango</alargamiento> <pausa/> superior no le interesaba <silencio/>
+hab2	aquí es siempre por interés <pausa/> nadie funciona <alargamiento>por</alargamiento> <silencio/>
+hab2	porque <alargamiento>sí</alargamiento> o <pausa/> o por hacer el bien <pausa_larga/>
+hab2	no <pausa/> aquí es <pausa/> siempre para lucrarse o <pausa/> conseguir beneficios ¿no? <pausa/>
+hab1	hm <pausa_larga/>
+hab1	¿y crees que se está luchando ahora contra la corrupción que hay realmente una <palabra_cortada>volun</palabra_cortada> ? <pausa/> hm <pausa/>
+hab2	no
+hab2	no <silencio/>
+hab2	no <pausa/> para nada <silencio/>
+hab2	para nada <pausa_larga/>
+hab2	me parece vergonzoso que se diga <pausa_larga/>
+hab2	me parece vergonzoso y sobre todo desde el <alargamiento>partido</alargamiento> <silencio/>
+hab2	desde el partido <alargamiento>que</alargamiento> <pausa/> que gobierna me parece <pausa/> vergonzoso e hipócrita <silencio/>
+hab1	hm <pausa/>
+hab2	no puedes decir que luchas contra la corrupción <alargamiento>cuando</alargamiento> cada corrupto de <énfasis_inicio/>tu<énfasis_fin/> partido <silencio/>
+hab2	no <pausa/> no tiene pena ninguna <pausa/> <énfasis_inicio/>nunca<énfasis_fin/> <silencio/>
+hab2	<alargamiento>o</alargamiento><pausa/> o aunque no <alargamiento>sean</alargamiento> <silencio/>
+hab2	por ejemplo Ana Mato creo <pausa/>
+hab1	hm <pausa_larga/>
+hab1	la de Sanidad ¿no?
+hab2	sí estuvo salpicada por el escándalo de Gürtel <pausa/> y pasó <alargamiento>de</alargamiento> diputada a vicepresidenta de no sé qué o sea <pausa/> una locura <risa/> <pausa/>
+hab1	sí una <palabra_cortada>co</palabra_cortada> una comisión que era un puesto que no existía de hecho <pausa/>
+hab2	sí
+hab2	o sea <pausa/> es de coña <silencio/>
+hab2	si luchas contra la corrupción no <énfasis_inicio/>beneficies<énfasis_fin/> al corrupto <silencio/>
+hab1	¿y por qué crees que hacen eso? <pausa/> no se <palabra_cortada>da</palabra_cortada> eh <pausa/> quizá no se den cuenta de cómo los vemos nosotros o <pausa/>
+hab2	yo creo que les da igual <pausa_larga/>
+hab1	hm <pausa/>
+hab2	les da igual <silencio/>
+hab2	<alargamiento>y</alargamiento><alargamiento>en</alargamiento> cierto sentido lo veo hasta lógico <silencio/>
+hab2	no me parece bien pero lo veo lógico es decir si yo estoy bien ¿a mí qué me importa cómo esté otro? <pausa_larga/>
+hab2	yo estoy bien <pausa/> y puedo estar mejor y estoy mejor <pausa_larga/>
+hab2	si tú estás peor es tú problema ¿no? <silencio/>
+hab2	creo que ellos lo ven así <silencio/>
+hab2	y están ahí <alargamiento>para</alargamiento> <pausa/> para forrarse <pausa_larga/>
+hab2	por <risa_inicio/>su <risa_fin/> <pausa/> lo único que <alargamiento>veo</alargamiento> <pausa/>
+hab1	hm <pausa_larga/>
+hab2	para ganar dinero ahora mismo en este país es la política <silencio/>
+hab2	sin estudios ni nada <pausa/> además cada vez son más estúpidos <pausa/>
+hab1	hm
+hab2	es curioso <pausa/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+      <silencio/>
+    "
+hab2	por eso me <alargamiento>parece</alargamiento> <pausa_larga/>
+hab2	de coña que se hable <alargamiento>de</alargamiento> <silencio/>
+hab2	de que se está luchando contra la corrupción ¿no? <pausa/> eso es mentira <silencio/>
+hab2	es mentira los medios quieren hacernos creer que es verdad pero no <silencio/>
+hab1	mhm
+hab2	la ley mordaza y todas estas cosas <pausa_larga/>
+hab2	eso es de siglo pasado eso es <alargamiento>de</alargamiento> dictadores es <silencio/>
+hab2	"y eso pasa aquí <ruido tipo=""golpes""/> <pausa/>"
+hab1	hm <pausa_larga/>
+hab2	o sea nos están mintiendo en la cara <pausa_larga/>
+hab2	y no puedes decir <pausa/> que es mentira <pausa/> porque si no ya sabes lo que pasa <pausa/>
+hab1	hm hm <pausa_larga/>
+hab2	por eso
+hab1	la ley mordaza
+hab2	"claro <risa/> <pausa/> multas <ruido tipo=""golpe""/> <pausa/> o golpes en <risa_inicio/>manifestaciones <risa_fin/> <pausa/> que es peor casi <pausa/>"
+hab1	hm <silencio/>
+hab1	¿y crees que quizá la gente de tu <alargamiento>edad</alargamiento> la gente <alargamiento>joven</alargamiento> <pausa_larga/>
+hab1	<alargamiento>tenga</alargamiento> mmm <pausa/> pueda cambiar un <alargamiento>poco</alargamiento> <pausa/> el panorama? <pausa/>
+hab2	yo creo que sí
+hab1	que tenga otros valores otros principios quizá también por la crisis ¿ves que la crisis ha servido para algo? <silencio/>
+hab2	fff <pausa/> a ver es que soy <énfasis_inicio/><alargamiento>muy</alargamiento> muy<énfasis_fin/> distinto a la mayoría de mi generación <silencio/>
+hab2	ni mejor ni peor <pausa/> <énfasis_inicio/>muy<énfasis_fin/> distinto <pausa/>
+hab1	hm <pausa/>
+hab2	yo veo que la mayoría <pausa/> <alargamiento>el</alargamiento> tema de la crisis o el tema de la política le da igual <pausa/> o sea <pausa/> mientras tengan para fumar porros <pausa_larga/>
+hab2	salir de fiesta <pausa/> o gasolina <pausa_larga/>
+hab2	se dan por satisfechos <silencio/>
+hab2	yo no saldría de fiesta <pausa_larga/>
+hab2	<alargamiento>si</alargamiento> en mi casa hay problemas económicos <pausa/>
+hab1	hm hm
+hab2	o sea lo primero es comer <pausa/> lo primero <alargamiento>es</alargamiento> <silencio/>
+hab2	una estabilidad en casa <pausa/> y luego ya el <palabra_cortada>res</palabra_cortada> <silencio/>
+hab2	el <pausa/> viene el resto ¿no? <pausa/> viene <alargamiento>el</alargamiento> <pausa/> el pasárselo bien y <alargamiento>el</alargamiento> <pausa_larga/>
+hab2	el estar fuera de casa y todas esas cosas ¿no?
+hab1	hm <pausa_larga/>
+hab2	hay que ser realista <pausa_larga/>
+hab2	no no <pausa/> tan egoísta de pensar <alargamiento>que</alargamiento> <pausa/> <cita_inicio/>soy joven voy a <pausa_larga/>
+hab2	a irme de fiesta <alargamiento>y</alargamiento> el resto me da igual<cita_fin/> <pausa/> no <silencio/>
+hab2	eso ya no <silencio/>
+hab2	solo lo puede hacer alguien que tenga <pausa_larga/>
+hab2	unos papis con dinero <pausa/>
+hab1	hm <pausa_larga/>
+hab2	o una posición
+hab1	"
+      <ruido tipo=""carraspeo""/>
+      <pausa_larga/>
+    "
+hab2	entonces <pausa/> puedes <pausa/> ver las cosas así yo creo que alguien de clase media no <pausa/> no puede <pausa_larga/>
+hab2	está muy equivocado si piensa así <pausa_larga/>
+hab2	"
+      <ruido tipo=""golpe""/>
+      <pausa_larga/>
+    "
+hab1	porque la clase media crees que ahora vive peor ¿no? que <palabra_cortada>a</palabra_cortada> <pausa/> hm
+hab2	sí
+hab2	hm <pausa/> sí <pausa/> <risa_inicio/>que es más <pausa/> creo <alargamiento>que</alargamiento> <risa_fin/> <pausa/> que la clase media ya está en peligro de extinción <silencio/>
+hab2	no es normal trabajar por cuatro duros <pausa/>
+hab1	hm <pausa_larga/>
+hab2	no es normal los despidos <silencio/>
+hab2	que están pasando no es normal cobrar menos paro <pausa/> no es normal los desahucios <silencio/>
+hab2	son cosas que en un país <pausa/> eh <pausa/> del primer mundo como en teoría es España no pueden pasar <silencio/>
+hab1	hm <pausa/>
+hab2	no es normal que se hable de recuperación económica <alargamiento>cuando</alargamiento> los números dicen todo lo contrario <silencio/>
+hab2	¿a quién quieres engañar? <silencio/>
+hab1	hm <pausa_larga/>
+hab2	es que son cosas que me parecen increíbles <silencio/>
+hab1	mmm ya <pausa/> ¿y tú tienes beca para estudiar? <pausa/>
+hab2	no <pausa_larga/>
+hab1	hm <pausa/> no <alargamiento>compañeros</alargamiento> ? <pausa/> eh <pausa/>
+hab2	¿y tus
+hab2	tengo uno que sí <silencio/>
+hab1	pero ¿notáis que han descendido <pausa_larga/>
+hab1	el número de becas que se conceden <alargamiento>o</alargamiento> con respecto a otros años?
+hab2	sí eh por lo que sé sí eh mi novia va a la universidad <pausa/> <alargamiento>y</alargamiento> fff conseguir una beca es <pausa_larga/>
+hab2	pff complicado no <pausa/> lo siguiente <pausa/>
+hab1	¿y tiene beca tu pareja? <pausa/>
+hab2	no <pausa_larga/>
+hab1	¿tuvo otros años o tampoco?
+hab2	no <silencio/>
+hab2	eeh <pausa/> ahora si <alargamiento>no</alargamiento> <pausa/> si <alargamiento>no</alargamiento> apruebas todo <pausa_larga/>
+hab1	hm <pausa/>
+hab2	<alargamiento>no</alargamiento> tienes beca <pausa_larga/>
+hab2	y creo que tienes que aprobar todo y además con equis notas
+hab1	sí <pausa/>
+hab2	o sea que a mí <alargamiento>un</alargamiento> <pausa_larga/>
+hab2	si yo estuviera en la universidad <pausa/> que un señor como Wert <pausa/>
+hab1	hm <pausa/>
+hab2	<risa/> maneje <pausa_larga/>
+hab2	el dinero que se le da a un estudiante <silencio/>
+hab2	me parece <pausa/> pff <pausa/> de coña <pausa/> o sea un señor que <pausa_larga/>
+hab2	¿qué estudios puede tener? <pausa_larga/>
+hab2	el <pausa/> no lo sé pero que <pausa_larga/>
+hab2	que ese señor que no tiene ni cultura ni vergüenza <silencio/>
+hab2	maneje <énfasis_inicio/>tanto<énfasis_fin/> dinero y maneje la ilusión de <alargamiento>tantos</alargamiento> estudiantes me parece <pausa/> vergonzoso <silencio/>
+hab2	cuando realmente <silencio/>
+hab2	estoy seguro que su formación académica es escasísima <silencio/>
+hab2	no puedes pedir tú desde una formación académica escasa <pausa_larga/>
+hab2	milagros <pausa/> para llegar a estudiar <pausa_larga/>
+hab2	cuando aquí supuestamente estudiar es gratis <pausa_larga/>
+hab1	sí cuando estableció <alargamiento>que</alargamiento> <pausa/> eemm para llevar <alargamiento>beca</alargamiento> los estudiantes tenían <alargamiento>que</alargamiento> <pausa/> tener seis con cinco <pausa/> de nota <pausa_larga/>
+hab2	sí
+hab1	después
+hab2	estamos hablando de una carrera <pausa/>
+hab1	sí <silencio/>
+hab2	eeh <pausa/> según en qué carreras <pausa_larga/>
+hab2	es <pausa/> mmm <pausa/> yo lo sé por ella es <pausa/> realmente complicado <pausa_larga/>
+hab1	¿qué estudia ella? <pausa/>
+hab2	Biología <pausa/>
+hab1	hm <pausa_larga/>
+hab2	no es una carrera fácil
+hab1	no <pausa/>
+hab2	y no <alargamiento>tienes</alargamiento> <pausa/> <risa_inicio/>demasiado <risa_fin/> tiempo para preparar todo <pausa/>
+hab1	hm <pausa_larga/>
+hab2	claro <pausa_larga/>
+hab2	seis con cinco no es que sea una <alargamiento>nota</alargamiento> muy alta pero sí que tienes que tener un número de ellas con una nota así ¿no? <pausa/>
+hab1	hm <pausa_larga/>
+hab2	me <alargamiento>parece</alargamiento> fff <pausa/> demasiado lo que piden <silencio/>
+hab1	cuando salió eso <pausa/> empezaron a sacar las notas de <alargamiento>Aznar</alargamiento> de Rajoy y todos
+hab2	es que ahí está o sea que una persona así <pausa_larga/>
+hab2	hable <alargamiento>de</alargamiento> <silencio/>
+hab2	bueno de que el estudiante que no trabaja que <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	no se esfuerza <silencio/>
+hab2	<risa/> en fin es que es de <alargamiento>una</alargamiento> <pausa/> de un no tener vergüenza <silencio/>
+hab2	no se cortan <ininteligible/> <pausa/> les da igual <pausa_larga/>
+hab1	hm <pausa/>
+hab2	les da igual <pausa/> y se sabe todo eso y <alargamiento>y</alargamiento> todavía lo hacen peor es increíble <silencio/>
+hab2	bueno <pausa/>
+hab1	hm <pausa/> <alargamiento>y</alargamiento> <pausa/> ¿cómo <alargamiento>viste</alargamiento> <pausa/> cuando <pausa/> el año pasado los estudiantes que recogieron los premios extraordinarios <pausa/> <alargamiento>que</alargamiento> llevaban las camisetas verdes <alargamiento>de</alargamiento> ? <pausa/> ¿te acuerdas? <silencio/>
+hab2	sí me pareció genial <pausa/> me <alargamiento>pareció</alargamiento> fantástico <pausa/>
+hab1	hm <pausa_larga/>
+hab2	hm <pausa_larga/>
+hab2	hubiese hecho lo mismo <pausa/> sin duda <silencio/>
+hab2	creo que es <alargamiento>una</alargamiento> una buena forma <alargamiento>de</alargamiento> <silencio/>
+hab2	mmm de dejar <alargamiento>claras</alargamiento> <pausa/> muchas cosas ¿no? <pausa_larga/>
+hab2	no creo que sirva para nada <pausa/> no sirve para <risa_inicio/>nada <risa_fin/> <pausa_larga/>
+hab2	pero bueno sí que me <alargamiento>parece</alargamiento> <pausa_larga/>
+hab2	un primer paso importante <silencio/>
+hab2	"hay <alargamiento>que</alargamiento> ir <ruido tipo=""golpes""/> dejando claro <alargamiento>que</alargamiento> <silencio/>"
+hab2	que <alargamiento>no</alargamiento> no somos estúpidos <pausa_larga/>
+hab2	ahora las cosas se saben y no somos tontos <pausa_larga/>
+hab2	no pueden seguir haciendo lo que les da la gana <pausa_larga/>
+hab1	¿y cómo crees tú <pausa/> mmm <pausa/> <alargamiento>que</alargamiento> pueden <pausa/> estar influyendo las redes sociales <pausa_larga/>
+hab1	para que ahora como dices tú las <alargamiento>cosas</alargamiento> se sepan? <pausa_larga/>
+hab2	creo que son muy importantes <pausa_larga/>
+hab2	pero <pausa_larga/>
+hab2	tienen <alargamiento>su</alargamiento> <silencio/>
+hab2	sus pros y sus contras es decir <pausa/> tú ves alguna red social <pausa/> y ya puedes <alargamiento>pensar</alargamiento> eh <cita_inicio/>¡Dios mío qué fuerte! <alargamiento>que</alargamiento> <alargamiento>que</alargamiento> <pausa/> tal político hizo esto hizo aquello<cita_fin/> <silencio/>
+hab2	y a lo mejor es mentira <pausa/>
+hab1	mmm
+hab2	"<ruido tipo=""chasquido boca""/> desgraciadamente suele ser verdad <pausa_larga/>"
+hab2	cuanto más escandaloso y más mentira parezca <pausa_larga/>
+hab1	<risa/><risa_inicio/> sí<risa_fin/>
+hab2	<risa_inicio/>aquí es verdad o <palabra_cortada>se</palabra_cortada> <risa/><risa_fin/>
+hab1	<risa_inicio/>es verdad<risa_fin/>
+hab2	<risa_inicio/>es raro <pausa/> el tema <risa_fin/> de Monago y cosas así y dices <pausa/> <cita_inicio/>no puede ser<cita_fin/> <pausa/> y <pausa/> y de hecho <énfasis_inicio/>es<énfasis_fin/> <risa/>
+hab1	hm hm <risa/> <pausa/> sí <silencio/>
+hab2	creo <alargamiento>que</alargamiento> que eso <pausa/> <alargamiento>tienen</alargamiento> sus pros y sus contras <alargamiento>aquí</alargamiento> contras tienen pocos ahora mismo <pausa_larga/>
+hab2	suele ser <risa_inicio/>información <risa_fin/> bastante real <pausa/>
+hab1	hm <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> información que no sacan los periódicos alguna <silencio/>
+hab1	hm hm <pausa_larga/>
+hab2	que <alargamiento>de</alargamiento> <pausa/> un periodista no sé por qué no <pausa/> no saca la verdad <silencio/>
+hab2	alguien que estudia <pausa/> por la verdad <pausa_larga/>
+hab2	alguien <alargamiento>que</alargamiento> <pausa/> que trabaja <énfasis_inicio/>para<énfasis_fin/> la verdad y <énfasis_inicio/>por<énfasis_fin/> la verdad <pausa/> no sé por qué <alargamiento>no</alargamiento> <pausa/> no <alargamiento>la</alargamiento> mmm <pausa_larga/>
+hab2	no la dice <pausa_larga/>
+hab1	hm hm <pausa/>
+hab2	no sé <alargamiento>si</alargamiento> si no quiere <pausa/> si no le dejan <silencio/>
+hab2	o si recibe más dinero por no decirla <pausa/> que yo <palabra_cortada>m</palabra_cortada> <pausa/> creo que es eso ¿no? <pausa_larga/>
+hab2	siempre le interesa <pausa/> lo de antes <pausa/>
+hab1	hm hm <pausa_larga/>
+hab1	y aun sabiendo eso <pausa/> te gustaría estudiar periodismo <pausa/>
+hab2	<alargamiento>sí</alargamiento> pero <alargamiento>para</alargamiento> decir la verdad <silencio/>
+hab2	me considero una persona bastante honrada <pausa_larga/>
+hab2	y aunque no trabajase en un <alargamiento>periódico</alargamiento> <alargamiento>importante</alargamiento> o <pausa_larga/>
+hab2	o en televisión o algo así <pausa/> o en radio <pausa_larga/>
+hab2	siempre diría mi punto de vista <pausa_larga/>
+hab2	<énfasis_inicio/>siempre<énfasis_fin/><pausa/> es fundamental <pausa/> uno no puede <pausa/> prostituir sus ideales <pausa_larga/>
+hab1	hm hm
+hab2	para mí eso es prostituir <pausa_larga/>
+hab2	lo que eres y lo que piensas <pausa/> y me parece gravísimo <silencio/>
+hab2	es que para eso no digas nada <risa/>
+hab1	¿y crees <alargamiento>que</alargamiento> <pausa/> eh <pausa/> si <alargamiento>tú</alargamiento> como periodista vas a trabajar a un medio te dejarían <pausa/> mmm decir tu verdad? <silencio/>
+hab2	creo que no <pausa_larga/>
+hab2	pero no trabajaría en un sitio donde no pudiera <alargamiento>expresarme</alargamiento> <silencio/>
+hab2	libremente <silencio/>
+hab2	si yo tengo una información y es una información real <silencio/>
+hab2	yo la saco <pausa/> quiero sacarla <pausa/> y si no me dejan me voy <pausa_larga/>
+hab1	hm hm <silencio/>
+hab2	es que <alargamiento>no</alargamiento> <silencio/>
+hab2	a ver lo pienso ahora con veintiún años <pausa/>
+hab1	hm <pausa/>
+hab2	"a lo mejor <alargamiento>si</alargamiento> el día de mañana tengo familia entonces digo <cita_inicio/>bueno <pausa/> lo primero es darle de comer a ellos y luego ya <pausa/> <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab2	es lo que pueda pensar yo<cita_fin/> <pausa/> está claro <silencio/>
+hab2	pero la ética profesional a <palabra_cortada>m</palabra_cortada> <pausa/> siempre empujaría a decir la verdad <pausa_larga/>
+hab2	<énfasis_inicio/>siempre<énfasis_fin/><pausa_larga/>
+hab1	hm hm <pausa/>
+hab2	es que estudias para eso <pausa/>
+hab1	hm <pausa_larga/>
+hab1	¿y qué medio de <alargamiento>referencia</alargamiento> <pausa/> o sea qué medio te gusta a ti en ese sentido por su honestidad o <alargamiento>su</alargamiento> ? <pausa/>
+hab2	la radio <pausa_larga/>
+hab1	hm <pausa_larga/>
+hab2	la radio <pausa/> porque es <alargamiento>un</alargamiento> <pausa/> un medio sin guión <silencio/>
+hab2	eso es fantástico <pausa_larga/>
+hab2	me parece <énfasis_inicio/>fantástico<énfasis_fin/> <silencio/>
+hab2	y y <pausa/> tiene su bueno y su malo pero me parece <pausa_larga/>
+hab2	<énfasis_inicio/>tan<énfasis_fin/> fantástico poder decir lo que piensas <pausa/> sin ningún tipo de control <pausa_larga/>
+hab2	en ese momento <pausa_larga/>
+hab2	es increíble <pausa/>
+hab1	hm hm <pausa/>
+hab2	me gustaría trabajar en radio <silencio/>
+hab1	¿y qué programas de radio? <pausa/>
+hab2	"<ruido tipo=""inspiración""/><pausa/> mmm <silencio/>"
+hab2	pues la verdad es <alargamiento>que</alargamiento> <silencio/>
+hab2	pff hace tiempo que <alargamiento>no</alargamiento> <risa/> <silencio/>
+hab2	no se me ocurre así ninguno <alargamiento>de</alargamiento> <pausa/> que hable de política y tal <pausa_larga/>
+hab2	de radio suelo escuchar programas deportivos <pausa_larga/>
+hab2	antes escuchaba <alargamiento>el</alargamiento> <pausa/> Carrusel deportivo <pausa/>
+hab1	hm <pausa_larga/>
+hab2	ahora escucho el Tiempo de juego en la Cope <pausa/>
+hab1	hm
+hab2	pero bueno por un cambio que hubo <alargamiento>allí</alargamiento> <pausa/> de la Ser a la Cope <pausa/> yo me fui con ellos <risa_inicio/>también <risa_fin/> <silencio/>
+hab2	porque creo que dicen la verdad <pausa/>
+hab1	hm hm <pausa_larga/>
+hab2	aun <alargamiento>en</alargamiento> <pausa/> en un <alargamiento>ámbito</alargamiento> <pausa_larga/>
+hab2	tan trivial como el deporte <pausa/> dicen la verdad <pausa_larga/>
+hab2	y eso es <pausa/> siempre importante para mí <pausa_larga/>
+hab1	¿y qué piensas de los periodistas deportivos así en general? <silencio/>
+hab2	fff <risa/> <risa_inicio/>hay de todo ¡eh! <risa_fin/> hay de todo hay alguno <alargamiento>que</alargamiento> que se llame periodista me hace mucha gracia <pausa/>
+hab1	mmm ya <pausa/>
+hab2	es <pausa/> periodismo con camiseta <silencio/>
+hab1	ya <pausa/>
+hab2	pero eso pasa en todos lados <pausa/> pasa en la <alargamiento>política</alargamiento> <pausa/>
+hab1	hm
+hab2	la <alargamiento>política</alargamiento> <pausa/> me hace más gracia todavía <risa_inicio/>¿no? <risa_fin/> <pausa_larga/>
+hab1	ya
+hab2	como tergiversan es <pausa_larga/>
+hab2	bastante curioso <silencio/>
+hab2	<alargamiento>en</alargamiento><pausa/> en los deportes me <alargamiento>parece</alargamiento> <silencio/>
+hab2	normal <silencio/>
+hab2	porque al fin y al cabo tú si eres de un equipo <pausa_larga/>
+hab2	eso se nota <pausa_larga/>
+hab2	es muy difícil ser imparcial <pausa/>
+hab1	hm hm <pausa_larga/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+    "
+hab2	y ya en otro tipo de <alargamiento>periodismo</alargamiento> mmm pff <silencio/>
+hab2	creo que la falta de imparcialidad es <silencio/>
+hab2	es falta de profesionalidad <pausa_larga/>
+hab2	realmente
+hab1	hm <pausa/>
+hab2	o sea nadie es <palabra_cortada>m</palabra_cortada> <énfasis_inicio/>tan<énfasis_fin/> de derechas como para <pausa_larga/>
+hab2	no ver las cosas claras ni nadie es <énfasis_inicio/>tan<énfasis_fin/> de izquierdas como para no verlas claras ¿no? <pausa/> siempre tienes que tener un punto de <alargamiento>vista</alargamiento> <silencio/>
+hab2	tuyo <pausa/> por <alargamiento>muy</alargamiento> <pausa/> de la ideología que seas ¿no? <silencio/>
+hab2	tienes que separarte un poco de eso a veces <pausa_larga/>
+hab1	¿y qué periodista <alargamiento>deportivo</alargamiento> <pausa/> dirías <pausa/> este es <alargamiento>mi</alargamiento> ? <pausa/> hm hm <pausa_larga/>
+hab2	Paco González
+hab2	Paco González <pausa/> me parece el <pausa/> periodista <alargamiento>deportivo</alargamiento> <pausa_larga/>
+hab2	por excelencia <pausa/>
+hab1	hm hm <pausa_larga/>
+hab2	sin duda <pausa/> <alargamiento>siempre</alargamiento> <pausa_larga/>
+hab2	casi siempre tiene <alargamiento>información</alargamiento> <silencio/>
+hab2	real <pausa/> contrastado <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> creo que es <énfasis_inicio/>muy<énfasis_fin/> difícil <silencio/>
+hab2	lo que hace <pausa/>
+hab1	hm hm <pausa_larga/>
+hab2	siempre <pausa/> es <énfasis_inicio/>muy<énfasis_fin/> difícil que se equivoque <silencio/>
+hab2	eeh siempre dice lo que piensa <silencio/>
+hab2	<alargamiento>aunque</alargamiento> le <pausa/> pudiera traer consecuencias siempre dijo lo <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	lo que pensaba y eso es algo que me <pausa/> parece genial ¿no? <pausa_larga/>
+hab1	hm hm <pausa_larga/>
+hab2	luego periodista de <alargamiento>otro</alargamiento> <alargamiento>ámbito</alargamiento> <pausa_larga/>
+hab2	Iñaki Gabilondo <pausa/>
+hab1	ya <pausa/> <palabra_cortada>e</palabra_cortada> el pope de todo el mundo
+hab2	sin duda <risa/> <risa_inicio/>sin duda es <risa_fin/> <pausa_larga/>
+hab1	hm <pausa/>
+hab2	es el periodismo <pausa/>
+hab1	hm <pausa/>
+hab2	en persona ¿no? <pausa/> es <pausa/> mejor periodista español <palabra_cortada>s</palabra_cortada> de <alargamiento>aquí</alargamiento> a <pausa/> a donde sea <pausa_larga/>
+hab1	"sí el otro día que lo entrevistó Pablo Iglesias en La Tuerca <pausa/> que le decía que <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> que lo que admiraba de él es que no llevaba <alargamiento>nunca</alargamiento> <pausa_larga/>"
+hab2	sí
+hab1	apuntes <pausa/> cuando hacía las entrevistas <pausa_larga/>
+hab1	y a mí también me lo habían contado un compañero suyo <alargamiento>que</alargamiento> lo <pausa/> bueno coincidió una vez con él <pausa/> en la Ser <pausa_larga/>
+hab1	y que no llevaba <palabra_cortada>n</palabra_cortada> <pausa/> llevaba una notita con nada <pausa_larga/>
+hab1	y así <pausa/> discurría todo el programa o sea tenía todo en la cabeza <pausa/>
+hab2	es que es por eso que <alargamiento>me</alargamiento> <pausa/> me encanta <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> de <alargamiento>hecho</alargamiento> <pausa_larga/>
+hab2	eh uno de mis programas favoritos es Viajando con Chester <pausa/> creo que es un programa sin guión <pausa/> me gustaría saberlo <pausa/> pero creo que es sin guión <silencio/>
+hab2	me parece <énfasis_inicio/>muy<énfasis_fin/> real la conversación muy fluido todo <pausa/>
+hab1	hm <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> es admirable <silencio/>
+hab2	realmente <pausa/> estar enfrente a una persona que acabas de conocer como nosotros ahora y
+hab1	hm
+hab2	decir lo que piensas <pausa_larga/>
+hab2	pueden salir cosas muy interesantes <pausa/> ¿no? <silencio/>
+hab1	y Jordi Évole ¿qué te parece como periodista? <silencio/>
+hab2	<alargamiento>me</alargamiento> gusta mucho <silencio/>
+hab2	me parece <énfasis_inicio/>muy buen<énfasis_fin/> periodista <silencio/>
+hab2	mmm <silencio/>
+hab2	pero mmm no sé igual <alargamiento>está</alargamiento> <silencio/>
+hab2	es que no sabría explicarlo <pausa_larga/>
+hab2	creo que está muy metido en el papel <alargamiento>que</alargamiento> que tiene ¿no?
+hab1	hm <pausa_larga/>
+hab2	un <pausa/> papel <alargamiento>de</alargamiento> <palabra_cortada>s</palabra_cortada> <pausa/> denuncia un papel de <pausa_larga/>
+hab2	además casi siempre dándole a la derecha ¿no? <pausa/>
+hab1	hm <pausa/>
+hab2	yo me considero de izquierdas <pausa/>
+hab1	hm <pausa_larga/>
+hab2	pero ¡coño! <pausa_larga/>
+hab2	<risa/><risa_inicio/>la derecha tampoco lo hace todo mal <risa_fin/>
+hab1	hm <pausa/>
+hab2	ahora mismo creo que sí <risa/> <risa_inicio/> ¿no? <risa_fin/>
+hab1	mmm ya sí <pausa/>
+hab2	pero tampoco vayamos <alargamiento>a</alargamiento> a ser tan extremistas <pausa/>
+hab1	hm <silencio/>
+hab2	"me parece un buen <ruido tipo=""golpe""/> periodista <pausa/> pero creo que ya se está metiendo demasiado <alargamiento>en</alargamiento> <silencio/>"
+hab2	<alargamiento>en</alargamiento> en eso que <alargamiento>ve</alargamiento> la gente ¿no? <alargamiento>que</alargamiento> que le parece un tío de denuncia un tío de <silencio/>
+hab2	no sé si será cosa suya ¡eh! <pausa_larga/>
+hab1	hm <pausa_larga/>
+hab2	pero bueno <pausa/>
+hab1	o sea ese sí que lo ves un poco encasillado en un guión ¿no? <pausa/>
+hab2	<alargamiento>sí</alargamiento><pausa/> sí me parece que siempre <alargamiento>es</alargamiento> <pausa/> siempre es lo mismo siempre es <silencio/>
+hab2	castigar al que manda siempre <pausa/> sí el que manda comete errores pero también comete errores porque manda <silencio/>
+hab1	ya <pausa/> claro
+hab2	decir si tú no mandas <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	evidentemente no vas a hacer nada mal <pausa/>
+hab1	hm <pausa/>
+hab2	no va a afectar a nadie <pausa/>
+hab1	hm <pausa_larga/>
+hab2	hay que saber verlo <pausa/>
+hab1	"<ruido tipo=""boca""/> claro <silencio/>"
+hab2	que ahora <pausa/> sea <pausa/> <énfasis_inicio/>todo<énfasis_fin/> <pausa/> prácticamente todo un desastre <pausa_larga/>
+hab2	sí <silencio/>
+hab2	pero ¡coño! <pausa/> algo bien hacen <pausa/>
+hab1	hm hm <pausa/>
+hab2	<palabra_cortada>sup</palabra_cortada> fff <pausa/> ¿no? <pausa/> en teoría <pausa/> si no no estarían ahí <pausa_larga/>
+hab1	sí sí
+hab1	hm hm <pausa/>
+hab2	si no ya les hubiésemos sacado de la forma que fuera <risa_inicio/>¿no? <risa_fin/> <silencio/>
+hab2	hay gente que sigue con ellos <alargamiento>y</alargamiento> si hay gente que todavía está con ellos <silencio/>
+hab2	es porque algo están haciendo bien <pausa_larga/>
+hab2	o porque esa gente no <pausa_larga/>
+hab2	no ve más <alargamiento>que</alargamiento> <pausa/> que <palabra_cortada>a</palabra_cortada> <pausa/> que aquello <silencio/>
+hab1	a lo mejor lo que hacen bien es convencerlos de <risa_inicio/> que <risa_fin/> <pausa/>
+hab2	sí pero <risa/> <risa_inicio/>es que es eso ¿no? <risa_fin/> <alargamiento>si</alargamiento> si te dejas convencer si <pausa_larga/>
+hab2	estás <énfasis_inicio/>tan<énfasis_fin/> metido en <alargamiento>tu</alargamiento> ideología y te lo crees <pausa/> todo <silencio/>
+hab2	es que realmente eso <alargamiento>no</alargamiento> <silencio/>
+hab2	no <palabra_cortada>si</palabra_cortada> no sirve de nada <alargamiento>no</alargamiento> <pausa/>
+hab1	¿crees que eso es más común quizá en el votante de derechas o en el simpatizante del <pausa/> <sigla_inicio/>PP<sigla_fin/> <alargamiento>que</alargamiento> <pausa/> en el votante de izquierdas <palabra_cortada>l</palabra_cortada> <pausa/> esa fidelidad? <silencio/>
+hab1	¿o crees <alargamiento>que</alargamiento> <alargamiento>hay</alargamiento> <alargamiento>esa</alargamiento> ?
+hab2	"<ruido tipo=""golpe""/> me parece sencillo de explicar <pausa_larga/>"
+hab1	hm <pausa/>
+hab2	partido de derechas hay <pausa_larga/>
+hab2	¿cuántos? <pausa/>
+hab1	claro <pausa_larga/>
+hab2	partido de <palabra_cortada>isquier</palabra_cortada> <pausa/> de izquierdas hay <pausa/> ¿cuántos? <pausa_larga/>
+hab2	"<ruido tipo=""golpe""/> si de derechas hay uno y de izquierdas hay <ruido tipo=""golpe""/> siete <pausa_larga/>"
+hab1	hm hm <pausa/>
+hab2	lo más normal es <alargamiento>que</alargamiento> <risa/> el de derechas siempre tenga muchos votos <pausa_larga/>
+hab1	hm <silencio/>
+hab2	claro <pausa/> es <énfasis_inicio/>mucho<énfasis_fin/> más normal <pausa/> creo que la izquierda debería estar bastante más unificada <pausa/>
+hab1	ya <pausa_larga/>
+hab2	<énfasis_inicio/>no<énfasis_fin/> son izquierdas <énfasis_inicio/>tan<énfasis_fin/> distintas <silencio/>
+hab2	realmente <pausa/> tienen <pausa/> patrones muy comunes <pausa_larga/>
+hab2	creo que <palabra_cortada>su</palabra_cortada> <pausa/> si estuviera unificada las cosas estarían mucho más niveladas <pausa_larga/>
+hab1	¿y crees que se <alargamiento>unirán</alargamiento> <pausa/> <alargamiento>para</alargamiento> <pausa/> no
+hab2	no
+hab2	no <pausa/> no me parece posible <silencio/>
+hab2	no me parece posible <pausa/> de <alargamiento>hecho</alargamiento> <alargamiento>tampoco</alargamiento> <pausa/> acabo de ver eso de izquierdas y derechas <silencio/>
+hab2	no me <alargamiento>parece</alargamiento> <pausa_larga/>
+hab2	lo mejor para la sociedad <silencio/>
+hab2	me parece mentalidad <alargamiento>de</alargamiento> <pausa/> de guerra civil <pausa/>
+hab1	mmm ya <silencio/>
+hab2	coño <pausa/> si las cosas van mal vamos <alargamiento>a</alargamiento> <pausa/> vamos a arrimar todos el hombro <pausa_larga/>
+hab2	vamos a ayudarnos <pausa/> ¿qué más da derechas y izquierdas? <pausa/> lo que importa es la gente <pausa/>
+hab1	hm <pausa/>
+hab2	niños con desnutrición <pausa/> desahucios <pausa/> parados <silencio/>
+hab2	no <énfasis_inicio/>puede<énfasis_fin/> pasar <pausa_larga/>
+hab2	¿qué más da derechas o izquierdas? <pausa_larga/>
+hab2	¿qué más da que se casen los gays <pausa/> o que no se casen? <pausa_larga/>
+hab1	hm <pausa_larga/>
+hab2	¿qué más da? <pausa/> si lo importante es que <pausa/> todo el mundo tenga trabajo y todo el mundo tenga para comer <pausa_larga/>
+hab1	hm <pausa_larga/>
+hab2	eso es lo que veo <pausa/> no me parece posible la unión <pausa_larga/>
+hab1	entre las izquierdas ¿no? <pausa/>
+hab2	no <pausa_larga/>
+hab2	no <pausa_larga/>
+hab2	"<ruido tipo=""inspiración""/> me <alargamiento>parece</alargamiento> <pausa/> impensable <silencio/>"
+hab1	y eso <pausa/> ¿a qué puede deberse? a <alargamiento>un</alargamiento> no sé <pausa_larga/>
+hab1	que las siglas pesan mucho <pausa_larga/>
+hab2	creo que sí <pausa/> creo <alargamiento>que</alargamiento> las siglas pesan mucho y <alargamiento>luego</alargamiento> <silencio/>
+hab2	"
+      <ruido tipo=""chasquido dedos""/>
+      <pausa_larga/>
+    "
+hab2	eeh los jefes de partido <pausa_larga/>
+hab2	también ¿no? <pausa_larga/>
+hab2	siempre en la historia de un partido <alargamiento>tiene</alargamiento> a <alargamiento>un</alargamiento> <pausa/> a un líder emblemático <pausa_larga/>
+hab2	ese líder emblemático suele ser <alargamiento>el</alargamiento> <pausa_larga/>
+hab2	que <alargamiento>tiene</alargamiento> la idea más extrema ¿no? <pausa/>
+hab1	mmm <pausa_larga/>
+hab2	entre comillas <pausa/> la que tiene la ideología de partido más <pausa/> pura <pausa_larga/>
+hab2	lo creó él <silencio/>
+hab2	es difícil que eso se junte <pausa/> pues sería como faltar al respeto a <pausa/> eso ¿no? <pausa/>
+hab1	hm hm <silencio/>
+hab2	en casos como el <sigla_inicio/>PSOE<sigla_fin/> por ejemplo <silencio/>
+hab2	<risa/> me parece <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	que justo lo que estoy diciendo no lo <pausa/> no lo hacen <silencio/>
+hab1	ya
+hab2	era un partido que nació de izquierdas <pausa/>
+hab1	hm <pausa_larga/>
+hab2	y que ahora que a veces <pausa/> más de centro <pausa/> por no decir de derecha ya <pausa/>
+hab1	hm <silencio/>
+hab1	"y ¿tú crees hay <palabra_cortada>al</palabra_cortada> eemm <ruido tipo=""chasquido boca""/> eso se <pausa/> puede deberse a que <pausa/> hoy en día <pausa/> la economía y el poder <pausa/> económico <pausa/> pesa más que el poder político? <pausa_larga/>"
+hab2	sin duda <silencio/>
+hab2	no <alargamiento>gobiernan</alargamiento> <pausa_larga/>
+hab2	partidos <pausa/> <alargamiento>gobiernan</alargamiento> <pausa/> negocios <pausa/>
+hab1	hm hm <silencio/>
+hab2	<alargamiento>que</alargamiento> Rajoy ponga la cara ahora mismo no quiere decir que Rajoy <pausa/> mande <pausa/> en el país <silencio/>
+hab1	ya
+hab2	"<ruido tipo=""chasquido boca""/> manda Iberdrola Endesa <pausa/> todas estas empresas grandes <pausa_larga/>"
+hab2	son ellos los <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	ponen el poder <pausa/>
+hab1	hm <silencio/>
+hab2	realmente el presidente pone <pausa/> pone la cara <pausa/> en España <pausa/> es así y <alargamiento>luego</alargamiento> fuera <silencio/>
+hab2	<alargamiento>no</alargamiento> mmm <pausa/> no estoy tan seguro ¿no? en países como Estados Unidos <pausa_larga/>
+hab2	creo que sí <alargamiento>que</alargamiento> <silencio/>
+hab2	que el presidente es presidente de verdad aquí no <pausa_larga/>
+hab1	hm hm <silencio/>
+hab2	aquí <alargamiento>manda</alargamiento> <pausa/> <alargamiento>manda</alargamiento> el que tiene más dinero <pausa/> y el que tiene más dinero no es el presidente <pausa_larga/>
+hab1	mmm ya <pausa_larga/>
+hab2	aunque lo robe <pausa/>
+hab1	<risa_inicio/>ya <risa_fin/><risa/> después como se irá a trabajar a Iberdrola o alguna de estas
+hab2	claro <pausa/> claro es que ahí <risa_inicio/>está <pausa/> ahí está <pausa/> después <pausa/> las cosas se ven <risa_fin/> ¿no? <pausa/> <risa/> después siempre acaban en consejo de administración de no sé qué <pausa/> un señor que <pausa_larga/>
+hab1	sí
+hab2	que dice que la crisis y todo eso acabará en el consejo de administración de alguna empresa <pausa_larga/>
+hab2	este señor ¿qué sabe de números? <pausa_larga/>
+hab1	hm
+hab2	si vino a arreglar algo y le está <risa_inicio/>empeorando <risa_fin/> <pausa/>
+hab1	hm <pausa/>
+hab2	¿qué sabe este señor de números? <pausa_larga/>
+hab1	hm hm <pausa_larga/>
+hab2	<alargamiento>es</alargamiento><pausa/><alargamiento>bastante</alargamiento><pausa/> irónico <pausa_larga/>
+hab1	sí eh la verdad es que sí <pausa_larga/>

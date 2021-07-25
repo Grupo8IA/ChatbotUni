@@ -1,0 +1,440 @@
+hab1	ay que no te conté <pausa_larga/> la semana que viene termino prácticas ya
+hab2	"y después ¿qué vas a hacer? <ruido tipo=""golpe""/>"
+hab1	pues me voy a la facultad <pausa/> tengo clase normal <pausa_larga/> solo tengo dos asignaturas
+hab2	¿y los niños saben que terminas?
+hab1	hm <pausa_larga/> saben ya <pausa/> hoy de hecho estaban hablando
+hab1	"<ruido tipo=""chasquido boca""/> porque saben que termino el catorce"
+hab1	y es el día de los enamorados
+hab2	es el viernes ¿no?
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	"el lunes que viene sí <pausa/> <alargamiento>y</alargamiento> sí que lo saben de hecho a la mañana dice la profesora <pausa_larga/> porque les estaba explicando lo de mmm <ruido tipo=""chasquido boca""/>"
+hab1	bueno lo de <alargamiento>Carnaval</alargamiento> es lo que van <pausa/> que van <pausa/> tienen toda una semana que van a hacer actividades de <palabra_cortada>Carna</palabra_cortada> <pausa/> sí sí empezó superpronto
+hab2	empezáis pronto
+hab1	<alargamiento>y</alargamiento> que tienen actividades de Carnavales <pausa/> nada de libro <pausa/> en plan no van a dar nada de libro matemáticas van a hacer cosas de <alargamiento>Carnaval</alargamiento> <pausa/> van a hacer hasta recetas
+hab2	¿qué son? <alargamiento>de</alargamiento> <pausa/> <palabra_cortada>prime</palabra_cortada> <pausa/> <alargamiento>de</alargamiento>
+hab1	segundo de primaria <pausa/> bueno <pausa/> entonces <pausa/> le <alargamiento>dice</alargamiento> <pausa/> dijo <cita_inicio/>bueno la semana que viene <pausa/> no
+hab2	segundo
+hab1	la siguiente tampoco <pausa/> la última vamos a empezar a hacer actividades y el día veintiocho
+hab1	tenéis el festival
+hab1	<alargamiento>que</alargamiento><pausa/> que es <pausa/> <ininteligible/><cita_fin/>
+hab2	y después es cuando es Carnaval
+hab1	sí sí la siguiente es Carnaval <pausa_larga/> que de hecho estoy invitada al festival <pausa_larga/> van <alargamiento>de</alargamiento> <pausa_larga/> del entierro de la sardina
+hab2	y ¿ya hicisteis la? <pausa/> y tú <pausa_larga/> pero espera
+hab1	tengo que ir toda de negro
+hab2	¿pero no van con sacos? <pausa/> o sea ¿los disfraces no se hacen con sacos?
+hab1	"tienen que <ruido tipo=""golpe""/> llevar cosas de casa <pausa/> lo que tengan"
+hab2	ah ¿no lo hacéis en el cole?
+hab1	sí lo hacen en el <palabra_cortada>co</palabra_cortada> <pausa/> no el disfraz no lo hacen en el cole <pausa/> ahora no porque este año tienen un proyecto <palabra_cortada>interdesc</palabra_cortada> interdisciplinar de <palabra_cortada>Carna</palabra_cortada> <pausa/> bueno a tope ahí a topísimo
+hab2	"
+      <risa/>
+    "
+hab1	bueno entonces <pausa_larga/> eeh la cosa es <pausa/> que eemm <pausa/> bueno eso les estaba explicando cuándo era Carnaval tal <pausa/> y dice
+hab1	<cita_inicio/>claro y la semana que viene<cita_fin/><pausa_larga/> y me mira y me dice
+hab2	<cita_inicio/>te vas<cita_fin/>
+hab2	¿no?
+hab1	sí <pausa/> y me dice <pausa/> y me dice <pausa/> <cita_inicio/>eeh <pausa/> bueno
+hab2	ah vale
+hab1	¿saben que te vas?<cita_fin/> <pausa/> y yo <pausa/> <cita_inicio/>sí sí <pausa/> ya lo saben<cita_fin/> <pausa_larga/> bueno pues la semana que viene se va <ficticio>Ana</ficticio> y sobre todo el viernes catorce<cita_fin/> y dice uno
+hab1	<cita_inicio/>es el día de los enamorados<cita_fin/>
+hab2	<cita_inicio/>le voy a traer una flor<cita_fin/>
+hab1	y <alargamiento>dice</alargamiento> <pausa/> y dice <cita_inicio/>sí sí ese día vamos a estar tristes porque claro se nos va <ficticio>Ana</ficticio> no sé qué no sé cuánto<cita_fin/>
+hab1	y <palabra_cortada>a</palabra_cortada> <pausa/> y me están haciendo un papel
+hab2	con la <palabra_cortada>firm</palabra_cortada> <pausa/> con dibujos de todos ¿no?
+hab1	dibujos de todos y firmas <alargamiento>y</alargamiento> frases de todos <pausa/> y claro ellos <pausa/> no se dan cuenta que yo <risa_inicio/>ya lo sé<risa_fin/> que lo están haciendo porque claro me acerco a lo <palabra_cortada>me</palabra_cortada> porque están en grupos trabajando en grupos de cuatro
+hab2	ah no <pausa/> ellos no saben que tú lo sabes
+hab1	ellos no saben que yo ya me di cuenta
+hab1	y entonces claro están así <pausa/> <alargamiento>y</alargamiento> lo tiene una chica la <ininteligible/> más trabajadora
+hab2	¿pero se lo dijeron a los profes?
+hab1	se lo dijo a la profesora que de hecho la profesora firmó <pausa/> yo ya la vi firmar
+hab1	y claro entonces están así <pausa/> <alargamiento>y</alargamiento> <pausa/> y en un momento que me tuve que acercar a una mesa
+hab1	y claro yo sabía que lo estaban haciendo porque son muy cantosos porque están
+hab1	<cita_inicio/>toma <pausa/> toma <pausa/> firma <pausa/> firma <pausa/> pero devuélvemelo<cita_fin/>
+hab1	"<ruido tipo=""chasquido boca""/> no se dan cuenta <pausa/> yo estoy muy atenta a todo porque obviamente tengo que estar atenta a cómo se comportan y todas esas cosas entonces"
+hab2	ya
+hab1	yo ya me di cuenta
+hab1	y yo claro yo intento disimular no sé qué ahí tal
+hab2	vas a llorar muchísimo
+hab1	<alargamiento>y</alargamiento><palabra_cortada>muchí</palabra_cortada><pausa/> hoy casi lloro cuando lo dice la profesora
+hab2	¿por qué?
+hab1	<cita_inicio/>claro porque el viernes se va <ficticio>Ana</ficticio> va a ser un día de despedida<cita_fin/>
+hab2	"
+      <ruido tipo=""tos""/>
+    "
+hab1	y ya ves a los niños con caritas tristes
+hab2	llévales caramelos
+hab2	mi madre le lleva así caramelos a veces al cole
+hab1	sí les vamos a llevar algo es <pausa/> de hecho estuve hablando con mi compañera
+hab2	pero está <pausa/> ah <pausa/> ¿sois dos en clase?
+hab1	no no <pausa/> en clase estoy yo con la profesora <pausa/> tengo otra compañera en la otra clase <pausa/> está mi otra compañera <pausa/> y luego hay otro <pausa/> tengo otro compañero en primero <pausa/> y otro en quinto
+hab2	vale <pausa/> y sois todos de la misma clase de facultad
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	vale
+hab1	pero <pausa/> de la misma edad no <pausa/> pero de la misma clase sí
+hab2	ah bueno claro porque cada uno empezaría cuando empezó
+hab1	"<ruido tipo=""chasquido boca""/> claro no no es que es que uno va en un <alargamiento>curso</alargamiento> <pausa_larga/> <palabra_cortada>te</palabra_cortada> <pausa/> está repitiendo"
+hab1	vamos no <alargamiento>repite</alargamiento> pero vamos le quedaron asignaturas entonces <alargamiento>está</alargamiento>
+hab2	ya
+hab1	bah <pausa/> <ininteligible/>
+hab2	¿ves? a mí me gustaría tener prácticas y aquí estoy
+hab1	mmm ya
+hab2	"
+      <risa/>
+    "
+hab1	<alargamiento>y</alargamiento><pausa/> y eso entonces luego vuelvo el <alargamiento>el</alargamiento> <palabra_cortada>m</palabra_cortada> el <palabra_cortada>m</palabra_cortada> lunes siguiente ya vuelvo a la facultad o sea <pausa/> tengo clase normal
+hab1	dos asignaturas tengo <pausa/> ya va a ser un <palabra_cortada>ca</palabra_cortada> <ininteligible/> <ininteligible/> <ininteligible/>
+hab2	"
+      <ininteligible/>
+    "
+hab2	¿solo tienes dos?
+hab1	religión <pausa/> tengo religión
+hab1	inglés
+hab1	y el proyecto fin de grado <pausa/> que el proyecto fin de grado <ininteligible/> sí tuve <vacilación/> la cogí yo a mayores porque quise
+hab2	¿y haces religión?
+hab2	"
+      <ininteligible/>
+    "
+hab2	ah es que te iba a decir que me parece <palabra_cortada>m</palabra_cortada>
+hab2	o sea que sea obligatoria <pausa_larga/> me parece raro
+hab1	no no es <pausa/> la cogí yo a mayores es optativa ya
+hab2	o sea ¿solo tenías una?
+hab1	solo tendría inglés porque el resto ya las tengo aprobadas
+hab1	<alargamiento>y</alargamiento> tengo el trabajo fin de grado <pausa_larga/> y eso <alargamiento>y</alargamiento> tal <pausa_larga/> y eeh
+hab2	¿de qué lo vas a hacer?
+hab1	aprendizaje colaborativo
+hab1	por eso tengo a los niños trabajando en grupos y tienen que realizar unas actividades
+hab2	ah o sea que la profesora se adapta a lo que vas a hacer tú en el trabajo
+hab1	exacto <pausa/> yo le dije a la profe <cita_inicio/>mira <pausa/> <alargamiento>necesito</alargamiento>
+hab1	hacer una cosa en clase<cita_fin/> y me dice <cita_inicio/>a ver <pausa/> cuéntame<cita_fin/>
+hab1	necesito que los niños trabajen durante una unidad concreta de una asignatura <pausa/> cogí lengua castellana
+hab1	en grupos
+hab1	tengo unas actividades concretas
+hab2	¿no era más fácil plástica o así?
+hab1	ya pero es que mi profe no está en plástica <pausa/> <alargamiento>y</alargamiento> <pausa_larga/> a ver podría quedarme en la clase de plástica pero es que plástica es una hora a la semana
+hab2	ah <transcripción_dudosa_inicio/>vale<transcripción_dudosa_fin/>
+hab2	ya <pausa/> no te compensa
+hab1	<alargamiento>y</alargamiento> me llevaría muchísimas <palabra_cortada>m</palabra_cortada> más semanas ¿sabes?
+hab1	porque esa profesora da plástica y música
+hab2	"<ruido tipo=""chasquido boca""/> y la <palabra_cortada>pra</palabra_cortada> <pausa/> y la profe también tiene menos clases <alargamiento>con</alargamiento>"
+hab1	claro <pausa_larga/> <alargamiento>y</alargamiento> la <palabra_cortada>pr</palabra_cortada> <pausa/> y no le voy a gastar <énfasis_inicio/>yo<énfasis_fin/> <pausa/> todas <palabra_cortada>es</palabra_cortada> <pausa/> durante
+hab2	las pocas horas que tienes <pausa_larga/> ya
+hab1	"<ruido tipo=""chasquido boca""/> claro no le voy a gastar todo el tiempo entonces después le <pausa/> me dice ella <cita_inicio/>sin problema sin problema<cita_fin/> entonces los tengo allí en grupos"
+hab1	trabajan con lo que yo les digo tal <pausa/> también hacemos cosas normales del libro tal
+hab1	y mmm <pausa_larga/> y eso muy bien
+hab1	y están muy contentos
+hab2	pues así <pausa/> y luego eeh <pausa/> me refiero haces el trabajo
+hab1	luego hago el trabajo
+hab2	¿y lo de la beca esta que ibas a pedir?
+hab1	ah bueno <pausa/> eso es <pausa/> es que me enteré <pausa/> <énfasis_inicio/>hoy<énfasis_fin/>
+hab2	también la hay en mi facultad <pausa/> lo que pasa que
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	es que la hay en <palabra_cortada>to</palabra_cortada> <pausa/> esa <pausa/> eeh
+hab2	pero ¿te da puntos para lo de las oposiciones?
+hab1	no lo sé <pausa/> bueno <pausa/> te cuento cómo es la cosa <pausa/> hoy estábamos tomando café
+hab1	y dice
+hab2	¿con las profesoras?
+hab1	no no <pausa_larga/> los de prácticas <pausa_larga/> tomamos café los de prácticas
+hab1	y <pausa_larga/> claro estábamos allí tomando café
+hab1	<alargamiento>y</alargamiento> dice uno <cita_inicio/>mirad lo que me mandó <pausa/> mi tutora <alargamiento>de</alargamiento> trabajo fin de grado<cita_fin/>
+hab1	uno de mis compañeros dijo eso y yo le dije <cita_inicio/>¿lo que?<cita_fin/>
+hab1	unas becas <pausa/> para
+hab1	eeh ser profesor de conversación <pausa_larga/> de español
+hab2	hm
+hab1	<alargamiento>en</alargamiento> diferentes países de Europa <pausa_larga/> y también hay Estados Unidos
+hab2	y de <pausa/> con sueldo me refiero
+hab1	con sueldo al mes <pausa/> sí
+hab2	claro pero no te pagan <pausa/> o sea la estancia y eso te lo buscas <pausa_larga/> obviamente
+hab1	eeh
+hab1	me busco <palabra_cortada>es</palabra_cortada> <pausa/> me <palabra_cortada>bu</palabra_cortada> claro me busco la estancia yo por mi cuenta <pausa/> y pero me dan un sueldo al mes
+hab2	¿no?
+hab1	y es durante un año <pausa_larga/> serán los <pausa/> años <pausa/> los meses que dure un curso escolar <pausa_larga/> en primaria estaré ¿no?
+hab1	entonces <pausa/> estuve mirando tal
+hab1	"me mandó el correo y claro yo en el momento pues <pausa/> <ruido tipo=""chasquido boca""/> <alargamiento>no</alargamiento> desde el móvil no veía bien <pausa/> entonces al llegar a casa"
+hab2	¿y qué?
+hab1	miré en el ordenador <pausa/> <ininteligible/>
+hab1	y estuve mirando los requisitos <pausa/> los méritos y todo
+hab2	<palabra_cortada>pe</palabra_cortada><pausa/><alargamiento>y</alargamiento><pausa/> pero ¿qué tienes que hacer? o sea <palabra_cortada>t</palabra_cortada> <pausa/> ¿pasas una entrevista o cómo? ¿va por nota?
+hab1	tengo <pausa/> no <pausa/> tengo que hacer
+hab1	<alargamiento>el</alargamiento> expediente cuenta
+hab1	eeh <pausa_larga/> de hecho yo tengo un ocho con tres
+hab1	tengo ocho con tres puntos
+hab2	¿a qué es dificilísimo subir de esa nota?
+hab1	sí <pausa/> yo estoy atascada en el ocho con tres <pausa/> a ver si me sube ahora <palabra_cortada>est</palabra_cortada> <pausa/> en plan superar este curso
+hab2	ah <pausa/> ah <pausa/> ah
+hab2	si yo tuviese un ocho con tres <pausa/> le besaba los pies a quien <risa_inicio/>fuese<risa_fin/> ¿sabes?
+hab1	con el prácticum <ininteligible/>
+hab1	<alargamiento>y</alargamiento><pausa/> pero me refiero <pausa/> estoy ahí <pausa/> no no subo de ahí o sea
+hab2	yo tengo miedo a quedarme sin plaza en el máster ¡eh!
+hab1	"
+      <ininteligible/>
+    "
+hab2	eeh <pausa/> cada vez hay menos plazas <pausa/> hay cuarenta
+hab1	ya es que hay pocas
+hab2	"si solo fuese <alargamiento>para</alargamiento> mmm <pausa/> <ruido tipo=""chasquido boca""/> <alargamiento>para</alargamiento> Santiago ¿sabes? sí <pausa/> pero"
+hab1	sí
+hab2	si es <alargamiento>para</alargamiento>
+hab1	hm
+hab2	todas las filologías del mundo ¿qué?
+hab1	ya
+hab2	o sea del mundo no <pausa/> pero
+hab1	<ininteligible/> el mundo no pero sí <ininteligible/>
+hab2	sí
+hab1	bueno
+hab2	bueno eso <pausa/> lo de la beca
+hab1	"entonces miré en casa <ruido tipo=""palmada""/> tal el expediente cuenta"
+hab1	cuenta bueno hay muchas más cosas <pausa/> y yo tengo <palabra_cortada>m</palabra_cortada> me en plan me da méritos
+hab1	"aparte lo que tengo del curso de monitores <pausa/> hasta me va bien y todo <ruido tipo=""palmada""/>"
+hab2	¿para qué? <pausa/> ¿para lo <alargamiento>de</alargamiento> irte fuera?
+hab1	porque <pausa/> es un <palabra_cortada>cri</palabra_cortada> <pausa/> eeh <pausa/> sí porque tienes que <palabra_cortada>pe</palabra_cortada> va en plan méritos
+hab2	¿miraste las <palabra_cortada>bas</palabra_cortada>?
+hab1	"<ruido tipo=""chasquido boca""/> te pone lo que <pausa/> unos <pausa/> una serie de baremos <pausa/> si tienes <pausa/> <énfasis_inicio/>esto<énfasis_fin/> <pausa/> te da un punto <pausa/> si tienes esto te dan otro punto"
+hab2	¿y qué? mandas los datos por internet y punto
+hab1	sí <pausa/> te <pausa/> se <pausa/> los adjuntas en un <sigla_inicio/>PDF<sigla_fin/>
+hab2	y ¿ya lo hiciste?
+hab1	<alargamiento>y</alargamiento> no <pausa/> lo voy a hacer hoy a la noche porque eso lo vi a mediodía <pausa/> tengo hasta el día veintidós para cubrirlo <pausa/> lo vi hoy y a mediodía no me daba tiempo
+hab2	"
+      <alargamiento>ya</alargamiento>
+    "
+hab1	porque claro <pausa/> se lo consulté a mi madre también que mi madre llegó a las tres
+hab2	¿qué dijo?
+hab1	y dice mi madre <cita_inicio/>sí sí tú pídelo tú pídelo que eso siempre está bien<cita_fin/> tal
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab2	además tú que no haces máster <pausa/> el año del máster <pausa/> vas a eso <pausa/> y te queda de experiencia ¿no?
+hab1	claro
+hab1	claro entonces mi madre me <palabra_cortada>dic</palabra_cortada> <pausa/> sí es que es eso <pausa/> es que después vale haces <pausa/> imagínate haces un año ahí fuera <pausa_larga/> vale me vuelvo
+hab1	porque <ininteligible/>
+hab2	"y a ver te viene bien <ruido tipo=""chasquido boca""/> quieras que no es un año que despejas la mente"
+hab1	<alargamiento>y</alargamiento><pausa/> y voy para allí tal <pausa/> y dice mi madre <cita_inicio/>eso luego la <palabra_cortada>p</palabra_cortada> <pausa/> queda en el currículum
+hab1	<alargamiento>y</alargamiento> está bien o sea está bien tal <pausa/> y no sé <pausa/> y no pasa nada tal<cita_fin/>
+hab1	<alargamiento>y</alargamiento><pausa/> y eso me dijo o sea me dijo mi madre <cita_inicio/>sí sí adelante adelante<cita_fin/> <pausa/> mi padre también dijo que bien
+hab2	<risa_inicio/>tu padre te dijo que bien<risa_fin/>
+hab1	o sea <alargamiento>que</alargamiento>
+hab1	mi <palabra_cortada>pa</palabra_cortada> dijo <pausa/> <cita_inicio/>bueno bueno <ininteligible/><cita_fin/>
+hab2	"<cita_inicio/><risa_inicio/>bueno<risa_fin/><pausa/><lengua_inicio nombre=""gl""/>a <palabra_cortada>v</palabra_cortada> a ver se non volves<lengua_fin/><cita_fin/> <risa/>"
+hab1	eeh no sé dijo así en plan no <pausa/> no dijo <cita_inicio/><énfasis_inicio/>no<énfasis_fin/> no vayas ahí tal<cita_fin/> <pausa/> pero bueno dijo <pausa/> <cita_inicio/>vale <pausa/> bien<cita_fin/>
+hab2	a ver <pausa/> por pedirla luego si no <pausa/> la renuncias y punto
+hab1	y es lo que dije yo <pausa/> <palabra_cortada>dij</palabra_cortada> en <palabra_cortada>pl</palabra_cortada> le dije a mi padre <cita_inicio/>mira <pausa/> yo la pido
+hab1	¿que me la dan y luego al final pues tal? <pausa/> a ver hay un tiempo para renunciar <pausa/> bueno pues mira siempre puedo renunciar<cita_fin/>
+hab2	claro <pausa_larga/> y ya está
+hab1	<alargamiento>y</alargamiento> y ya está <pausa/> por pedirla no pasa nada <pausa/> el no ya lo tengo <alargamiento>como</alargamiento> quien dice ¿no?
+hab2	a ver <pausa/> es que lo importante es ir buscándose así cosas
+hab1	<alargamiento>y</alargamiento><pausa_larga/> y claro
+hab2	eeh ayer me encontré a una amiga <alargamiento>que</alargamiento> bailó conmigo ¿sabes? que estudió periodismo <pausa/> de ricitos ¿sabes quién es?
+hab1	sí
+hab1	sí
+hab1	hm <pausa_larga/> hm
+hab2	<alargamiento>pues</alargamiento><pausa/> me la encontré por la noche <pausa_larga/> y me dijo
+hab2	"o sea es que <ruido tipo=""golpe""/> impresiona"
+hab2	<alargamiento>que</alargamiento> estaba estudiando árabe y le dije <cita_inicio/>¿pero a dónde te vas?<cita_fin/>
+hab1	hm
+hab1	¿árabe?
+hab2	y me dijo <pausa/> <cita_inicio/>a Marruecos a buscar trabajo<cita_fin/> y yo le dije <cita_inicio/>pero <pausa/> pero ¿cómo te vas a?
+hab2	eeh ¿buscaste aquí?<cita_fin/> <cita_inicio/>sí aquí no hay me voy a Marruecos<cita_fin/> <risa/>
+hab1	ya
+hab2	y yo le dije <cita_inicio/>bueno<cita_fin/>
+hab1	es que hay unas becas en Marruecos para no sé qué historia
+hab2	ah hay becas
+hab1	me llegaron a mí
+hab2	y ¿por qué te llegan? <pausa/> ¿dónde te anotaste para que te lleguen?
+hab1	me las mandan por la facultad
+hab1	es que tenemos <pausa/> una red <pausa/> en ¡una red! <pausa/> una lista <pausa/> de correos de la facultad que <pausa/> llegan becas y cosas así te lo mandan
+hab2	ah pero a nosotros becas no nos mandan <pausa/> bueno <pausa/> yo no me entero vamos
+hab1	<ininteligible/><pausa/> a nosotros información <pausa/> en plan <pausa/> y a veces esa información llega <palabra_cortada>s</palabra_cortada> algo sobre becas
+hab2	sí sí igual que te felicitan las <alargamiento>Navidades</alargamiento> y todo eso ¿no?
+hab1	¡y los entierros! <pausa_larga/> también te informan sobre cuando le <alargamiento>muere</alargamiento> a <pausa/> el padre a algún profesor <pausa/> el hijo el abuelo a todos sí sí
+hab2	¿los entierros?
+hab2	eh <pausa/> el hijo <risa/> <pausa/> ¿en serio?
+hab1	todos <pausa/> sí sí <pausa/> llegan <pausa/> llegan
+hab2	pero ¿vais a los entierros y eso?
+hab1	yo no voy
+hab1	pero bueno
+hab2	¿pero hay gente que va? <pausa/> ¿de verdad? <pausa/> ¿en serio?
+hab1	a ver es que es <pausa/> en esa lista también están incluidos los profesores <pausa/> entonces llega a todos
+hab2	aah os llega a todos
+hab1	sí <pausa/> <alargamiento>pero</alargamiento> vamos que a lo mejor algún profesor con el que tuviste una relación muy cercana <pausa/> yo qué sé pues le muere la mujer
+hab1	o le muere un hijo pues hay gente que le va <pausa_larga/> de hecho este año a un profesor <pausa_larga/> le murió un hijo
+hab2	ya
+hab1	el hijo dieciocho años
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	había chicos <pausa/> en mi clase
+hab2	que fueron ¿no? <pausa/> ah que habían sido compañeros <alargamiento>del</alargamiento>
+hab1	que eran <palabra_cortada>compañe</palabra_cortada>
+hab1	en plan que lo conocían del equipo <pausa/> porque el chico jugaba al fútbol ni sé qué historias
+hab2	en el pabellón seguro
+hab1	no sé dónde era <pausa/> entonces pues <pausa/> había chicos que sí que fueron <pausa/> le fueron al entierro porque dijo <cita_inicio/>jolín lo conocíamos<cita_fin/> tal
+hab2	ya
+hab1	y se <pausa/> y lo <pausa/> y se enteraron
+hab2	a nosotros en Santiago no es así <pausa/> a ver sí <pausa/> tenemos un correo
+hab2	donde <pausa/> desde ahí yo le mando a los profesores y todo eso <pausa/> pero que
+hab1	eso también <pausa/> yo también tengo para mandarle a los correos
+hab2	ah pero es lo mismo y luego
+hab2	<alargamiento>en</alargamiento> Navidad y el rector y todo eso <pausa/> sí
+hab1	sí bueno <pausa/> esas historias también <pausa/> sí pues a nosotros además nos mandan esas cosas
+hab2	sí
+hab1	y está <palabra_cortada>bi</palabra_cortada> <pausa/> y o sea <pausa/> te <alargamiento>llegan</alargamiento> noticias <pausa/> pero por ejemplo este
+hab2	pues hay ahí un cartel también de intercambio ¿no?
+hab1	este se lo mandó <pausa/> la tutora de trabajo fin de grado <pausa/> a mi compañero y mi compañero <palabra_cortada>l</palabra_cortada>
+hab1	"<ruido tipo=""chasquido boca""/><pausa_larga/> porque"
+hab2	os lo avisó
+hab1	nos avisó <pausa/> mi <palabra_cortada>co</palabra_cortada> a mi <palabra_cortada>co</palabra_cortada> compañero no le interesa <pausa/> pero él dijo que sí porque tuvo un año muy malo tal
+hab1	<alargamiento>y</alargamiento> dice que igual lo pide
+hab2	mmm <pausa/> hace bien <pausa/> hace bien <pausa/> para <risa_inicio/>despejarse<risa_fin/>
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	<alargamiento>y</alargamiento> y yo le dije <cita_inicio/>ay pues<cita_fin/> y yo le dije <cita_inicio/>ay pues mándamelo a mí <pausa/> mándamelo a mí que quiero informarme<cita_fin/>
+hab2	<cita_inicio/>que yo también tuve un año malo y me voy<cita_fin/>
+hab1	y lo miré a mediodía y dije <cita_inicio/>jolín está súper bien<cita_fin/>
+hab1	tengo que hablar con mi tutora
+hab1	de trabajo fin de grado
+hab1	que es la que me lleva también de prácticum porque me tiene que hacer una carta de recomendación
+hab2	¿qué te iba a decir <alargamiento>yo</alargamiento>? <ininteligible/>
+hab2	para irte
+hab1	hm
+hab1	<alargamiento>y</alargamiento> ya me la va y me <pausa/> y <palabra_cortada>m</palabra_cortada> en plan no me van a poner ningún problema
+hab2	¿te la puede hacer la profesora que tú quieras?
+hab1	sí <pausa/> pero voy a escoger la de fin de grado que aparte me dio clase en la <palabra_cortada>facul</palabra_cortada> <pausa/> me dio clase en primero
+hab1	la otra que tutoriza con ella porque tutorizan dos el trabajo
+hab2	¿cuántas <palabra_cortada>tie</palabra_cortada> <pausa/> <alargamiento>cuántos</alargamiento> tiene <alargamiento>que</alargamiento>?
+hab1	tengo dos <pausa_larga/> a dos profesoras
+hab2	"<ruido tipo=""chasquido boca""/><pausa/> pero ¿cuántas?"
+hab1	claro <pausa/> tendré <palabra_cortada>co</palabra_cortada>
+hab2	dos personas tienen <pausa/> sí <pausa/> la carta
+hab1	no <pausa/> una <pausa/> pero bueno si una no puede la otra me la va a hacer o sea entre las dos me la harán
+hab2	vale
+hab2	o si no le pides dos y la que mejor quede ¿no?
+hab1	sí
+hab1	igual hago así
+hab1	y luego ¿qué más? <pausa/> y eso tengo que cubrir unos <palabra_cortada>da</palabra_cortada> <pausa_larga/> unos datos por ahí
+hab2	pues sí
+hab1	y eso <pausa/> pero bah me dijo mi madre <cita_inicio/>adelante<cita_fin/> y yo <cita_inicio/>pues hala venga de cabeza y hago bien<cita_fin/>
+hab2	haces bien <pausa/> total <pausa_larga/> para estudiar siempre hay tiempo ¿no?
+hab1	hombre
+hab2	¿y lo de las oposiciones?
+hab1	y claro <pausa/> porque eso es lo que dice mi padre <pausa/> dice <cita_inicio/>¿pero no era que el año que viene ibas a opositar?<cita_fin/> <pausa/> porque claro en el café estamos <pausa/> y le suelto a mi <palabra_cortada>pa</palabra_cortada>
+hab2	¿en <alargamiento>el</alargamiento>?
+hab1	en el café <pausa/> en la cafetería a mediodía
+hab1	¡a mediodía! <pausa/> en el recreo <pausa/> perdón
+hab2	ah
+hab2	ah vale <pausa/> no <pausa/> a ver con tus amigos
+hab1	<ininteligible/> café
+hab1	primero estaba con mis amigos
+hab2	ah y después tomas café con tu padre
+hab1	no no no <pausa/> esto es que me acordé ahora y te lo cuento todo seguido <pausa/> resulta que yo estaba en el café
+hab1	y claro fue cuando contaron esto de las becas
+hab2	al lado de Maristas ¿no?
+hab1	sí <pausa_larga/> y me dice mi compañera <cita_inicio/>es que claro yo para el año no sé qué voy a hacer<cita_fin/> <pausa/> y yo dije <pausa/> <cita_inicio/>yo voy a opositar<cita_fin/>
+hab2	y punto <pausa_larga/> lo tenías claro
+hab1	yo lo tenía claro <pausa_larga/> y claro <pausa/> luego justo contó lo de las becas y ya me confundí un poco y dije yo <cita_inicio/>bueno <pausa/> yo las pido un poco tal <pausa/> y si toca bien <pausa/> si no<cita_fin/>
+hab2	yo te puedo ir a visitar
+hab1	hombre por supuesto
+hab2	o sea vete a un sitio que no haya estado
+hab1	eeh voy a pedir Irlanda o Reino Unido
+hab1	en plan esas dos
+hab2	pero ¿no <alargamiento>te</alargamiento> tocará un <alargamiento>pueblucho</alargamiento> <alargamiento>así</alargamiento>?
+hab1	no son ciudadillas
+hab2	ah vale
+hab2	vale <pausa/> vale
+hab1	me <alargamiento>refiero</alargamiento> tal
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab2	¿<palabra_cortada>pue</palabra_cortada>? <pausa/> pero espera ¿puedes pedir lo que quieras?
+hab1	tengo que pedir <pausa/> es que a ver hay <alargamiento>Alemania</alargamiento> Francia <pausa_larga/> yo <pausa/> alemán no tengo <palabra_cortada>idiom</palabra_cortada> <pausa/> <palabra_cortada>n</palabra_cortada> no sé hablarlo o sea no voy a ir a Alemania
+hab1	luego <pausa/> eeh Francia <pausa_larga/> tampoco
+hab1	tengo que pedir las de habla inglesa
+hab2	¿y Ámsterdam o así?
+hab1	en plan <pausa/> van por grupo <pausa_larga/> no <pausa/> no hay Ámsterdam <pausa/> hay Bélgica <pausa/> Bélgica Francia y otro país
+hab2	mejor vete <ininteligible/> a Bélgica
+hab1	<alargamiento>y</alargamiento><pausa_larga/> y entonces escojo los <pausa/> el grupo de habla inglesa <pausa/> y claro tengo Canadá también pero no me voy ir Canadá <pausa/> o a Estados Unidos porque
+hab2	hombre claro
+hab2	no ya y
+hab2	tú <alargamiento>sola</alargamiento> <pausa_larga/> eh
+hab1	<alargamiento>allí</alargamiento> no <pausa_larga/> en plan <pausa/> en cambio Irlanda <ininteligible/>
+hab2	eres menor de edad <pausa_larga/> allí
+hab1	por eso entonces no
+hab2	aún
+hab1	voy <alargamiento>a</alargamiento> <pausa/> pido esas ¿qué me las dan? bien ¿qué no? pues bueno pues ya está ¿qué se le va hacer?
+hab2	tampoco es para tanto y <alargamiento>tampoco</alargamiento> fue un <alargamiento>sueño</alargamiento>
+hab1	no me voy a morir <pausa_larga/> no me voy a morir <pausa/> no es una cosa en plan que lo esté soñando y que me esté muriendo bueno y entonces resulta
+hab2	desde pequeña
+hab1	que <pausa/> <alargamiento>luego</alargamiento> <pausa/> eso le dije que opositaba y ellos <cita_inicio/>bueno tal no sé qué<cita_fin/> claro ellos <pausa/> no saben muy bien qué van a hacer
+hab2	¿tus compañeros del cole dices?
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	"<ruido tipo=""chasquido boca""/> sí mis compañeros de la facultad"
+hab1	de la facultad <pausa/> <alargamiento>de</alargamiento> <pausa/> sí tal
+hab2	ah <pausa/> <alargamiento>vale</alargamiento> sí
+hab1	<alargamiento>y</alargamiento> bueno y entonces después <pausa/> eemm llegué a casa tal <pausa/> y se lo conté a mi padre a mi madre tal <pausa/> y dijo mi padre <cita_inicio/>pero ¿tú el año que viene no ibas a opositar?<cita_fin/> y yo
+hab1	<cita_inicio/>sí tenía pensado opositar <pausa/> <alargamiento>pero</alargamiento> mmm
+hab1	pero ¿no sabes?<cita_fin/> <pausa/> digo <cita_inicio/>voy a pedir esto ¿qué me lo dan? bien <pausa/> ¿qué no? <pausa/> pues oposito<cita_fin/>
+hab1	mmm y eso
+hab2	ya
+hab1	y no pasa nada
+hab1	así que será lo que haga
+hab1	"
+      <ruido tipo=""golpe""/>
+    "
+hab1	a ver qué pasa
+hab2	bueno <pausa_larga/> yo si vas voy a verte
+hab1	<ininteligible/> sí sí <pausa/> por supuesto <pausa/> voy estar allí todo el año
+hab2	"bueno <pausa_larga/> <lengua_inicio nombre=""gl""/>filla<lengua_fin/> <pausa_larga/> en Navidad vendrás"
+hab1	vengo en Navidad <pausa/> en Navidad sí <palabra_cortada>q</palabra_cortada> <pausa/> tendré ahí <ininteligible/>
+hab2	y en Semana Santa viajas no vengas
+hab1	las vacaciones del cole vengo
+hab2	bueno claro
+hab1	porque va a ser <palabra_cortada>com</palabra_cortada> <pausa/> voy a estar en un cole <pausa_larga/> estaré en un cole trabajando <silencio/>
+hab2	¿y tienen allí el mismo horario que aquí? <silencio/>
+hab1	eso es lo que a mí me <ininteligible/> <pausa/> será sí
+hab2	hombre <pausa/> pero parecido ¡eh!
+hab2	muy raro <alargamiento>no</alargamiento> <alargamiento>es</alargamiento>
+hab1	a ver <pausa/> fijo que tienen la <palabra_cortada>se</palabra_cortada> <pausa/> tienen la semana esta de octubre de la nieve
+hab2	"
+      <ruido tipo=""tos""/>
+    "
+hab1	que por ahí por el norte siempre tienen
+hab2	como en <alargamiento>Suiza</alargamiento> y por ahí ¿no tienen?
+hab1	sí sí sí sí siempre tienen por <alargamiento>ahí</alargamiento> semana
+hab2	porque mis primos me suena que tienen de eso ¡eh!
+hab1	<alargamiento>y</alargamiento><pausa/> y entonces pues esa semana igual vengo para aquí <pausa/> vete tú a saber
+hab1	y luego en Navidad
+hab2	o igual viajas por allí <pausa/> vete tú a saber
+hab1	o viajo por allí <pausa/> vete tú a saber <pausa/> igual me quedo ahí toda encantada de la vida <risa/> <risa/> <risa/> y luego en Navidades sí que vengo <pausa/> serán las <ininteligible/> semanas que tengan de vacaciones
+hab2	<risa_inicio/>y<risa_fin/>
+hab2	y te casas y todo mujer
+hab1	ellos ya empiezan en <palabra_cortada>Rey</palabra_cortada> <pausa/> el día siguiente de <palabra_cortada>Reye</palabra_cortada> <pausa/> en <alargamiento>plan</alargamiento> seis
+hab2	pues
+hab2	como nosotros hija
+hab1	no <pausa/> porque ellos <pausa/> Reyes no celebran
+hab1	a ver <pausa_larga/> existe la festividad del Reyes
+hab2	ah <pausa/> nosotros espera <pausa/> eeh <pausa/> nosotros el cinco y el seis <palabra_cortada>e</palabra_cortada> es cuando no tenemos clase y el siete <pausa_larga/> no <pausa/> el ocho se empieza
+hab1	el ocho <pausa/> bueno <pausa_larga/> tú tienes exámenes
+hab1	me refiero <pausa/> claro en la facultad ya se tienen los exámenes nada más empezar pero en el cole aquí <pausa_larga/> empiezas el ocho
+hab2	yo empiezo el sí
+hab1	eeh pero bueno claro allí no <palabra_cortada>tiene</palabra_cortada> <pausa_larga/> saben lo de los Reyes Magos y todas esas cosas pero no <alargamiento>tienen</alargamiento> festivo propio <pausa_larga/> no es tradición celebrarlo entonces pues
+hab2	ya <pausa/> no es tradición vamos allí
+hab2	allí es lo <alargamiento>del</alargamiento> Papá Noel ¿no?
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	<alargamiento>sí</alargamiento> eso sí
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> y eso <pausa/> y entonces pues será así"
+hab2	bueno <pausa/> mira <pausa/> tú haz lo <alargamiento>que</alargamiento>
+hab1	yo lo pido que a ver que no pasa nada y está bien
+hab1	pedirlo
+hab1	y si toca toca <pausa/> y si no <pausa/> <alargamiento>pues</alargamiento> sigo aquí
+hab2	¿conmigo?
+hab1	¡hombre! <pausa_larga/> <risa/> <silencio/>

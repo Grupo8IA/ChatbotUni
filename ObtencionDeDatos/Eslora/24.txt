@@ -1,0 +1,229 @@
+hab1	ah
+hab3	¿qué es el Cluedo?
+hab1	¿no sabes jugar al Cluedo?
+hab2	¿no sabes lo que es el Cluedo? <pausa_larga/> ¡hala!
+hab3	nunca jugué al Cluedo
+hab1	¡<alargamiento>Dios</alargamiento>!
+hab2	"¡boh! <pausa/> <ruido tipo=""chasquido boca""/>"
+hab1	a ver es un juego de que
+hab1	o sea <pausa/> hay cartas <pausa_larga/> y cada carta es un <palabra_cortada>perso</palabra_cortada> <pausa/> o sea <pausa_larga/> hay cartas
+hab3	<risa/><pausa/><risa/><risa_inicio/>hay una <palabra_cortada>cai</palabra_cortada><risa_fin/><risa/>
+hab2	es un juego en el que hay cartas ¡boh!
+hab1	"
+      <risa/>
+      <ininteligible/>
+    "
+hab2	"mira <pausa/> Cluedo <pausa/> viene del inglés que es <lengua_inicio nombre=""en""/>clue<lengua_fin/> <pausa_larga/> ¿sabes? <pausa/> que es pista <pausa/> es una cosa en plan detective"
+hab3	tss <pausa/> tss
+hab1	"<ruido tipo=""chasquido boca""/> que es pista"
+hab1	"<comentario_inicio valor=""susurrando""/>eso es <pausa/><ininteligible/><comentario_fin/>"
+hab2	¡eh! <pausa/> ¿qué dices tú? <pausa/> ¿qué estás rosmando?
+hab3	ya
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+      <ininteligible/>
+    "
+hab1	hay un tablero que son <palabra_cortada>un</palabra_cortada> <pausa/> que es una casa con sus diferentes habitaciones
+hab3	sí
+hab1	y hay cartas <pausa/> tres tipos
+hab3	sí
+hab2	pero le tienes que explicar de qué va <pausa/> porque si le dices lo del tablero no le importa una mierda
+hab1	"<comentario_inicio valor=""gritando""/>¡<alargamiento>espera</alargamiento>!<comentario_fin/>"
+hab3	¿es el de asesinatos? <pausa/> que tienes que adivinar <pausa_larga/> ¡ah! nunca jugué <pausa/> pero jugaba a uno que era parecido que era rollo pero con chinos y <alargamiento>con</alargamiento>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	"<risa_inicio/>con chinos <pausa_larga/><ininteligible/><ruido tipo=""palmadas""/><risa_fin/>"
+hab1	ah el <pausa_larga/> el de los misterios de Pekín
+hab3	"sí <pausa/> <ruido tipo=""palmada""/> ese"
+hab1	pues <pausa/> yo lo tenía o sea <pausa/> lo tenía Eva <pausa/> eeh se lo pidió por Navidad <pausa_larga/> y nunca supimos jugar y lo intentamos muchas veces
+hab2	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab3	ay pero si era muy fácil <pausa/> a mí me encantaba
+hab1	pues nos leímos las instrucciones y no llegamos a comprender
+hab2	porque sois burras
+hab3	<transcripción_dudosa_inicio/>esa es la clave<transcripción_dudosa_fin/>
+hab1	hm <pausa_larga/> gracias
+hab3	así una hace odontología y <alargamiento>otra</alargamiento>
+hab2	filología
+hab3	filología inglesa
+hab1	también estaba <ficticio>Diego</ficticio>
+hab3	¿<ficticio>Diego</ficticio> hace?
+hab1	periodismo
+hab3	eso
+hab2	¿dónde estudia <ficticio>Diego</ficticio>?
+hab1	<alargamiento>es</alargamiento> que <pausa/> lo hace a distancia
+hab3	en casa <pausa_larga/> <risa/> <risa/>
+hab2	ah es un vago de esos que no <alargamiento>salen</alargamiento>
+hab2	a la calle están siempre en pijama
+hab1	no <pausa/> sale a la calle <pausa/> o sea vive la vida <pausa_larga/> <alargamiento>pero</alargamiento> vamos
+hab2	¿ah sí?
+hab2	ah
+hab1	eeh <pausa/> ¿te conté que se presentó a Pekín Express?
+hab3	¿se presentó a Pekín Express?
+hab1	sí <pausa_larga/> y ya pasaron las dos primeras fases de <risa_inicio/>castings<risa_fin/>
+hab2	¿qué es eso?
+hab3	ah <pausa/> ¿pero van a volver a hacer Pekín Express?
+hab1	ah <pausa/> sí ahora en Antena tres
+hab3	ah <pausa/> ¡qué guay!
+hab2	¿pero por qué sabéis tantas cosas que yo no sé? <pausa_larga/> ¿qué es eso?
+hab1	"yo tampoco lo sabía <pausa/> <comentario_inicio valor=""gritando""/>¡es un programa!<comentario_fin/>"
+hab2	bah <pausa/> ¿de qué va cona?
+hab3	<transcripción_dudosa_inicio/>a mí<transcripción_dudosa_fin/> <pausa/> a <palabra_cortada>m</palabra_cortada>
+hab1	¿nunca lo viste? <pausa/> a ver lo <transcripción_dudosa_inicio/><palabra_cortada>pretenta</palabra_cortada><transcripción_dudosa_fin/>
+hab3	"
+      <ruido tipo=""tos""/>
+    "
+hab1	Raquel López Silva
+hab2	no sé quien es
+hab1	<alargamiento>una</alargamiento> de rizos <pausa/> que se le murió el <alargamiento>marido</alargamiento> al año de casarse y fue un gran drama
+hab3	<risa/><pausa/> ¿cómo sabes esas cosas?
+hab1	y
+hab1	se sabe
+hab2	pero <pausa/>¿y yo cómo coño sé <pausa/> quién es el marido de una tipa que no conozco?
+hab1	vale
+hab1	yo <palabra_cortada>tampo</palabra_cortada> <pausa/> él él era cámara <pausa/> <alargamiento>de</alargamiento> Supervivientes <pausa/> y ella presentaba Supervivientes y se conocieron allí bueno la cosa <pausa/> ¡bah!
+hab3	"
+      <risa/>
+    "
+hab2	o sea <pausa/> ¿qué información me estás contando?
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab1	eeh <pausa_larga/> ella <pausa/> eeh presentaba <pausa/> ah lo presentó una época <pausa/> mmm Paula Vázquez <silencio/>
+hab2	¿la rubia <alargamiento>esta</alargamiento>?
+hab1	no <pausa/> Paula Vázquez es pelirroja
+hab2	ah
+hab1	una gallega <pausa/> muy delgada y que está muy delgada ¿sabes por qué?
+hab2	¿la que hizo Fama?
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	¡pero es rubia!
+hab1	es pelirroja
+hab2	es rubia
+hab3	yo sigo pensando en tu madre yendo <alargamiento>a</alargamiento> ¿a qué iba a ir?
+hab2	<ficticio>Blas</ficticio><pausa/> ¿a qué es rubia?
+hab1	<alargamiento>a</alargamiento> Atrapa un millón <pausa_larga/> pero escucha <pausa_larga/> ¿sabes?
+hab2	<ficticio>Blas</ficticio><pausa/> ¿a que es rubia?
+hab3	¿quién?
+hab2	la que presentaba Fama ¡a bailar!
+hab1	Paula Vázquez
+hab3	sí <pausa/> es rubia
+hab2	"<ruido tipo=""chasquido boca""/><lengua_inicio nombre=""gl""/>¡home! pelirroja non é<lengua_fin/>"
+hab1	es pelirroja
+hab3	¿qué pelirroja?
+hab1	es ese <ininteligible/> <ininteligible/>
+hab2	tú estás <pausa/> tú estás <pausa_larga/> daltónica
+hab1	¿sabes por qué está tan delgada? <pausa/> <alargamiento>Paula</alargamiento> Vázquez <pausa_larga/> porque también presentó Supervivientes <pausa/> y por un país de esos
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab1	"de ahí <pausa_larga/> <lengua_inicio nombre=""gl""/><palabra_cortada>coll</palabra_cortada><lengua_fin/> <pausa_larga/> cogió <alargamiento>un</alargamiento>"
+hab3	<risa/><risa_inicio/>¿de esos de ahí de cuáles?<risa_fin/>
+hab2	países de ahí <pausa/> ¿qué cogió? ¿una <palabra_cortada>m</palabra_cortada> <pausa/> la malaria?
+hab1	<alargamiento>no</alargamiento><pausa/> un <alargamiento>un</alargamiento> <pausa/> parásito
+hab3	¿intestinal?
+hab1	o algo <pausa/> y <alargamiento>que</alargamiento> come
+hab2	pero ya se lo podían haber quitado ¿no? <pausa_larga/> <risa/> <risa_inicio/>digo yo<risa_fin/> <risa/>
+hab1	no <pausa/> pero que rollo que no es fácil de curar <silencio/>
+hab2	¡anda!
+hab2	"pero entonces eso es una putada porque imagínate que <alargamiento>ella</alargamiento> <ruido tipo=""chasquido boca""/>"
+hab2	mmm <pausa/> a ver <pausa/> claro <pausa/> ¿cómo se transmite el <sic_inicio/>parázito<sic_fin/> <alargamiento>parásito</alargamiento> ese?
+hab1	ah <pausa/> pues no <pausa/> no tengo datos así tan
+hab2	porque imagínate <alargamiento>que</alargamiento> por la saliva ya uh jujú
+hab1	no <pausa/> habla con Elisa que fue la que me lo <palabra_cortada>con</palabra_cortada> <silencio/>
+hab3	"
+      <ruido tipo=""carraspeo""/>
+    "
+hab1	eemm
+hab1	bueno <pausa/> Pekín Express va de
+hab3	sí
+hab1	son unos <pausa/> o sea vas por parejas
+hab3	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	hm
+hab1	y rollo mochilero <pausa/> y te dan un euro ahí <pausa/> <palabra_cortada>d</palabra_cortada> al día <pausa/> y con un euro al día tienes que vivir <pausa_larga/> y tienes que ir de un país a otro pues normalmente de <pausa/> no sé dónde <pausa/> a Pekín
+hab2	¿eso es lo que <alargamiento>hace</alargamiento> <pausa/> <alargamiento>el</alargamiento> <pausa/> el rubio <alargamiento>este</alargamiento> que subía montañas?
+hab1	<alargamiento>no</alargamiento><pausa/> eso es
+hab3	<palabra_cortada>ho</palabra_cortada> hace un montón
+hab1	Calleja
+hab2	¡<alargamiento>ese</alargamiento>!
+hab1	pero es que no tiene que ver
+hab3	un montón <pausa/> no tiene nada que ver
+hab2	ah
+hab3	hace un montón ya que no lo hacen <pausa/> pero montón montón <pausa/> rollo <pausa/> yo creo que estaba en la <sigla_inicio/>ESO<sigla_fin/> <alargamiento>cuando</alargamiento> <pausa/> yo vi el primero y el segundo ya me quedé en plan
+hab1	sí <pausa/> pero a mí me encantaba
+hab2	yo en la <sigla_inicio/>ESO<sigla_fin/> veía Fama ¡a bailar!
+hab1	y yo <pausa/> era La granja
+hab2	<risa/><risa/><risa/><pausa/> yo vi la uno <pausa_larga/> y la dos
+hab3	"
+      <risa/>
+    "
+hab1	<transcripción_dudosa_inicio/>pues yo la dos no<transcripción_dudosa_fin/>
+hab3	¿hubo más?
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	<alargamiento>sí</alargamiento> yo creo que seguían
+hab1	sí sí hubo unos cuantos <pausa_larga/> hasta cuatro creo que hubo <pausa/> <transcripción_dudosa_inicio/>yo en la cuatro<transcripción_dudosa_fin/>
+hab2	aah
+hab2	bua <alargamiento>bua</alargamiento> <pausa/> ¡cuatro!
+hab1	<transcripción_dudosa_inicio/>creo que sí<transcripción_dudosa_fin/>
+hab1	eeh no <pausa/> pues <pausa/> en serio entonces van <pausa/> rollo <pausa/> eso <pausa/> tienen que ir haciendo autostop o andando buscándose la vida donde dormir
+hab1	qué comer <pausa_larga/> no sé qué
+hab2	¿con <alargamiento>un</alargamiento> euro al día?
+hab1	con un euro al día <pausa/> claro en esos países un euro no es lo mismo que un euro aquí ¡eh!
+hab2	<risa_inicio/>en esos países <pausa/> ¡y dale con esos países!<risa_fin/> <pausa/> <risa/> <pausa/> <risa_inicio/><ficticio>Mari</ficticio> <pausa_larga/> en esos países <risa/> <risa/> <risa/> <silencio/>
+hab1	¡yo qué sé! mmm
+hab1	es que no sé por dónde van <silencio/>
+hab1	bueno y entonces <pausa/> mi amigo <ficticio>Diego</ficticio> y su amiga <ficticio>Nuria</ficticio> Salgado decidieron presentarse
+hab2	¿y los cogen?
+hab1	por qué <pausa/> nadie lo sabe <pausa_larga/> pero en <alargamiento>plan</alargamiento>
+hab1	<alargamiento>hizo</alargamiento><pausa/> o sea <pausa/> <palabra_cortada>se</palabra_cortada> llamaron por teléfono les hicieron una entrevista rápida por teléfono <pausa_larga/> y les dijeron que ya les avisarían y esa misma tarde les mandaron un correo <pausa_larga/> con un cuestionario de noventa preguntas cada <palabra_cortada>u</palabra_cortada> <pausa/> noventa y cuatro preguntas cada uno <pausa_larga/> <ficticio>Diego</ficticio> envió el suyo
+hab1	<ficticio>Nuria</ficticio> aún no había contestado <pausa/> y le mandaron un correo <cita_inicio/>por favor <pausa/> envíanos rápido el de <ficticio>Nuria</ficticio><cita_fin/>
+hab1	eh <pausa/> dale
+hab3	<transcripción_dudosa_inicio/>sí<transcripción_dudosa_fin/>
+hab1	después de eso les mandaron otro correo <cita_inicio/>necesitamos un vídeo vuestro de presentación<cita_fin/> grabaron un vídeo <pausa/> tal tal
+hab1	eeh <pausa/> fotos <pausa/> no sé qué
+hab1	y ahora les dijeron <pausa/> el <pausa_larga/> mañana tienen el casting en Madrid
+hab3	"¡qué guay! <pausa/> <ruido tipo=""inspiración""/>"
+hab2	está acelerado el proceso <pausa/> <ininteligible/>
+hab1	"y yo le dije <pausa_larga/> <ruido tipo=""carraspeo""/>"
+hab1	<cita_inicio/><ficticio>Diego</ficticio><pausa_larga/> tú eres muy señorito<cita_fin/>
+hab2	"
+      <risa/>
+    "
+hab1	"yo le dije <pausa/> <cita_inicio/><ruido tipo=""carraspeo""/> <pausa_larga/> <ficticio>Diego</ficticio><cita_fin/>"
+hab2	"
+      <ininteligible/>
+    "
+hab3	me estoy imaginando a <ficticio>Diego</ficticio> intentando hablar ruso o cosas así
+hab1	porque <ficticio>Diego</ficticio> es muy señorito <pausa/> es muy señorito
+hab3	aunque no lo conozco <pausa_larga/> pero bueno
+hab2	¿se va a meter <alargamiento>ahí</alargamiento> <pausa/> a la <alargamiento>lama</alargamiento> <pausa/> a la <alargamiento>pobreza</alargamiento> <pausa/> al hambre
+hab1	y <alargamiento>yo</alargamiento> le dije que no le veía futuro
+hab3	a la <pausa/> a la <pausa/> al <pausa/> ¡ay mimá! <transcripción_dudosa_inicio/>me acabo de confundir<transcripción_dudosa_fin/>
+hab1	sí
+hab2	puedes ahora coger por el carril <alargamiento>de</alargamiento> <alargamiento>la</alargamiento> eeh derecha <pausa/> y vas todo <ininteligible/> <pausa/> por arriba
+hab3	aah
+hab2	como si fueras para Cancelas
+hab3	vale <alargamiento>ya</alargamiento> ahora estoy yendo por Cancelas
+hab1	eeh
+hab2	¿estamos yendo a Cancelas?
+hab1	"
+      <alargamiento>no</alargamiento>
+    "
+hab3	no <pausa/> estoy yendo <énfasis_inicio/>por<énfasis_fin/> Cancelas
+hab2	ah
+hab2	<transcripción_dudosa_inicio/>coño<transcripción_dudosa_fin/>
+hab2	¡qué <pausa_larga/> qué susto!
+hab1	bueno eso es muy señorito y yo no le veo mucho <palabra_cortada>fu</palabra_cortada>

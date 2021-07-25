@@ -1,0 +1,733 @@
+hab1	pues <pausa/> ¿sabes lo que hicieron los <palabra_cortada>portu</palabra_cortada> <pausa/> cuánto dinero recaudaron los portugueses en este tiempo en las autovías?
+hab2	no
+hab1	setenta y dos millones de euros
+hab1	arrecarallo <silencio/>
+hab1	"<lengua_inicio nombre=""gl""/>que me dis?<lengua_fin/><silencio/>"
+hab1	ahora <pausa/> que arruinaron a mucha gente <silencio/>
+hab1	"
+      <alargamiento>porque</alargamiento>
+    "
+hab2	¿sabes que se inauguró hoy la nueva terminal de Lavacolla?
+hab1	sí <pausa/> ya lo sé
+hab2	y está <pausa/> <ininteligible/> dice una señora <pausa/> <cita_inicio/>es que es una cosa <énfasis_inicio/>tan<énfasis_fin/> desangelada<cita_fin/>
+hab1	¿ay sí?
+hab2	unos techos tan altos y ¿no?
+hab1	ah
+hab2	ah una cosa que no <alargamiento>tiene</alargamiento>
+hab3	¡ay! estaba aquí
+hab1	"
+      <ininteligible/>
+    "
+hab2	sí
+hab1	será <pausa/> será ahí porque
+hab3	la pulsera <pausa/> que estaba aquí
+hab2	ah
+hab2	digo yo
+hab2	lo que tenían que haber hecho aprovechar la terminal que existe <pausa/> y ampliarla en lo <alargamiento>que</alargamiento> ¿no?
+hab1	sí <ficticio>Muriel</ficticio> <pausa_larga/> pero están en una <pausa/> la línea de actuación es la que leíste ayer
+hab1	<transcripción_dudosa_inicio/>¿<palabra_cortada>entiend</palabra_cortada><transcripción_dudosa_fin/>?
+hab3	que yo ya ya veía desangelada la vieja
+hab1	"
+      <ininteligible/>
+    "
+hab2	es que nunca
+hab3	<ininteligible/> la visteis llena de gente
+hab2	jamás
+hab1	bueno <pausa/> el día de año santo
+hab3	bueno esto <pausa/> nada <pausa/> y cuando estuvimos abriendo allí las maletas y todo ¿vosotros veíais gente allí? no
+hab1	sí hombre
+hab2	¡qué va!
+hab2	a mí si me dices que el aeropuerto <alargamiento>de</alargamiento> de Alicante <pausa_larga/> con movimiento de personal ¿no?
+hab1	bueno <alargamiento>y</alargamiento> tendrá movimiento de personal durante unos mesecitos en verano tampoco es todo
+hab2	no <pausa/> pero vamos a ver en Alicante
+hab3	<alargamiento>no</alargamiento> Alicante hace buen tiempo todo el año <pausa/> y va gente
+hab2	<alargamiento>Alicante</alargamiento><alargamiento>Málaga</alargamiento> son ciudades que tienen unos aeropuertos
+hab2	que tienen mucho movimiento <pausa/> ahora yo en Lavacolla jamás vi <alargamiento>un</alargamiento> <pausa/> un overbooking de esos que la gente está allí aglomerada que está <pausa/> y venga colas colas con <alargamiento>un</alargamiento> un vuelo otro vuelo otro vuelo <pausa/> jamás <pausa/> van <pausa/> todos separados <pausa/> van
+hab2	¡buf!
+hab2	¿no? <silencio/>
+hab2	claro <pausa/> había que hacer una nueva
+hab2	es que el nuevo alcalde de Santiago quiere hacer una estación <alargamiento>de</alargamiento> de Renfe nueva
+hab1	ya llevarla para el carallo <ininteligible/>
+hab2	y dejar esta <alargamiento>para</alargamiento> nada
+hab1	ah eso sí
+hab3	¿para mercancías?
+hab2	<alargamiento>no</alargamiento><pausa_larga/><alargamiento>porque</alargamiento><pausa/> para el <sigla_inicio/>AVE<sigla_fin/> para cuando llegue el <sigla_inicio/>AVE<sigla_fin/>
+hab1	pues mira <pausa/> lo bueno que tiene Santiago es tener céntrica la estación de Renfe porque la de autobuses <pausa/> la de autobuses ya la pusieron allá en el quinto infierno
+hab2	que además es <alargamiento>un</alargamiento>
+hab2	es todo un monumento la estación de tren <alargamiento>de</alargamiento> Santiago
+hab1	sí <pausa_larga/> hombre claro que es
+hab2	eemm <pausa/> sí es bonita
+hab1	pero <pausa/> pero que lo importante en las <ininteligible/>
+hab3	está bien donde está
+hab1	oye <pausa/> lo importante de las estaciones es que lleguen al centro <ficticio>Muriel</ficticio>
+hab2	¿no sabes dónde está <palabra_cortada>Vi</palabra_cortada>?
+hab3	¿eh?
+hab2	¿qué dices <pausa/> que no <palabra_cortada>sab</palabra_cortada>?
+hab1	ah
+hab3	<vacilación/> digo <pausa/> digo que está bien donde está
+hab1	al fondo del Hórreo está muy bien hombre
+hab2	sí ¿no?
+hab3	es que como la alejen es que
+hab2	pero es que tienen que hacer otra <pausa/> pues eso <alargamiento>que</alargamiento>
+hab1	otra de <ininteligible/> <silencio/>
+hab2	como los aeropuertos de Ciudad Real
+hab1	igual
+hab2	<alargamiento>de</alargamiento> Álava <pausa/> de León
+hab1	Cuenca <pausa/> Cuenca
+hab2	Valladolid <silencio/>
+hab2	eeh ¿qué más hay? Salamanca
+hab1	el de Salamanca <ininteligible/>
+hab3	el de León me contó el otro día <ficticio>Maribel</ficticio> que lo <palabra_cortada>ten</palabra_cortada> <pausa/> que estaba <pausa/> bueno <pausa/> que existía porque era <alargamiento>un</alargamiento> <pausa/> el aeropuerto militar del norte de España y que lo adaptaron para pasajeros pero <pausa_larga/> el de <alargamiento>León</alargamiento> <silencio/>
+hab2	¿cuál?
+hab2	ya
+hab2	¿y tú viste alguna vez en los <pausa/> en <alargamiento>los</alargamiento> aeropuertos en los que estuvimos <pausa/> <cita_inicio/>vuelo León no sé qué<cita_fin/>?
+hab1	¡ay sí!
+hab3	en Madrid sí me o en Barcelona me suena de verlo en los eeh
+hab2	a lo mejor esporádicamente
+hab3	eeh eso en el tablero <pausa/> también un ejemplo vuelos a Asturias
+hab2	sí <alargamiento>a</alargamiento> Avilés
+hab3	no no no <pausa/> se llama Asturias el aeropuerto está en Asturias porque <pausa/> eeh <pausa_larga/> ¿qué?
+hab2	"
+      <ficticio>Ana</ficticio>
+    "
+hab2	y sí que está en Asturias pero es <alargamiento>en</alargamiento>
+hab3	no no no es que no está en ninguna de las tres ciudades
+hab3	está en el centro para que no se pelearan
+hab1	y
+hab1	y le llaman Asturias
+hab2	"
+      <alargamiento>ah</alargamiento>
+    "
+hab3	y vas al aeropuerto <ininteligible/> de una ciudad es el aeropuerto de Asturias
+hab2	ya ya ya
+hab1	bueno
+hab3	y aparece así en los letreros porque llama la atención <pausa_larga/> eeh vas por ahí y ves todo ciudades <pausa/> ves eso pues Coruña <alargamiento>o</alargamiento> <pausa/> o París o lo que sea y Asturias
+hab2	ya ya ya
+hab3	y es porque lo situaron estratégicamente entre Avilés Gijón y Oviedo
+hab2	claro
+hab1	es que <palabra_cortada>sa</palabra_cortada> <pausa/> es que hacen un <palabra_cortada>t</palabra_cortada> <pausa/> un triángulo
+hab3	sí sí sí
+hab3	por eso digo que es aeropuerto de Asturias <pausa/> no está en ninguna de las tres <silencio/>
+hab2	oye <pausa/> ¿<palabra_cortada>c</palabra_cortada> cuántos kilómetros o en qué <pausa/> más o menos
+hab2	en qué kilómetro de la Nacional <alargamiento>Sexta</alargamiento> <silencio/>
+hab2	o Autovía del Noroeste está situada por ejemplo Tordesillas?
+hab3	¿Tordesillas?
+hab2	sí <pausa/> ¿ciento?
+hab3	ciento setenta y seis
+hab2	claro <pausa/> o sea que <pausa/> más o menos desde Tordesillas hay
+hab2	ciento setenta y seis kilómetros a Madrid
+hab3	sí
+hab2	"
+      <ininteligible/>
+    "
+hab2	pues hay el <sigla_inicio/>AVE<sigla_fin/> <pausa/> que son Madrid <pausa/> Valladolid
+hab3	sí
+hab2	que es lo más fácil llegar
+hab2	<transcripción_dudosa_inicio/>cuando<transcripción_dudosa_fin/> llegas a Valladolid
+hab2	estás prácticamente ya en Madrid <silencio/>
+hab2	¿no?
+hab3	sí
+hab2	<ininteligible/> la gente va en su coche va tal
+hab2	<ininteligible/> que es más difícil que es <alargamiento>el</alargamiento> el <silencio/>
+hab2	llegar luego al norte <silencio/>
+hab2	ahí está sin hacer claro
+hab2	¿no?
+hab3	pues es lo que ha pasado siempre también cuánto tiempo hubo <pausa/> la el <palabra_cortada>autopi</palabra_cortada> la autovía hasta eso <alargamiento>hasta</alargamiento> hasta Benavente
+hab1	es
+hab3	y después el tramo de Benavente <alargamiento>aquí</alargamiento> <pausa/> je <silencio/>
+hab2	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab1	la autovía de Toledo ya estaba vieja cuando empezó a funcionar esta
+hab3	ya
+hab2	pero esto viene a colación
+hab2	de la cantidad de obras que hacen
+hab2	sin ton ni son simple y llanamente por cumplir unos caprichos
+hab2	de alguien
+hab3	ya
+hab2	por <alargamiento>por</alargamiento>
+hab2	no sé <ininteligible/>
+hab3	ah mamá se me ha olvidado <alargamiento>de</alargamiento> <pausa/> quería coger chicles y se me ha olvidado ¿tendrás?
+hab2	sí sí ¡cómo no!
+hab1	oye y otra cosa
+hab1	y esta que tenía que ser gratis ahora ya <pausa_larga/> <ininteligible/>
+hab3	¿me das el paquete?
+hab2	sí
+hab1	es de locura ¿eh <ficticio>Muriel</ficticio>? <pausa/> tenía que ser gratis como una autovía cualquiera <silencio/>
+hab3	gracias
+hab1	y tenía que ser gratis porque la <alargamiento>pagó</alargamiento> el gobierno <pausa/> ¿entiendes?
+hab2	bueno entonces
+hab2	<ininteligible/> ya estaba más que gastada ya no la teníamos
+hab1	"teníamos igual <ficticio>
+  <palabra_cortada>Mu</palabra_cortada>
+</ficticio> ¿y no tenemos la autopista autovía?"
+hab2	no compares <pausa/> la autovía <alargamiento>hace</alargamiento>
+hab1	ah
+hab2	quince años esta hace más de treinta
+hab3	da igual por mucho tráfico aunque hubiera compensaba
+hab1	pero la arreglaban más <pausa/> como la y luego ¿tú crees que esto lo arreglan mucho?
+hab1	¿viste que de aquella no echaran la sal
+hab1	y pasó lo que pasó?
+hab3	claro
+hab3	<ininteligible/> veces por ser privada quieren ahorrar más <alargamiento>para</alargamiento> para tener más beneficios
+hab1	¡uy!
+hab1	sacar el rendimiento exprimirla como un limón <silencio/>
+hab2	pues a mí me parece que <alargamiento>la</alargamiento> política española <pausa/> en los últimos veinte años se <pausa/> se <alargamiento>se</alargamiento> <silencio/>
+hab2	se disparató de una manera increíble
+hab1	pero oye <pausa/> pero <pausa/> ¿no os choca lo que están haciendo los griegos?
+hab1	¡joder para los griegos eh!
+hab3	¿y ahora qué están haciendo?
+hab1	buah
+hab1	huelgas generales
+hab3	ah ya <pausa/> <ininteligible/>
+hab1	venga <palabra_cortada>huelg</palabra_cortada> general venga huelga general <pausa/> dijeron que les perdonaban no sé qué de la deuda y hay que perdonársela toda y darles más encima <pausa/> y seguir manteniéndoles el nivel de vida que tenían <silencio/>
+hab1	¡hombre!
+hab2	ya <ininteligible/>
+hab3	al final vamos a ser nosotros los que suframos las consecuencias y no los griegos ¿eh? que son los que tienen la deuda
+hab1	claro
+hab1	y luego ¿qué te crees?
+hab3	porque aquí la gente no va <alargamiento>de</alargamiento> huelgas generales ni de
+hab1	"<lengua_inicio nombre=""gl""/>non ho<lengua_fin/>"
+hab2	espera que gane es <pausa/> Rajoy
+hab1	no <pausa/> bueno <pausa/> pero aunque gane Rajoy <pausa/> pero oye <pausa/> hay hay
+hab2	espera que gane Rajoy
+hab3	pero iba a ser mejor que gane Rajoy porque si gana Rubalcaba no va haber huelgas generales y nos van a endosar lo que quiera eeh <alargamiento>en</alargamiento> Europa
+hab1	¿hay qué?
+hab2	espera que gane Rajoy que se va a convertir esto en un <ininteligible/>
+hab1	también lo digo yo
+hab1	aquí parece ser que hay que hacer como los griegos <pausa/> mira los portugueses <pausa/> están calladitos están apandando lo que les echan <silencio/>
+hab1	¿eh? ya no estaban bien <pausa/> y ahora les metieron el veintitrés por cien de <sigla_inicio/>IVA<sigla_fin/> que que que es la hostia ¡eh!
+hab1	del dieciocho al veintitrés <pausa/> y todo <pausa/> así
+hab1	luego le cobran por las <palabra_cortada>autovía</palabra_cortada> <pausa/> por las autovías sí <pausa/> autopistas autovías
+hab1	eeh <pausa/> <alargamiento>y</alargamiento> ¿cuántas más cosas les harán? <silencio/>
+hab1	porque <ininteligible/> <pausa/> están sufriendo sufriendo aguantando aguantando aguantando ¡coño! y los otros <pausa/> no aguantan ni una <silencio/>
+hab1	y son <palabra_cortada>un</palabra_cortada>
+hab2	deja <pausa/> deja que entre Rajoy que van a empezar los sindicatos
+hab1	es un país paupérrimo <pausa/> lo que tenían que hacer es echarlo fuera <silencio/>
+hab2	venga huelga general <pausa/> diez años
+hab1	y a la larga lo echan fuera
+hab1	porque ¡oye! están los países del este
+hab1	que están hasta la coronilla
+hab1	¿eh? <silencio/>
+hab1	echarlo fuera de la Comunidad ¡hombre! que se van con los turcos <silencio/>
+hab1	que son con los que lo tienen que <silencio/>
+hab1	pues hay un país <pausa_larga/> del este
+hab1	que no está de acuerdo
+hab1	"
+      <alargamiento>en</alargamiento>
+    "
+hab2	Eslovenia
+hab3	Eslovenia
+hab1	Eslovenia <silencio/>
+hab1	no está de acuerdo porque no está de acuerdo <silencio/>
+hab1	porque
+hab1	son de izquierdas
+hab1	y no lo ven lógico
+hab1	tener que pagar el pato <alargamiento>de</alargamiento>
+hab1	"
+      <ininteligible/>
+      <silencio/>
+    "
+hab2	entonces España ¿qué es? ¿de derechas?
+hab3	"
+      <risa/>
+    "
+hab1	oye
+hab3	sí <risa/>
+hab1	bueno derechas no pero España ya está consolidado como
+hab1	como miembro de la Comunidad
+hab3	el <sigla_inicio/>PSOE<sigla_fin/> de izquierdas no es
+hab1	pero
+hab1	y el <sigla_inicio/>PSOE<sigla_fin/> muy de izquierdas tampoco es <pausa/> a raíz que <risa/>
+hab1	¿sabéis que la mitad
+hab1	del chalé <silencio/>
+hab1	que <alargamiento>tiene</alargamiento> <silencio/>
+hab2	José Blanco
+hab1	Pepe Blanco en Madrid
+hab1	se lo pagó <alargamiento>ese</alargamiento> <silencio/>
+hab1	es el de Lugo
+hab2	empresario de Lugo
+hab1	ese empresario de Lugo? <silencio/>
+hab2	¿y cómo se descubrió eso?
+hab1	¡ay! se descubrió porque lo descubrió él
+hab2	¿pero quién? ¿el señor de Lugo?
+hab1	claro <pausa/> destapan <pausa/> tiran de la manta el abogado de él <alargamiento>y</alargamiento>
+hab1	sabe Dios <pausa/> mira sabe <pausa/> yo ya no sé qué pensar <silencio/>
+hab2	yo no sé por qué la emprenden con Pepe Blanco
+hab1	siempre están
+hab2	si si <alargamiento>a</alargamiento> Bono le pasa lo mismo
+hab2	Porcelanosa le pagó todas las <ininteligible/>
+hab1	bueno
+hab2	las casas que tiene <silencio/>
+hab2	le le compró le regaló la hípica que que <pausa/> que te dijo
+hab1	yo creo que están ahí todos pringados mira
+hab1	todos
+hab1	una vergüenza <silencio/>
+hab1	"pero oye el superministro <lengua_inicio nombre=""gl""/>aí che vai<lengua_fin/> <silencio/>"
+hab2	"
+      <ininteligible/>
+      <ininteligible/>
+      <risa/>
+    "
+hab1	pero
+hab3	pero <pausa/> ¿quién lo considera superministro? ese hombre <ininteligible/>
+hab1	<alargamiento>no</alargamiento> andaba hablaba de todos cuando fue <alargamiento>el</alargamiento> caso del otro <alargamiento>de</alargamiento>
+hab3	y para mí que no le hacía ni caso a nadie
+hab1	¡que no hacían caso!
+hab3	no
+hab1	¡caray! era faltón era la hostia <silencio/>
+hab2	parece <alargamiento>que</alargamiento> que que en el propio <pausa/> <alargamiento>partido</alargamiento> socialista <pausa_larga/> no lo pueden ni ver <silencio/>
+hab3	"
+      <ininteligible/>
+    "
+hab1	"<lengua_inicio nombre=""gl""/>home<lengua_fin/> claro <silencio/>"
+hab1	no tiene formación política no tiene nada
+hab1	a mí la que me gustaba era la de la Vega
+hab1	¡buf!
+hab1	¡cómo puntualizaba!
+hab1	¿eh?
+hab1	lista
+hab1	mala pero lista <silencio/>
+hab2	pues ahí <alargamiento>le</alargamiento> ahí le va
+hab2	ahí le fue
+hab3	¿dónde está ahora?
+hab2	no sé <pausa_larga/> anónima
+hab1	"
+      <palabra_cortada>a</palabra_cortada>
+    "
+hab1	esto <pausa/> anónima no ella era una señora jueza
+hab1	estará <pausa_larga/> estará ejerciendo <pausa/> como tal y luego ¿qué te crees?
+hab2	ay es juez
+hab2	ah no sabía es verdad porque no hablan de ella
+hab1	<alargamiento>no</alargamiento> pobre ay y ¿por qué van a hablar?
+hab1	es <palabra_cortada>bue</palabra_cortada> es bueno que en política no hablen de uno <silencio/>
+hab2	no ya ya
+hab1	bueh
+hab1	porque suelen hablar de lo malo
+hab1	sobre todo cuando se marcharon y no tienen poder los ponen a parir
+hab2	<ininteligible/> ¿escuchaste tú la noticia de que José Blanco?
+hab1	lo dijeron en la radio por la mañana
+hab2	¿la radio o en la tele?
+hab1	en la radio <pausa/> no la tele no <silencio/>
+hab1	por radio dijeron <alargamiento>que</alargamiento>
+hab1	que la mitad
+hab1	de lo que costó la el chalé de Madrid no la casa <pausa/> el chalé de Madrid <pausa/> y ya me dirás cómo ese señor llegó a un chalé <silencio/>
+hab1	de eso hace <pausa/> hace <palabra_cortada>po</palabra_cortada> hace pocos años <pausa/> estaba en un <pausa/> era gerente de una oficina de <sigla_inicio/>AGADER<sigla_fin/> <silencio/>
+hab2	negocios
+hab1	ahí no sé <pausa/> si en Fonsagrada <alargamiento>o</alargamiento> <pausa_larga/> o en Chantada <alargamiento>o</alargamiento> por ahí <alargamiento>un</alargamiento> pueblo de Lugo <silencio/>
+hab1	ganaba un sueldecito de nada
+hab1	y de pronto aparece con un chalé <alargamiento>de</alargamiento> <pausa/> en las afueras de Madrid de esos de caerse
+hab2	en Las Rozas <silencio/>
+hab1	y por lo que se ve que tiene muy transparente el sueldo <pausa/> de políticos no ganan tanto <silencio/>
+hab1	es una vergüenza mira <pausa/> es una vergüenza <pausa/> y encima
+hab1	"<lengua_inicio nombre=""gl""/>falando<lengua_fin/> de todos claro <silencio/>"
+hab2	<ininteligible/> podían cortarse un poquito ¿eh?
+hab2	"
+      <risa/>
+    "
+hab2	¿no?
+hab1	sí porque todos tienen
+hab2	"
+      <ininteligible/>
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab1	todos tienen <pausa/> por lo que se ve el rabo de paja y les arde de vez en cuando
+hab2	<risa/><risa/> llevo oyendo ya eso un poquito de aquello <pausa_larga/> <ininteligible/> precaución de decir <cita_inicio/>oye mira hay que hablar con cuidado con cautela<cita_fin/>
+hab1	claro
+hab2	<alargamiento>porque</alargamiento> bueno
+hab1	hoy por ti mañana por mí ya veo
+hab2	yo tampoco estoy muy limpio <alargamiento>de</alargamiento>
+hab1	eeh no <pausa/> es que no está ninguno
+hab2	tengo la conciencia muy limpia ¿verdad? <silencio/>
+hab1	estarán aquí los de Tráfico <pausa/> a ver si nos pillan otra vez nos hacía <palabra_cortada>falt</palabra_cortada> <pausa/> ¿lo ves <ficticio>Muriel</ficticio>?
+hab3	no
+hab3	esta hora es cuando están comiendo
+hab1	es verdad <ininteligible/> además vienen y enseguida hacen caja
+hab1	estos
+hab3	<ininteligible/> van a partir de las cuatro y media o cinco <silencio/>
+hab1	sí
+hab1	porque les da la sombra <silencio/>
+hab1	pues acaba el verano ¿eh? <silencio/>
+hab2	creo que sí que a partir del domingo viene un tiempo
+hab3	ya
+hab1	<alargamiento>sí</alargamiento><pausa/> pero el
+hab2	tiempo de niebla
+hab3	pero es que ya ya por las noches se nota que refresca once grados <alargamiento>ya</alargamiento> ya no es
+hab1	sí
+hab1	sí
+hab2	en las casas algunas habitaciones son auténticos congeladores
+hab1	sí <pausa/> subió conmigo en el ascensor <alargamiento>el</alargamiento> hijo de Tatá <silencio/>
+hab1	que entra muy temprano a trabajar
+hab1	y me dijo que <silencio/>
+hab1	que hacía <palabra_cortada>s</palabra_cortada>
+hab1	siete grados <silencio/>
+hab1	había <palabra_cortada>s</palabra_cortada>
+hab2	¿come allí en la casa?
+hab3	¿sí? pero ¿cuándo?
+hab1	por la mañana <pausa/> al <ininteligible/>
+hab3	ah es que mi móvil a las seis de la mañana me decía que hacía once fuera <silencio/>
+hab1	o no pues en el coche deja aparcado el coche fuera
+hab1	y que le marcaba siete grados
+hab3	bueno a lo mejor se congeló de más oye
+hab1	bueh
+hab3	mi móvil suele ser fiable
+hab1	bueno <pausa/> depende de dónde tomen la temperatura <ficticio>Muriel</ficticio>
+hab1	claro <pausa/> también <pausa/> en Lugo
+hab1	<alargamiento>el</alargamiento> observatorio meteorológico <pausa/> está en Rozas allí <alargamiento>en</alargamiento>
+hab1	hacia Castro de Rei
+hab1	y aquello es un heladero
+hab1	y siempre da mucho más bajo que lo que hay en la ciudad de Lugo
+hab3	ya <silencio/>
+hab3	ya pero ya ya se nota esta semana ya se me ha notado en el piso
+hab3	y y humedad no sé si habrá más que en el del año pasado ¿eh?
+hab1	¿de humedad?
+hab1	oye y ¿no te encendieron <alargamiento>la</alargamiento> calefacción todavía? <silencio/>
+hab3	no aún no <silencio/>
+hab3	no y tampoco he encendido la mía porque yo qué sé simplemente dormí con el edredón en vez de quitarlo <alargamiento>y</alargamiento> ya está
+hab1	bueno <pausa/> tú ya <alargamiento>enciéndela</alargamiento> cuando quieras <ininteligible/> <ininteligible/>
+hab3	bueno pero a ver la es que la semana pasada tenía el dilema de que si estaba de manga corta tenía frío y si me ponía por encima la sudadera tenía calor
+hab3	y esta y esta ya no he tenido ni dilema ni nada que ya me <risa_inicio/>ponía la sudadera<risa_fin/> directamente <alargamiento>y</alargamiento>
+hab3	y eso había así <alargamiento>aún</alargamiento> tenía algo de frío depende <pausa/> otras veces calor pero bueno sí que <pausa/> era sobre todo que se notaba era <alargamiento>la</alargamiento> la humedad
+hab1	no pases
+hab1	no pases frío
+hab1	que además ahora las <palabra_cortada>calefacc</palabra_cortada>
+hab3	es el ambiente y después <pausa/> de lo de despertarme ya otra vez como como todos estos otros años con <pausa/> eeh con <alargamiento>la</alargamiento> nariz atascada
+hab1	pues por la mañana
+hab1	era de noche de noche de todo <alargamiento>cuando</alargamiento> cuando me marché a las siete y media <silencio/>
+hab3	normal
+hab1	<palabra_cortada>completa</palabra_cortada><pausa/> oye completamente de noche
+hab1	y después por las tardes se nota muchísimo cómo se acortaron los días ¿eh? <pausa/> ¡buf! <silencio/>
+hab3	es que por es es la una por el horario del sol <silencio/>
+hab3	¿sabéis?
+hab1	sí
+hab3	¿no veis que el que casi no tiene sombra el coche? por ejemplo ese
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab3	claro porque solo ha bajado una hora respecto al mediodía
+hab1	ya
+hab1	¡buf!
+hab1	¡qué descontrol eh! <silencio/>
+hab1	es una arbitrariedad esto
+hab3	<transcripción_dudosa_inicio/>lo malo es es que<transcripción_dudosa_fin/> cambien la hora es porque es la hora que le corresponde aquí <alargamiento>en</alargamiento> <pausa/> la la solar
+hab3	algo más cerca en vez de dos horas y media de diferencia hora y media <silencio/>
+hab1	sí <silencio/>
+hab1	claro <pausa/> y después dicen <cita_inicio/>nada los <palabra_cortada>empa</palabra_cortada> <pausa/> los españoles comen tarde<cita_fin/> ¡cómo comemos tarde!
+hab3	comemos por el horario el sol
+hab1	comemos por la hora <pausa/> es que <pausa_larga/> date cuenta que nosotros con relación a los franceses hay una hora de diferencia por lo menos ¡eh!
+hab3	y Francia <ininteligible/> <ininteligible/>
+hab1	ah igual hay <alargamiento>más</alargamiento>
+hab1	hay <alargamiento>más</alargamiento> <pausa/> porque
+hab1	nada <pausa/> a la altura <alargamiento>de</alargamiento> mmm
+hab1	Burdeos debe de estar a la altura de Barcelona ¿verdad?
+hab3	sí
+hab1	porque
+hab1	Francia está muy inclinada y España también
+hab1	yo creo
+hab3	no Francia aún es nada la diferencia el problema ya es con Italia por ejemplo o Alemania <silencio/>
+hab1	¡buf! <silencio/>
+hab3	pensar que es la misma hora
+hab1	eso todo al otro lado
+hab1	bueno pero
+hab1	con París yo creo que casi <alargamiento>hay</alargamiento> como mínimo hora y media <silencio/>
+hab1	nosotros con París ¡eh! <pausa/> sí
+hab3	no no creas que hay tanto ¡eh!
+hab1	<ficticio>Muriel</ficticio> París queda más a la derecha si me dices que Burdeos queda como Barcelona
+hab3	no no Burdeos no queda como Barcelona Burdeos queda <alargamiento>como</alargamiento> Zaragoza o así ¡eh!
+hab1	"bueno <pausa/> de Zaragoza a Barcelona no hay nada ¡eh! <transcripción_dudosa_inicio/><lengua_inicio nombre=""gl""/>miña<lengua_fin/> reina<transcripción_dudosa_fin/> <silencio/>"
+hab3	no París debe de <alargamiento>quedar</alargamiento> ¡espera! <pausa/> porque vamos a ver si el meridiano pasa ¡espera! <silencio/>
+hab1	París por la por las Baleares <silencio/>
+hab3	sí bueno eeh París yo diría que queda <alargamiento>por</alargamiento>
+hab3	por ahí por por Lérida o así por el Cabo de Rosas o así
+hab1	ah <pausa/> <alargamiento>bueno</alargamiento> <ininteligible/> <silencio/>
+hab3	sí <silencio/>
+hab3	es que cuando cambian <alargamiento>la</alargamiento> la hora <pausa_larga/> eeh realmente <palabra_cortada>aup</palabra_cortada> aún en eso por
+hab3	por Valencia por Zaragoza que es <pausa/> pasa el meridiano
+hab3	aun habrá una hora de diferencia respecto al sol <silencio/>
+hab1	pues a mí <pausa/> estos cambios de hora no me gustan nada <ininteligible/> dejarla siempre igual ¡hombre! <ininteligible/>
+hab3	ya el problema es el horario de verano ese cambio que se hace
+hab1	¡oh! <silencio/>
+hab3	y España tenía que tener <pausa/> toda España ya directamente el mismo horario que Portugal
+hab1	bueno <pausa/> y nosotros por lo menos
+hab3	no no no <pausa/> ¡oye! España es un país demasiado pequeño como para que ande <alargamiento>teniendo</alargamiento>
+hab1	¡<alargamiento>anda</alargamiento>! ¿y Canarias no tiene distinto horario? <pausa/> y y bien
+hab3	bueno pero son unas islas aparte
+hab1	<alargamiento>bueno</alargamiento> son aparte es <alargamiento>una</alargamiento> <pausa/> nada son como nosotros Galicia
+hab3	que no queda bastante bastante al oeste ¿eh?
+hab1	pues mira yo me apuntaba a tener el horario de Portugal
+hab1	sí señora
+hab3	no pues yo <palabra_cortada>f</palabra_cortada> lo que firmaba es que España <énfasis_inicio/>toda<énfasis_fin/> tuviera el mismo horario que Portugal <silencio/>
+hab2	"
+      <ininteligible/>
+    "
+hab3	y que y que Inglaterra
+hab3	<risa_inicio/>le<risa_fin/> queda arriba es que es lo que corresponde <pausa/> ya en primer lugar <silencio/>
+hab1	no me hace ninguna gracia coincidir con Inglaterra <silencio/>
+hab1	en todo son singulares ya me dirás <silencio/>
+hab3	¿y Portugal?
+hab1	pues
+hab1	¿sabes que <ininteligible/> una relación que me enseñó ayer mamá?
+hab1	la media salarial
+hab1	y en Inglaterra son los primeros <pausa/> mira no entraron en el euro se zafaron de todo
+hab1	y hacen unas cuentas a su manera
+hab1	¿eh?
+hab3	ya
+hab1	y ahora resulta que tienen
+hab1	el salario <pausa/> mayor de Europa
+hab1	bueno <pausa_larga/> que se lo cuenten a otro <silencio/>
+hab1	y no venía Irlanda ¿no?
+hab1	quisiera yo ver Irlanda también otros juegos
+hab3	Irlanda tiene euro
+hab1	sí ya lo sé ¡hombre!
+hab1	tiene euro pero todo
+hab2	tenía la media de Europa
+hab1	la media de Europa
+hab1	y nosotros <pausa/> casi encima
+hab2	éramos cuartos por la cola
+hab1	los cuartos por la cola
+hab3	pero de la Unión Europea ¿o?
+hab1	sí
+hab1	bueno de la relación que sacaron allí <silencio/>
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab2	igual a Bulgaria me parece
+hab1	sí ¡buf! <pausa/> una diferencia <pausa/> pero nosotros <silencio/>
+hab1	menos de la mitad <alargamiento>que</alargamiento>
+hab1	que el Reino Unido
+hab1	menos <pausa/> ¿verdad <ficticio>Muriel</ficticio>? <silencio/>
+hab2	sí <silencio/>
+hab2	ahora eso sí
+hab1	ellos tenían cuarenta y seis y nosotros veintiuno
+hab2	ahora eso sí
+hab1	ya me acuerdo
+hab2	en número de aeropuertos España
+hab1	¡ooh!
+hab2	tiene cincuenta y tres por lo visto
+hab3	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab2	y Alemania
+hab2	tan solo <pausa/> treinta y ocho
+hab1	"
+      <palabra_cortada>tre</palabra_cortada>
+    "
+hab1	treinta y ocho <pausa/> sí <ininteligible/>
+hab3	y el doble de habitantes Alemania <risa/>
+hab2	exactamente
+hab2	bueno eso sí <pausa/> España tiene aeropuertos pues mira así <ininteligible/> Castilla La Mancha
+hab1	queda <pausa/> queda <ininteligible/>
+hab2	el de Ciudad Real <alargamiento>sin</alargamiento> sin eeh siquiera <pausa/> ser inaugurado
+hab2	el de Albacete <silencio/>
+hab2	eeh
+hab3	y Cuenca ¿no tiene?
+hab2	pues no sé no recuerdo vamos no sé
+hab1	ah <pausa/> y el <sigla_inicio/>AVE<sigla_fin/> <pausa/> el <sigla_inicio/>AVE<sigla_fin/>
+hab2	y <sigla_inicio/>AVEs<sigla_fin/> <alargamiento>entre</alargamiento> decía <alargamiento>entre</alargamiento>
+hab2	Lérida y Zaragoza que apenas hay distancia pero es <pausa/> <énfasis_inicio/>fundamental<énfasis_fin/>
+hab1	ah
+hab1	y que
+hab1	ah y que no es rentable para nada
+hab1	y no es <pausa/> nada rentable
+hab1	y cuando vinieron los americanos para ver el <sigla_inicio/>AVE<sigla_fin/> aquí
+hab2	ah eso sí <transcripción_dudosa_inicio/>lo sé<transcripción_dudosa_fin/>
+hab1	dijeron que no se podía permitir
+hab1	ese lujo
+hab1	y vamos los españoles de quijotes <pausa_larga/> y <sigla_inicio/>AVE<sigla_fin/> para aquí para allá
+hab1	o sea los americanos que no se podían permitir el lujo de poner <sigla_inicio/>AVEs<sigla_fin/> <pausa_larga/> hss
+hab3	ya
+hab1	siendo que es liso y llano aquello grandes distancias <alargamiento>y</alargamiento>
+hab1	oye que se me <ininteligible/>
+hab2	a mí ya me extrañó tanto que viniese un <alargamiento>un</alargamiento> eeh
+hab1	un <palabra_cortada>a</palabra_cortada> <pausa/> un americano
+hab2	<alargamiento>el</alargamiento> vamos a ver <pausa/> se llamaba <alargamiento>el</alargamiento> <silencio/>
+hab1	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab2	tiene un cargo importante <alargamiento>el</alargamiento>
+hab1	"comisario <lengua_inicio nombre=""gl""/>eu que sei<lengua_fin/>"
+hab2	<alargamiento>sí</alargamiento> alguna cosa así
+hab2	mira vino a inspirarse o <alargamiento>sea</alargamiento>
+hab2	a ver
+hab1	a mirar cómo funcionaba en España <pausa_larga/> y Aznar enseñando <ininteligible/>
+hab2	cómo funcionaba España
+hab2	no no <pausa/> cuidado no fue Aznar fue José Blanco <pausa/> el que le hizo un viaje con José Blanco
+hab1	"
+      <risa/>
+    "
+hab2	eso fue el año pasado
+hab1	"<lengua_inicio nombre=""gl""/>pero ¿quen empezou os <sigla_inicio/>AVEs<sigla_fin/>? ¿non os empezou Aznar?<lengua_fin/>"
+hab2	sí sí sí bueno y Aznar hizo el proyecto bueno <pausa/> en tiempos de Aznar
+hab1	pero <palabra_cortada>to</palabra_cortada>
+hab2	se hizo los proyectos de los <sigla_inicio/>AVEs<sigla_fin/>
+hab2	eeh en el año noventa y nueve
+hab3	<palabra_cortada>pe</palabra_cortada> no se inaugurara Sevilla <alargamiento>ya</alargamiento>
+hab2	bueno eso fue en el noventa y dos
+hab1	uh <pausa/> en Sevilla <pausa/> <ininteligible/> Sevilla <pausa/> aún estaba Felipe González
+hab3	eso fue ya <alargamiento>para</alargamiento> la Expo
+hab2	pero eso era fue un
+hab3	por eso <risa_inicio/>digo<risa_fin/> que <ininteligible/> empezó fue Felipe González
+hab2	<alargamiento>bien</alargamiento> pero después el gran boom de todo es de estas infraestructuras
+hab2	se hizo en tiempos de Aznar
+hab2	y esto según el estudio este que <pausa/> eeh leímos
+hab2	entonces eeh <palabra_cortada>proyec</palabra_cortada> <pausa/> se proyectaron
+hab2	los los <sigla_inicio/>AVEs<sigla_fin/> los aeropuertos y todo eso
+hab2	entonces salen del dos mil cuatro que entró <alargamiento>el</alargamiento> <silencio/>
+hab2	no antes entró <alargamiento>el</alargamiento>
+hab2	el <sigla_inicio/>PSOE<sigla_fin/> ¿no?
+hab2	en <alargamiento>el</alargamiento> dos mil
+hab2	¿no fue?
+hab3	dos mil <alargamiento>cuatro</alargamiento>
+hab2	ah ¿no había entrado antes? <pausa/> <alargamiento>sí</alargamiento>
+hab1	había entrado
+hab3	está rojo <pausa/> eeh <alargamiento>entró</alargamiento> <alargamiento>el</alargamiento> <palabra_cortada>P</palabra_cortada> el <sigla_inicio/>PP<sigla_fin/> estuvo del noventa y seis al dos mil cuatro estuvo Aznar ocho años y ahora otros ocho de Zapatero
+hab2	ah bien vale bueno pues <palabra_cortada>enton</palabra_cortada>
+hab1	yo creo que a los ocho años se queman ¡eh!
+hab3	por eso en Estados Unidos no pueden estar más
+hab1	"
+      <ininteligible/>
+    "
+hab1	<ininteligible/><ininteligible/> oye y ¿no <palabra_cortada>sa</palabra_cortada> no?
+hab3	y está bien
+hab1	y no salían más por la puerta grande porque a los <palabra_cortada>o</palabra_cortada> a los ocho años los echan
+hab3	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	es que no es que lo se vayan <pausa/> los echan <pausa/> y ¿no era mejor <palabra_cortada>deci</palabra_cortada>?
+hab3	bueno eeh
+hab3	Bush no salió mucho por la puerta grande
+hab1	<palabra_cortada>mi</palabra_cortada> mira qué bien quedaba ahora Zapatero decir <cita_inicio/>mira yo no puedo repetir<cita_fin/> <silencio/>
+hab1	¿eh? <pausa/> y Aznar qué bien hubiera quedado <cita_inicio/>yo no podía seguir<cita_fin/>
+hab3	y Aznar lo hizo precisamente fue lo que dijo <cita_inicio/>no quiero volver a repetir ocho años <alargamiento>está</alargamiento><cita_fin/>
+hab1	¡boh!
+hab1	lo echaron carallo
+hab2	el <alargamiento>que</alargamiento> el que estuvo doce <alargamiento>fue</alargamiento> Felipe González
+hab3	yo te digo lo que lo que dijo
+hab1	ah y él dice
+hab3	y al <palabra_cortada>meno</palabra_cortada> al menos quedó bien <ininteligible/> <ininteligible/> los americanos que no <alargamiento>quiso</alargamiento> seguir
+hab1	"
+      <ininteligible/>
+    "
+hab1	¿sabes que ya lo echaron en América <ininteligible/> como asesor de <alargamiento>una</alargamiento>?
+hab3	<transcripción_dudosa_inicio/>no <palabra_cortada>pe</palabra_cortada><transcripción_dudosa_fin/> pero ¿qué iba a va a asesorar? <risa/>
+hab1	¿qué iba a asesorar?
+hab2	pues el gran proyecto de todo esto <ininteligible/> se organizó en tiempos de Aznar
+hab1	"
+      <ininteligible/>
+    "
+hab2	después cuando entraron los socialistas
+hab1	"
+      <ficticio>Muriel</ficticio>
+    "
+hab2	continuaron con <alargamiento>la</alargamiento>
+hab2	no solamente continuaron sino que todavía la ampliaron más
+hab2	las infraestructuras de todo eso porque claro era muy rentable
+hab2	y cada comunidad autónoma dos tres aeropuertos <alargamiento>como</alargamiento> <pausa/> como fuese ¿no?
+hab1	ya
+hab2	sí <pausa/> había que hacerlo
+hab2	claro que eso da votos
+hab2	da votos <alargamiento>y</alargamiento> bueno
+hab2	siendo mal pensado dará otras cosas <silencio/>
+hab1	"
+      <ininteligible/>
+    "
+hab1	pero dices tú Aznar <pausa_larga/> la que era lista <pausa/> es Ana Botella <pausa_larga/> ella sí que era lista
+hab1	pero él
+hab3	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab3	¿ella por qué?
+hab1	porque es lista
+hab1	eeh se <alargamiento>ve</alargamiento> <pausa/> vivaracha se ve lista <transcripción_dudosa_inicio/>espartana<transcripción_dudosa_fin/>
+hab3	<transcripción_dudosa_inicio/>no<transcripción_dudosa_fin/> la critican tanto
+hab1	¡ay! la critican <ininteligible/> <pausa/> bueno ya <silencio/>
+hab3	no sé <palabra_cortada>co</palabra_cortada> eeh siempre está diciendo cosas <alargamiento>ahí</alargamiento> sobre el Ayuntamiento de Madrid que no <alargamiento>tienen</alargamiento>
+hab1	bueno porque oye sus con sus contrarios no le va a tirar rosas con flores
+hab3	¿cómo que sus contrarios?
+hab1	"
+      <ininteligible/>
+    "
+hab1	"
+      <ininteligible/>
+      <ininteligible/>
+    "
+hab3	ella es el número tres del Ayuntamiento de Madrid
+hab1	aah querrá ser un número uno <ininteligible/>
+hab3	<ininteligible/><ininteligible/> de repente salga con una declaración ahí fuera de lugar <alargamiento>y</alargamiento>
+hab1	bueh
+hab3	no sé qué habló de la contaminación en Madrid que no había contaminación o no sé <alargamiento>qué</alargamiento>
+hab1	"
+      <alargamiento>bueno</alargamiento>
+    "
+hab1	no la <pausa/> no la verá ella porque vive en las afueras
+hab3	por eso digo que que ¿sabes? que que dicen cosas que no <alargamiento>tienen</alargamiento>
+hab1	"
+      <ininteligible/>
+    "
+hab1	oye
+hab1	tendrá un chalé en plena sierra <pausa/> y entonces no está debajo del <transcripción_dudosa_inicio/>hongo<transcripción_dudosa_fin/>
+hab1	no te digo <silencio/>
+hab1	es espabilada ¡eh! <pausa/> ¡buf! <silencio/>
+hab1	pero es medio bufón ¡eh! <silencio/>
+hab2	"
+      <ruido tipo=""suspiro""/>
+      <silencio/>
+    "
+hab1	oye vamos bien justos de tiempo ¡eh! <ficticio>Muriel</ficticio>
+hab3	no <pausa/> vamos bien
+hab1	ay sí
+hab2	"
+      <ininteligible/>
+      <ininteligible/>
+      <silencio/>
+    "
+hab1	vamos vamos <silencio/>
+hab1	pero ¿qué necesidad de ir apurados?
+hab1	¿por qué no salimos a la hora? con lo que a mí me gusta llegar temprano a <transcripción_dudosa_inicio/>los sitios<transcripción_dudosa_fin/>
+hab2	"
+      <ininteligible/>
+    "
+hab2	<ininteligible/> más tiempo nadie estuvo nadie estuvo
+hab1	bueno <ininteligible/> no no no no <ficticio>Muriel</ficticio> yo acabo
+hab2	fumamos un cigarrito después de comer
+hab1	<alargamiento>no</alargamiento> no no no
+hab2	vale
+hab1	yo <pausa/> comí con <alargamiento>tiempo</alargamiento> estuve allí sentado
+hab2	porque llegaste antes que mamá
+hab1	llegué <pausa_larga/> pero tampoco me puse a hacer el tonto
+hab1	cogí
+hab1	eeh <silencio/>
+hab1	el año pasado estabas faltando todos estos días ¿no? que estabas en <silencio/>
+hab1	estabas en <pausa/> Londres
+hab3	¿hoy es trece?
+hab1	sí
+hab3	sí hoy cogía el <alargamiento>el</alargamiento> vuelo <silencio/>
+hab1	y después estabas toda la semana del trece al veinte <pausa/> estuviste allá <ininteligible/> <ininteligible/>
+hab3	sí
+hab3	me incorporé a clases el veintiuno <pausa_larga/> jueves veintiuno <silencio/>
+hab1	bueno <silencio/>
+hab3	ah <palabra_cortada>ta</palabra_cortada> eh clases tampoco había perdido tanto
+hab1	ay mujer perdiste una semana bien
+hab3	ya pero en materia digo <pausa/> lo recuperé pronto
+hab1	bueh
+hab1	bueno recuperaste estuviste en
+hab3	me asustaba más después <alargamiento>de</alargamiento> ¿sabes? <palabra_cortada>de</palabra_cortada> que después lo que fue
+hab1	"
+      <ininteligible/>
+    "
+hab1	estuviste pidiendo apuntes hasta sabe Dios cuándo
+hab3	pero ¿tú qué dices? estás <palabra_cortada>habla</palabra_cortada> eeh
+hab1	¿no?
+hab3	<alargamiento>no</alargamiento><pausa/> lo que más era era de Yolanda pero era la introducción al humanismo no sé qué
+hab3	había mandado un trabajo para la semana siguiente
+hab3	<alargamiento>y</alargamiento> y bueno <pausa/> era voluntario y que en principio no quería hacerlo como no había estado en clase pero al final me puse y lo hice
+hab3	y claro entonces ya tenía más o menos los apuntes pasados <pausa/> y lo que no pasé entonces no los pasé ni me hicieron falta
+hab1	ay bueno
+hab3	y después del resto de asignatura <silencio/>
+hab3	no sé qué más de Cervantes supongo que pasaría los apuntes <alargamiento>de</alargamiento>
+hab3	de fonética de esto pero <pausa/> no recuerdo haberme agobiado <pausa/> no

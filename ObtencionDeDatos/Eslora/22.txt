@@ -1,0 +1,167 @@
+hab2	¿veis <pausa_larga/> como yo <alargamiento>prefiero</alargamiento> <silencio/>
+hab2	el mundo cervantino? <risa/>
+hab1	"
+      <risa/>
+    "
+hab3	<risa_inicio/>ya<risa_fin/>
+hab2	al menos no tiene ese tipo de cosas
+hab3	bueno
+hab1	sí lo tiene <pausa/> yo creo que sí <pausa_larga/> <ininteligible/>
+hab2	no no eso no <risa/> <risa/>
+hab3	bueno tiene a Sancho cagándose por los pantalones pero es mucho mejor
+hab2	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	aparecerá <pausa_larga/> por algún lado
+hab3	"
+      <ininteligible/>
+    "
+hab2	"
+      <risa/>
+      <silencio/>
+    "
+hab1	voy a buscar el doble sentido
+hab2	"
+      <ininteligible/>
+    "
+hab2	no <pausa/> es el sentido no
+hab1	¿es el doble sentido o el sentido doble? <pausa_larga/> ¿cómo es?
+hab3	eeh
+hab2	doble sentido
+hab3	doble sentido
+hab1	doble sentido
+hab1	hm
+hab2	"
+      <ininteligible/>
+    "
+hab1	bueno <silencio/>
+hab1	ya lo busco <silencio/>
+hab2	no me destroces mi obra favorita
+hab3	"
+      <risa/>
+    "
+hab3	yo no sé cómo te puede gustar <pausa/> de verdad
+hab1	no <alargamiento>la</alargamiento> <pausa/> no la voy a destruir <pausa/> la voy <alargamiento>a</alargamiento>
+hab2	¿cómo no? le quieres sacar el <palabra_cortada>segun</palabra_cortada> <pausa_larga/> el doble <palabra_cortada>se</palabra_cortada> <pausa_larga/> <ininteligible/> el doble sentido
+hab1	no <pausa/> solo <alargamiento>quiero</alargamiento> darle un <pausa/> toque más <palabra_cortada>interé</palabra_cortada> <pausa/> <alargamiento>de</alargamiento> interés
+hab2	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab1	no sé
+hab2	o sea
+hab2	"<ruido tipo=""chasquido boca""/> en cierto modo El Quijote es aburrido ¿no? <silencio/>"
+hab2	<risa/><pausa_larga/> puedes decirlo eh <pausa_larga/> estoy rodeada de gente que siempre me lo dice
+hab3	a ver <pausa/> es que sabes que sí <pausa/> <ficticio>Maruxa</ficticio>
+hab1	no pasa nada
+hab2	¿no?
+hab2	¡a ver! <silencio/>
+hab1	"
+      <risa/>
+      <silencio/>
+    "
+hab2	¿quién sale a la calle? <pausa/> imaginaos <pausa_larga/> a don Quijote <palabra_cortada>aho</palabra_cortada> <pausa/> a ver
+hab2	imaginaos ahora una historia <pausa/> de un tal don Quijote en Nueva York
+hab2	destrozando a todos los famosos
+hab2	es lo mismo
+hab2	pero en el siglo diecisiete <silencio/>
+hab3	¡hombre! <pausa/> <alargamiento>no</alargamiento>
+hab1	pero es otra cosa
+hab2	"<ruido tipo=""chasquido boca""/> ya"
+hab2	eh <pausa_larga/> más o menos <ininteligible/> <silencio/>
+hab3	es que tú además lo ves con una pasión <pausa/> que yo no la entiendo <pausa_larga/> de verdad
+hab2	ah
+hab2	es que es muy bonito <pausa_larga/> <ininteligible/>
+hab3	¿pero bonito dónde?
+hab2	¡<alargamiento>jolín</alargamiento>!
+hab3	<ininteligible/> a mí me hace <palabra_cortada>g</palabra_cortada> <risa/>
+hab1	es que a mí me da pena <pausa/> me da pena
+hab2	ya <pausa/> yo la muerte <alargamiento>ya</alargamiento> <pausa/> ¡buf! <pausa/> la muerte <pausa/> pobrecillo
+hab3	<risa/> ¡jolín! pues yo cuando murió dije <cita_inicio/>¡por fin!<cita_fin/>
+hab1	no <pausa/> yo no hablo de la muerte pero hablo <pausa/> hablo de la personalidad y de todo
+hab2	sí <pausa/> porque intenta hacer algo <pausa/> se vuelve a caer <pausa/> y tú ¡<alargamiento>jo</alargamiento>! <pausa_larga/> pero no pasa nada <pausa/> vuelve <alargamiento>a</alargamiento> <pausa_larga/> a levantarse
+hab1	no pero es <silencio/>
+hab2	"
+      <ininteligible/>
+      <silencio/>
+    "
+hab2	me pregunto cuántas cicatrices debería tener
+hab3	"
+      <ininteligible/>
+    "
+hab1	todos se ríen de <palabra_cortada>é</palabra_cortada> <pausa/> de él
+hab2	¿eh?
+hab3	es patético <silencio/>
+hab3	ya <pausa/> partiendo de ahí <risa/>
+hab2	que no <risa/>
+hab1	él no entiende nada y todos se ríen de él <pausa_larga/> eso no es <palabra_cortada>l</palabra_cortada> <pausa_larga/> eso no es <ininteligible/>
+hab3	ajá
+hab3	"
+      <ininteligible/>
+    "
+hab2	sí es triste <pausa/> sí sí que es triste es verdad
+hab1	eso <pausa_larga/> es <pausa_larga/> muy
+hab2	pero bueno <pausa/> las historias <alargamiento>son</alargamiento> bonitas y tal
+hab3	las historias intercaladas son lo único que tiene un pase <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> y las salidas <silencio/>"
+hab2	bah <pausa/> da igual <pausa_larga/> no lo entendéis
+hab3	yo prefiero las leyendas de Bécquer <pausa/> ¿qué quieres que te diga?
+hab2	¡jolín! <pausa/> ¿pero cómo vas a comparar el Quijote con Bécquer?
+hab3	le da mil vueltas <pausa/> perdona
+hab2	¡madre mía!
+hab2	pues
+hab3	perdona
+hab2	yo no digo que sea <palabra_cortada>m</palabra_cortada>
+hab2	bonito o no pero <silencio/>
+hab2	comparar una cosa con
+hab3	yo no entiendo qué le ves en serio te lo juro
+hab2	<alargamiento>ya</alargamiento><pausa/> todo el mundo no lo entiende pero no pasa nada <silencio/>
+hab2	ya sigo yo ahí
+hab2	en mi mundo
+hab1	"
+      <risa/>
+      <silencio/>
+    "
+hab1	¿y cuánto tiempo llevas con este mundo?
+hab3	"
+      <ruido tipo=""tos""/>
+    "
+hab2	"
+      <risa/>
+      <risa/>
+      <silencio/>
+    "
+hab2	eeh
+hab1	no <pausa/> es una pregunta seria <pausa/> me interesa
+hab2	desde los quince años
+hab2	más o menos <pausa_larga/> <risa/>
+hab1	¿y ahora cuántos tienes?
+hab2	veinte
+hab2	<risa/><risa/> no <pausa/> no es tanto
+hab1	bueno <pausa/> no es tanto
+hab2	ten en cuenta <alargamiento>que</alargamiento>
+hab2	o <alargamiento>sea</alargamiento> <pausa/> no lo puedo leer
+hab2	con los <pausa/> con los mismos ojos ahora
+hab2	que hace diez años
+hab1	¡qué
+hab2	con doce años
+hab1	<alargamiento>pena</alargamiento>!
+hab2	"¿qué? <pausa/> <ruido tipo=""golple""/>"
+hab3	"
+      <risa/>
+      <silencio/>
+    "
+hab1	¡pero lo leíste a <pausa_larga/> con <pausa/> a los doce <alargamiento>años</alargamiento>?
+hab2	"
+      <alargamiento>no</alargamiento>
+    "
+hab1	no
+hab2	me refiero a que es <pausa/> <palabra_cortada>m</palabra_cortada> muy difícil entenderlo como se entiende ahora <pausa_larga/> con la edad <silencio/>
+hab1	vale
+hab2	con los doce años yo no entendía nada solo entendía a un loco que iba <pausa/> <alargamiento>ahí</alargamiento> <pausa/> contra los molinos

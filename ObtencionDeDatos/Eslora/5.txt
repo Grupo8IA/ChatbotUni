@@ -1,0 +1,157 @@
+hab1	y vine desde ahí hasta mi casa <pausa/> con mi Marshall <silencio/>
+hab1	tienes uno también <pausa/> pues sabes lo que pesa un Marshall de cien vatios ¿no?
+hab1	pues tengo los brazos destrozados <silencio/>
+hab1	yo le dije a mi padre que me lo trajera para la semana <silencio/>
+hab1	"o para dentro de dos <pausa/> o sea que pronto tendré aquí un <comentario_inicio valor=""susurrando""/>amplificador de guitarra de la hostia<comentario_fin/> <silencio/>"
+hab2	bueno mi hermano me lleva pidiendo tres fines de semana que vaya a Ferrol con el violín <pausa/> y siempre se me olvida
+hab1	¿a Ferrol con el violín?
+hab2	sí porque <alargamiento>está</alargamiento> mi hermano ahora está en plan revival de tocar el piano
+hab1	"
+      <ininteligible/>
+    "
+hab3	"
+      <risa/>
+    "
+hab2	<alargamiento>y</alargamiento><pausa/> sí está tocando el piano la hostia y me pide partituras y <alargamiento>le</alargamiento> estuve bajando partituras de internet y tal
+hab2	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	¿y quiere que toques con él?
+hab2	"<alargamiento>y</alargamiento> no <pausa/> y le bajé <alargamiento>yo</alargamiento> o sea le pasé <alargamiento>una</alargamiento> mierda que tengo yo una <lengua_inicio nombre=""en""/>cover<lengua_fin/> <alargamiento>de</alargamiento>"
+hab2	de una canción del Zelda <silencio/>
+hab2	"y quería tocarla con él y le dije <cita_inicio/>¡buah! esto lo tocamos juntos tal apréndetela<cita_fin/> <alargamiento>y</alargamiento> le bajé más cosas en plan canciones de Amélie y mierdas <alargamiento>muy</alargamiento> ¿sabes? <ruido tipo=""inspiración""/>"
+hab1	mm ¡qué guay!
+hab2	muy poperillas así de tal
+hab1	claro que tu hermano tiene un teclado guay ¿no?
+hab2	sí bueno <pausa/> teclado guay sí <pausa/> él no le <palabra_cortada>fal</palabra_cortada> <pausa/> le faltan octavas ya
+hab1	un teclado con dos rueditas
+hab2	le faltan octavas para tocar Entertainer ¿sabes? la <alargamiento>de</alargamiento>
+hab1	¿le falta? ah tiene pocas octavas
+hab2	la de El golpe la <alargamiento>de</alargamiento> <pausa/> pues le faltan <transcripción_dudosa_inicio/>hombre sí claro<transcripción_dudosa_fin/> no tiene octava <alargamiento>para</alargamiento> <ininteligible/>
+hab1	vamos <ininteligible/> lo importante de un teclado es que tenga dos rueditas de <palabra_cortada>ben</palabra_cortada> una de bending y una <alargamiento>de</alargamiento>
+hab2	"
+      <alargamiento>pero</alargamiento>
+    "
+hab2	<risa/><risa/> pues no tiene
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	¿no?
+hab2	no
+hab1	¡ah qué putada!
+hab2	eso está guay para marcarse solos ahí de órgano <pausa/> el caso es <alargamiento>que</alargamiento> ¡joder!
+hab1	no y para grabar <pausa_larga/> un midi
+hab2	mm ya
+hab1	¿sabes?
+hab2	ya <transcripción_dudosa_inicio/>para hacer<transcripción_dudosa_fin/>
+hab1	grabar midi
+hab2	<risa_inicio/>hm<risa_fin/> bueno <pausa/> también puedes hacer los midis a mano después
+hab1	hoy le dije a Espe que hiciera su proyecto en midi <silencio/>
+hab1	y <alargamiento>me</alargamiento> <pausa/> y no sé la la lié mucho y de me dijo <cita_inicio/>¿pero eso no es <alargamiento>un</alargamiento> formado de audio?<cita_fin/> y casi le pego
+hab2	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab1	me enfadé la hostia con ella
+hab1	<cita_inicio/>¿no es un tipo de sonido?<cita_fin/> <pausa/> ¡cómo va a ser un tipo de sonido!
+hab1	<risa/><risa_inicio/>¡inútil!<risa_fin/>
+hab2	"
+      <risa/>
+    "
+hab1	y le estuve explicando muy enfadado lo que era midi y tal <silencio/>
+hab2	"bueno es comprensible porque hay archivos midi <alargamiento>y</alargamiento> son simplemente grabaciones de protocolo midi a pelo <ruido tipo=""inspiración""/>"
+hab1	pero ¡joder! <palabra_cortada>m</palabra_cortada> <pausa/> vale pero Espe ¿sabes? que le mola la informática y le mola esto de los rollos de música en ocho bits y tal
+hab1	no sé debería saber <pausa/> saber que <pausa_larga/> midi no es <pausa/> sonido muy cutre el sonido muy cutre es <pausa/> el sonido de ordenador midi son las señales solo de las notas
+hab2	"
+      <ruido tipo=""inspiración""/>
+    "
+hab2	"hm <ruido tipo=""inspiración""/> <silencio/>"
+hab2	ah me bajé Blender
+hab1	¿te bajaste?
+hab2	Blender
+hab1	muy bien
+hab2	estoy <alargamiento>ahí</alargamiento>
+hab1	vas a flipar <risa/>
+hab2	<risa_inicio/>sí<risa_fin/> estuve intentando aprender un poco del Blender <ininteligible/> y bueno ya sé manejar la <alargamiento>cámara</alargamiento>
+hab1	¿miraste algún tutorial en Youtube?
+hab2	sí estuve <alargamiento>viendo</alargamiento> tutoriales lo lo básico en plan manejar la cámara modelar lo básico en plan mover <transcripción_dudosa_inicio/>aristas<transcripción_dudosa_fin/> y ver <ininteligible/> cajas y cubos
+hab1	no sé qué es lo que quería hacerle yo quiero hacer una cosa guapa mirando tutoriales en Youtube <pausa/> ah <pausa/> aprender a rodar apps
+hab2	¿aprender haciendo <transcripción_dudosa_inicio/>apps<transcripción_dudosa_fin/>?
+hab1	puedes aprender todo lo que quieras tío la universidad ya no tiene sentido
+hab2	sí en Youtube
+hab2	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab1	vas a Youtube <pausa_larga/> <cita_inicio/>cómo <pausa/> lo que sea<cita_fin/> y ya está <pausa/> a tomar por culo tío yo <palabra_cortada>empie</palabra_cortada> cada vez estoy más indignado tío o sea me parece más <pausa/> más inútil cada vez estar yendo a la universidad
+hab2	"
+      <risa/>
+    "
+hab2	"
+      <ruido tipo=""inspiración""/>
+    "
+hab1	¿en serio?
+hab1	me parece gravísimo <silencio/>
+hab1	aún encima <silencio/>
+hab1	no dejan <alargamiento>de</alargamiento> <pausa_larga/> en cierta manera de enseñarte lo que a ellos les dé la gana ¿no? aunque no sea <alargamiento>tan</alargamiento> <pausa/> un rollo tan cerrado porque dependa más pues una parte de los profesores y otra de la administración ¿sabes?
+hab1	aun así te enseñan lo que les sale de los cojones
+hab1	a ellos <silencio/>
+hab1	y luego no te sirve para nada <silencio/>
+hab1	<énfasis_inicio/>nada<énfasis_fin/> te sirve para nada
+hab1	explícame qué hicimos útil hasta ahora
+hab2	¿qué?
+hab1	¿qué hicimos útil hasta ahora? <énfasis_inicio/>dos<transcripción_dudosa_fin/> asignaturas
+hab2	¡hostia! no sé hay varias
+hab1	<sigla_inicio/>DS<sigla_fin/>
+hab2	¿el qué?
+hab1	<sigla_inicio/>DS<sigla_fin/>
+hab2	pues a mí <sigla_inicio/>DS<sigla_fin/> ni <palabra_cortada>si</palabra_cortada> bueno está <alargamiento>guay</alargamiento> para programar <ininteligible/> objetos
+hab1	<sigla_inicio/>DS<sigla_fin/> está bien para aprender pero tampoco es especialmente útil
+hab2	hm
+hab1	pues no sé <sigla_inicio/>SI<sigla_fin/>
+hab2	<sigla_inicio/>SI<sigla_fin/> y Algoritmos es <alargamiento>útil</alargamiento>
+hab1	"
+      <ininteligible/>
+    "
+hab2	Redes si no tienes ni puta idea es muy <alargamiento>útil</alargamiento> si tienes idea pues ya no vale de nada
+hab1	es que Redes ya me dirás
+hab2	claro <alargamiento>y</alargamiento> claro es que también parte de la base que tú vienes del ciclo y aparte pues no sé
+hab1	no
+hab2	eres una persona más o menos formada <pausa_larga/> pero hay peña que entra <alargamiento>en</alargamiento> informática y no tiene ni puta idea de nada
+hab1	pero vamos a ver
+hab1	pero si Redes el examen es tipo test tío <pausa/> ¿qué me estás contando? <pausa/> ¿qué es eso? o sea ¿estamos haciendo Económicas o qué? me cago en Dios
+hab2	"
+      <risa/>
+    "
+hab2	viste mi página web ¿no? si te la pasé por la mañana
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	¿la viste con fondo y todo?
+hab1	sí la vi con fondo
+hab2	¿con el fondo <alargamiento>de</alargamiento> florecitas?
+hab1	sí un fondo pero podías crear uno ahí bastante oscuro no sé no me rallé a hacer una crítica porque tampoco soy
+hab2	un color oscuro
+hab2	viste las florecitas
+hab2	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+      <risa/>
+    "
+hab1	tampoco soy muy experto en eso pero si si quieres rajo un huevo sobre ella
+hab2	<risa/><risa_inicio/>bueno<risa_fin/> pues <alargamiento>cuando</alargamiento> tengas tiempo puedes rajar si quieres
+hab1	te hago una crítica
+hab2	sí podemos contrastar luego en plan qué opinan los profesores <alargamiento>y</alargamiento> qué opinas tú bueno los profesores no van a decir una puta mierda me van a decir <alargamiento>que</alargamiento>
+hab1	¿quieres ver si tengo una web hecha por mí?
+hab2	no me van a decir nada porque
+hab1	para que veas el diseño más que nada
+hab2	me pasé bastante <alargamiento>de</alargamiento> <pausa_larga/> las expectativas <alargamiento>del</alargamiento> rollo
+hab1	sí ¿no? mítico que te piden una parida y tú te pasas
+hab2	¿una qué?
+hab2	¿que si quiero ver una qué? <pausa/> sí claro mítico que me piden una parida y te rallas la hostia <pausa/> y me ha pasado otra vez con <alargamiento>el</alargamiento>
+hab1	y te rallas más
