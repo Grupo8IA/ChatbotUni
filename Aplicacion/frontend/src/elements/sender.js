@@ -11,7 +11,7 @@ const Sender = (props) => {
                 <TextField id="outlined-basic-email" label="Escribe un mensaje aquí." fullWidth value={props.message} onChange={(e) => {props.setMessage(e.target.value)}}/>
             </Grid>
             <Grid xs={1} align="right">
-                <Fab color="#6d3878" aria-label="add" onClick={e => props.sendMessage(e)}><SendIcon /></Fab>
+                <Fab color="primary" aria-label="add" onClick={e => props.sendMessage(e)}><SendIcon /></Fab>
             </Grid>
         </Grid>
     )

@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
-
 import Chat from './components/chat';
 import Home from './components/home';
 

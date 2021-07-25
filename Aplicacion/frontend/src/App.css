@@ -2,3 +2,38 @@
   background-color: #f1f2f5;
   text-align: center;
 }
+
+.Container {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction:  column;
+  background-color: #ffffff;
+}
+
+.Title {
+  color: #737373;
+}
+
+.Button {
+  background-color: #fbeb7c  ;
+  color: #737373;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.Button:hover {
+  background-color: #ffffff ;
+  color: #737373;
+  padding: 10px;
+  border-color: #fbeb7c;
+  border-style: solid;
+  border-width: thin medium;
+}
+
+
+a {
+  text-decoration: none;
+}

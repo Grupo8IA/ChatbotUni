@@ -55,15 +55,15 @@ const Chat = () => {
     const sendMessage = (e) => {
         e.preventDefault();
         const data = {
-            message: message,
-            roomId: roomId,
-            sender: 0,
-            createdAt: moment().format("DD-MM-YYYY hh:mm:ss"),
+          message: message,
+          roomId: roomId,
+          sender: 0,
+          createdAt: moment().format("DD-MM-YYYY hh:mm:ss"),
         }
-        if(message){
-            socket.emit('send_message', data);
+        if(message !== "" && message ){
+          socket.emit('send_message', data);
+          setMessages([...messages, data]);
         }
-        setMessages([...messages, data]);
         setMessage("");
     }
 

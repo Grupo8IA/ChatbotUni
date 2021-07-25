@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background: #f1f2f5;
+  background: #e28c66  ;
   min-height: 500px;
   display: flex;
   font-weight: 400;
@@ -16,3 +16,9 @@ h1,h2,h3,h4,h5,h6,label,span {
   font-weight: 500;
   font-family: 'Fira Sans', sans-serif;
 }
+
+div {
+  border-radius: 20px;
+}
+
+

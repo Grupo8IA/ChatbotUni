@@ -20,7 +20,6 @@
     "react-scripts": "^2.0.5",
     "react-time-ago": "^6.2.2",
     "react-uuid": "^1.0.2",
-    "react-webcam": "^5.2.2",
     "reactstrap": "^8.7.1",
     "socket.io-client": "^3.1.1",
     "web-vitals": "^0.2.4",
