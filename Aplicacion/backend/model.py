@@ -3,13 +3,16 @@ import re
 import unicodedata
 from io import open
 
-MAX_LENGTH = 10 # Cantidad de palabras máxima por cada sentencia
+MAX_LENGTH = 15 # Cantidad de palabras máxima por cada sentencia
+PAD_token = 0  # Token para rellenar las sentencias con una cantidad menor a MAX_LENGTH
+SOS_token = 1  # Token que indica el inicio de la sentencia
+EOS_token = 2  # Token que indica el final de la sentencia
 
 class Voc:
     def __init__(self, name):
         self.name = name
         self.trimmed = False
-        self.word2index = {"PAD": PAD_token , "SOS":SOS_token , "EOS":EOS_token }
+        self.word2index = {"PAD":PAD_token , "SOS":SOS_token , "EOS":EOS_token }
         self.word2count = {}
         self.index2word = {PAD_token: "PAD", SOS_token: "SOS", EOS_token: "EOS"}
         self.num_words = 3  # Los 3 tokens inicializados SOS, EOS, PAD
@@ -131,42 +134,31 @@ def loadPrepareData(corpus_name, datafile, save_dir):
     return voc, pairs
 
 class Encoder(torch.nn.Module):
-  def __init__(self, longitud_entrada, longitud_embedding=200, longitud_oculta=200, n_capas=2):
+  def __init__(self, longitud_entrada, longitud_embedding=100, longitud_oculta=100, n_capas=2):
     super().__init__()
-    # Inicializacion de la longitud del estado oculto
     self.longitud_oculta = longitud_oculta
-    # Inicializacion del embedding
     self.embedding = torch.nn.Embedding(longitud_entrada, longitud_embedding)
-    # Inicializacion de la red GRU
     self.gru = torch.nn.GRU(longitud_embedding, longitud_oculta, num_layers=n_capas, batch_first=True)
 
-  # Definicion del forward, retorna la salida y el estado oculto
   def forward(self, oraciones_entrada):
     embedded = self.embedding(oraciones_entrada)
     salidas, oculta = self.gru(embedded)
     return salidas, oculta
 
 class AtencionDecoder(torch.nn.Module):
-  def __init__(self, longitud_entrada, longitud_embedding=200, longitud_oculta=200, n_layers=2, longitud_maxima=MAX_LENGTH):
+  def __init__(self, longitud_entrada, longitud_embedding=100, longitud_oculta=100, n_layers=2, longitud_maxima=MAX_LENGTH):
     super().__init__()
-    # Inicializacion del embedding
     self.embedding = torch.nn.Embedding(longitud_entrada, longitud_embedding)
-    # Inicializacion de la red GRU
     self.gru = torch.nn.GRU(longitud_embedding, longitud_oculta, num_layers=n_layers, batch_first=True)
-    # Define una transformacion lineal para la salida del decoder
     self.out = torch.nn.Linear(longitud_oculta, longitud_entrada)
 
-    # Define la transformacion lineal para el calculo del vector de atencion
     self.atencion = torch.nn.Linear(longitud_oculta + longitud_embedding, longitud_maxima)
-    # Define la transformacion lineal para combinar el vector de atencion con el estado oculto del encoder
     self.combinar_atencion = torch.nn.Linear(longitud_oculta * 2, longitud_oculta)
 
-  # Definicion del forward, retorna la salida, el estado oculto, y los pesos del vector de pesos de atencion
   def forward(self, palabras_entrada, oculta, salidas_encoder):
     embedded = self.embedding(palabras_entrada)
     pesos_atencion = torch.nn.functional.softmax(self.atencion(torch.cat((embedded.squeeze(1), oculta[0]), 1)))
     atencion_aplicada = torch.bmm(pesos_atencion.unsqueeze(1), salidas_encoder)
-    # Concatena el embedding con el vector de atencion
     salida = torch.cat((embedded.squeeze(1), atencion_aplicada.squeeze(1)), 1)
     salida = self.combinar_atencion(salida)
     salida = torch.nn.functional.relu(salida)
@@ -174,7 +166,50 @@ class AtencionDecoder(torch.nn.Module):
     salida = self.out(salida.squeeze(1))
     return salida, oculta, pesos_atencion
 
-def main():
+def enviarEntrada(cadena, voc, encoder, decoder):
+    return limpiar(predecir(convertirATensor(cadena,voc), encoder, decoder, voc))
+
+
+def predecir(secuencia_de_entrada, encoder, decoder, voc):
+    # obtenemos el último estado oculto del encoder
+    encoder_salidas, oculto = encoder(secuencia_de_entrada.unsqueeze(0))
+    
+    # calculamos las salidas del decoder de manera recurrente
+    decoder_entrada = torch.tensor([[voc.word2index['SOS']]])
+    
+    # inicializamos el vector de atención del decoder
+    decoder_atencion = torch.zeros(MAX_LENGTH, MAX_LENGTH)
+
+    # iteramos hasta que el decoder nos de el token <eos>
+    salidas = []
+    i = 0
+    while True and i<MAX_LENGTH:
+        salida, oculto, attn_pesos = decoder(decoder_entrada, oculto, encoder_salidas)
+        i += 1
+        decoder_entrada = torch.argmax(salida, axis=1).view(1, 1)
+        salidas.append(decoder_entrada.cpu().item())
+        if decoder_entrada.item() == voc.word2index['EOS']:
+            break
+    return voc.sentenciaDeIndice(salidas)
+
+def limpiar(tensorpre):
+    var = ""
+ 
+    for i in tensorpre:
+        if i != 'PAD' and i != 'EOS':
+            var += i
+            var += " "            
+    return var
+
+def convertirATensor(oracion, voc):
+     #convertimos en una lista de palabras la oración, y le añadimos el símbolo EOS al final 
+     listaDePalabras = [voc.word2index[palabra] for palabra in oracion.strip().split(' ')] + [EOS_token]
+     
+     #convertimos en tensor la lista de palabras
+     salidaTensor = torch.tensor(listaDePalabras)
+     return torch.nn.functional.pad(salidaTensor,(0,MAX_LENGTH-len(salidaTensor)),'constant',voc.word2index['PAD'])  
+
+def ejecutar():
     save_dir = "./"
     datafile = "../../Data/all30.txt"
     corpus_name = "dataf_s2s"
@@ -186,14 +221,10 @@ def main():
     for pair in pairs[:10]:
         print(pair)
 
-    encoder = Encoder(longitud_entrada=voc.num_words)
-    decoder = AtencionDecoder(longitud_entrada=voc.num_words)
-    checkpoint = torch.load('checkpoint-512BS-30ML-18EP.pt')
+    print(voc.num_words)
+    encoder = Encoder(longitud_entrada=54569,  longitud_embedding=512, longitud_oculta=512)
+    decoder = AtencionDecoder(longitud_entrada=54569,  longitud_embedding=512, longitud_oculta=512)
+    checkpoint = torch.load('./static/checkpoint-15ML-15ep-data-all30-512bz-loss30-con-tildes-512em-512h-etapa4.pt')
     encoder.load_state_dict(checkpoint['encoder'])
     decoder.load_state_dict(checkpoint['decoder'])
-
-
-    pass
-
-if __name__ == '__main__':
-    main()
+    return voc, encoder, decoder
