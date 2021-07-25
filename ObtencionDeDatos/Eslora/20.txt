@@ -1,0 +1,345 @@
+hab1	¡hola <ficticio>Carina</ficticio>!
+hab2	¡hola <ficticio>Carina</ficticio>!
+hab3	¡hola <ficticio>Carina</ficticio>!
+hab4	dime ¿qué?
+hab1	¿qué tal?
+hab2	eeh
+hab4	dime
+hab1	¿has hablado con el fontanero? <silencio/>
+hab4	hablé y no <pausa/> no aún no vino ¿no?
+hab1	y
+hab1	"
+      <alargamiento>no</alargamiento>
+    "
+hab2	"
+      <alargamiento>no</alargamiento>
+    "
+hab3	"
+      <alargamiento>no</alargamiento>
+    "
+hab1	¿qué ha <alargamiento>dicho</alargamiento>?
+hab4	"
+      <alargamiento>pues</alargamiento>
+    "
+hab4	que iba a venir
+hab1	¿hoy? <silencio/>
+hab4	<palabra_cortada>m</palabra_cortada><pausa/> me ya ya lo llamé ayer
+hab4	"
+      <ininteligible/>
+    "
+hab4	y me dijo que iba a venir hoy y le dije yo <cita_inicio/>no vengas por la mañana<cita_fin/>
+hab1	mmm vale
+hab4	dije yo <cita_inicio/>porque no están las chicas
+hab3	ya
+hab4	a ver si vienes por la tarde<cita_fin/>
+hab4	<alargamiento>y</alargamiento><pausa_larga/> y ya ves <pausa/> y no vino
+hab3	no <silencio/>
+hab2	vale
+hab4	espera <pausa_larga/> lo voy a llamar ahora otra vez
+hab3	vale <ininteligible/>
+hab1	vale porque nosotras eeh mañana <alargamiento>se</alargamiento> <pausa/> llegamos <alargamiento>a</alargamiento> Salamanca <pausa/> pero <ficticio>Alba</ficticio> está en casa
+hab4	sí <pausa_larga/> sí
+hab3	yo estoy
+hab4	ah <pausa/> bien <pausa/> bien
+hab4	bien <pausa/> lo voy a llamar ahora a ver <pausa/> a ver lo que me dice
+hab2	vale
+hab1	vale
+hab4	¿qué tal? <pausa/> ¿qué tal veis?
+hab1	no nada <pausa_larga/> que <alargamiento>se</alargamiento>
+hab4	¿sí? <pausa_larga/> bien ¿no?
+hab1	sí sí todo bien
+hab3	sí
+hab1	<alargamiento>la</alargamiento><pausa_larga/> ¿cómo se llaman?
+hab4	bueno <pausa/> ¡uy!
+hab3	orejas
+hab1	las orejas de Carnaval <pausa_larga/> son muy buenas
+hab4	aah
+hab4	¿<alargamiento>sí</alargamiento>? <pausa_larga/> ¿te gustan?
+hab1	¿puedes darnos <alargamiento>la</alargamiento> mmm?
+hab4	¿receta?
+hab2	la receta <ininteligible/>
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab4	<alargamiento>sí</alargamiento><pausa_larga/> a lo mejor mañana las vuelvo a hacer <pausa/> a ver si hago mañana otra vez
+hab1	vale
+hab4	¿eh?
+hab2	vale hm
+hab3	"
+      <ininteligible/>
+    "
+hab1	más <alargamiento>un</alargamiento>
+hab4	eso es típico de aquí <pausa_larga/> de los Carnavales
+hab2	hm
+hab1	ah <pausa/> vale
+hab4	aquí en los Carnavales se hacen las orejas esas
+hab1	pero el pastel no es eeh salado es <pausa/> <alargamiento>dulce</alargamiento> <pausa/> es
+hab4	es dulce es dulce <pausa_larga/> es dulce <pausa/> es una masa <pausa_larga/> ¡bah!
+hab1	vale <pausa/> pero
+hab4	es una masa que luego se fríe
+hab2	también en Italia las tenemos <pausa/> también en Italia las tenemos
+hab4	¿eh?
+hab1	"<ruido tipo=""chasquido boca""/> pero"
+hab1	pero son
+hab4	también ¿no?
+hab1	pero son <pausa_larga/> más pequeñas
+hab2	son más pequeñas
+hab4	más pequeñas <pausa/> ah <pausa/> ¿no son así grandes?
+hab1	sí
+hab1	no
+hab2	<ininteligible/> muy grandes
+hab4	esto se puede hacer como se quiera
+hab4	si las quieres hacer más pequeñas las haces más pequeñas
+hab4	pero vamos yo las hago grandes
+hab4	porque ¿no las visteis por ahí? <pausa/> por las eeh
+hab2	"
+      <risa/>
+    "
+hab4	pastelerías y eso ¿no hay? <pausa_larga/> ni en las panaderías <pausa/> ya las ponen allí ya <alargamiento>las</alargamiento>
+hab1	no no hemos visto nunca
+hab2	no
+hab4	ya <alargamiento>las</alargamiento> <pausa/> las <palabra_cortada>ve</palabra_cortada> <pausa/> las venden
+hab3	no
+hab4	¿no sabes?
+hab1	no no hemos visto nunca
+hab4	pues sí pues sí las hay <pausa/> las hay en las
+hab4	las panaderías y así lo que pasa que claro son más ricas las de casa
+hab1	hm
+hab4	claro <pausa_larga/> si si salen ricas vamos
+hab1	vale
+hab4	y a veces tampoco me <alargamiento>salen</alargamiento> <pausa_larga/> no me salen siempre igual de bien ¡eh! <pausa/> pero sí <pausa_larga/> qué te ¿amasáis bien vosotras la masa?
+hab1	"
+      <risa/>
+    "
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	sí claro
+hab3	sí <pausa/> sí sí sí sí
+hab4	¿sabéis amasar bien?
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab4	bueno pues entonces yo os he de dar la recetita
+hab4	¿eh?
+hab1	vale
+hab2	vale vale
+hab3	vale
+hab4	y y vosotros amasáis y no estéis <pausa/> son fritas
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	<alargamiento>sí</alargamiento> se
+hab3	"
+      <alargamiento>sí</alargamiento>
+    "
+hab4	luego se fríen
+hab1	sí <pausa/> también hay en Italia
+hab4	sí <pausa_larga/> más o menos
+hab2	"
+      <ininteligible/>
+    "
+hab4	son <alargamiento>países</alargamiento> <pausa/> mediterráneos <pausa/> que <alargamiento>no</alargamiento>
+hab3	"
+      <ininteligible/>
+    "
+hab2	no
+hab4	hay muchas cosas muy parecidas
+hab2	sí
+hab1	vale <pausa/> aún no <alargamiento>he</alargamiento> buscado <alargamiento>la</alargamiento> batería <alargamiento>del</alargamiento> eeh del móvil
+hab4	dime
+hab4	ah tranquila no te preocupes <ininteligible/>
+hab1	"
+      <alargamiento>y</alargamiento>
+    "
+hab1	¿seguro no es un problema si tengo <palabra_cortada>l</palabra_cortada>?
+hab4	no hay problema
+hab4	no es problema ninguno
+hab5	ah <pausa_larga/> eso no tenéis prisa por el móvil ¡eh!
+hab4	nada no tenéis <pausa/> nada no hay prisa ninguna <pausa/> el tiempo que sea <pausa_larga/> porque yo no lo utilizo <pausa_larga/> ¿entiendes? <pausa/> así que <pausa/> si lo usáis vosotras está bien
+hab5	no hay ninguna prisa <pausa/> cuando <palabra_cortada>querái</palabra_cortada>
+hab2	<vacilación/> vale
+hab4	para ti <pausa/> <risa/>
+hab2	vale
+hab4	no hay problema <pausa_larga/> vosotras por eso no os preocupéis
+hab2	"
+      <risa/>
+    "
+hab2	vale
+hab1	vale
+hab3	"
+      <ininteligible/>
+    "
+hab4	así que vais a Salamanca
+hab1	<alargamiento>sí</alargamiento> mañana
+hab4	es muy bonito <pausa/> muy bonito en Salamanca
+hab1	no he visto nunca
+hab4	y <pausa/> y ¿en qué vais? <pausa/> ¿en qué vais? <pausa/> ¿<alargamiento>en</alargamiento> tren?
+hab2	"
+      <alargamiento>no</alargamiento>
+    "
+hab1	<alargamiento>no</alargamiento><pausa_larga/> vas
+hab2	autobús
+hab1	sí en <pausa/> sí en
+hab4	¡autobús! <pausa/> aah
+hab2	"
+      <ininteligible/>
+    "
+hab4	vais en autobús <pausa/> mira qué bien ¿y luego tú? <pausa/> tú <ficticio>Elena</ficticio> <pausa/> ¿tú no quieres?
+hab1	sí <palabra_cortada>fuim</palabra_cortada>
+hab3	<alargamiento>y</alargamiento> no <risa/> <ininteligible/> <pausa/> no
+hab4	¿no quieres?
+hab3	"
+      <risa/>
+    "
+hab4	aah
+hab4	muy bonito Salamanca
+hab3	fuimos con el equipo de la Universidad
+hab4	aah
+hab4	mmm <pausa_larga/> ¡muy bien!
+hab3	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+      <ininteligible/>
+    "
+hab1	con todos los los Erasmus <alargamiento>y</alargamiento>
+hab4	mmm <pausa/> ¡qué bien! <pausa/> ¡qué bien! <pausa/> aah y <ficticio>Elena</ficticio> no quiere <pausa/> claro
+hab2	¡no!
+hab2	ella es <ficticio>Elena</ficticio> <ininteligible/> <ininteligible/>
+hab1	"
+      <ficticio>Alba</ficticio>
+    "
+hab3	"
+      <ininteligible/>
+    "
+hab4	¡ay! yo te llamo a ti ¿tú eres?
+hab2	"
+      <risa_inicio/>
+      <ficticio>Alba</ficticio>
+      <risa_fin/>
+    "
+hab4	"
+      <ficticio>Alba</ficticio>
+      <alargamiento>sí</alargamiento>
+    "
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab4	"
+      <ficticio>Andrea</ficticio>
+    "
+hab1	sí claro
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab4	<alargamiento>y</alargamiento><ficticio>Elena</ficticio> eres tú y yo te llamo a ti siempre
+hab2	sí
+hab1	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab4	bueno pues mira voy a llamarle ¡eh!
+hab2	sí
+hab1	vale
+hab4	a ver <pausa/> a ver si viene y si no que venga mañana sin falta sin falta <pausa/> son
+hab4	los fontaneros <pausa/> los electricistas tal
+hab4	los carpinteros <pausa/> mira aún tengo ahí en <pausa/> de en vuestra casa
+hab4	que hay una puerta
+hab1	mhm
+hab4	de <alargamiento>la</alargamiento> <pausa_larga/> de la cocina
+hab4	de los muebles
+hab4	"
+      <alargamiento>que</alargamiento>
+    "
+hab4	que no <palabra_cortada>a</palabra_cortada> cierra bien
+hab1	vale
+hab2	vale
+hab3	vale
+hab4	¿no visteis? <pausa/> y resulta que quedó de venir
+hab2	sí
+hab2	sí
+hab4	¿dónde va? <pausa/> pues fíjate el tiempo que lleváis aquí
+hab3	hm
+hab4	"<ruido tipo=""chasquido boca""/><pausa/> un mes yo <pausa/> eh fue antes eeh aún no me vino"
+hab1	vale
+hab4	y <alargamiento>quedó</alargamiento> de tal y de arreglarla ¿no visteis que no os cierra bien? <pausa_larga/> donde está la bombona
+hab2	sí
+hab1	sí sí sí
+hab3	sí sí sí
+hab4	no cierra bien
+hab2	bien
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab4	porque <alargamiento>quedó</alargamiento> <pausa_larga/> <alargamiento>de</alargamiento> ponerle <alargamiento>otras</alargamiento> bisagras ¿no? para <alargamiento>que</alargamiento> ajuste
+hab2	"
+      <ininteligible/>
+    "
+hab2	sí
+hab2	sí
+hab1	vale
+hab4	"son <pausa/> tremendos <pausa/> <ruido tipo=""suspiro""/>"
+hab2	"
+      <risa/>
+    "
+hab1	vale
+hab4	<ininteligible/><pausa/> bueno <pausa/> pues tú no te preocupes eh por <alargamiento>el</alargamiento> <pausa_larga/> por el móvil no te preocupes el tiempo que sea <ininteligible/> <pausa/> ¿qué más da? <pausa_larga/> lo utilizas tú y ya está
+hab2	vale
+hab1	móvil
+hab1	vale
+hab1	"
+      <ruido tipo=""tos""/>
+    "
+hab1	vale muchas gracias <ficticio>Carina</ficticio>
+hab4	mira <pausa/> pues ya <alargamiento>te</alargamiento> daré la receta de las orejas <pausa/> a ver si las hago mañana <pausa_larga/> si
+hab1	vale vale
+hab3	"
+      <ininteligible/>
+    "
+hab2	vale <risa/> <risa/>
+hab4	después si las hago mañana <alargamiento>ya</alargamiento> <pausa/> ya probaréis
+hab2	gracias hasta
+hab1	vale gracias <ficticio>Carina</ficticio>
+hab4	a ver si <alargamiento>salen</alargamiento> <pausa/> a ver si salen igual <alargamiento>de</alargamiento> buenas y después las hacéis vosotras un día
+hab2	"
+      <risa/>
+    "
+hab4	bien ¿no?
+hab1	intentaremos <pausa/> un día
+hab2	"
+      <risa/>
+    "
+hab4	sí sí que las hacéis son muy fáciles mujer es una masita y ¡hala!
+hab1	vale
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab3	vale
+hab4	"
+      <ininteligible/>
+    "
+hab1	muchas gracias hasta luego
+hab4	otro día habemos hacer rosquillas <pausa/> que también están muy buenas
+hab1	vale
+hab4	rosquillas
+hab4	son más fáciles las rosquillas <ininteligible/>
+hab1	vale
+hab2	vale
+hab4	bueno <pausa/> pues ¡hala!
+hab4	ya os iba yo a preguntar por lo del fontanero ya estaba yo pendiente dije yo <cita_inicio/>les he de ir a preguntar<cita_fin/>
+hab4	porque a lo mejor igual viniera él <alargamiento>sin</alargamiento> <pausa/> sin <palabra_cortada>avisa</palabra_cortada> <alargamiento>sin</alargamiento> <pausa_larga/> saberlo yo
+hab1	vale
+hab4	mmm pero <pausa/> lo voy a llamar ahora <pausa/>
+hab2	vale
+hab1	vale gracias <ficticio>Carina</ficticio>
+hab2	hasta luego
+hab3	hasta luego
+hab4	bueno <ininteligible/> <ininteligible/>

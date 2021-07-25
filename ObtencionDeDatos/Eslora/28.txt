@@ -1,0 +1,291 @@
+hab2	"
+      <alargamiento>Wío</alargamiento>
+    "
+hab3	vamos a hacerle <alargamiento>un</alargamiento> <silencio/>
+hab3	un libro de fotografías <ininteligible/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+      <silencio/>
+    "
+hab3	mmm
+hab1	¿y cuánto tiempo tardará en crecer? <silencio/>
+hab2	ah no <palabra_cortada>s</palabra_cortada> <pausa/> no sé
+hab3	pero ya creció bastante
+hab2	"
+      <ininteligible/>
+    "
+hab1	"
+      <ininteligible/>
+    "
+hab3	empieza a saltar él solo
+hab2	"se supone que es <alargamiento>un</alargamiento> conejo <lengua_inicio nombre=""en""/>toy<lengua_fin/> así que"
+hab3	¿sí?
+hab2	en teoría sí porque había otro
+hab2	en la tienda de animales de Cancelas
+hab2	y tiene las orejas distintas <pausa/> es más grande
+hab3	<ininteligible/><pausa/> ah mira se duerme
+hab2	"
+      <ininteligible/>
+    "
+hab3	dijo <ficticio>Roberto</ficticio> que ahora desde que aprende
+hab3	a saltar
+hab3	que en casa lo puso en plan le hizo un corralillo con maletas <alargamiento>y</alargamiento> mil movidas
+hab1	¡bua! ¿y su hermano? <silencio/>
+hab1	"¿no dijo <alargamiento>que</alargamiento> <pausa/> <ficticio>
+  <palabra_cortada>Rober</palabra_cortada>
+</ficticio> <alargamiento>que</alargamiento> no le había dicho nada a su hermano <alargamiento>porque</alargamiento>?"
+hab3	a <palabra_cortada>l</palabra_cortada> <pausa/> a los padres
+hab1	no <pausa/> dijo a su hermano <alargamiento>que</alargamiento> su hermano iba a loquear con el <palabra_cortada>cone</palabra_cortada> <pausa/> con el conejo o algo así
+hab2	sí
+hab2	¿de mal?
+hab1	no <pausa/> de bien
+hab2	aah sí <pausa/> mi hermano me enseñó una foto en la que <alargamiento>sale</alargamiento> <ficticio>Dani</ficticio> que es el hermano
+hab2	con el conejo en plan
+hab2	Wío
+hab2	"
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab2	es cosita
+hab3	y que a la madre le encantó <pausa_larga/> pero <alargamiento>muchísimo</alargamiento>
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	¿sabes cómo se lo enseñó? en plan <cita_inicio/>mamá cierra los ojos <risa_inicio/>tengo algo para ti<risa_fin/><cita_fin/>
+hab3	<risa/><pausa_larga/><risa_inicio/>y la madre pensando que era una rata<risa_fin/><pausa/><risa/>
+hab2	y se pone así
+hab2	<cita_inicio/>¿qué es eso?<cita_fin/>
+hab2	<cita_inicio/>es un conejo<cita_fin/>
+hab2	<cita_inicio/>parece una rata<cita_fin/> no se qué <pausa/> <cita_inicio/>bueno ya podías traer un perro ya que traes un animal<cita_fin/> <risa_inicio/>no se qué<risa_fin/>
+hab1	"
+      <risa/>
+    "
+hab3	hm
+hab3	<alargamiento>es</alargamiento> supercuqui
+hab1	ya que <palabra_cortada>s</palabra_cortada> <pausa/> ya se querían quedar con él en casa ¿o qué?
+hab2	a
+hab2	a ver sí
+hab2	a ver yo lo <alargamiento>entiendo</alargamiento> lo de <pausa/> es más limpio
+hab2	en el sentido de que tiene <alargamiento>jaula</alargamiento> <pausa/> <alargamiento>caga</alargamiento> <alargamiento>así</alargamiento> en plan bolitas y ya está
+hab2	<alargamiento>pero</alargamiento><pausa/> es que tío no hace nada <pausa_larga/> no acude a ti <pausa_larga/> yo prefiero un perro
+hab3	"
+      <ininteligible/>
+    "
+hab1	<alargamiento>ya</alargamiento> ya <risa/>
+hab1	yo prefiero un gato
+hab2	un gato no <pausa/> tía
+hab3	"
+      <alargamiento>perro</alargamiento>
+    "
+hab2	es que los gatos pasan de ti también
+hab1	¿qué?
+hab1	me estaba contando antes <pausa/> eeh <ficticio>Leo</ficticio>
+hab1	que él solo había tenido gatos
+hab1	y yo <cita_inicio/>ah<cita_fin/>
+hab1	pues a mí me encantan los gatos pero
+hab3	el loco de los gatos
+hab1	pero para tener <alargamiento>un</alargamiento> gato en la residencia <pausa/> ¿dónde está la jaula?
+hab2	ahí
+hab3	ahí
+hab2	creo que la metió <pausa/> yo creo que a <ficticio>Roberto</ficticio> le da alergia el conejo <pausa_larga/> y no es coña
+hab2	"le da un poquito porque a mí también me está picando la nariz y tal <ruido tipo=""inspiración""/>"
+hab3	ya
+hab1	¿qué dices?
+hab2	en <alargamiento>plan</alargamiento> alergia no de que te mueres pero sí que te lloran los ojos es incómodo
+hab3	"
+      <ininteligible/>
+    "
+hab1	¿podéis cerrar la ventana?
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	de paso lo cojo
+hab2	<alargamiento>y</alargamiento> mmm
+hab2	pero bueno <pausa/> y en <alargamiento>el</alargamiento> <pausa/> en el baño como que hay más ventilación
+hab2	entonces
+hab3	también está más separado de su cama
+hab3	que es lo mismo
+hab3	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <ininteligible/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+      <silencio/>
+    "
+hab1	mmm <alargamiento>ya</alargamiento> <silencio/>
+hab1	¿y a <ficticio>Leo</ficticio> le mola?
+hab1	a ver es <alargamiento>que</alargamiento> quieras que no deja de un poco de olor en la habitación
+hab3	¿hm?
+hab2	sí sí que <alargamiento>huele</alargamiento> <pausa_larga/> <ininteligible/>
+hab3	sí
+hab1	es <alargamiento>que</alargamiento> los <alargamiento>conejos</alargamiento>
+hab2	entre la comida el pienso y tal
+hab3	hm <silencio/>
+hab1	eh lo raro es que lo dejan <pausa/> o sea que <pausa/> vinieran a limpiar y no le dijeran nada eh
+hab3	hoy <pausa/> hoy vino <pausa/> me dijo <ficticio>Roberto</ficticio> que estaba en clase y en <alargamiento>plan</alargamiento> sabía que hoy le venían a limpiar y él pensando <pausa/> <cita_inicio/>¿qué estará pasando en la habitación?<cita_fin/> pero que estaba todo limpio no había nada así que nada
+hab3	"una cosa es que esté limpio y otra es que mañana le llegue una reclamación <pausa/> <ruido tipo=""boca""/>"
+hab2	"<ruido tipo=""chasquido boca""/> pero ¿quién limpiaba?"
+hab2	si es <ficticio>Marina</ficticio> no hay problema <pausa/> si son las otras
+hab3	creo que no estaba <ficticio>Marina</ficticio> porque <pausa/> hoy <ininteligible/>
+hab1	es que <ficticio>Marina</ficticio> está enferma
+hab2	está de baja
+hab3	está de <palabra_cortada>ba</palabra_cortada> <pausa_larga/> <ininteligible/> enferma <ininteligible/>
+hab1	bu no sé <pausa_larga/> <alargamiento>esta</alargamiento> del <pausa/> de la espalda <pausa/> ¿no?
+hab2	¿a vosotras el última día no os pusieron? <pausa/> ¡<alargamiento>no</alargamiento>!
+hab2	¡mierda! le metí el dedo en el ojo
+hab3	"
+      <risa/>
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab2	buah pero es que <pausa/> le acabo de hacer <risa_inicio/>¡pla!<risa_fin/>
+hab1	"
+      <risa/>
+    "
+hab2	<risa_inicio/><alargamiento>pobriño</alargamiento><risa_fin/><pausa_larga/> ¡qué mierda! <pausa/> ¿no os pusieron bolsa? <silencio/>
+hab3	"
+      <risa/>
+    "
+hab1	eh a vosotras el otro día
+hab3	hm
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	<alargamiento>porque</alargamiento><pausa/> yo <pausa_larga/> en plan <pausa/> estaba <alargamiento>en</alargamiento> <pausa_larga/> en la habitación
+hab2	hm
+hab1	<alargamiento>y</alargamiento> aún no <palabra_cortada>ac</palabra_cortada> <pausa/> no aún no había acabado ¿sabes? <pausa_larga/> <alargamiento>de</alargamiento> de <pausa_larga/> estaba tomando el desayuno <pausa/> y me echaron básicamente ¿sabes? me dijeron
+hab2	hm
+hab1	<cita_inicio/>bueno vamos a limpiar la otra habitación
+hab1	y venimos<cita_fin/> <pausa_larga/> ¿sabes?
+hab1	de esto que
+hab1	no habían pasado ni cinco minutos ¿sabes? <pausa_larga/> y ya habían venido entonces me fui para <palabra_cortada>vues</palabra_cortada> <pausa/> <alargamiento>para</alargamiento> vuestra habitación
+hab1	<alargamiento>a</alargamiento> mmm
+hab1	"<ruido tipo=""chasquido boca""/> a desayunar"
+hab1	y de esto que
+hab2	ah fue lo que contó <ficticio>Amalia</ficticio> <ininteligible/>
+hab1	claro y de esto que abrieron la puerta la vieron mmm en <alargamiento>plan</alargamiento> vieron todo oscuro y ya cerraron y os pusieron la bolsa y no os limpiaron <silencio/>
+hab3	¡jolín!
+hab1	ya
+hab1	¿le estás sacando fotos?
+hab2	"
+      <risa_inicio/>
+      <alargamiento>sí</alargamiento>
+      <risa_fin/>
+    "
+hab3	ya le sacamos un buen book <silencio/>
+hab2	"
+      <ininteligible/>
+    "
+hab3	a ver que <ininteligible/> <silencio/>
+hab2	a ver <silencio/>
+hab2	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab1	hazte un selfie <pausa/> conejo
+hab2	"
+      <risa/>
+    "
+hab2	"
+      <alargamiento>conejita</alargamiento>
+    "
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab2	Wío
+hab2	<risa/><pausa_larga/><alargamiento>por</alargamiento> las <palabra_cortada>orej</palabra_cortada>
+hab3	parece Pikachu tía
+hab1	no me queda el nombre ¡eh! <pausa_larga/> en la cabeza
+hab3	Wío <pausa_larga/> Wío <pausa/> Wío <pausa/> Wío
+hab2	Wío <pausa/> Wío <pausa/> Wío
+hab3	"<comentario_inicio valor=""cantando""/>ti ti ti <alargamiento>ti</alargamiento><alargamiento>ti</alargamiento><comentario_fin/>"
+hab2	"<comentario_inicio valor=""cantando""/>ti ti <alargamiento>ti</alargamiento><alargamiento>ti</alargamiento><comentario_fin/><risa/>"
+hab1	<risa/><risa/><pausa_larga/> Wío Wío <pausa/> aah es la canción esa <risa/>
+hab2	le podemos disfrazar de Pikachu
+hab3	¡tía! <risa/>
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab2	yey
+hab3	yo ya dije que le compráramos traje <pausa/> un traje de <alargamiento>aviador</alargamiento> <pausa/> traje de <palabra_cortada>d</palabra_cortada>
+hab2	<alargamiento>no</alargamiento><pausa/> pero le pintamos de <alargamiento>amarillo</alargamiento>
+hab1	lo llevamos a la fiesta de Carnavales vestidos <alargamiento>de</alargamiento> <risa/>
+hab2	"
+      <risa/>
+    "
+hab3	lo emborrachamos
+hab2	<risa/><risa/> aay
+hab3	sí que <pausa/> que lo pintamos de amarillo con espray y el pobre conejo se <ininteligible/>
+hab1	se nos <alargamiento>muere</alargamiento> <pausa_larga/> se nos muere seguro
+hab3	<alargamiento>y</alargamiento><alargamiento>adiós</alargamiento><ficticio>Roberto</ficticio> y su conejo <ininteligible/>
+hab2	<alargamiento>pobre</alargamiento><pausa/> sería un Pikachu tan guay
+hab3	ya <pausa/> <risa/> <risa/>
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	pero el Pikachu es amarillo tío
+hab2	por <alargamiento>eso</alargamiento> <pausa_larga/> lo pintamos
+hab3	"
+      <alargamiento>eso</alargamiento>
+    "
+hab1	¿cómo lo vas a?
+hab2	de espray
+hab1	pff
+hab1	y lo matas ¿sabes? al pobre conejo <risa_inicio/>venga vamos a <ininteligible/> espray ¡eh!<risa_fin/>
+hab3	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+    "
+hab2	<risa_inicio/><ininteligible/> al conejo con una mascarilla de estas de <ininteligible/> <ininteligible/> <ininteligible/> <ininteligible/> <ininteligible/><risa_fin/>
+hab3	"
+      <risa/>
+    "
+hab1	tú
+hab1	<risa_inicio/>tú cierra los ojos ¿eh? conejo <pausa_larga/> que te voy a poner espray en la cara<risa_fin/> <risa/>
+hab2	"
+      <risa/>
+    "
+hab2	a ver pues no sé y ¿cómo lo hace la gente?
+hab2	¿anestesia?
+hab3	no pintan conejos tío
+hab2	a ver <pausa/> conejos no pero a sus perros sí
+hab3	¿a los <alargamiento>perros</alargamiento>?
+hab1	¿no habrá trajes en plan <alargamiento>en</alargamiento> una tienda?
+hab1	<risa_inicio/>demasiado <ininteligible/><risa_fin/>
+hab2	"
+      <ininteligible/>
+    "
+hab3	"<cita_inicio/>hola <pausa/> mira quería un traje de Pikachu para un conejo <lengua_inicio nombre=""en""/>toy<lengua_fin/> <risa_inicio/>por favor<risa_fin/><cita_fin/> <risa/> ¿sabes?"
+hab1	<risa/> sabe Dios ¡eh! que ahora para animales hay de todo
+hab3	ya <pausa_larga/> en el Corte Inglés venden colonia para perro pero
+hab2	¿serio?
+hab3	aparte cara de cojones ¿sabes? en plan cincuenta pavos y yo
+hab1	¿perfume para perros?
+hab2	perfume para perros
+hab3	no los gasto ni para mí como para dárselo a un perro
+hab1	bueno <alargamiento>hay</alargamiento> <pausa_larga/> perros que tienen más dinero que <risa_inicio/>tú<risa_fin/> <risa/> <risa/> <risa/>
+hab2	aah
+hab2	a ver <pausa/> <risa_inicio/>ya<risa_fin/>
+hab3	"
+      <alargamiento>sí</alargamiento>
+    "
+hab3	los dueños de
+hab1	<alargamiento>ya</alargamiento> pero que fijo que viven en plan lujo no sé <alargamiento>qué</alargamiento> <pausa/> tienen montón de ropa
+hab2	ah
+hab3	"
+      <ininteligible/>
+    "
+hab3	mmm <silencio/>
+hab3	pues nosotras deberíamos mirar <pausa_larga/> disfraces <pausa/> para nosotras y no solo para <alargamiento>el</alargamiento> conejo

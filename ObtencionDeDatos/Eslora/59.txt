@@ -1,0 +1,639 @@
+hab2	"<ruido tipo=""pasos""/> ¿no serás <ficticio>Yanet</ficticio>? <pausa/>"
+hab1	sí <pausa/>
+hab2	es que me dejé el móvil en el coche
+hab1	hola venga nada <pausa/> encantada
+hab2	lo siento mucho igualmente yo es <alargamiento>que</alargamiento> <silencio/>
+hab1	yo <ininteligible/>
+hab2	venía también hacia aquí y empecé a mirar en el bolso y digo <cita_inicio/>mierda <pausa/> <risa_inicio/>el móvil <risa_fin/><cita_fin/> y estuve ahí esperando y después dije yo <cita_inicio/>pues nada entro y pregunto<cita_fin/> <silencio/>
+hab1	bueno a ver casualmente la persona de la puerta me había preguntado si iba <pausa/> a necesitar <alargamiento>algún</alargamiento> <palabra_cortada>ap</palabra_cortada> aparato de estos de aquí y le dije que no que era solo una entrevista <pausa/>
+hab2	sí
+hab1	porque a lo mejor ni tan siquiera hubieran <alargamiento>sabido</alargamiento> <pausa/> que era yo <pausa/> <risa/> <pausa/> pero bueno nada <silencio/>
+hab1	¿y pasaste mucho trabajo para encontrar la facultad?
+hab2	no <pausa_larga/>
+hab2	la verdad es que no <pausa/> más o menos tenía idea <pausa/> lo que pasa que bueno no <alargamiento>estaba</alargamiento> segura de <pausa/> cuál era el edificio cuando ya estaba un poquito más abajo pregunté a alguien <pausa/> y ya me dijeron que era este <pausa/> más <ininteligible/> <pausa/> <risa/> sí <pausa_larga/>
+hab2	"no a ver y por aquí tengo pasado pero claro no <ruido tipo=""chasquido boca""/> <pausa/> no te vas fijando tampoco y <alargamiento>como</alargamiento> mmm <pausa/> el cartelito de filología <silencio/>"
+hab2	está ahí en la puerta <risa_inicio/>pequeñito así tal <risa_fin/> no es un cartel grande pues <pausa/>
+hab1	¿no tiene mucha publicidad? ¿no?
+hab2	no <pausa/> no pero pasa igual con las otras facultades eh o sea voy pasando a lo mejor por <alargamiento>la</alargamiento> <pausa/> por la resi y realmente a lo mejor mi hijo me pregunta <pausa/> <alargamiento>que</alargamiento> que qué es eso <pausa/> y le digo <cita_inicio/>no <pausa/> es una facultad<cita_fin/> <alargamiento>pero</alargamiento> <pausa/> y me quedo así <pausa/> <cita_inicio/>una facultad espérate le preguntamos <alargamiento>a</alargamiento> a la tata<cita_fin/> <pausa/> la tata es mi madre <pausa/> le preguntamos a la tata <risa/> <ininteligible/> por lo menos controla más de eso
+hab1	¿porque tienes un niño? <pausa/>
+hab2	sí <pausa/> de ocho años <pausa_larga/>
+hab1	pero ¿eres muy joven? ¿no? <pausa/>
+hab2	"<ruido tipo=""chasquido boca""/> sí <palabra_cortada>trein</palabra_cortada> treinta y un años y lo tuve <pausa/> lo tuve joven sí <pausa/>"
+hab1	¿y qué tal con el niño? <pausa_larga/>
+hab2	"
+      <ininteligible/>
+      <risa/>
+    "
+hab1	<risa_inicio/>¿qué tal la <risa_fin/> maternidad? <pausa_larga/>
+hab2	"<alargamiento>ah</alargamiento><pausa/> increíble <pausa/> increíble <pausa/> <alargamiento>tan</alargamiento> tan tan tan increíble que <pausa/> a ver <alargamiento>quiero</alargamiento> <pausa/> quiero repetir <pausa/> lo he pasado mal <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> a ver <pausa/> estoy teniendo problemas <pausa/> <ininteligible/> toda la historia y entonces <pausa/> mi hijo fue <pausa/> natural y toda la historia pero para el segundo tengo <alargamiento>que</alargamiento> someterme a un <pausa/> tratamiento <pausa_larga/>"
+hab2	pero <pausa/> <alargamiento>está</alargamiento> ya está ahí <pausa/> parece ser que la primera consulta la voy a tener en octubre <pausa/> o sea <pausa/> el próximo mes <pausa_larga/>
+hab2	entonces eeh <pausa/> eso <pausa/> es lo mejor que he hecho en mi vida <pausa/> lo <pausa/> lo mejor <pausa/> lo mejor y <alargamiento>lo</alargamiento> y lo más bonito <alargamiento>y</alargamiento> <pausa/> y lo más correcto <pausa_larga/>
+hab2	y lo más correcto sí siempre he sido mmm <énfasis_inicio/>muy<énfasis_fin/> desastre <pausa/> a la hora <alargamiento>de</alargamiento> <pausa/> de hacer las <pausa/> las cosas ¿no? <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> soy muy impulsiva <silencio/>"
+hab2	"y claro <pausa/> he aprendido a controlar un poco <pausa/> mis impulsos <pausa/> hay otros que no <pausa/> <risa_inicio/>que no no puedo porque a ver <risa_fin/> forman parte de mí <pausa/> yo soy así mi personalidad es esa ¿no? <pausa/> <alargamiento>pero</alargamiento> eeh <pausa/> hay otros que <palabra_cortada>s</palabra_cortada> <ruido tipo=""chasquido boca""/> <pausa/> he aprendido <alargamiento>a</alargamiento> <pausa/> a controlarlos ¿no? y <pausa/> antes no <pausa/> o sea antes lo hacía <alargamiento>y</alargamiento> <pausa/> y a veces me podía arrepentir o no <pausa/> la mayoría de las veces <pausa/> <énfasis_inicio/>no<énfasis_fin/> me arrepentía ¿no? <pausa/> pues porque realmente mira lo que haces lo haces <alargamiento>y</alargamiento> tienes que asumir las <pausa/> las consecuencias ¿no? <pausa/> ¿que estás jodida? <pausa/> pues vale estás jodida pero asúmelo <pausa/> lo has hecho <pausa/> ya está <pausa/> o sea no hay vuelta <pausa/> entonces <alargamiento>pues</alargamiento> <pausa/> pues eso <pausa/> pero lo <alargamiento>del</alargamiento> niño fue <alargamiento>algo</alargamiento> pensado <pausa_larga/>"
+hab1	claro
+hab1	claro
+hab2	"y muy requetepensado <pausa/> <alargamiento>y</alargamiento> yo ya <palabra_cortada>tení</palabra_cortada> <pausa/> <ruido tipo=""chasquido boca""/> a mí siempre me gustaron mucho los niños <pausa/> siempre me encantaron y además que me llevo bien <alargamiento>con</alargamiento> <pausa/> con con los niños y con los animales <risa/> <pausa/> sí no sé qué les doy <pausa/> <alargamiento>que</alargamiento> <alargamiento>que</alargamiento> <pausa/> tanto animales que <alargamiento>sean</alargamiento> <pausa/> ariscos o niños que sean muy cocones y tal que <pausa/> de decirme <pausa/> o los dueños <ininteligible/> animales o los padres en caso de los bebés <pausa/> que no <pausa/> todo el mundo <pausa/> eeh <pausa/> reaccionan así <pausa/> conmigo reaccionan bien o no <pausa/> no sé qué es lo que <pausa/> qué ven <pausa/> en mí <pausa/> que reaccionan bien entonces <pausa/> siempre me han gustado <pausa_larga/>"
+hab2	<alargamiento>y</alargamiento> a mí <alargamiento>mi</alargamiento> reloj biológico se me disparó muy temprano <pausa_larga/>
+hab2	muy temprano <pausa_larga/>
+hab2	entonces <alargamiento>pues</alargamiento> <pausa/> pues eso <silencio/>
+hab2	mmm el problema fue con la persona con quien lo tuve <pausa/> <risa_inicio/>o sea <risa_fin/> fue la equivocación <pausa/> pero bueno <pausa/> y a ver <pausa/> eeh ahora mismo <pausa/> una <pausa/> relación <pausa/> pues eeh <pausa/> muy buena <pausa/> <ininteligible/> sí sí no <pausa/> genial y yo creo incluso más que cordial <pausa/> antes sí que era cordial <pausa/> ahora ya es algo más <pausa/> porque a ver somos amigos ¿entiendes? <pausa/> yo me tengo ido a tomar cañas <pausa/> <alargamiento>con</alargamiento> con mi ex por ahí sí o sea <pausa/> <alargamiento>y</alargamiento> estamos en contacto constantemente <alargamiento>y</alargamiento> cosas a lo mejor que yo no me entero pues le digo a él <pausa/> o él me dice a mí ¿sabes? o sea <pausa/> sí <pausa/> <alargamiento>hemos</alargamiento> eeh mmm llegado a punto en el <alargamiento>que</alargamiento> <pausa_larga/>
+hab1	"
+      <alargamiento>cordial</alargamiento>
+    "
+hab1	¡qué bien! <pausa/>
+hab2	está de puta madre <alargamiento>la</alargamiento> la situación <pausa/> de cara al niño claro
+hab1	claro y tienen algo en <palabra_cortada>com</palabra_cortada> <pausa/> al <vacilación/> <pausa/> al común muy importante
+hab2	claro <pausa/> claro <pausa_larga/>
+hab2	entonces <alargamiento>pues</alargamiento> <pausa/> pues eso y además eeh <pausa/> <ficticio>Óscar</ficticio> <pausa/> que es como se llama mi hijo <pausa_larga/>
+hab2	es un niño hiperactivo <pausa_larga/>
+hab2	y está diagnosticado <pausa/> <alargamiento>con</alargamiento> con hiperactividad o sea tiene todo un tratamiento <alargamiento>y</alargamiento> y todo eso entonces quieras que no <pausa/> tiene que haber una comunicación bastante más fluida <pausa_larga/>
+hab2	o sea no es solamente de <pausa/> <cita_inicio/>a ver ¿cuándo vas a venir a buscarlo?<cita_fin/> <alargamiento>o</alargamiento> tal <alargamiento>o</alargamiento> <cita_inicio/>¿qué y la manutención de este mes tal?<cita_fin/> <pausa/> no <pausa/> es algo más o sea es <alargamiento>el</alargamiento> <pausa/> que el niño va a sus citas con sus psicólogos <pausa/> que tiene que tomarse las pastillas <pausa/> que cómo va en el colegio <pausa/> tener una comunicación con los profesores <pausa/> <alargamiento>y</alargamiento> estar encima <pausa/> de de él y trabajar con él <pausa/> ¿no? <pausa/> un esfuerzo <alargamiento>que</alargamiento> que requiere eemm <pausa/> o sea <pausa/> <énfasis_inicio/>doble<énfasis_fin/> <pausa/> esfuerzo <pausa/> si <alargamiento>ya</alargamiento> con los niños ya se sabe ¿no? de que siempre te cuesta un poco que se pongan <pausa/> pues que se centran y todo eso pues evidentemente con un niño hiperactivo <pausa/> más aún <pausa/> más aún <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> ya te digo o sea ese puede ser el <alargamiento>único</alargamiento> mmm <pausa_larga/>
+hab2	inconveniente <pausa/> ¿no? <alargamiento>que</alargamiento> que me ha <alargamiento>tocado</alargamiento> vivir <pausa/> <alargamiento>como</alargamiento> como madre <pausa/> pero es un niño que es extremadamente inteligente <pausa_larga/>
+hab1	¿sí?
+hab2	además <pausa/> sí <pausa/> hm <pausa/> a ver no es que sea superdotado <pausa/> <alargamiento>pero</alargamiento> pero sí o sea tanto <alargamiento>la</alargamiento> la <alargamiento>psicóloga</alargamiento> como profesoras particulares que han estado con <alargamiento>él</alargamiento> <pausa/> o <pausa_larga/>
+hab2	alguna profesora que ha estado con él en el colegio <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> eeh todos lo dicen <pausa/> todos lo dicen y es <alargamiento>que</alargamiento> <pausa/> que tampoco hace falta que lo digan porque se ve <pausa_larga/>"
+hab2	se ve <pausa/> o sea la capacidad que tiene ¿no? <alargamiento>para</alargamiento> <pausa_larga/>
+hab2	para tratar las cosas y saber cosas <silencio/>
+hab2	simplemente <pausa/> así <pausa/> pum <pausa/> que le vienen <pausa/> <alargamiento>de</alargamiento> <pausa/> de la nada <pausa/> le vienen de la nada <pausa/> hay cosas que sí que él las sabe pues porque él las ha escuchado <pausa/> y ya se le han quedado <pausa/> lo ha absorbido y se le han quedado <pausa/> pero <pausa/> él te dice <pausa/> por eso te dice <cita_inicio/>pues <pausa/> lo vi en la tele <alargamiento>o</alargamiento> se lo escuché <pausa/> a alguien<cita_fin/>
+hab1	¿porque lo <alargamiento>recuerda</alargamiento> ?
+hab2	porque lo recuerda <pausa/> porque lo recuerda y se <pausa/> y se le queda <pausa/> <alargamiento>y</alargamiento> <pausa/> pero hay otras cosas <pausa_larga/>
+hab2	simplemente que es te dice <cita_inicio/>no <pausa/> es que lo sé yo <silencio/>
+hab2	lo sé yo<cita_fin/> o sea lo sabe <pausa/> no sé <pausa/> cómo lo sabe <pausa/> pero lo sabe <pausa_larga/>
+hab2	pero lo sabe <pausa/> no sé de dónde de dónde lo saca <pausa/> entonces eemm <pausa_larga/>
+hab2	eso el hecho de que sea hiperactivo pues es <alargamiento>una</alargamiento> <pausa_larga/>
+hab2	putada <pausa/> <alargamiento>hablando</alargamiento> <pausa/> hablando en plata es una putada pues porque esa inteligencia que él tiene <pausa_larga/>
+hab2	creas que no eeh no puede <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> eemm <ruido tipo=""chasquido boca""/> <pausa/> a ver cómo <alargamiento>te</alargamiento> <pausa/> cómo te explico <silencio/>"
+hab2	desarrollarse <pausa_larga/>
+hab2	¿no? <pausa/> eeh <pausa/> mmm psicológicamente <pausa/> <alargamiento>es</alargamiento> <pausa/> cuando una persona tiene una capacidad como la que tiene <ficticio>Óscar</ficticio> <pausa/> eeh <pausa/> las cosas tenían que ir rodadas <pausa/> o sea lo que son los estudios y todo eso <pausa/> a ver <pausa/> creo a lo mejor me estoy equivocando <pausa/> pero mi manera de pensar <pausa/> es que <pausa/> suelen ir <pausa/> rodadas <pausa_larga/>
+hab2	"con él no <pausa/> porque le como le cuesta <pausa/> centrarse y estar sentado <ruido tipo=""golpe""/> <alargamiento>y</alargamiento> <pausa/> <cita_inicio/>a ver <pausa/> venga <pausa/> voy a hacer esto<cita_fin/> <pausa/> porque uno de los síntomas también de la hiperactividad es que se olvidan de las cosas <silencio/>"
+hab2	o sea <pausa/> <alargamiento>aunque</alargamiento> <cita_inicio/>ah pues tiene una agenda y que apunte en la agenda<cita_fin/> vale <pausa/> <cita_inicio/><alargamiento>¿y</alargamiento> si se olvida apuntar en la agenda? <pausa/> ¿y si apunta en la agenda pero se olvida la agenda en clase?<cita_fin/> <pausa_larga/>
+hab2	<cita_inicio/><alargamiento>ya</alargamiento> pues le compra otra agenda<cita_fin/> ¿para qué? <cita_inicio/>acuérdate de coger la agenda<cita_fin/>
+hab1	claro y va a tener tres cosas <pausa/> tres pasos que se le van a olvidar <pausa/> claro
+hab2	claro
+hab1	¿y no hay forma de canalizar esa hiperactividad con <alargamiento>alguna</alargamiento> ejercicio o algo?
+hab2	a ver <alargamiento>la</alargamiento> <pausa_larga/>
+hab2	"<alargamiento>con</alargamiento> con <palabra_cortada>
+  <alargamiento>ejercici</alargamiento>
+</palabra_cortada>"
+hab1	"a ver no sé nada pero como me dices que es un niño <alargamiento>tan</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> a ver tan talentoso y <alargamiento>que</alargamiento> <pausa_larga/>"
+hab2	"eeh <pausa/> a ver <pausa/> lo que es el medicamento <pausa/> <ruido tipo=""carraspeo""/> <pausa_larga/>"
+hab2	hay que decir que ayuda muchísimo <pausa/> pero muchísimo si yo antes para <alargamiento>hacer</alargamiento> <pausa/> nada <pausa/> cuatro ejercicios o mira tres ejercicios <pausa/> me tiraba <pausa/> desde las tres y media <pausa/> hasta las ocho <pausa/> imagínate <silencio/>
+hab2	ahora ya no <pausa/> ahora ya no tardo tanto <pausa_larga/>
+hab2	sí que tienes que seguir diciendo <pausa/> <cita_inicio/>venga <ficticio>Óscar</ficticio> va<cita_fin/> <pausa/> <cita_inicio/>¿y sabes y te acuerdas que no sé qué?<cita_fin/> <pausa/> <cita_inicio/>ya me lo contarás después cariño venga ahora estamos con esto<cita_fin/> <pausa/> <cita_inicio/>¿y sabes que la?<cita_fin/> <pausa/> <cita_inicio/><ficticio>Óscar</ficticio> venga<cita_fin/> <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> además que necesita moverse <pausa_larga/>
+hab2	¿no? o sea <pausa/> pues <pausa/> él necesita levantarse necesita <pausa/> tal y es un niño <alargamiento>que</alargamiento> <pausa/> eeh <pausa/> funciona <pausa_larga/>
+hab2	mucho <pausa/> con incentivos <pausa_larga/>
+hab2	a corto plazo <pausa/> y a largo plazo <pausa/> ¿no? o sea <pausa/> a corto plazo <pausa/> él sabe que si él hace exámenes <pausa/> y aprueba los exámenes <pausa/> me da igual o sea <pausa_larga/>
+hab2	de cinco <pausa_larga/>
+hab2	para arriba <pausa/> me da igual <pausa/> la nota que saque <pausa/> yo lo que quiero es que apruebe y que se le haya quedado lo que tal <pausa/> ¿que aprueba? <pausa_larga/>
+hab2	bueno te compro un pokémon <silencio/>
+hab2	eeh ayer hablábamos <alargamiento>de</alargamiento> <pausa/> él estaba diciéndome <pausa/> justamente eso ¿no? de los pokémons exámenes y tal <pausa/> <alargamiento>y</alargamiento> <pausa/> y ya <alargamiento>me</alargamiento> <pausa_larga/>
+hab2	"para que yo <pausa/> <ruido tipo=""chasquido boca""/> él quería ver <pausa/> cómo <alargamiento>me</alargamiento> ponía yo <silencio/>"
+hab2	<alargamiento>cuando</alargamiento> si él sacaba pues no <pausa/> me dice <pausa/> <cita_inicio/>un nueve y <risa_inicio/>medio<cita_fin/> <pausa/> y yo <risa_fin/> <cita_inicio/>buah <ficticio>Óscar</ficticio> si sacas nueve y medio es una pasada ¿no? o sea <pausa/> claro me alegraría muchísimo y tal y mira lo que te digo <pausa_larga/>
+hab2	o sea si tú <pausa/> de cinco <pausa/> para arriba tú apruebas yo te compro un pokémon <pausa/> pero <pausa/> vamos a olvidarnos del nueve y medio <pausa/> si sacas un diez <pausa/> te compro dos<cita_fin/> <silencio/>
+hab2	buah <pausa/> y ya se puso <alargamiento>loco</alargamiento> se puso todo loco <pausa/> <cita_inicio/>uah uah pues voy a estudiar muchísimo para que me compres dos pokémon<cita_fin/> <pausa/> luego el incentivo a largo plazo <silencio/>
+hab1	eso lo motiva
+hab2	"cuando termina cada trimestre <ruido tipo=""golpes""/> <pausa_larga/>"
+hab2	entonces <énfasis_inicio/>ya<énfasis_fin/> no le compro un pokémon no <pausa/> entonces le compro un juguete <pausa/> juguete <pausa/> tal que si me tengo que <alargamiento>gastar</alargamiento> <pausa/> pues mira <énfasis_inicio/>cincuenta<énfasis_fin/> euros o así <pausa/> a ver <pausa/> más de cincuenta euros no me los gastaría <pausa/> pero si tengo que gastar cincuenta porque me ha aprobado <pausa/> <énfasis_inicio/>todas<énfasis_fin/> las <pausa/> todas las asignaturas <pausa/> yo me gasto cincuenta euros para <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	para que él tenga eso <pausa/> para que vea que ese esfuerzo que él está haciendo <pausa/> tiene su <pausa/> <alargamiento>su</alargamiento> <pausa/> <alargamiento>su</alargamiento> <palabra_cortada>recom</palabra_cortada> recompensa <pausa_larga/>
+hab2	"como él <alargamiento>que</alargamiento> <ruido tipo=""golpe""/> <pausa/> y que <pausa/> empiece a <pausa/> a valorar <pausa/> que <pausa/> él ahora <pausa/> trabaja <pausa/> y sabe que todo el mundo le va a mirar de una manera diferente si aprueba todo el mundo le va <pausa/> a decir <pausa/> <cita_inicio/> <énfasis_inicio/>muy bien<énfasis_fin/> <ficticio>Óscar</ficticio> <pausa/> estamos <énfasis_inicio/>muy<énfasis_fin/> orgullosos de ti<cita_fin/> <pausa/> y <pausa/> y que <pausa/> él tiene que responder a una serie de normas y que hay alguien que manda encima de él <pausa/> y que el día de mañana va a tener un trabajo <pausa/> y que esas recompensas que ahora son juguetes <pausa/> esa recompensa va a ser dinero <pausa/> y es <pausa/> y que va a tener también <pausa/> <alargamiento>una</alargamiento> <pausa/> unas personas que van a estar por encima de él <pausa/> a no ser que él tenga su propia empresa <pausa/> es que yo se lo expliqué así <pausa/> tal cual <ruido_inicio tipo=""ruido de fondo""/>te lo estoy diciendo a ti<ruido_fin tipo=""ruido de fondo""/> <pausa/> o sea <pausa/> a no ser <pausa/> que tenga su propia empresa <pausa/> entonces sí <pausa/> ellos son dueños de esa empresa entonces <pausa/> nadie va a mandar sobre ellos van a mandar <pausa/> sobre <alargamiento>otra</alargamiento> <pausa/> sobre otra gente sobre los empleados <pausa/> pero la mayoría de las veces <pausa/> todos trabajamos para alguien <pausa_larga/>"
+hab2	entonces <pausa/> eso intento <pausa_larga/>
+hab2	<alargamiento>que</alargamiento><pausa/> que vaya captando <pausa/> <alargamiento>que</alargamiento> si a él le fastidia tener que ponerse a trabajar <pausa/> y a estudiar <silencio/>
+hab2	pero que si lo hace bien <pausa/> y aprueba y tal <pausa_larga/>
+hab2	tiene <pausa/> esa recompensa <pausa/> a nosotros los mayores <énfasis_inicio/>también<énfasis_fin/> nos fastidia tener que ir a trabajar <pausa/> pero tenemos que hacerlo es nuestra obligación <silencio/>
+hab2	"es nuestra obligación si queremos comer <pausa/> si queremos vestirnos <pausa/> si queremos pagar <pausa/> los recibos <pausa/> y si queremos poder <pausa/> darnos caprichos y tener <pausa/> nuestras propias recompensas porque hemos visto algo que nos ha gustado en una tienda y nos lo queremos comprar <pausa/> tenemos que trabajar <pausa/> para poder tener eeh <pausa/> tener eso ¿no? <pausa/> <alargamiento>y</alargamiento> <ruido tipo=""carraspeo""/> y es lo que le intento inculcar <alargamiento>a</alargamiento> <pausa/> a él ¿no? de que <pausa/> él sabe que él es hiperactivo <pausa/> él sabe que toma sus pastillas porque es hiperactivo <pausa/> que sus neurotransmisores <pausa/> no segregan una sustancia <pausa/> que <pausa/> necesitan para que él pueda estar centrado tranquilo <pausa/> y tal <pausa_larga/>"
+hab2	pero <pausa/> eemm <pausa_larga/>
+hab2	que él puede hacerlo <pausa/> de hecho <pausa/> ha demostrado <pausa/> el niño antes de que se le diagnosticara la hiperactividad <pausa/> él <pausa/> perdió <pausa_larga/>
+hab2	primero de primaria <pausa/> lo perdió entero <pausa_larga/>
+hab2	lo perdió entero porque además nos encontramos con profesoras <pausa/> que son de la <alargamiento>antigua</alargamiento> escuela <pausa/> y <alargamiento>que</alargamiento> pasan olímpicamente <pausa/> del concepto hiperactividad <pausa/> de que los niños <pausa/> eeh <pausa/> tengan regalos <pausa/> <alargamiento>por</alargamiento> <pausa/> por aprobar <pausa_larga/>
+hab2	sí y le ponen <pausa/> una losa <pausa/> <cita_inicio/>no es que este niño es vago <pausa/> es que este niño no hace nada<cita_fin/> <pausa/> <cita_inicio/>pero ¿qué me estás contando? <pausa_larga/>
+hab2	¿qué me estás contando?<cita_fin/> <pausa_larga/>
+hab2	o sea no <pausa/> no
+hab1	bueno pudo haber sido mayor el daño <alargamiento>porque</alargamiento> <pausa_larga/>
+hab1	le hubieran colgado una etiqueta a lo mejor <alargamiento>de</alargamiento> de mal alumno que le hubiera hecho mucho daño
+hab2	la <pausa/> la <palabra_cortada>e</palabra_cortada> <pausa/> de no <pausa/> la etiqueta ya se la colocaron <pausa/> la etiqueta se la colocaron <alargamiento>de</alargamiento> de <pausa/> de mal alumno <pausa/> y entonces fue cuando yo ya empecé <alargamiento>a</alargamiento> a decir <cita_inicio/>a ver aquí hay algo que no cuadra<cita_fin/> <pausa/> yo reconocía que era un niño que costaba muchísimo trabajar con él <pausa_larga/>
+hab2	yo lo reconocía <pausa/> pero <pausa/> pero es que yo veía <pausa/> que estando yo encima <pausa_larga/>
+hab2	pero quien dice <pausa/> o sea <pausa/> quien dice yo <pausa/> o sea <pausa/> otra persona si está <pausa/> encima de él <pausa/> <cita_inicio/>venga va <ficticio>Óscar</ficticio> vamos no sé qué venga muy bien así a ver no esto está mal esto lo puedes hacer de otra manera o tal<cita_fin/> <pausa/> el niño trabajaba <pausa_larga/>
+hab2	"entonces <pausa/> ¿cómo me puede decir una profesora? <pausa/> <cita_inicio/>es que nos dice que no <pausa/> <risa/> <pausa/> ¿y qué hacemos?<cita_fin/> <pausa/> <cita_inicio/>¿qué me estás contando? <pausa/> yo no he estudiado <alargamiento>una</alargamiento> una carrera <pausa/> <ruido tipo=""golpes""/> yo no he estudiado una carrera ¿cómo me estás preguntando tú que tienes años de experiencia <pausa/> como profesora <pausa/> que qué haces porque el niño te dice que no? <pausa_larga/>"
+hab2	pero si yo consigo que trabaje <pausa/> me costará <pausa/> y sé que no le puedes dedicar todo el tiempo <pausa/> a mi hijo porque hay otros veinticuatro niños más en clase <pausa/> vale pero los niños <pausa/> que van <pausa/> más avanzados que realmente no necesitan ayuda <pausa_larga/>
+hab2	a esos niños <pausa/> mientras están trabajando <pausa/> nena <vacilación/> <pausa/> <risa_inicio/>ayuda a los que <risa_fin/> <pausa/> a los <alargamiento>que</alargamiento> menos pueden<cita_fin/> o sea <ficticio>Óscar</ficticio> es que llegó un momento que parecía como que no subía para arriba <pausa/> hasta que yo empecé a moverme y <alargamiento>a</alargamiento> y a <pausa/> y a llevarlo a sitios y tal para ver <pausa/> realmente qué era lo que pasaba <pausa/> y fue cuando me dijeron <cita_inicio/>no es que este niño <pausa/> <alargamiento>es</alargamiento> <pausa/> es hiperactivo<cita_fin/> <pausa/> y ya cuando <pausa/> me dijeron lo que yo ya sabía <pausa/> de que <pausa/> era extremadamente inteligente dije <pausa/> <cita_inicio/><alargamiento>ah</alargamiento> vale <pausa/> vale <pausa/> pues mira pues yo quiero un papelito <pausa_larga/>
+hab2	firmado <pausa/> por un profesional <pausa/> que diga esto <pausa/> de que hay <pausa/> un problema <énfasis_inicio/>neurológico<énfasis_fin/> <silencio/>
+hab2	y después <silencio/>
+hab2	yo lo presento en el <pausa/> en el colegio<cita_fin/> <pausa/> yo salía llorando siempre <pausa/> de las <pausa/> de las reuniones <alargamiento>con</alargamiento> <pausa/> con las profesoras <pausa/> salía llorando siempre porque no lo entendía <pausa_larga/>
+hab2	no lo entendía me estaban hablando de un niño completamente diferente al mío <pausa_larga/>
+hab2	y soy una madre <pausa_larga/>
+hab2	que <pausa/> además te lo puede decir cualquier persona que me <pausa/> que me conozca <pausa/> yo no soy la típica madre <pausa/> <cita_inicio/>ay <pausa/> es que es mi niño <pausa/> mi niño no hace nada<cita_fin/> <pausa/> no <pausa/> yo no tengo ninguna venda en los ojos <pausa_larga/>
+hab2	no <pausa/> o sea <pausa/> si mi niño hace algo malo <pausa/> hace algo malo <pausa/> o sea <pausa/> y se merece un castigo <pausa/> si yo sé que mi hijo escribe mal <pausa/> escribe mal <silencio/>
+hab2	"¿sabes? o sea no no voy a decir <cita_inicio/><alargamiento>no</alargamiento> es que en <pausa/> es que <ininteligible/> lápiz <pausa/> es como coloca el<cita_fin/> <pausa/> no no no <pausa/> el niño escribe mal <pausa/> <alargamiento>y</alargamiento> punto <pausa/> y punto ¿no? pues <pausa/> <ruido tipo=""chasquido boca""/> el ejemplo que <alargamiento>te</alargamiento> que te pongo <pausa/> pues <pausa/> yo decía a ver yo reconocía <pausa/> pues para esas cosas <pausa/> <palabra_cortada>m</palabra_cortada> <pausa/> malas <pausa/> entre comillas <pausa/> entre comillas <pausa/> del niño <pausa/> yo las reconocía todas <pausa/> pero <pausa/> había muchísimas otras cosas que yo decía <pausa/> <cita_inicio/>pero <alargamiento>no</alargamiento> <pausa/> no no no no no oye tú no estás hablando de <ficticio>Óscar Bello Cañas</ficticio> ¿eh? perdona <pausa_larga/>"
+hab2	no no no yo no sé de qué niño estás hablando tú pero <pausa/> ese no es mi hijo el que <pausa/> del que tú me estás hablando <pausa_larga/>
+hab2	"porque es que <palabra_cortada>
+  <ficticio>O</ficticio>
+</palabra_cortada> <pausa/> <ficticio>Óscar</ficticio><cita_fin/> <pausa/> mira mi madre <pausa/> <alargamiento>empezó</alargamiento> <pausa/> desde que era muy pequeñito <pausa_larga/>"
+hab2	yo creo que ya incluso en infantil <pausa/> empezó a comprar eeh los vídeos <alargamiento>de</alargamiento> Érase una vez la vida <pausa_larga/>
+hab2	los tenemos todos <pausa/> y <ficticio>Óscar</ficticio> se los ha papado <pausa/> <risa_inicio/>todos <risa_fin/> <pausa/> desde que era <pausa/> <énfasis_inicio/>muy<énfasis_fin/> pequeñito <pausa_larga/>
+hab2	y desde muy pequeñito tú le preguntabas <cita_inicio/><ficticio>Óscar</ficticio> ¿cómo funcionan los pulmones? <pausa_larga/>
+hab2	¿qué son los glóbulos rojos? <pausa/> ¿qué son los glóbulos blancos? <pausa/> ¿para qué funcionan?<cita_fin/> <pausa_larga/>
+hab2	y lo sabía perfectamente <pausa_larga/>
+hab1	y además le interesaba <pausa/>
+hab2	es que además le interesaba <pausa_larga/>
+hab2	lo <pausa/> ahora mismo estamos <alargamiento>en</alargamiento> la época de los dinosaurios <pausa_larga/>
+hab2	todos son dinosaurios <pausa_larga/>
+hab2	bueno dinosaurios y monstruos <pausa/> <risa_inicio/>pero <risa_fin/> <pausa/> pero a ver es la parte también <pausa/> es un niño <pausa/> o sea es un niño ¿no? <pausa/> y <palabra_cortada>ta</palabra_cortada> y hace cosas <pausa/> de <pausa/> de un niño o sea <pausa/> igual que todos lo que hemos hecho todos cuando éramos pequeños <pausa_larga/>
+hab1	y ¡qué bueno que lo hace! ¿no? <ininteligible/> lo disfrute <pausa/>
+hab2	exactamente exactamente o sea <alargamiento>y</alargamiento> se vuelve <alargamiento>loco</alargamiento> con los dibujos y si no son los dibujos pues son los juegos en el <pausa/> en el ordenador <pausa/> ¿no? y además estando yo enganchada a unos juegos <pausa/> <alargamiento>de</alargamiento> <pausa/> objetos ocultos <pausa/> o sea ahí tienes que <sic_inicio/>bujar<sic_fin/> <pausa/> de buscar <pausa/> objetos <pausa/> pero todos <pausa/> basados <pausa/> en una historia <pausa/> o sea <pausa/> algo pasa <pausa/> y tú tienes que ir pasando esas fases y una vez que <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> pasas imagínate <pausa/> tres fases <pausa/> te ponen una especie <alargamiento>de</alargamiento> <alargamiento>de</alargamiento> <pausa/> de mmm <pausa/> de juego <alargamiento>de</alargamiento> <pausa/> de lógica o sea tienes que utilizar <alargamiento>la</alargamiento> la cabeza ¿no? <pausa/> el <alargamiento>tipo</alargamiento> <pausa/> ¿sabes <alargamiento>la</alargamiento> Nintendo DS? <pausa/> <alargamiento>¿el</alargamiento> Profesor Layton y la Villa Misteriosa? <pausa/> bueno pues <pausa_larga/>"
+hab2	tipo <pausa/> mmm esa clase <alargamiento>de</alargamiento> de de puzles ¿no? que se le llama <pausa/> pues eeh pues al niño le encanta <pausa_larga/>
+hab1	claro <pausa/>
+hab2	"le encantan <alargamiento>y</alargamiento> <pausa/> y los hace <alargamiento>en</alargamiento> <ruido tipo=""golpe""/> <pausa/> en casa ¿no? o sea <pausa/> hace cosas eeh eso de igual <alargamiento>que</alargamiento> que todos <alargamiento>los</alargamiento> <pausa/> los niños <pausa/> y es un niño completamente normal <pausa_larga/>"
+hab2	"simplemente que a la hora de tener <alargamiento>que</alargamiento> que trabajar con él pues eso <pausa/> luego pues <pausa/> también <pausa/> a ver <pausa/> <ruido tipo=""chasquido boca""/> es <palabra_cortada>de</palabra_cortada> <pausa/> bastante desafiante <pausa/> es un niño bastante desafiante <pausa_larga/>"
+hab2	"<alargamiento>y</alargamiento> tengo pues por eso <alargamiento>muchas</alargamiento> <pausa/> muchas peloteras con él eeh justamente <alargamiento>por</alargamiento> <pausa/> por eso <pausa/> no es un niño que le <alargamiento>digas</alargamiento> <pausa/> <cita_inicio/><alargamiento>
+  <ficticio>Óscar</ficticio>
+</alargamiento> <pausa/> no<cita_fin/> <pausa_larga/>"
+hab2	y ya está <pausa/> no <pausa/> no o <cita_inicio/><ficticio>Óscar</ficticio> vístete<cita_fin/> no <pausa/> <alargamiento>yo</alargamiento> tengo que decir <cita_inicio/><ficticio>Óscar</ficticio> vístete<cita_fin/> cinco o seis veces <pausa/> porque es que claro es que como se le va <pausa/>
+hab1	claro
+hab2	como se despista <pausa_larga/>
+hab2	pues acabo vistiéndolo yo <pausa/> porque es que claro ah imagínate por la mañana que tienes que <pausa/> que desayune <pausa/> que tienes que coger el coche porque nosotros vivimos en <ficticio>Milladoiro</ficticio> <pausa_larga/>
+hab2	irte a Santiago <pausa/> porque el niño estudia en Santiago <pausa/> entonces <pausa/> mmm no <palabra_cortada>p</palabra_cortada> puedo permitirme el lujo <pausa/> de que se ande distrayendo y perdiendo el tiempo <pausa/> porque <pausa/> porque no <pausa/> entonces eh <pausa/> es eso y además le dices <cita_inicio/><ficticio>Óscar</ficticio> vete a tu habitación y coge tal cosa<cita_fin/> <pausa/> <risa/> <pausa/> va <pausa/> a la habitación <pausa_larga/>
+hab2	y en menos de cinco minutos está de vuelta <silencio/>
+hab2	<cita_inicio/>¿y la cosa?<cita_fin/> <silencio/>
+hab1	<risa/> se distrajo con algo <pausa_larga/>
+hab1	claro
+hab2	se distrajo <pausa/> ya <pausa/> <palabra_cortada>camin</palabra_cortada> <pausa/> de camino <pausa/> <risa/> <risa_inicio/>a la habitación <risa_fin/> <pausa/> se distrajo o ya vio algo o no sé qué o se acordó de algo <alargamiento>y</alargamiento> <pausa/> <alargamiento>y</alargamiento> eso y la <pausa/> la imaginación que tiene Dios
+hab1	eso te iba a decir <pausa/> debe tener una <alargamiento>imaginación</alargamiento> <pausa/>
+hab2	"¡uff! uff <ruido tipo=""golpe""/> <pausa/> es increíble <pausa_larga/>"
+hab2	increíble <pausa_larga/>
+hab2	o <alargamiento>sea</alargamiento> es <pausa/> es tan tan tan <pausa/> tan alucinante o sea <pausa/> todos los niños tienen imaginación <énfasis_inicio/>yo<énfasis_fin/> <pausa_larga/>
+hab2	tuve muchísima imaginación <pausa/> de pequeña <pausa/> pero muchísima muchísima <pausa_larga/>
+hab2	"<ruido tipo=""tos""/> disculpa <pausa/> <alargamiento>y</alargamiento> ehm <pausa/> y el <alargamiento>niño</alargamiento> ya te digo o sea <pausa/> te cuenta cada historia <risa/> <pausa/> <risa_inicio/>te cuenta cada <risa_fin/> historia además y <pausa/> y y a lo mejor te empieza de <silencio/>"
+hab2	que un chicle se le ha pegado en el zapato <pausa_larga/>
+hab2	y empieza <pausa/> el tema es <pausa/> que un chicle se le ha pegado en el zapato <pausa/> vale pues pasamos <pausa_larga/>
+hab2	hasta que <alargamiento>termina</alargamiento> <alargamiento>hablándome</alargamiento> <alargamiento>de</alargamiento> <alargamiento>las</alargamiento> anémonas <pausa_larga/>
+hab2	eeh <pausa/> hemos pasado por por miles de temas de por qué el ascensor sube y baja más despacio eeh por qué ese coche de <alargamiento>ahí</alargamiento> <pausa/> eeh tiene una ventanilla rota o sea <silencio/>
+hab1	pero le dedicas mucho tiempo ¿no? <pausa/>
+hab2	es que no me queda otra <pausa/> no me queda otra <pausa/> o <alargamiento>sea</alargamiento> yo <pausa/> por las tardes <silencio/>
+hab2	"eeh pues <ininteligible/> estar <palabra_cortada>co</palabra_cortada> con él a ver <pausa/> <alargamiento>si</alargamiento> tenemos un buen día de que hace los deberes y tal <alargamiento>y</alargamiento> <pausa/> y entonces me los hace temprano <alargamiento>y</alargamiento> <pausa/> y todo eso <ruido tipo=""tos""/> es que esta semana me puse mala <ruido tipo=""tos""/> <pausa_larga/>"
+hab2	eeh pues <pausa_larga/>
+hab2	se me ha ido la olla <pausa_larga/>
+hab2	"sí <pausa/> pues entonces que <pausa/> puedo <pausa/> estar un poquito más eeh a mis cosas <pausa/> ¿no? <pausa/> eeh <vacilación/> pues para atender pues la <alargamiento>casa</alargamiento> y todo eso <ruido tipo=""indeterminado""/> eeh <pausa/> puedo estar más centrada en eso y <ininteligible/> mirar los dibujos <alargamiento>o</alargamiento> <pausa/> o tal <alargamiento>pero</alargamiento> pues me he dedicado a <alargamiento>perder</alargamiento> tardes y no poder hacer absolutamente <énfasis_inicio/>nada<énfasis_fin/> de recados ni nada por tener que estar con él <silencio/>"
+hab2	pero es que es mi obligación <pausa/> es mi obligación <pausa/> bueno no puedo hacerlo ahora <pausa/> bueno pues ya lo haré mañana <pausa/> o cuando pueda <risa/> <pausa/> <alargamiento>pero</alargamiento> <pausa/> pero es eso <alargamiento>si</alargamiento> yo no <alargamiento>me</alargamiento> me esfuerzo con él ¿quién lo va a hacer? <silencio/>
+hab2	¿quién lo va a hacer? o sea <pausa/> <alargamiento>me</alargamiento> a <pausa/> a mí me duele mi hijo <pausa_larga/>
+hab2	¿entiendes? <pausa/> o sea él y debo reconocer que el curso pasado <alargamiento>las</alargamiento> profesoras que estuvieron con él <pausa_larga/>
+hab2	chapó <pausa_larga/>
+hab2	chapó <pausa/> tanto la tutora <pausa/> como la profesora que tenían <alargamiento>de</alargamiento> de <alargamiento>apoyo</alargamiento> en <pausa/> en matemáticas <silencio/>
+hab2	"chapó porque es <alargamiento>que</alargamiento> madre mía o sea <pausa/> interesadas en leerse <pausa/> libros que yo tengo sobre la hiperactividad interesada en leerse fotocopias que a mí me había dado <alargamiento>la</alargamiento> <pausa/> la psicóloga <pausa/> interesadas en <pausa/> <alargamiento>en</alargamiento> cubrir <pausa/> una especie de test <pausa/> que me había dado la <ruido tipo=""golpe""/> <alargamiento>psicóloga</alargamiento> <pausa/> o <alargamiento>sea</alargamiento> <pausa/> <alargamiento>y</alargamiento> y además <alargamiento>con</alargamiento> <pausa/> <alargamiento>conversaciones</alargamiento> o sea muchas reuniones muy seguidas y aparte de en la agenda de <ficticio>Óscar</ficticio> del curso pasado <pausa/> muchas notas o <alargamiento>sea</alargamiento> yo creo que <pausa/> hubo <alargamiento>ahí</alargamiento> durante no sé qué trimestre que <pausa/> todos los días <pausa/> había <pausa/> mmm nota por mi parte y contestación por la parte de ella o ella a mí <pausa/> y yo le contestaba y y cosas así o sea me <alargamiento>quedé</alargamiento> me quedé encantada <pausa/>"
+hab1	¡qué bien!
+hab2	me quedé encantada <pausa_larga/>
+hab2	sí <pausa/> la verdad es <alargamiento>que</alargamiento> fenomenal <pausa/> pero claro <pausa_larga/>
+hab2	ellos son <pausa/> son profesores y todo eso y ellos trabajan con <palabra_cortada>e</palabra_cortada> con ellos por la mañana <pausa/> pero por la tarde <pausa_larga/>
+hab2	ahora por la tarde ya lo llevo <pausa/> eeh porque yo no puedo ayudarle ni en inglés ni en matemáticas <pausa_larga/>
+hab2	entonces <pausa/> va con dos <pausa/> eeh profesoras <pausa/> <alargamiento>y</alargamiento> genial con ellas <pausa/> <alargamiento>y</alargamiento> estoy muy contenta <pausa_larga/>
+hab2	pero el resto de las asignaturas las hace conmigo <pausa_larga/>
+hab2	o sea hace los deberes conmigo y estudia conmigo <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> yo intento eeh pues eso <alargamiento>explicárselo</alargamiento> <alargamiento>lo</alargamiento> lo mejor <alargamiento>que</alargamiento> que puedo <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> enseñarle desde <pausa/> desde pequeño <pausa/> <alargamiento>a</alargamiento> <pausa/> a hacer esquemas <pausa/> para estudiar <pausa_larga/>"
+hab2	<alargamiento>y</alargamiento> al principio eeh se los hacía yo <pausa/> a ver <pausa/> él leía <pausa/> y yo <cita_inicio/>bueno a ver <ficticio>Óscar</ficticio> dime <pausa/> ¿qué es lo más importante <pausa/> que has leído <pausa/> de este <pausa/> de <alargamiento>este</alargamiento> trozo?<cita_fin/> <pausa/> entonces él me lo decía <pausa/> y yo <cita_inicio/>vale<cita_fin/> <pausa/> entonces yo <pausa/> cogía <pausa/> <alargamiento>y</alargamiento> se lo escribía <pausa/> tal <pausa/> flechita <cita_inicio/>a ver ¿esto deriva <pausa/> en? <pausa_larga/>
+hab2	a ver <pausa/> leamos esta otra parte <pausa/> a ver ¿qué es lo más importante de aquí?<cita_fin/> tal <pausa/> y después <pausa/> ir machacando ese esquema y ir leyendo sobre todo lo <pausa/> eh <pausa/> con esta clase de de <palabra_cortada>nin</palabra_cortada> <pausa/> de niños no <pausa/> en los libros estos a ver <pausa/> realmente lo importante son los contenidos que ya vienen resaltados ¿sabes? <pausa/> a lo mejor algunas partes que te pueden venir pues imagínate <pausa/> de la flor <pausa/> pues <pausa/> a lo mejor si no viene en el recuadro ese resaltado y te viene en el texto <pausa/> <alargamiento>que</alargamiento> que lee ¿no? pero ya para eso <alargamiento>me</alargamiento> voy fijando yo <alargamiento>de</alargamiento> <pausa/> de lo que hay <pausa_larga/>
+hab2	"<alargamiento>y</alargamiento><pausa/> y ayudarle <pausa/> así <pausa/> <alargamiento>con</alargamiento> la lengua y con <pausa/> y con gallego pues eh <pausa/> no es lo mismo porque claro <pausa/> con <lengua_inicio nombre=""gl""/>coñecemento<lengua_fin/> se puede hacer pero <pausa/> con lengua es que <alargamiento>eso</alargamiento> <pausa/> claro es es gramática realmente lo que tienen y entonces <pausa/> nada hacer ejercicios <pausa/> ejercicios ejercicios y <alargamiento>que</alargamiento> <pausa/> a ver <pausa/> sepa <pausa/> por qué ¿no? sí leemos la teoría también viene en un cuadradito y leemos la teoría nada y por qué una <alargamiento>palabra</alargamiento> <pausa/> pues es <pausa/> aguda <pausa/> ¿sabes? <pausa/> pues lo leemos <énfasis_inicio/>por qué<énfasis_fin/> es <pausa/> así para que él sepa <pausa/> el motivo claro <pausa/> y después hacemos los ejercicios <pausa/> entonces <alargamiento>es</alargamiento> mucho esfuerzo <alargamiento>que</alargamiento> <pausa/> que tengo <alargamiento>que</alargamiento> <pausa/> que tenemos <pausa/> tanto él como yo <pausa/> o sea no te voy a decir <pausa/> que yo no <pausa/> él también <pausa/> o sea <pausa/> es <pausa/> el esfuerzo que los dos <pausa/> eeh tenemos que hacer por las tardes para <alargamiento>que</alargamiento> él <pausa/> vaya <pausa/> subiendo <alargamiento>para</alargamiento> <pausa/> para arriba <pausa/> y <pausa/> callar muchas bocas <pausa_larga/>"
+hab1	claro y entienda <pausa/>
+hab2	y callar muchas bocas <pausa/> eso es lo que quiero nada además <pausa/> <palabra_cortada>ap</palabra_cortada> <pausa/> aparte de que quiero que eso <pausa/> de que aprenda y tal <pausa/> eeh <silencio/>
+hab2	tengo <alargamiento>aquí</alargamiento> una cosita <alargamiento>de</alargamiento> rencor <pausa/> ¿sabes? <pausa/> o sea sé que no debería pero es que la tengo <pausa/> la tengo porque he sufrido mucho <pausa/> he sufrido mucho <pausa/> <alargamiento>entonces</alargamiento> mmm yo lo que quiero es que cuando <alargamiento>haya</alargamiento> <pausa/> eeh <pausa/> claustro de profesores y empiecen a comentar frente a los niños y tal <pausa/> que el nombre de <ficticio>Óscar Bello Cañas</ficticio> vaya al lado de <pausa/> es un niño <pausa/> eeh que lo aprueba todo <pausa/> ¿sabes? y que se esfuerza <pausa/> quiero que eso salga <pausa/> en el claustro y que esas profesoras que me dieron por <pausa/> por culo que le dieron por culo a mi hijo <pausa/> eeh <pausa/> se callen la boca <pausa/> se callen la boca <pausa_larga/>
+hab2	entonces eeh <pausa/> eso <pausa_larga/>
+hab2	<risa_inicio/>bien <risa_fin/><risa_inicio/> eh lo veo puesto <risa_fin/> <risa/>
+hab1	pero a ver
+hab1	deberías sentirte de <pausa/> te de verdad muy orgullosa de ti misma y de tu hijo porque <pausa/> porque eres muy joven y lo <pausa/> y de verdad que me impresiona lo que me cuentas ¿eh? <pausa/>
+hab2	me siento muy orgullosa de él <silencio/>
+hab1	y de ti también <silencio/>
+hab2	"
+      <ininteligible/>
+      <silencio/>
+    "
+hab1	uy pero no llores
+hab2	a ver eeh <pausa/>
+hab1	a ver pero te digo yo tengo treinta y dos años y te y <pausa/> y te juro que te escucho e independientemente de que <pausa/> de que no te conozca <pausa/> te juro que de <alargamiento>verdad</alargamiento> <pausa/> <alargamiento>me</alargamiento> me <alargamiento>alegra</alargamiento> <pausa/> escuchar una gente tan joven así <pausa/> de verdad <pausa_larga/>
+hab2	es <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	a ver eeh <pausa_larga/>
+hab2	cuando ves <pausa_larga/>
+hab2	que mmm <pausa/> hay injusticias <pausa_larga/>
+hab2	¿no? <pausa/> y yo las he sufrido cuando <pausa/> cuando era pequeña <pausa_larga/>
+hab2	cuando ves que hay injusticias y <alargamiento>que</alargamiento> <pausa/> eeh tratan a una persona <pausa_larga/>
+hab2	simplemente por el mero hecho de ser <pausa/> diferente <silencio/>
+hab2	eh <pausa/> pues <alargamiento>porque</alargamiento> <pausa/> eres muy extrovertida <pausa_larga/>
+hab2	hay gente que no me ve bien <pausa/> <alargamiento>por</alargamiento> ser demasiado expresiva <silencio/>
+hab2	"
+      <alargamiento>por</alargamiento>
+      <pausa_larga/>
+    "
+hab2	no callarte <silencio/>
+hab2	por decir lo que piensas <silencio/>
+hab2	claro <pausa/> cuando eres diferente <pausa/> por el motivo que sea <pausa_larga/>
+hab2	siempre hay alguien que tiene que decir <pausa/> que decir algo <pausa/> y sí lo peor de todo ya no solamente <pausa/> la gente que <pausa/> que pueda estar a tu mismo nivel <pausa/> sino <pausa/> gente <pausa/> que esté por encima <silencio/>
+hab2	que es <pausa/> esos sean justamente los encargados de ponerte losas <pausa/> de ponerte losas <pausa/> ¿no? entonces eeh mmm <pausa_larga/>
+hab2	cuando yo vi de <alargamiento>que</alargamiento> <pausa/> de que <ficticio>Óscar</ficticio> tenía el problema de <alargamiento>la</alargamiento> <pausa/> de la hiperactividad <pausa/> eeh yo dije <cita_inicio/>uff <pausa_larga/>
+hab2	oh <pausa/> <alargamiento>no</alargamiento> o sea <alargamiento>esto</alargamiento> esto <alargamiento>no</alargamiento> <pausa/> no va a <alargamiento>ser</alargamiento> <pausa/> problema <pausa/> o sea no <pausa/> o sea vamos <alargamiento>a</alargamiento> a ir para arriba <pausa/> vamos a trabajar <pausa/> eeh <alargamiento>si</alargamiento> tengo <alargamiento>que</alargamiento> <alargamiento>tirarme</alargamiento> fff <pausa/> sin <alargamiento>poder</alargamiento> tener <pausa/> <énfasis_inicio/>mi<énfasis_fin/> vida <silencio/>
+hab2	por <pausa/> por él <pausa/> pues <pausa_larga/>
+hab2	<alargamiento>lo</alargamiento> lo haré<cita_fin/> <pausa/> <alargamiento>y</alargamiento> <pausa/> y lo hago <pausa/> y lo hago ¿sabes? o sea <pausa/> cada vez me cuesta menos <pausa/> porque claro ya te digo el niño cada vez <pausa/> va habituándose <alargamiento>más</alargamiento> <pausa/> a <alargamiento>que</alargamiento> eso <pausa/> tenemos <alargamiento>deberes</alargamiento> <pausa/> que tiene que hacerlos <pausa/> que no puede <alargamiento>tirarse</alargamiento> <pausa/> tres <alargamiento>horas</alargamiento> para hacer un ejercicio <pausa/> y eso ¿no? entonces <pausa_larga/>
+hab2	puedo tener más tiempo pues a poder <pausa/> hacer cosas en <alargamiento>casa</alargamiento> <alargamiento>o</alargamiento> <pausa/> o poder tener <alargamiento>un</alargamiento> ratito para mí para coger a lo mejor y leerme un libro <pausa/> ¿sabes? <pausa/> o sea <pausa/> ahora puedo <pausa/> antes no podía <pausa/> y antes eeh <pausa/> mi mis horarios eran muy estrictos <pausa/> o sea muy estrictos <alargamiento>yo</alargamiento> <pausa/> eeh <pausa/> <ininteligible/> entra <pausa/> <palabra_cortada>s</palabra_cortada> <pausa/> en segundo <pausa/> en segundo de primaria <pausa_larga/>
+hab2	eeh <pausa/> mi hijo a las siete de la tarde <pausa_larga/>
+hab2	si <pausa/> con suerte habíamos terminado <pausa/> <alargamiento>los</alargamiento> <pausa/> los deberes <pausa/> mi hijo ya estaba en plan para <pausa/> irse a la ducha <pausa/> <alargamiento>tal</alargamiento> <pausa/> eeh y <pausa/> y que <pausa/> si podía acostarlo <alargamiento>entre</alargamiento> <pausa/> ocho ocho y media <pausa/> ¿sabes? y claro y <palabra_cortada>o</palabra_cortada> <pausa/> y otros padres y <alargamiento>tal</alargamiento> <cita_inicio/>qué no sé qué vamos a dar una vuelta y vamos a llevar a los niños al parque<cita_fin/> <cita_inicio/>no <pausa/> no <pausa/> no porque yo a las siete yo ya tengo que estar en casa <pausa/> o sea yo tengo que tener <palabra_cortada>u</palabra_cortada> <pausa/> unos horarios <alargamiento>con</alargamiento> <pausa/> con él<cita_fin/> <pausa/> eeh <pausa/> pasó <alargamiento>para</alargamiento> para tercero y le dije <cita_inicio/>bueno <pausa/> pasas para tercero <pausa/> ya eres un poco más mayor<cita_fin/> <pausa/> entonces <silencio/>
+hab2	<palabra_cortada>va</palabra_cortada><pausa/> podemos <pausa/> eeh <pausa/> alargar más <pausa/> ¿no? eeh <pausa/> <alargamiento>el</alargamiento> que no te tengas que acostar o si tal pues <pausa/> puedes estar en cama con un libro o o tal ¿no? <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> y ahora <silencio/>
+hab2	entre nueve <pausa/> nueve y media <pausa_larga/>
+hab2	más o menos <pausa/> a lo mejor algún día pues <pausa/> se acuesta a las diez pues o <pausa/> o porque mi marido por lo que sea ha venido más tarde entonces la cena <pausa/> pues claro eeh <pausa/> me he empezado más tarde a hacerla <pausa/> o cosas así ¿no? <pausa/> pero bueno <pausa/> eeh <pausa/> de ahí <alargamiento>no</alargamiento> <pausa/> no me muevo <pausa/> no me muevo no entonces eeh <silencio/>
+hab2	"eso ahora es <alargamiento>ya</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> vamos un poquito más relajados <pausa/> además ahora hemos acabado <pausa/> hemos empezado el curso ahora ¿no? <pausa_larga/>"
+hab2	y entonces eeh <pausa/> eso pero como <pausa/> por lo que he podido ver <silencio/>
+hab2	mmm <pausa/> cuarto es <alargamiento>un</alargamiento> poco resumen <pausa/> de lo que <alargamiento>fue</alargamiento> de lo que fue tercero <pausa/> más o menos <pausa/> en <alargamiento>algunas</alargamiento> <pausa/> en algunas cosas <pausa_larga/>
+hab2	eeh <pausa/> <énfasis_inicio/>no<énfasis_fin/> creo que vaya a <alargamiento>tener</alargamiento> <pausa/> mayor <pausa/> mayor problema <pausa/>
+hab1	bueno <pausa/>
+hab2	yo creo que no <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> si lo tengo pues nada oye <pausa/> fff <pausa/> para <risa_inicio/>adelante <pausa/> es lo que hay <risa_fin/> <silencio/>
+hab2	pff no me queda otra <pausa_larga/>
+hab2	así que <silencio/>
+hab2	<alargamiento>y</alargamiento> eso <risa/>
+hab1	y en vacaciones normalmente <alargamiento>¿qué</alargamiento> <pausa/> qué hacen? <pausa/>
+hab2	¿qué?
+hab1	¿durante las vacaciones normalmente qué hacen? <pausa/> ¿se van a algún sitio o <palabra_cortada>n</palabra_cortada> ? <pausa/>
+hab2	¿qué hacemos?
+hab2	"eeh <pausa/> a ver mmm depende <alargamiento>como</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> también <alargamiento>él</alargamiento> va con su padre <silencio/>"
+hab2	pues eeh por ejemplo <alargamiento>este</alargamiento> <pausa/> este verano <pausa/> se marchó con su padre <alargamiento>a</alargamiento> Gandía <pausa/> porque su padre es de allí <pausa/> de Gandía <pausa/> entonces eeh se fue con él <pausa/> <alargamiento>y</alargamiento> y eso y si nosotros no podemos ir <alargamiento>a</alargamiento> <pausa/> a ningún lado <pausa/> pues como en <ficticio>Milladoiro</ficticio> tenemos la <alargamiento>piscina</alargamiento> que es pública <pausa/> ¿no? pues <pausa/> me lo llevaba siempre o sea <pausa/> todas las tardes durante la semana <pausa/> me lo llevaba a la piscina <pausa/> luego los fines de semana <pausa/> que a lo mejor sí se quedaba conmigo <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> porque conmigo solo que se queda un fin de semana al mes <pausa/> el último fin de semana al mes o sea este fin de semana me toca <pausa_larga/>"
+hab2	el resto siempre está con su padre <pausa_larga/>
+hab2	"eeh <ruido tipo=""carraspeo""/> <silencio/>"
+hab2	<alargamiento>el</alargamiento> pues le llevaba eeh <pausa/> a la playa <pausa/> claro <pausa/> aprovechábamos y nos íbamos <alargamiento>a</alargamiento> <pausa/> a la playa o íbamos <alargamiento>a</alargamiento> <pausa/> a la aldea <alargamiento>de</alargamiento> <pausa/> de mi marido <pausa_larga/>
+hab2	"<alargamiento>y</alargamiento><pausa/> cosas así eh <pausa/> vamos mmm lo normal <pausa/> o sea lo <pausa/> no no hacíamos así <alargamiento>nada</alargamiento> como <ruido tipo=""chasquido boca""/> por culpa de así del trabajo y todo eso no no se puede yo no estoy trabajando ahora <pausa_larga/>"
+hab2	entonces eeh <pausa/> eso no tenemos tampoco dinero como para <pausa/> para poder ir a ningún lado <silencio/>
+hab2	entonces eeh nada cuando <alargamiento>cogió</alargamiento> vacaciones <alargamiento>mi</alargamiento> mi marido que nada <pausa/> que fue una semana no le dieron más <pausa/> pues eeh <pausa/> justamente el niño estaba con su padre <pausa/> entonces nada nosotros sí nos íbamos pues a <pausa/> a la playa prácticamente todos los días a pasar el día en la playa y <pausa/> y eso <pausa_larga/>
+hab2	pues entonces <alargamiento>pues</alargamiento> nada <pausa/> un verano normal <risa_inicio/>y corriente <risa_fin/>
+hab1	¿y a ti qué te gusta hacer? <pausa/>
+hab2	¿qué me gusta hacer? <pausa/> bueno me gusta hacer tantas cosas <silencio/>
+hab2	a ver <pausa/> me gusta estar con mi hijo evidentemente ¿no? y con mi gente <silencio/>
+hab2	a ver me <alargamiento>gusta</alargamiento> <pausa/> me gusta el cine <pausa/> <alargamiento>también</alargamiento> <pausa_larga/>
+hab2	<alargamiento>me</alargamiento> me me eso me gusta la piscina me gusta la playa <pausa/> la playa me encanta <pausa/> me encanta ir a la playa <pausa/> <alargamiento>y</alargamiento> y luego eeh <pausa/> algo que me gusta y que hace <énfasis_inicio/>muchos<énfasis_fin/> años <pausa/> que no hago <pausa_larga/>
+hab2	que no hago que <alargamiento>me</alargamiento> que me gustaría volver a hacer es montar un caballo <silencio/>
+hab2	me encantaría <pausa/>
+hab1	¿y antes lo hacías?
+hab2	mhm <pausa/> me tiré siete años <pausa/> montando a caballo <pausa_larga/>
+hab2	hm <pausa/> sí <silencio/>
+hab2	y me encantaría <alargamiento>volver</alargamiento> <pausa/> volver a hacerlo <silencio/>
+hab2	"o <alargamiento>sea</alargamiento> fff <pausa/> <alargamiento>yo</alargamiento> me encantan los caballos me encanta la <ruido tipo=""suspiro""/> la sensación de libertad <silencio/>"
+hab2	que tienes encima de un caballo <alargamiento>cuando</alargamiento> <pausa/> puedes coger y galopar <pausa/> ¿sabes? <alargamiento>y</alargamiento> saltar <pausa/> esa adrenalina <silencio/>
+hab2	para mí me ¡buah! <pausa/> me da la vida <pausa/> me da la vida sí <pausa/> siempre he sido muy <pausa_larga/>
+hab2	muy independiente <pausa/> <alargamiento>en</alargamiento> <pausa/> siempre he sido a ver un poco como <pausa/> como <ficticio>Óscar</ficticio> y nunca me ha gustado que me digan qué es lo que tengo que hacer y nunca me ha gustado tener que dar explicaciones <pausa/> ahora <pausa/> me veo en la obligación de que tengo que hacerlo porque tengo un marido <pausa/> tengo una vida <pausa/> y tal <pausa_larga/>
+hab2	pero no me gusta <pausa/> <risa/> <pausa/> no <pausa/> no no <pausa/> no mi manera de ser no es esa <pausa/> no es esa <pausa/> siempre he sido <énfasis_inicio/>muy<énfasis_fin/> libre <pausa/> muy libre <alargamiento>y</alargamiento> tengo muchísimo carácter <pausa_larga/>
+hab2	¿no? <alargamiento>entonces</alargamiento> eeh <pausa/> a mí me viene una persona en plan <cita_inicio/>bueno tal<cita_fin/> y en plan todo chulo y <pausa/> <cita_inicio/>¿qué? <pausa/> ¿perdona?<cita_fin/> <risa/> <risa_inicio/><ininteligible/> <risa_fin/> <pausa/> a mí <ininteligible/> <pausa/> no me gusta que se me suban a <alargamiento>la</alargamiento> <pausa/> a la chepa ¿no? entonces <pausa/> <alargamiento>el</alargamiento> montar a caballo <silencio/>
+hab2	éramos el caballo y yo <silencio/>
+hab2	<alargamiento>y</alargamiento> fff <pausa/> y dale <pausa/> o sea <pausa/> y y corre <pausa/> y corre o <alargamiento>sea</alargamiento> <pausa_larga/>
+hab2	no sé <alargamiento>si</alargamiento> <pausa/> si alguna vez se me pudo haber pasado por la cabeza que <pausa/> lo que quería era escapar <silencio/>
+hab2	pensándolo ya en plan un <alargamiento>poco</alargamiento> <pausa/> <alargamiento>psicológicamente</alargamiento> <pausa/> callejero pero psicológicamente <pausa_larga/>
+hab2	yo creo <alargamiento>que</alargamiento> <pausa/> <alargamiento>que</alargamiento> <pausa/> que es eso <pausa/> que en algunas ocasiones eeh <pausa_larga/>
+hab2	me hubiera gustado <palabra_cortada>es</palabra_cortada> <pausa/> escapar <pausa/> escapar <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	y <alargamiento>no</alargamiento> <silencio/>
+hab2	no sé <pausa_larga/>
+hab2	ser otra persona no <pausa_larga/>
+hab2	porque me gusto <pausa_larga/>
+hab2	me gusto <pausa/> porque yo misma me gusto <pausa/> me gusta mi manera de ser <pausa/> eeh <alargamiento>y</alargamiento> y y como soy <alargamiento>y</alargamiento> <pausa/> y todo eso ¿no? <alargamiento>pero</alargamiento> <pausa_larga/>
+hab2	no sé <pausa/> a veces <alargamiento>me</alargamiento> me daba la sensación de que me <alargamiento>faltaba</alargamiento> me faltaba algo <pausa_larga/>
+hab2	¿sabes? como si estuviera viviendo una vida <pausa/> que realmente no era mía <silencio/>
+hab2	no sé si me expreso
+hab1	¿pero cuando eras adolescente <alargamiento>o</alargamiento>
+hab2	ja <pausa/> hm <pausa/> hm <pausa/> ahora <pausa/> ahora a ver <pausa/> ahora no no lo pienso ¿no? y no quiero escaparme a ningún lado porque me gusta lo que tengo o sea tengo una familia y me ha costado mucho tener a mi familia <pausa/> y la estabilidad que tengo ahora me ha costado muchísimo tenerla <pausa/> he estado <énfasis_inicio/>muy<énfasis_fin/> inestable durante muchísimos años <pausa_larga/>
+hab2	muchísimos años <pausa/> o sea no había Dios que <alargamiento>me</alargamiento> <pausa_larga/>
+hab2	<risa/><pausa/> que me agarrara <pausa/> ¿sabes? entonces y he sufrido mucho he pasado <énfasis_inicio/>mucho<énfasis_fin/> <pausa/> en mi vida desde <énfasis_inicio/>muy<énfasis_fin/> pequeñita ¿eh? porque he tenido muchísimos problemas <pausa/> <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	y ahora que tengo una <pausa/> una familia <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> que tengo unas responsabilidades <pausa/> ¿no? <pausa/> pues <pausa/> no no <pausa/> realmente no tengo que escapar <pausa/> de <pausa/> de esto que tengo ¿no? <silencio/>"
+hab2	"
+      <alargamiento>pero</alargamiento>
+      <silencio/>
+    "
+hab2	me da la <pausa/> sí me sigue dando la sensación de como si <palabra_cortada>fo</palabra_cortada> me faltara algo <pausa/> no sé si a lo mejor es es <alargamiento>porque</alargamiento> ya llevo mucho tiempo sin trabajar <pausa/> que a lo mejor también puede ser <pausa/> <alargamiento>que</alargamiento> no me siento realizada <pausa_larga/>
+hab2	"que estoy hasta las narices de tener que pasar el aspirador y tener <risa_inicio/>que andar <risa_fin/> limpiando en mi casa <pausa/> como una ama de casa <pausa/> que es muy <pausa/> a ver es muy <pausa/> lícito o sea <pausa/> es muy honroso no sé <pausa/> <vacilación/> <pausa/> a ver <pausa/> <ruido tipo=""chasquido boca""/> <risa_inicio/>que no es malo <risa_fin/>"
+hab1	sí pero si no te llena <pausa/>
+hab2	no me llena no me llena porque no porque no he nacido <pausa/> para hacer eso <pausa_larga/>
+hab2	a ver nadie nace para hacer eso está claro <pausa/> pero <pausa/> mmm <pausa/> tengo la capacidad para poder hacer otras cosas <pausa/> y la gente que a lo mejor <pausa/> limpia <pausa/> mmm es porque no <pausa/> puede llegar <pausa/> a a algo más por lo que sea <pausa/> por el motivo que sea <pausa_larga/>
+hab2	"pero <pausa/> yo <pausa/> <ruido tipo=""palmada""/> puedo <pausa_larga/>"
+hab2	hacer <pausa/> más <pausa/> ¿sabes?
+hab1	¿y qué te gustaría hacer? <pausa/>
+hab2	¿qué me <risa_inicio/>gustaría <risa_fin/> ? a ver <pausa/> me <palabra_cortada>gust</palabra_cortada> <pausa/> eeh a mí me gustan las <palabra_cortada>o</palabra_cortada> <pausa/> oficina <silencio/>
+hab1	¿en qué te gustaría trabajar?
+hab2	una oficina <pausa/> eeh de hecho <pausa/> eeh <pausa/> el año más <pausa/> feliz <pausa/> de mi vida <pausa/> profesionalmente <silencio/>
+hab2	fue el año que trabajé en el departamento de Deportes <pausa/> del Ayuntamiento <silencio/>
+hab2	sí <pausa/> sí porque me di cuenta <pausa/> antes de eso <pausa/> aunque yo hacía mis cursos de informática <alargamiento>y</alargamiento> <pausa/> y todo eso <alargamiento>y</alargamiento> <pausa/> y mmm <pausa/> pues incluso <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	"para dependiente de comercio y tal <pausa/> aunque <alargamiento>no</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> seguí estudiando o sea <pausa/> saqué octavo de <sigla_inicio/>EGB<sigla_fin/> y dije <cita_inicio/>no <pausa/> sigo más<cita_fin/> <pausa/> sí <pausa/> quise seguir <pausa/> mmm eh <pausa/> formándome <pausa/> de otra manera <pausa/> ¿no? <silencio/>"
+hab2	y entonces eeh <pausa/> hice muchos cursos <pausa/> pero claro <pausa/> mmm justamente me puse a hacer el curso de empleada de oficina <silencio/>
+hab2	pero <palabra_cortada>n</palabra_cortada> yo mis aspiraciones <pausa/> realmente <vacilación/> <pausa/> lo que yo pensaba realmente era <pausa/> mmm <alargamiento>yo</alargamiento> solamente puedo optar <alargamiento>a</alargamiento> dependienta <pausa_larga/>
+hab2	y <alargamiento>o</alargamiento> a cajera o a azafata a ver <pausa/> porque a ver <pausa/> de azafata he trabajado he trabajado de modelo durante muchísimos años he estado en un agencia <pausa/> ¿no? <pausa/> y a ver está muy bien claro pero bueno como ya quedé muy quemada <pausa/> de eso <pausa/> pues <pausa/> claro yo decía <cita_inicio/>joder <alargamiento>y</alargamiento> <pausa/> o sea <pausa_larga/>
+hab2	¿y yo qué? o sea ¿para qué <pausa/> para qué sirvo? <pausa_larga/>
+hab2	¿para dependienta?<cita_fin/> <pausa/> o sea y yo pensaba <cita_inicio/>y qué <pausa/> qué guay que me gusta la moda que me gusta la gente y me gusta hablar con la gente<cita_fin/> <pausa/> tengo capacidad <pausa_larga/>
+hab2	para hablar con la gente <silencio/>
+hab2	pero decía <pausa/> <cita_inicio/>joder pero es que <pausa/> no no puede ser <pausa/> no puede ser que esté <vacilación/> <pausa/> pensando <pausa_larga/>
+hab2	<cita_inicio/>yo solo puedo dedicarme <pausa/> a ser <pausa/> dependienta<cita_fin/><cita_fin/> <pausa/> hice el curso de <palabra_cortada>oficin</palabra_cortada> <pausa/> de oficina <pausa_larga/>
+hab2	"porque me <vacilación/> <pausa/> porque me <alargamiento>gusta</alargamiento> mmm siempre me ha gustado desde que era <alargamiento>muy</alargamiento> pequeñita lo de tal lo de levantar el <ruido tipo=""golpe""/> teléfono el papeleo y las fotocopias todo eso me encanta <pausa_larga/>"
+hab2	me encanta y lo hice un poquito <pausa/> por eso ¿no? <pausa_larga/>
+hab2	y justamente cuando estaba terminando el curso <pausa/> fue cuando me llamaron por lo de entrar en la Labora <silencio/>
+hab2	"<ruido tipo=""chasquido boca""/> eeh <pausa/> <alargamiento>para</alargamiento> <pausa/> para hacer <alargamiento>la</alargamiento> la entrevista para el Ayuntamiento <alargamiento>de</alargamiento> <pausa/> de Santiago ¿no? o sea yo realmente <pausa/> el contrato realmente ponía para conserje <pausa_larga/>"
+hab2	lo que pasa que <pausa/> mmm la otra gente que fue a hacer la entrevista <silencio/>
+hab2	viendo el nivel <pausa_larga/>
+hab2	que tenía esa gente <pausa/> y de repente aparecí yo <silencio/>
+hab2	pues eeh <pausa/> optaron a contratar a dos personas <pausa/> a una persona que realmente ejerciera funciones o de conserje o de mantenimiento <pausa/> y una persona que ayudara a la <pausa/> a <alargamiento>la</alargamiento> <palabra_cortada>admini</palabra_cortada> a la administrativa <silencio/>
+hab2	en todo lo que <palabra_cortada>er</palabra_cortada> era <alargamiento>la</alargamiento> la oficina en todo lo que era el papeleo y todo eso teléfono ordenador y tal <pausa/> o sea yo hice funciones de auxiliar administrativo <silencio/>
+hab2	y cuando vi <silencio/>
+hab2	que realmente <pausa/> no estaba equivocada de que me gustaba <pausa_larga/>
+hab2	eso <pausa_larga/>
+hab2	y que lo sabía hacer <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/> claro <pausa/>"
+hab2	"y que lo sabía hacer y que estaba <énfasis_inicio/>capacitada<énfasis_fin/> para hacer eso <pausa/> y que la gente estaba encantada conmigo conmigo <ruido tipo=""golpe""/> <pausa_larga/>"
+hab1	claro y que vieron algo en ti el día de la entrevista <pausa_larga/>
+hab2	exactamente <pausa/> o sea <pausa/> eeh lo que <alargamiento>eran</alargamiento> toda <alargamiento>la</alargamiento> la gente que utiliza el departamento de Deportes como presidentes <alargamiento>de</alargamiento> de los clubs ¿no? <pausa/> eeh como la gente que viene <pausa/> para alquilar una pista <alargamiento>para</alargamiento> jugar su pachanga <pausa/> ¿no? eeh <alargamiento>con</alargamiento> con sus amigos <pausa/> mis propios compañeros de <pausa/> de trabajo <pausa/> eeh <pausa_larga/>
+hab2	cuando terminé de estar allí <pausa_larga/>
+hab2	y vi lo valorada <pausa_larga/>
+hab2	que estaba <pausa_larga/>
+hab2	¡fuah! <pausa_larga/>
+hab2	"aparte de que lloré como una Magdalena cuando se acabó <pausa/> porque a ver porque yo me quería quedar porque yo había descubierto <ruido tipo=""chasquido dedos""/> <ruido tipo=""palmada""/> mi vocación <pausa/> ¿no? <alargamiento>y</alargamiento> mi vocación <alargamiento>y</alargamiento> <pausa/> y unos compañeros con una calidad humana <pausa/> impresionante <pausa/> impresionante porque la paciencia que que tuvieron que tener <pausa_larga/>"
+hab2	bueno que tuvieron que tener no <pausa/> o sea que tienen <pausa/> que tienen <pausa_larga/>
+hab2	o sea <pausa/> <ficticio>Paz</ficticio> <pausa/> que es <alargamiento>la</alargamiento> la administrativa o sea lo que le debo yo a esa mujer <pausa_larga/>
+hab2	o sea es increíble <pausa/> increíble porque es que era mi compañera <pausa/> era <alargamiento>mi</alargamiento> <pausa/> como <pausa/> mi maestra ¿no? <pausa/> o <alargamiento>sea</alargamiento> <pausa/> porque claro ella sabe cómo funciona todo entonces ella me iba diciendo cómo se iban haciendo las cosas <pausa/> cuando me equivocaba o lo que sea cuando cometía un error <pausa/> allí estaba ella <pausa/> <énfasis_inicio/>nunca<énfasis_fin/> se enfadaba <pausa/> me <palabra_cortada>escu</palabra_cortada> escuchaba cosas personales <énfasis_inicio/>mías<énfasis_fin/> <pausa/> me preguntaba por cosas personales <énfasis_inicio/>mías<énfasis_fin/> <pausa/> ¿sabes? <pausa_larga/>
+hab2	eeh <pausa_larga/>
+hab2	o sea <alargamiento>vi</alargamiento> <pausa/> vi en ella <alargamiento>una</alargamiento> una mujer <alargamiento>que</alargamiento> que <alargamiento>realmente</alargamiento> <pausa/> admiro <pausa/> admiro <pausa_larga/>
+hab2	admiro profesionalmente y <palabra_cortada>admir</palabra_cortada> y la admiro <pausa/> personalmente <pausa_larga/>
+hab2	¿no? <pausa/> entonces eeh <pausa/> eso después de <pausa/> eeh <pausa/> ellos incluso <silencio/>
+hab2	quisieron saber si había posibilidad <pausa/> de que pudiera quedarme <pausa_larga/>
+hab2	¿no? y hablaron con personal y todo eso <alargamiento>pero</alargamiento> <silencio/>
+hab2	era el Plan Labora <pausa/> era un año y si querían <alargamiento>a</alargamiento> <pausa/> si querían a una persona tenían <alargamiento>que</alargamiento> volver a hacer un procedimiento <pausa/> y que otra persona <pausa/> viniera <pausa/> es decir <cita_inicio/>a ver <pausa/> es que no es que <palabra_cortada>querem</palabra_cortada> <pausa/> no queremos a otra persona <pausa/> queremos a esta<cita_fin/>
+hab1	"claro que ya la formamos <pausa/> <alargamiento>que</alargamiento> <ruido tipo=""tos""/>"
+hab2	claro lo que pasa eso no <alargamiento>podía</alargamiento> no podía ser <pausa/> eso no podía ser entonces eeh me tuve que despedir <alargamiento>de</alargamiento> de Deportes con una <alargamiento>pena</alargamiento> <pausa/> impresionante y entonces <pausa/> después <pausa/> lo <alargamiento>que</alargamiento> seguí haciendo <pausa/> pues un poquito a modo de ir tirando pues en plan de promotora <pausa/> <alargamiento>en</alargamiento> <pausa/> en el Hipercor <pausa_larga/>
+hab2	y luego me llamaron del <sigla_inicio/>SERGAS<sigla_fin/> <pausa/> porque yo estaba apuntada <alargamiento>para</alargamiento> <pausa/> hacer sustituciones <pausa/> eeh <pausa/> como <sigla_inicio/>PSG<sigla_fin/> o sea <alargamiento>personal</alargamiento> <pausa/> eeh <pausa/> jolín <pausa_larga/>
+hab2	personal de servicios generales <silencio/>
+hab2	eeh entonces iba a los centros de salud <pausa/> y a ver <pausa/> eeh también estaba contenta ¿no? pues <alargamiento>porque</alargamiento> más o menos <pausa/> era lo mismo <pausa/> ordenador <pausa/> teléfono <pausa/> bastante más contacto <pausa/> con la gente que en Deportes <pausa/> realmente <pausa/> demasiado más contacto <pausa/> porque es que hay <alargamiento>cada</alargamiento> <pausa/> cada pueblo <pausa/> y cada persona <pausa/> que ¡Dios mío! que <pausa/> mira que tengo <pausa/> tengo paciencia <pausa/> pero yo tengo un límite también
+hab1	pero ¿por qué? ¿porque te pasó algo alguna vez o cuando?
+hab2	"me pasó de todo me pasó ¿con los pacientes? me pasó de <alargamiento>todo</alargamiento> <pausa/> me tienen faltado al respeto <pausa/> me llegaron a denunciar incluso a <pausa/> al <sigla_inicio/>SERGAS<sigla_fin/> <pausa/> cayó en <palabra_cortada>ca</palabra_cortada> en saco <palabra_cortada>ro</palabra_cortada> <pausa/> en <palabra_cortada>sac</palabra_cortada> <pausa/> en saco roto ¿eh? <pausa/> la la denuncia yo contesté lo <alargamiento>que</alargamiento> <pausa/> <alargamiento>yo</alargamiento> <ruido tipo=""carraspeo""/> <pausa/> creía <pausa_larga/>"
+hab1	¿sí?
+hab2	que <alargamiento>realmente</alargamiento> <pausa/> era lo <pausa/> bueno lo que había <alargamiento>pasado</alargamiento> lo que exactamente dije y tal <pausa_larga/>
+hab2	eeh <pausa_larga/>
+hab2	con <ininteligible/> un toque que otro sarcástico <risa/> <pausa/> sí <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> y nada y <alargamiento>no</alargamiento> <pausa/> y <alargamiento>no</alargamiento> fue a mayores <alargamiento>ni</alargamiento> ni pasó nada ¿sabes? <alargamiento>pero</alargamiento> <pausa/> me tiene pasado pero igual que también me tiene pasado cosas muy buenas con pacientes <pausa/> y de tratarme muy bien <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	y genial <pausa_larga/>
+hab2	con <alargamiento>otros</alargamiento> <pausa/> o sea sí <pausa/> o sea se <alargamiento>creen</alargamiento> dueños <pausa/> dueños y señores <alargamiento>de</alargamiento> <pausa/> de lo que es <alargamiento>la</alargamiento> <pausa/> la sanidad pública <pausa/> ¿me entiendes? como no tienen que pagar <silencio/>
+hab2	como no tenemos que pagar <pausa/> ninguno a ver a mí no me gustaría que tuviéramos que pagar <pausa/> pero <pausa/> yo te digo que <alargamiento>si</alargamiento> hubiera que poner <pausa/> un euro <pausa/> o dos euros <pausa/> por cada vez que ibas a urgencias <pausa_larga/>
+hab2	créeme que no iba a haber los colapsos que hay <pausa_larga/>
+hab2	¿tú sabes cuánta gente va <pausa/> por <énfasis_inicio/>tonterías<énfasis_fin/> ? <pausa_larga/>
+hab2	por tonterías <pausa_larga/>
+hab2	o sea yo me quedé escandalizada <pausa/> escandalizada y además <pausa/> sintiéndose <pausa/> o sea <pausa/> <cita_inicio/>es que <pausa/> es que ha tosido<cita_fin/> <pausa/> y sintiéndose con derecho <pausa/> a pasar <pausa/> antes que otra persona que a lo mejor se preocupó de ir al centro de salud o de llamar por teléfono para pedir su cita <pausa/> porque es que esa persona <pausa/> tiene treinta y nueve de fiebre y no le baja <silencio/>
+hab2	¿sabes? <pausa_larga/>
+hab2	o sea <pausa/> pues <alargamiento>cosas</alargamiento> <pausa/> cosas <alargamiento>de</alargamiento> de ese estilo <pausa/> de ese estilo <pausa/> no <pausa/> <cita_inicio/>es <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	llevo una semana <pausa/> con no sé qué<cita_fin/> <pausa/> ah <pausa/> <cita_inicio/>que una semana y justamente ahora vienes a última hora de la mañana<cita_fin/> <pausa/> en algunos casos en algunos centros de salud vienes a última hora de la mañana <pausa_larga/>
+hab2	para que te atiendan nada más llegar <silencio/>
+hab2	sin pedir la cita ni nada <silencio/>
+hab2	tienes <pausa/> qué morro tienes <pausa/> y me dices <pausa/> <cita_inicio/>es que el niño ha tosido<cita_fin/> <pausa_larga/>
+hab2	<cita_inicio/>¿pero ha vomitado?<cita_fin/> <pausa/> <cita_inicio/>no<cita_fin/> <pausa/> eeh <pausa/> <cita_inicio/>¿tiene fiebre?<cita_fin/> <pausa_larga/>
+hab2	"
+      <cita_inicio/>
+      <alargamiento>no</alargamiento>
+      <cita_fin/>
+      <silencio/>
+    "
+hab2	<cita_inicio/>pero es <alargamiento>que</alargamiento><pausa/> ¿pero se encuentra mal?<cita_fin/> <pausa/> <cita_inicio/>no <pausa/> es que ha tosido<cita_fin/> <silencio/>
+hab2	<cita_inicio/>¡muchacha! <silencio/>
+hab2	¿cómo traes a un niño <pausa/> a las<cita_fin/> <silencio/>
+hab2	eran <silencio/>
+hab2	jo era pero mogollón de <pausa/> temprano mogollón de temprano <cita_inicio/>¿cómo traes al niño?<cita_fin/> <pausa_larga/>
+hab2	"<cita_inicio/>es que ha tosido<cita_fin/><pausa/><ruido tipo=""golpe""/><pausa/><risa/><silencio/>"
+hab2	¡Dios mío! <pausa_larga/>
+hab2	o sea <pausa/> me parece increíble <pausa/> me parece increíble y y <pausa/> y luego <alargamiento>con</alargamiento> con otra gente pero claro <pausa/> ¿qué le voy a decir? <pausa/> o sea <silencio/>
+hab2	"realmente yo le digo <pausa/> pues a ver <pausa/> <ruido tipo=""golpes""/> <pausa/> <alargamiento>ya</alargamiento> <pausa/> dejando <palabra_cortada>a</palabra_cortada> <pausa/> aparte de que <pausa/> pues soy una profesional <alargamiento>de</alargamiento> de cita previa <pausa/> le digo <cita_inicio/>mira <pausa/> yo también soy madre <silencio/>"
+hab2	<alargamiento>y</alargamiento><pausa/> yo no llevaría <pausa/> a mi hijo simplemente <pausa/> porque es que ha tosido <pausa_larga/>
+hab2	yo esperaría a ver cómo evoluciona<cita_fin/> <pausa_larga/>
+hab2	y aun así <pausa_larga/>
+hab2	y aun así <pausa_larga/>
+hab2	yo a veces incluso ya sé qué es lo que tengo que darle <pausa/> no es que <pausa/> le automedique no <pausa/> es de las otras veces que ha tenido lo mismo el médico me ha dicho que le dé tal cosa <pausa/> y sigo teniendo que <pausa/> esos medicamentos en casa <pausa/> que no están caducados <pausa/> y sé perfectamente qué es lo que le tengo que dar y lo que no le tengo que dar <pausa/>
+hab1	claro <silencio/>
+hab2	o sea yo a mi hijo no lo llevo a un médico <pausa/> a no ser que tenga fiebre <silencio/>
+hab2	y no se lo consiga bajar <pausa/> o <pausa_larga/>
+hab2	o <pausa_larga/>
+hab2	"o sí que me le baje <pausa/> pero que le esté durando muchos días <pausa/> ¿sabes? porque claro si <pausa/> si si le das la Apiretal o le das el Dalsy <pausa/> la fiebre le va a bajar <pausa/> evidentemente <pausa/> pero si le vuelve a subir <pausa/> y está <ininteligible/> entonces digo <cita_inicio/>sí <pausa/> venga <ruido tipo=""palmas""/> <pausa/> niño <pausa_larga/>"
+hab2	<alargamiento>vámonos</alargamiento><pausa/> vamos <alargamiento>al</alargamiento> <pausa/> al médico<cita_fin/> <pausa_larga/>
+hab2	pero <ininteligible/> pido cita <pausa_larga/>
+hab2	llamo <pausa/> y pido cita <silencio/>
+hab2	<alargamiento>no</alargamiento> cojo y voy ahí por las buenas para que me <palabra_cortada>ati</palabra_cortada> <pausa/> me atiendan antes que nadie <pausa/> no <pausa_larga/>
+hab2	no <pausa_larga/>
+hab2	y la gente en eso está muy <alargamiento>mal</alargamiento> educada <pausa/> <énfasis_inicio/>muy<énfasis_fin/> mal educada <pausa/> eeh pero porque en muchos centros de salud <pausa/> eeh las primeras personas que empezaron a trabajar en los centros de salud <pausa/> se lo han consentido <pausa/> y como se lo han consentido cuando se han marchado y han venido otras <pausa/> el paciente ha venido <pausa/> <cita_inicio/>ay es que fulanito me lo hacía <pausa/> es que fulanito no sé qué <pausa/> es que fulanito no sé cuánto<cita_fin/> <pausa/> entonces como esa gente dice <cita_inicio/>uh no sé cuánto tiempo voy a echar en este centro de salud <pausa/> <alargamiento>o</alargamiento> lo que sea <pausa/> no quiero <alargamiento>tener</alargamiento> peloteras y tal pues venga <pausa/> va <pausa_larga/>
+hab1	claro
+hab2	pues lo hago<cita_fin/> <pausa_larga/>
+hab2	pues no <pausa_larga/>
+hab2	pues no <silencio/>
+hab2	tal <pausa/> a los pacientes hay que educarlos <pausa_larga/>
+hab2	igual que educamos a nuestros hijos para que sean de una manera de ser y para que se comporten <silencio/>
+hab2	de una manera <pausa_larga/>
+hab2	"a los pacientes <pausa/> también hay que educarlos de que <pausa/> que no son los reyes del mambo es que se creen <pausa/> más que tú a mí me llegó a decir <alargamiento>una</alargamiento> una persona <cita_inicio/>oye que tú estás ahí <pausa/> gracias a mí<cita_fin/> <pausa/> <ruido tipo=""golpes""/> <pausa/> y yo <pausa/> y y ya le había estado aguantando <pausa/> ya fue decirme eso <pausa_larga/>"
+hab2	digo <pausa_larga/>
+hab2	<cita_inicio/>¿cómo? <pausa_larga/>
+hab2	perdone <pausa_larga/>
+hab2	"repita otra vez que creo que no le entendí bien<cita_fin/> <pausa/> y me dice <pausa/> <cita_inicio/>sí sí sí <pausa/> <alargamiento>que</alargamiento> <pausa/> a <alargamiento>ti</alargamiento> <ruido tipo=""palmas""/> <pausa/> te <alargamiento>pagan</alargamiento> <pausa/> te pagan gracias a mí<cita_fin/> y yo yo me quedo así y yo <pausa/> <cita_inicio/>mire <silencio/>"
+hab2	el dinero <pausa/> que yo tengo en la cartera <pausa/> no sale de su bolsillo <pausa_larga/>
+hab2	no sale de su bolsillo <pausa/> y la comida que se lleva mi hijo a la boca <pausa/> no me la paga usted <pausa_larga/>
+hab2	así que no me venga diciendo que yo estoy aquí <pausa_larga/>
+hab2	gracias a usted <pausa/> porque usted <pausa/> venga o no venga <pausa/> yo <pausa/> voy a seguir <pausa/> estando aquí <pausa/> no es usted <pausa/> quien me echa <pausa_larga/>
+hab2	ni quien me mete en <pausa/> en el centro de salud<cita_fin/> <pausa_larga/>
+hab2	"y dice <cita_inicio/>claro porque yo pago no sé qué no sé cuánto tal<cita_fin/> <pausa/> <cita_inicio/>mire <pausa/> que yo también <ruido tipo=""golpes""/> cotizo ¿eh? <pausa/> yo también tengo que <alargamiento>pagar</alargamiento> <ruido tipo=""palmas""/> <pausa/> mi seguridad social <pausa/> así que igual que usted me está diciendo eso <pausa/> eh <pausa/> todas estas recetas que usted se lleva <pausa_larga/>"
+hab1	claro
+hab2	¿eh? <silencio/>
+hab2	"salen de mi bolsillo <ruido tipo=""golpes""/> también <silencio/>"
+hab2	salen de mi bolsillo <pausa/> así que ¿quién le está pagando a quién?<cita_fin/> <silencio/>
+hab2	caray <pausa_larga/>
+hab2	<risa/><risa_inicio/>fue <risa_fin/><pausa/> fue aun bajó la <alargamiento>cabeza</alargamiento> <pausa/> bajó la cabeza <alargamiento>y</alargamiento> <pausa/> y los otros pacientes en plan <cita_inicio/>muy bien y tal<cita_fin/> <pausa/> es que no o sea no me puedes decir <cita_inicio/>es que <pausa/> gracias a mí estás tú ahí<cita_fin/> <pausa/> y yo <cita_inicio/><alargamiento>no</alargamiento> <pausa/> perdona <pausa/> gracias a ti no eh <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> el <alargamiento>dinero</alargamiento> que a mí me <alargamiento>pagan</alargamiento> no sale de tu bolsillo de tu sudor de la frente ¿eh? <silencio/>
+hab2	realmente no <pausa_larga/>
+hab2	pagamos porque tenemos todos que pagar y punto <pausa/> y todos o sea<cita_fin/> <pausa/> <alargamiento>y</alargamiento> y el <alargamiento>que</alargamiento> y el que no tiene trabajo <alargamiento>y</alargamiento> <pausa/> o que <pausa/> bueno a ver <silencio/>
+hab2	sabes que cuando llevas mucho tiempo <alargamiento>sin</alargamiento> sin trabajar realmente la <palabra_cortada>ta</palabra_cortada> la tarjeta <pausa/> deja de tener una <pausa/> una validez ¿no? <pausa/> entonces en ese momento ya realmente no <palabra_cortada>s</palabra_cortada> no pagas <pausa/> o sea tú estás como <ininteligible/> pero estás en paro y todo eso <pausa_larga/>
+hab2	pero es que <pausa/> a ver <pausa/> o sea <pausa/> no <pausa/> puedes <pausa/> ir a decirle a una persona <pausa/> eso <pausa_larga/>
+hab2	o sea <pausa/> <alargamiento>ni</alargamiento> <pausa/> u otro <palabra_cortada>de</palabra_cortada> diciéndome cómo tenía que hacer mi trabajo y yo <cita_inicio/>mire yo no voy a su trabajo <pausa/> a decirle a usted <pausa/> cómo tiene que hacer las cosas <pausa_larga/>
+hab2	a mí me verá joven <pausa_larga/>
+hab2	porque lo soy <pausa/> gracias a Dios <pausa_larga/>
+hab2	pero no soy tonta <silencio/>
+hab2	y sé hacer mi trabajo <silencio/>
+hab2	así que si quiere <pausa/> que le dé la cita <pausa_larga/>
+hab2	por favor <silencio/>
+hab2	no vuelva a faltarme al respeto <silencio/>
+hab2	ni se le ocurra <pausa/> vamos <pausa/> porque si yo le tengo un respeto a usted por ser mayor usted me tiene que tener <pausa/> respeto a mí porque soy persona<cita_fin/> <silencio/>
+hab1	bueno
+hab2	y entonces es eso <pausa/>
+hab1	un trabajo complicado ¿no? <pausa/>
+hab2	es muy complicado <pausa/> es muy complicado <pausa_larga/>
+hab2	o <alargamiento>sea</alargamiento> <pausa/> a ver que a mí me llaman para decirme que empiezo mañana otra vez en unas sustituciones y oye <pausa/> de puta madre <pausa/> ¿sabes? <silencio/>
+hab2	pero hay que tener muchísima muchísima paciencia <pausa/> pero <énfasis_inicio/>muchísima<énfasis_fin/> <pausa/> <alargamiento>y</alargamiento> <pausa/> envenenarse mucho <pausa/> envenenarse mucho <alargamiento>porque</alargamiento> te tienes que morder mucho la lengua <silencio/>
+hab2	<alargamiento>y</alargamiento> eso es algo <pausa/> que realmente a ver <pausa/> me cuesta <pausa/> me cuesta mogollón porque yo no me muerdo la lengua <pausa/> no no no no porque no porque me enveneno <pausa/> ¿sabes? o <alargamiento>sea</alargamiento> <pausa/> es que no me callo <pausa_larga/>
+hab2	no me callo no me gusta <pausa/> que la gente <pausa/> eeh <alargamiento>me</alargamiento> <pausa/> me pise o lo intente <pausa_larga/>
+hab2	lo intente <pausa/> porque hoy en día pisar no me pisa nadie <pausa_larga/>
+hab2	ya me pisaron bastante en su momento <risa/> ahora <pausa/> puede haber quien los <palabra_cortada>in</palabra_cortada> <pausa/> que lo intente <pausa_larga/>
+hab2	pero queda en eso <pausa/> un intento <silencio/>
+hab2	porque no lo consiento <pausa_larga/>
+hab2	"
+      <ininteligible/>
+      <pausa_larga/>
+    "
+hab2	entonces pues eeh <pausa_larga/>
+hab2	pues eso <pausa_larga/>
+hab2	en el trabajo ya te digo <pausa/> a mí me encantaría volver a Deportes <pausa/> me encantaría <pausa/> buah <pausa_larga/>
+hab2	sería la mujer <pausa/> más <pausa/> feliz del mundo entonces ya sí <pausa/> yo creo que <pausa/> ya lo tendría todo <pausa_larga/>
+hab2	ya lo tendría todo <pausa_larga/>
+hab2	sí <silencio/>
+hab2	¡Dios mío! <pausa/> <alargamiento>sería</alargamiento> buah <pausa_larga/>
+hab2	sería la leche <pausa_larga/>
+hab2	la leche volver a estar <alargamiento>con</alargamiento> <pausa/> con ellos <pausa_larga/>
+hab2	volver a hacer <alargamiento>mi</alargamiento> <pausa/> mi trabajo <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> tener mi mesa tener y mi ordenador <pausa/> tener mi teléfono <pausa/> tener mis cosas <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	y ser responsable <énfasis_inicio/>yo<énfasis_fin/> <pausa/> <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	"de un trabajo en concreto y que esté en mi mano <pausa/> <ininteligible/> exactamente <pausa/> hacer y deshacer <pausa/> <ruido tipo=""boca""/> <pausa/> feliz <pausa/> yo sería feliz <risa/>"
+hab1	y controlar
+hab1	¿y podrías lograrlo de alguna manera o no depende de ti? <pausa_larga/>
+hab2	eeh vamos a ver que <alargamiento>volviera</alargamiento> <pausa/> que volviera a Deportes eso sería muy complicado <pausa/> porque primero tendrían que poner una plaza <pausa_larga/>
+hab2	<énfasis_inicio/>crear<énfasis_fin/><pausa/> una plaza <pausa/>
+hab1	claro
+hab2	y después <pausa/> <alargamiento>y</alargamiento> habría que hacer una oposición <pausa/>
+hab1	claro porque es <alargamiento>un</alargamiento> puesto público <pausa_larga/>
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	y entonces pues eeh <pausa/> pues eso <pausa/> eeh <silencio/>
+hab2	muy difícil <pausa_larga/>
+hab2	muy difícil muy difícil <silencio/>
+hab2	pero bueno <pausa/>
+hab1	bueno pero a lo mejor hay otro sitio <alargamiento>que</alargamiento> donde te sientes igual de bien <alargamiento>y</alargamiento> <pausa/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab2	a ver eeh evidentemente <pausa_larga/>
+hab2	si no llego a conseguir eeh <pausa/> trabajar en lo que es en organismos públicos <pausa_larga/>
+hab2	pues <pausa/> pues tendré irme para el otro lado evidentemente <pausa_larga/>
+hab2	"<alargamiento>y</alargamiento><ruido tipo=""golpes""/> y ya sabiendo <pausa/> ¿no? <alargamiento>que</alargamiento> que <alargamiento>tengo</alargamiento> experiencia <pausa/> <palabra_cortada>de</palabra_cortada> <pausa/> demostrada <pausa/> además porque no no solamente <pausa/> eh para lo del <sigla_inicio/>SERGAS<sigla_fin/> y para el departamento de Deportes que tuve también <pausa/> en ese año que estuve en el departamento de Deportes <pausa/> parte de ese año <pausa/> <ruido_inicio tipo=""ruido de fondo""/>trabajaba por las tardes en la federación de fútbol <pausa/> como administrativa<ruido_fin tipo=""ruido de fondo""/> <pausa/> porque un presidente de un club le dijo al delegado <pausa_larga/>"
+hab2	<alargamiento>que</alargamiento><pausa/> que me pusieran a mí que yo era la idónea <pausa/> que la persona que estaba allí se iba a marchar <silencio/>
+hab1	¡qué bien!
+hab2	¿ves por qué sentía que estaba valorada? <pausa/>
+hab1	claro <pausa_larga/>
+hab2	¿no? <pausa/> luego al <alargamiento>final</alargamiento> pues no resultó lo <alargamiento>de</alargamiento> <pausa/> lo de la federación de fútbol no resultó <pausa/> <alargamiento>pero</alargamiento> <pausa_larga/>
+hab2	"pero bueno <alargamiento>porque</alargamiento> necesitaban a <alargamiento>una</alargamiento> a una persona que tuviera <alargamiento>un</alargamiento> <pausa/> <ruido tipo=""tos""/> <silencio/>"
+hab2	más disponibilidad
+hab1	claro
+hab2	o sea yo iba <pausa/> o sea <pausa_larga/>
+hab2	solo se trabajaba por la tarde ¿no? entonces no había problemas porque trabajaba por la mañana en el departamento <pausa_larga/>
+hab2	de Deportes <pausa/> y por la tarde en la federación de fútbol <pausa/> pero es <alargamiento>que</alargamiento> <pausa/> eeh <pausa_larga/>
+hab2	en <palabra_cortada>Sa</palabra_cortada> <pausa/> estaba también en San Lázaro <silencio/>
+hab2	<alargamiento>y</alargamiento> había <pausa/> había días que había que salir <pausa/> a las <pausa/> once de la noche <pausa/> y yo de aquella no tenía coche <pausa_larga/>
+hab2	y el niño ya existía <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> eh sal tú a las once de la noche <pausa/> en San Lázaro <pausa/> mira a ver si puedes <pausa/> salir a tiempo para que puedas coger un autobús <pausa/> que te lleva al centro <pausa/> porque de aquella sí que vivía en Santiago <pausa/> que te lleve al centro <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> y tal <pausa_larga/>
+hab2	o sea eeh <pausa/> o sea no <pausa/> no no no podía compaginar <pausa/> y el que <pausa/> no veía al niño nunca <pausa/>
+hab1	claro
+hab2	"<ruido tipo=""golpe""/><pausa/> es que no lo veía nunca ¿sabes? y de aquella el niño todavía no <pausa/> era muy pequeñito <pausa/>"
+hab1	claro <silencio/>
+hab2	pero es <alargamiento>que</alargamiento> <pausa_larga/>
+hab2	pero es eso y tenía que pagar <alargamiento>una</alargamiento> <alargamiento>una</alargamiento> guardería que lo llevaba al colegio <pausa/> <alargamiento>porque</alargamiento> <pausa/> claro o sea <pausa/> salíamos <pausa/> a mí la mayoría de las veces me <alargamiento>llevaba</alargamiento> mi marido <alargamiento>hasta</alargamiento> <pausa/> teníamos la suerte que me podía llevar hasta San Lázaro ¿no? entonces no tenía que andar dependiendo <pausa/> de un bus <pausa/> para ir a trabajar <pausa/> a las ocho <pausa/> <alargamiento>pero</alargamiento> claro <pausa/> teníamos que dejar al niño en la guardería <pausa_larga/>
+hab2	y la guardería después cuando era la hora lo llevaban al colegio entonces <pausa/> paga la guardería <pausa/> <alargamiento>paga</alargamiento> pues si no ha desayunado en casa <pausa/> pues que desayune en <alargamiento>la</alargamiento> <pausa/> en la guardería <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> y eso entonces eeh fff <pausa/> y el no <alargamiento>verlo</alargamiento> no verlo nunca <pausa/> no verlo nunca de <alargamiento>aquella</alargamiento> lo veía así los fines de semana porque <alargamiento>mi</alargamiento> mi ex todavía no se <pausa_larga/>
+hab2	porque a ver <pausa/> vivía aquí con mi ex <pausa/> nació el niño tal luego pues nos separamos él se marchó <pausa_larga/>
+hab2	yo ya después empecé <pausa/> mi relación <pausa_larga/>
+hab2	"actual <pausa/> y luego durante <alargamiento>
+  <palabra_cortada>do</palabra_cortada>
+</alargamiento> tres años creo cuatro años <pausa/> <alargamiento>el</alargamiento> padre del niño no estuvo aquí <pausa/> y volvió <pausa/> entonces <pausa/> de aquella el padre no estaba aquí <pausa/> todavía"
+hab1	claro <pausa/> ¿y estabas todos los fines de semana?
+hab2	entonces el fin de semana sí estaba conmigo <pausa_larga/>
+hab2	pero bueno <alargamiento>pero</alargamiento> fff <pausa_larga/>
+hab2	¿sabes? no sé eeh fff <pausa_larga/>
+hab2	no me llegaba
+hab1	claro <pausa/> te estabas perdiendo mucho de él <pausa/>
+hab2	claro <pausa/> claro <pausa/> y todavía no sabíamos que el niño era hiperactivo <pausa_larga/>
+hab2	<alargamiento>pero</alargamiento> me perdía <pausa/> me <alargamiento>perdía</alargamiento> <pausa_larga/>
+hab2	cosas ¿no? y además <alargamiento>el</alargamiento> <pausa/> el sal <alargamiento>de</alargamiento> <pausa_larga/>
+hab2	sal <alargamiento>de</alargamiento> <pausa/> de Deportes <silencio/>
+hab2	para ir a buscarlo al colegio <silencio/>
+hab2	cógelo <silencio/>
+hab2	vamos a <palabra_cortada>ca</palabra_cortada> e íbamos <pausa/> siempre comía con mi madre <pausa/> vamos a casa de mi madre <pausa/> come <pausa/> puede <pausa/> descansa un poco para las cuatro estar otra vez en San Lázaro <pausa/>
+hab1	claro <pausa/> aquel ritmo
+hab2	y salir después <pausa/> eso <pausa/> o sea <pausa/> diez <pausa/> <alargamiento>once</alargamiento> <pausa/> once de la noche <pausa_larga/>
+hab2	no no <pausa/> no <alargamiento>era</alargamiento> no era posible <pausa/> no era posible eso entonces dije <cita_inicio/>mira <pausa_larga/>
+hab2	dentro de lo que cabe por lo menos <pausa_larga/>
+hab2	"todavía <alargamiento>tengo</alargamiento> <pausa/> lo de Deportes que solamente va a ser un año <pausa/> mira <pausa/> pues <pausa/> este dinero que yo estaba ganando a mayores pues <pausa/> tengo <alargamiento>que</alargamiento> que prescindir de él pues porque jolín antes también es mi <pausa/> es mi salud <ruido tipo=""golpe""/> tío <pausa/> y es mi <pausa/> mi mi familia<cita_fin/> <silencio/>"
+hab2	yo no es que yo <palabra_cortada>n</palabra_cortada> yo <alargamiento>no</alargamiento> <alargamiento>no</alargamiento> <pausa_larga/>
+hab2	"<alargamiento>no</alargamiento> no me entra en la <pausa/> en la cabeza el concepto <pausa/> de <pausa/> eemm <pausa/> <ruido tipo=""chasquido boca""/> vivir para trabajar <silencio/>"
+hab2	no <pausa/> no <pausa/> no me entra <pausa/> no me entra y jamás me va a entrar <silencio/>
+hab2	o sea <pausa/> no <pausa/> yo <pausa/> trabajo <pausa/> para poder <pausa/> vivir <silencio/>
+hab2	para poder <pausa/> <énfasis_inicio/>disfrutar<énfasis_fin/> <silencio/>
+hab2	<alargamiento>de</alargamiento><pausa/> de ese dinero que me he ganado trabajando <silencio/>
+hab2	y poder disfrutar <pausa/> de mi gente <silencio/>
+hab2	<alargamiento>y</alargamiento> no voy a poner a riesgo ni <pausa/> ni mi <alargamiento>salud</alargamiento> <alargamiento>ni</alargamiento> <pausa/> <alargamiento>ni</alargamiento> ni nada de eso <pausa/> o sea no <pausa/> me niego <pausa_larga/>
+hab2	me niego <silencio/>
+hab2	entonces <alargamiento>pues</alargamiento> pues nada <pausa_larga/>
+hab2	y en resumen es eso <pausa/> o sea <pausa/> volver a estar en una oficina <pausa_larga/>
+hab2	eso es lo que quiero yo <silencio/>
+hab2	¿no necesitáis a nadie ¿no? <risa/> <silencio/>
+hab2	porque me apunto <risa/> os traigo el currículum si hace falta
+hab1	bueno pero te <pausa/> <palabra_cortada>tien</palabra_cortada> <pausa/> eres una persona que tienes las cosas bastante claras ¿no? <pausa_larga/>
+hab2	sí <pausa_larga/>
+hab2	tienes que tenerlas claras <pausa/> <ininteligible/> <pausa/>
+hab1	bueno hay que tenerlas pero no siempre se tienen ¡eh! <silencio/>
+hab2	pero es que <alargamiento>para</alargamiento> estar confundida <pausa/> y todo eso <alargamiento>ya</alargamiento> hubo <risa_inicio/>su momento <risa_fin/> <pausa/> ya hubo su momento <pausa/> o sea ya no soy una cría <silencio/>
+hab2	soy joven sí <pausa/> soy joven <pausa/> pero es que no soy ninguna cría <pausa_larga/>
+hab2	y además mi vida <pausa/> o sea tal y como está mi situación ahora es que menos aún <pausa/> si no tuviera una familia pues a lo mejor <pausa_larga/>
+hab2	a lo mejor <pausa/> ¿sabes? <pausa/> pues puede ser <pausa_larga/>
+hab2	pero es que <pausa_larga/>
+hab2	no puedo andar con dudas ni puedo andar <alargamiento>con</alargamiento> <pausa/> con historias de <pausa/> <cita_inicio/>ay nay<cita_fin/> y estar a la sopa boba en plan <pausa/> <risa_inicio/><alargamiento>no</alargamiento> <risa_fin/> <pausa/> no puedo <silencio/>
+hab2	"es <alargamiento>que</alargamiento> <pausa/> es que <alargamiento>no</alargamiento> <pausa/> es <alargamiento>que</alargamiento> tengo una <ruido tipo=""palmada""/> familia ahí <silencio/>"
+hab2	y igual que mi marido mira por mí yo miro por mi marido <alargamiento>y</alargamiento> <pausa/> y miro <alargamiento>por</alargamiento> <pausa/> por el niño <silencio/>
+hab2	"entonces lo que no puedo hacer es eso <pausa/> claro qué voy a estar <pausa/> viendo cómo <alargamiento>mi</alargamiento> mi marido se mata a trabajar <pausa/> y <ruido tipo=""chasquido dedos""/> tiene que muchas veces trabajar <pausa/> horas extras <pausa/> <alargamiento>y</alargamiento> <pausa/> currar todo el día y a veces incluso por la noche <pausa/> y no llegar hasta al día siguiente <pausa/> o marchárseme a Francia <pausa/> o a Alemania como se me tiene ido <pausa/> o a sitios por el estilo matándose ahí <pausa/> y yo estando en la sopa boba en plan sin saber qué es lo que <pausa_larga/>"
+hab2	pero bueno ¿qué clase <alargamiento>de</alargamiento> <pausa/> de persona <pausa/> y de mujer soy? <silencio/>
+hab2	no <silencio/>
+hab2	no <pausa_larga/>
+hab2	no <ininteligible/> <pausa/> es que no además no me gusta <pausa/> es que no me gusta depender de la gente <pausa/> creo <alargamiento>que</alargamiento> ya ya te habrás podido dar cuenta de <alargamiento>que</alargamiento> de que no <pausa/> no me gusta <pausa/> ¡Dios mío! que el día que por fin conseguí sacarme el coche y pude comprarme el coche <pausa/> ¡Dios! <pausa_larga/>
+hab2	¡Dios! la sensación <pausa/> que me dio <pausa/> el el el <pausa/> el decir <pausa/> no tengo <pausa/> que depender <pausa/> ni de ningún compañero <pausa/> porque <pausa/> iba a trabajar además a Muros que estaba todavía con lo del <sigla_inicio/>SERGAS<sigla_fin/> <pausa_larga/>
+hab1	¿sí?
+hab2	"me iba trabajar a Muros <pausa/> ni tener que estar cambiando <alargamiento>mis</alargamiento> <pausa/> mis retenes <pausa/> para ver quién coincide que vaya para Santiago <pausa/> que tenga que quedarse hasta las tres <pausa/> eeh <pausa/> a ver si mi marido a ver si me puede llevar a no sé dónde <pausa/> el miedo de que <cita_inicio/>ay y si me llaman y me mandan a tal sitio y no hay autobús o no hay tren para que pueda ir si digo que no y se echan para atrás y después ya no me llaman <ruido tipo=""inspiración""/> <alargamiento>ah</alargamiento> <pausa/> y el niño y tal y llévale en autobús si llueve y hace frío <pausa/> <alargamiento>y</alargamiento> hace calor <pausa/> eeh<cita_fin/> <pausa/> mmm no <pausa_larga/>"
+hab2	no <pausa/> no no no no y los fines de semana si <pausa/> se marchaba fuera a trabajar <pausa_larga/>
+hab1	claro te quedabas y <pausa_larga/>
+hab2	me quedaba en casa <pausa_larga/>
+hab1	claro <pausa_larga/>
+hab1	eres dueña de tu tiempo ahora de tu día de
+hab2	<ininteligible/><pausa/> ahora exactamente <pausa/> me voy y vengo cuando me da la gana <pausa/> a ver <pausa/> dentro de lo que es <alargamiento>mi</alargamiento> mi mi rutina y <alargamiento>mis</alargamiento> cosas y a ver y el fin de semana por ejemplo que mi marido juega al fútbol <pausa/> pues <pausa/> claro <pausa/> yo las tardes de los sábados las paso solas <pausa_larga/>
+hab1	claro
+hab1	tu familia
+hab2	las paso sola <pausa/> cuando <pausa/> claro el niño está tal <pausa_larga/>
+hab2	pero entonces ahora ya tengo mi coche <pausa/> y yo <alargamiento>si</alargamiento> me da la gana <pausa/> de irme a Santiago pues porque ese fin de semana mi madre también se ha quedado en Santiago <pausa/> porque va casi todos los fines de semana a casa de mi abuela a Coruña <pausa/> bueno pues se ha quedado en Santiago <pausa/> pues me apetece irme a pasar la tarde con mi madre pues cojo <pausa/> voy <pausa/> y <alargamiento>me</alargamiento> paso la tarde con mi madre <pausa/> y cuando me dé la gana o cuando me llame <ficticio>Berto</ficticio> <alargamiento>de</alargamiento> <cita_inicio/>ya salí <alargamiento>de</alargamiento> <pausa/> del partido<cita_fin/> digo <cita_inicio/>pues vale <pausa/> pues espérate <pausa/> que a tal hora <pausa_larga/>
+hab2	voy <pausa_larga/>
+hab2	o quedamos en tal sitio si quieres<cita_fin/> antes no yo antes <pausa/> <cita_inicio/>bueno ven ¿a qué hora vas a salir? ¿a qué hora? <alargamiento>tal</alargamiento> ¿y cómo cómo vas a no sé qué?<cita_fin/> <silencio/>
+hab1	claro
+hab1	cuando puede otro
+hab2	me subía por las paredes <pausa/> me subía por las paredes o <alargamiento>sea</alargamiento> fff <pausa_larga/>
+hab2	decía <cita_inicio/>no no no yo necesito tener <alargamiento>mi</alargamiento> <pausa/> mi independencia eh <pausa/> automovilística <pausa/> <risa/> la necesito <risa/> no puedo seguir así<cita_fin/> <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> mmm <pausa_larga/>
+hab2	y es eso <pausa/> <alargamiento>y</alargamiento> ya llevo mira <pausa/> llevo poquito tiempo ¿eh? o sea llevo dos años <pausa/> <alargamiento>con</alargamiento> <pausa/> con el coche <pausa_larga/>
+hab2	y con el carné <silencio/>
+hab2	<alargamiento>y</alargamiento><pausa/> y es hoy el día en que me sigo montando en el coche y digo <cita_inicio/>¡Dios!<cita_fin/>
+hab1	<risa_inicio/>y lo disfrutas <pausa/><risa_fin/>
+hab2	<risa_inicio/><cita_inicio/>¡Dios! <risa_fin/> <pausa/> es <pausa/> y además <pausa/> es <énfasis_inicio/>mi<énfasis_fin/> <pausa_larga/>
+hab2	coche <pausa/> no es <pausa/> el coche de mi marido que me lo ha prestado <pausa/> <énfasis_inicio/>no<énfasis_fin/> <pausa/> es <pausa/> <énfasis_inicio/>mi<énfasis_fin/> coche<cita_fin/> y termino en diciembre de pagarlo <pausa/> es de segunda mano <pausa/> vale <pausa/> y yo le llamo mi cacharrita porque es una cacharrita de coche <pausa/> pero es <alargamiento>mía</alargamiento> <pausa/> <énfasis_inicio/><alargamiento>mía</alargamiento><énfasis_fin/> <pausa/> está a mi nombre <silencio/>
+hab2	¿sabes? o sea <pausa_larga/>
+hab2	y en <pausa/> y en ese coche <pausa/> mando yo <silencio/>
+hab2	esa sensación <pausa/> buah <pausa/> buah <pausa/> mira <pausa/> el dinero no da la felicidad <pausa_larga/>
+hab2	no la da <silencio/>
+hab2	pero ayuda <pausa_larga/>
+hab2	pero ayuda <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> y ya te digo <alargamiento>y</alargamiento> <pausa/> y tengo tengo <alargamiento>mi</alargamiento> coche <pausa/> y a ver es algo material <pausa/> realmente ¿no? o sea prefiero que mi hijo esté sano que mi familia esté sana <alargamiento>y</alargamiento> <pausa/> y todo eso ¿no? <alargamiento>a</alargamiento> <pausa/> a todo lo demás <pausa/> pero es que <silencio/>
+hab1	claro
+hab2	pero <palabra_cortada>a</palabra_cortada> ahora que tengo el coche <pausa_larga/>
+hab2	pff <pausa_larga/>
+hab2	uff <pausa_larga/>
+hab2	uff <pausa/> <ininteligible/>
+hab1	que <pausa/> a ver es más lo que representa a ver no es por el objeto en sí sino por lo que representa para ti <pausa/>
+hab2	claro <pausa_larga/>
+hab2	libertad <silencio/>
+hab2	igual que el caballo <pausa_larga/>
+hab2	libertad <pausa_larga/>
+hab2	que eso es lo que yo quiero <pausa/> mmm <pausa_larga/>
+hab2	entonces <alargamiento>pues</alargamiento> <pausa_larga/>
+hab2	pues <pausa/> es eso es <pausa_larga/>
+hab2	te voy con mi cacharrita a todas <risa_inicio/>partes y yo la animo <risa_fin/> cuando veo que <vacilación/> <cita_inicio/>venga va bonita que vamos<cita_fin/> <risa/>
+hab1	<risa_inicio/>le das mimitos <risa_fin/><pausa/>
+hab2	"le doy mimitos sí sí sí sí le doy mimitos <ruido tipo=""golpe""/> <pausa/> también me enfado con ella a veces <pausa/> <alargamiento>pero</alargamiento> <risa/> sí <pausa/> sí <ruido tipo=""chasquido boca""/> sí <pausa/> sí <pausa/> chupa mucho <risa/> <ruido tipo=""tos""/> pero <ruido tipo=""tos""/> <pausa_larga/>"
+hab1	bueno si se lo merece si se porta mal
+hab2	pero es eso <silencio/>

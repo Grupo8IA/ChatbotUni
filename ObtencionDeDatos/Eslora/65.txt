@@ -1,0 +1,692 @@
+hab2	"
+      <silencio/>
+    "
+hab2	bueno <pausa_larga/>
+hab2	pues dime <pausa/> a ver ¿a qué te dedicas? <pausa_larga/>
+hab1	pues estoy estudiando un <sigla_inicio/>FP<sigla_fin/> de animación turística <pausa/> <alargamiento>y</alargamiento> acabé el año pasado otro <sigla_inicio/>FP<sigla_fin/> de producción audiovisual <pausa_larga/>
+hab2	mmm eeh
+hab1	estoy estudiando <risa/>
+hab2	<alargamiento>y</alargamiento> ¿te gustó? <pausa_larga/>
+hab1	sí <pausa/>
+hab2	sí <pausa/> <alargamiento>y</alargamiento>
+hab1	aunque me gusta más este <pausa_larga/>
+hab2	mhm <pausa/> <alargamiento>y</alargamiento> luego ¿en qué trabajarías en un futuro? <pausa_larga/>
+hab1	mmm <pausa/> las dos cosas <pausa/> es que no sé <pausa_larga/>
+hab1	"porque <ruido tipo=""chasquido boca""/> a ver por ejemplo el de animación turística es más para verano <pausa/> porque como es con turismo y todo eso pues es más de ciclo de verano <silencio/>"
+hab1	"<ruido tipo=""chasquido boca""/> y lo otro pues <pausa/> hombre la mayoría de los proyectos empiezan en octubre y todo eso <pausa/> entonces a lo mejor <ruido tipo=""chasquido boca""/> <pausa/> <risa_inicio/>hasta podría compaginar <risa_fin/> porque <palabra_cortada>n</palabra_cortada> o sea son trabajos <alargamiento>muy</alargamiento> <ruido tipo=""chasquido boca""/> muy puntuales <pausa/> muy por bolo ¿sabes? <pausa/> no es <pausa/> no es un <alargamiento>trabajo</alargamiento> <pausa/> estable <pausa/> pero bueno"
+hab2	claro <pausa/> <palabra_cortada>s</palabra_cortada>
+hab2	ya ya ¿y has hecho prácticas ya? <pausa/>
+hab1	sí <pausa/> de producción audiovisual sí <pausa/>
+hab2	¿en una <alargamiento>empresa</alargamiento> ? <pausa/>
+hab1	sí <pausa/> en una empresa <alargamiento>de</alargamiento> <ficticio>Sigüeiro</ficticio> de cine y televisión <alargamiento>y</alargamiento> bastante guay la verdad <pausa_larga/>
+hab2	¿cuánto tiempo tiempo? <pausa/>
+hab1	tres meses <pausa_larga/>
+hab2	mmm
+hab1	tres meses <pausa/>
+hab2	y ¿son remuneradas las prácticas? <pausa/> <ininteligible/> <risa/>
+hab1	no <pausa/> no son remuneradas nos pagaban la comida eso sí <pausa/> podíamos comer del catering <pausa/>
+hab2	bueno <pausa/>
+hab1	y cafecitos cuando queríamos y cosas de esas <pausa/> pero <pausa/>
+hab2	¿y en qué centro <pausa/> estás estudiando ahora? <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> en el <sigla_inicio/>IES<sigla_fin/> <ficticio>Murguía</ficticio>"
+hab2	¿y qué tal el profesorado <alargamiento>y</alargamiento> ? ¿bien? <pausa/>
+hab1	bien <pausa/> hay algunos <risa_inicio/>que se va un poco la pelota <risa_fin/> <risa/> pero bien en general <pausa/> mola <pausa_larga/>
+hab2	¿sois
+hab1	el fallo es que es por la tarde <pausa/> pero <pausa_larga/>
+hab1	bueno <pausa_larga/>
+hab2	¿sois muchos en clase? <pausa_larga/>
+hab1	somos veintipico <pausa/> luego que así estamos asiduamente somos menos <pausa_larga/>
+hab1	<alargamiento>pero</alargamiento> veintipico sí que los somos <pausa/>
+hab2	hm hm <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><pausa/> no sé cuéntame <alargamiento>así</alargamiento> asignaturas que tienes <pausa_larga/>
+hab1	pff pues mira a ver <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> tengo una <pausa/> que no sé cómo se <palabra_cortada>lla</palabra_cortada> <pausa/> es que no sé los nombres <alargamiento>sé</alargamiento> en plan cómo las <risa_inicio/>llamamos <risa_fin/> <pausa/> que es juegos por ejemplo <pausa/> que nos dediquemos a eso <pausa/> a juegos a hacer juegos <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento> de momento <palabra_cortada>so</palabra_cortada> solo fueron juegos de presentación <pausa/> y luego <pausa/> nos traía profesoras <pausa/> mmm o sea <pausa/> nos traían los juegos la profesora <pausa_larga/>
+hab1	o lo llevábamos nosotros <pausa/> y luego también hicimos <pausa/> pelotas de malabares <pausa/> y aprendemos cómo aprender a la gente a hacerlas <pausa/>
+hab2	aah <risa/> <pausa_larga/>
+hab1	y luego un día nos dice <cita_inicio/>tenéis las fotocopias en la fotocopiadora recogerlas<cita_fin/> <pausa/> cincuenta folios para el examen <pausa/> así de filósofos <pausa/> sin previo <pausa/> y eso <risa_inicio/>fue el examen <risa_fin/> <risa/> <pausa/> luego tenemos <sigla_inicio/>FOL<sigla_fin/> que estoy convalidada <silencio/>
+hab2	jolín
+hab1	tenemos <sigla_inicio/>OX<sigla_fin/> que estoy yendo a clase <pausa/> pero espero que me la convaliden <pausa/> que es de organización y gestión de empresas de <pausa/> tipos de <alargamiento>empresas</alargamiento> <pausa_larga/>
+hab1	<alargamiento>contratos</alargamiento> y de esas cosas tan divertidas que en la universidad no hay pero en los ciclos sí <pausa_larga/>
+hab2	ya <pausa/>
+hab1	"luego está inglés <pausa/> pff <pausa/> inglés <lengua_inicio nombre=""en""/>yeah yeah yeah yeah<lengua_fin/> <risa/> nada <pausa/> eso es una pérdida de tiempo yo creo que estoy <pausa/> en vez de aprender <pausa/> desaprendo <pausa/> pero ¿sí?"
+hab2	bueno ¿no <palabra_cortada>ha</palabra_cortada> <pausa/> no hay nivel? <pausa_larga/>
+hab1	"es que la profesora no se empana de nada <risa_inicio/>o sea es que es <risa_fin/> <pausa/> habla así <lengua_inicio nombre=""en""/>yeah <pausa/> yeah <pausa/> of course <pausa/> yeah yeah <risa_inicio/>yeah<lengua_fin/> <risa_inicio/>o sea <risa_fin/> <risa_fin/> <pausa_larga/>"
+hab1	y viene <pausa_larga/>
+hab1	casi siempre <pausa/> tenemos inglés a horas puntuales <pausa/> en plan cuatro cinco <pausa/>
+hab2	hm <pausa/>
+hab1	"son las cuatro y veinte <pausa/> en plan <cita_inicio/>bueno nos vamos ¿no?<cita_fin/> y nos vamos a lo mejor nos la <alargamiento>cruzamos</alargamiento> y <vacilación/> <pausa/> le da <alargamiento>igual</alargamiento> <ruido tipo=""palmada""/> nosotros <risa_inicio/><cita_inicio/>chao<cita_fin/> <risa_fin/> <pausa/> un un desastre esa mujer <pausa/> un desastre <pausa/> luego francés <pausa/> <ruido tipo=""chasquido boca""/> o sea que el nivel es <pausa/> ínfimo <pausa/> o sea no hay nivel <pausa/> es desde cero <pausa_larga/>"
+hab1	pero bueno yo ya di mogollón de años de francés entonces para mí pff <pausa/> es simplemente repasar <pausa_larga/>
+hab1	y la profesora <alargamiento>está</alargamiento> ida <pausa/> o sea <risa/> es <risa_inicio/><alargamiento>la</alargamiento> la leche ¿sabes? <pausa/> está en clase <risa_fin/> <cita_inicio/>a ver pitufiña muy bien te quiero <pausa/> a ver tú petarda<cita_fin/> y cosas así es muy <pausa/> es muy <pausa/> muy linda <silencio/>
+hab1	"luego está <lengua_inicio nombre=""gl""/>animación no ámbito turístico<lengua_fin/> <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab1	que <alargamiento>es</alargamiento> <pausa_larga/>
+hab1	la clase en sí <pausa_larga/>
+hab1	es un rollo <pausa_larga/>
+hab1	la tía se la ve que se esfuerza por no hacerla muy <pausa/> petote <pausa/> pero <risa_inicio/>sigue siendo <risa_fin/> <pausa/> pesadísima <pausa_larga/>
+hab1	"<alargamiento>y</alargamiento><alargamiento>son</alargamiento><pausa/> o sea tiene unas normas muy marcadas unas pautas muy marcadas entonces <pausa/> <ruido tipo=""chasquido boca""/> la tía impone pero se la ve que <alargamiento>es</alargamiento> buena tía pero niyiyiyi <pausa/> pero bueno <ruido tipo=""chasquido boca""/> a mí <pausa/> no me disgusta del todo <pausa_larga/>"
+hab1	luego ¿qué más? <pausa/> ¿qué más qué más qué más? <pausa/> ah bueno pff <pausa/> la clase de <ficticio>Ramos</ficticio> <pausa/> <risa_inicio/>que ni siquiera sé cómo se llama <pausa/> es la clase de <ficticio>Ramos</ficticio> <risa_fin/> <pausa/> que solamente la tenemos una vez a la semana y es los lunes y de momento es <pausa/> bailar <pausa_larga/>
+hab2	¿bailar? ¿solo?
+hab1	<alargamiento>sí</alargamiento> o sea <pausa/> porque <pausa_larga/>
+hab1	a ver eeh <pausa/> lo que <pausa/> no sé lo qué daremos en los tres trimestres pero ahora por ejemplo el día veintiuno de diciembre va a haber <alargamiento>el</alargamiento> el festival de Navidad de todos los institutos <pausa/>
+hab2	mmm
+hab1	"entonces nosotros somos los encargados de amenizarlo ¿sabes? <pausa/> <ruido tipo=""chasquido boca""/> somos como la <pausa/> la publicidad en plan entre actuación y actuación del concurso actuamos nosotros <pausa/> entonces con bailes <pausa/> con grupos <pausa_larga/>"
+hab1	"y luego también tenemos que bailar con él <ruido tipo=""chasquido boca""/> y para anunciar <alargamiento>el</alargamiento> festival <pausa/> lo que hicimos fue ponernos en la entrada del instituto <silencio/>"
+hab1	por donde salen todos para afuera <pausa/> o sea avalancha humana encima de pupitres <pausa_larga/>
+hab1	pues en los recreos primero donde los mayores y después en el de los pequeños bailan encima de pupitres por grupos en plan <cita_inicio/>uh <risa/> que hay festival apuntaros<cita_fin/> <pausa/> y batimos récords señoras y señores batimos récords sí <pausa/> luego ¿qué más? bueno
+hab2	¿sí?
+hab2	¿y <alargamiento>qué</alargamiento> qué tipo de bailes? <silencio/>
+hab1	"<ruido tipo=""palmada""/> lo que te dé la gana"
+hab2	aah
+hab1	¿sabes? <pausa/> por ejemplo <pausa/> en el grupo en el que estoy yo <pausa_larga/>
+hab1	pillamos dos canciones <pausa/> vamos a bailar la de Smooth Criminal <pausa_larga/>
+hab1	"la <alargamiento>de</alargamiento> la <pausa/> sí la de Linkin Park ¿qué más? <pausa/> <ruido tipo=""chasquido boca""/> la <alargamiento>de</alargamiento> Michael Jackson ¿sabes cuál es? <pausa_larga/>"
+hab1	"la de <lengua_inicio nombre=""en""/>Annie are you OK? <pausa/> are you OK?<lengua_fin/> bueno no me voy a poner a cantar <alargamiento>que</alargamiento> <risa/> una canción muy chula <pausa_larga/>"
+hab1	y después <pausa/> se nos dio por <pausa/> como era muy larga y muy repetitiva entonces era mucho rato <pausa/> hacer lo mismo porque no teníamos mente para más <pausa/>
+hab2	hm hm
+hab1	pues lo que vamos a hacer es unirla con otra canción <pausa/> con la nueva de Britney Spears <pausa/> <risa/> <pausa/> pero queda chulísimo <risa_inicio/>de verdad <risa_fin/> <pausa/> venir a vernos <pausa/> queda <risa_inicio/><palabra_cortada>chulísi</palabra_cortada> <risa_fin/> <risa/> <pausa/> dicho así dices te quedas en plan <cita_inicio/><alargamiento>hostia</alargamiento><cita_fin/> pero está guay <pausa/> tenemos cariocas y todo <pausa/> muy guay muy guay <pausa_larga/>
+hab2	aah <ininteligible/>
+hab2	¿sabes manejarlas?
+hab1	no yo no <pausa/> yo soy de las que bailan alrededor de las cariocas <risa/> <pausa/> <alargamiento>pero</alargamiento> <pausa/> va a quedar guapísimo <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> así otras bailan la <alargamiento>de</alargamiento> Thin <alargamiento>y</alargamiento> una de Shania Twain <pausa_larga/>
+hab1	luego hay otra <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> otros <alargamiento>bailan</alargamiento> una que se llama Mariposas <pausa/> que empieza así muy ay ay ay ay ay <pausa/> y luego es en <alargamiento>plan</alargamiento> discoteca <alargamiento>de</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> de salsita y cosas así <pausa/> también muy simpática <pausa_larga/>"
+hab1	y el otro grupo <pausa/> <alargamiento>baila</alargamiento> <pausa/> una <alargamiento>canción</alargamiento> <pausa_larga/>
+hab1	que es conocida <pausa/> o sea <pausa/> no tengo ni idea de cuál es <pausa/> pero es conocida <pausa/> pero del año de la patata para atrás <risa/> <pausa/> así como si fueran una tribu superchunga y <pausa/> bueno <pausa/> tal y luego <pausa_larga/>
+hab1	eh somos cuatro grupos y luego dos grupos y dos grupos <pausa/> bailamos una canción con el profesor <pausa/>
+hab2	hm <pausa/>
+hab1	o sea que <alargamiento>cada</alargamiento> persona
+hab2	¿con el profesor <alargamiento>de</alargamiento> baile? que os da la asignatura <pausa/>
+hab1	sí
+hab1	cada persona tiene que aprenderse dos coreografías <pausa_larga/>
+hab2	hm hm
+hab1	"y bueno <pausa/> y nada más <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> y luego tenemos otra asignatura <pausa_larga/>"
+hab1	que es los jueves solamente <pausa_larga/>
+hab1	"y en octubre con lo de esto <alargamiento>de</alargamiento> en Galicia Dixital o no sé ahora no <pausa/> bueno no sé esto de <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> Santiago para los de Santiago no para los turistas entonces <palabra_cortada>habí</palabra_cortada> eeh muchas cosas de turistas <pausa/> para los de Santiago eran gratuitas y podías ir cuando te diera la gana <pausa/> pues nos dedicamos a hacer eso <pausa_larga/>"
+hab1	y ahora estamos <alargamiento>con</alargamiento> rollos audiovisuales <pausa/> de montar anuncios <pausa/> crear anuncios y cosas así <pausa_larga/>
+hab2	hm
+hab1	y <pausa/> creo que no tengo más asignaturas
+hab2	¿cuál es la que más te gusta?
+hab1	la de <ficticio>Ramos</ficticio> <pausa/> <risa/> o sea la de los bailes <pausa/> es que es un desahogo <pausa_larga/>
+hab2	¿sí?
+hab1	impresionante <pausa_larga/>
+hab2	"mmm vale <pausa/> <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab2	bueno <silencio/>
+hab2	<alargamiento>pues</alargamiento><pausa/> a ver preséntame a tu familia <silencio/>
+hab1	bueno <alargamiento>pues</alargamiento> estoy yo que soy la pequeña <pausa/>
+hab2	ah
+hab1	está mi hermano que tiene veinticinco años <pausa/> próximo a los veintiséis <pausa_larga/>
+hab1	<alargamiento>está</alargamiento> mi madre <pausa/> que trabaja en la catedral para la empresa Aldeasa <pausa/> que <pausa/> hay tiendas también por <pausa/> el aeropuerto <pausa/>
+hab2	mmm <pausa/>
+hab1	y está mi padre que también trabaja en la catedral pero para el museo <alargamiento>de</alargamiento> <pausa/> o sea de para una zona del museo que se llama El Tesoro <pausa_larga/>
+hab1	y luego <alargamiento>están</alargamiento> mis abuelos <pausa/> que son de cerca de <ficticio>Muros</ficticio> <silencio/>
+hab1	<alargamiento>y</alargamiento> mis tíos repartidos por todo el hemisferio de España <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>y</alargamiento> no tengo más familia <risa/> <pausa/>"
+hab2	<alargamiento>¿y</alargamiento> tu hermano a qué se dedica? <pausa/>
+hab1	mi hermano es cocinero <pausa/> está trabajando en el <ficticio>Rincón del Sarela</ficticio> <pausa_larga/>
+hab2	mhm
+hab1	"<ruido tipo=""chasquido boca""/> y <pausa/> nada más <risa_inicio/><ininteligible/> <risa_fin/> <pausa_larga/>"
+hab2	<alargamiento>¿está</alargamiento><pausa/> contento? ¿ya <alargamiento>lleva</alargamiento> tiempo trabajando allí?
+hab1	si él <alargamiento>está</alargamiento> <pausa/> está guay sí lleva a lo mejor lleva dos años o así ya <pausa/> está guay colocado ya <pausa/>
+hab2	aah
+hab1	"ya se va a comprar un piso y ya se nos va <ruido tipo=""palmas""/> <pausa/> ¡bien! sí se independiza ya por fin <pausa/> por fin <risa/> <pausa/>"
+hab2	¿sí? ¿se independiza?
+hab2	pero ¿os lleváis bien?
+hab1	sí
+hab2	sí <pausa/> pero bueno
+hab1	"<ruido tipo=""chasquido boca""/> sí pero siempre le hizo ilusión <pausa/> que se marche y tener otra casa para meter a los amigos <risa/> <risa_inicio/>que es para lo que cuenta <risa_fin/> <pausa/> pero bueno <pausa_larga/>"
+hab2	bueno <alargamiento>y</alargamiento> estas últimas vacaciones <pausa/> en verano ¿has hecho así algo especial? <pausa_larga/>
+hab1	"
+      <ruido tipo=""boca""/>
+    "
+hab2	¿sí? <ininteligible/>
+hab1	"sí <pausa/> me fui <ruido tipo=""carraspeo""/> <pausa_larga/>"
+hab1	"<ruido tipo=""chasquido boca""/> en el mes de julio hice las prácticas del <palabra_cortada>campa</palabra_cortada> <alargamiento>de</alargamiento> monitor de tiempo libre <pausa/> un campamento en Gandarío <pausa/> quince días <pausa/>"
+hab2	mmm
+hab1	fff <pausa_larga/>
+hab1	la leche <silencio/>
+hab1	fue <alargamiento>el</alargamiento> fff una experiencia impresionante <pausa/> o sea <pausa/> impresionante <silencio/>
+hab1	allí con los chavales <alargamiento>porque</alargamiento> eran campamentos <alargamiento>de</alargamiento> de semanas <pausa/> de siete días y siete días y cada siete días entraban sobre cien niños <pausa_larga/>
+hab2	jolín
+hab1	entonces claro <pausa/> cada siete día eran cien niños <pausa/> <ininteligible/> de nueve a once <pausa_larga/>
+hab2	¿de qué edad?
+hab1	<alargamiento>y</alargamiento> pero era así <pausa/> eran muy pijos <pausa/> porque como está cerca de La Coru <risa/> bueno para la gente de La Coruña <pausa/> bueno la hay así muy pijoletos <pausa/>
+hab2	mhm <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>y</alargamiento> y bueno eso yo como estaba de prácticas simplemente tenía una habitación la mayoría de las monitoras o tenían una <pausa/> o dos porque sobraban <pausa/> pero por lo general es solo una <pausa/> y a mí <pausa/> me dieron una <pausa/> con siete niñas <silencio/>"
+hab1	"y la primera semana la verdad <alargamiento>que</alargamiento> que genial <pausa/> o sea le cogí un cariño tremendo a las chavalinas <pausa/> porque <ruido tipo=""chasquido boca""/> yo soy así muy reacia a los niños en plan tss <cita_inicio/>no me toques<cita_fin/> <pausa/>"
+hab2	ya
+hab1	"entonces tenía <risa_inicio/><alargamiento>mi</alargamiento> <risa_fin/> pff <risa_inicio/><cita_inicio/>vaya pedazo monitora voy a ser ¿sabes?<cita_fin/> <risa_fin/> <pausa/> pero <pausa/> para nada <pausa/> o sea el primer día sí lo pase un poco así mal porque <pausa/> <ruido tipo=""chasquido boca""/> eso tampoco conocía a los compañeros <pausa/> era mi primera vez y <cita_inicio/> ay Dios mío qué mal rollo<cita_fin/> <pausa_larga/>"
+hab2	claro
+hab1	<alargamiento>pero</alargamiento> los compañeros impresionantes y los chavales <pausa/> o sea <pausa/> le dices <cita_inicio/>cállate<cita_fin/> y se calla ¿sabes? te tiene respeto aunque midas menos que él <pausa/> te tienen <risa/> respeto <silencio/>
+hab2	¿sí?
+hab1	"<ruido tipo=""chasquido boca""/> y la segunda semana <ruido tipo=""carraspeo""/> guay también <pausa/> pero bueno se me cayó una niña porque tenía mamitis aguda <pausa_larga/>"
+hab1	ella tenía mamitis aguda <pausa/> y se fue <alargamiento>al</alargamiento> dos a los dos días <pausa/> y mira que lo intenté ¿eh? <pausa/> lo intenté pero bueno <pausa_larga/>
+hab2	vaya
+hab1	"<ruido tipo=""chasquido boca""/> es genial <pausa_larga/>"
+hab1	y luego de eso <pausa/> vacaciones un poquito <alargamiento>en</alargamiento> <ficticio>Muros</ficticio> <pausa/> que es <palabra_cortada>jun</palabra_cortada> con mis abuelos <pausa_larga/>
+hab1	"y después <pausa/> a finales de septiembre con la beca que dieron esta del <sigla_inicio/>MEC<sigla_fin/> <pausa/> <alargamiento>de</alargamiento> del curso de inglés <pausa/> para Dublín tres semanas <pausa/> <énfasis_inicio/>impresionante<énfasis_fin/> o sea <ruido tipo=""carraspeo""/> tremendo <pausa_larga/>"
+hab2	¿sí?
+hab1	"pero tremendo tremendo tres semanas porque además <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> llegamos <pausa/> y <alargamiento>el</alargamiento> nosotras llegamos el viernes <pausa/> entonces sábado y domingo <pausa/> yo fui con una amiga <pausa/> sábado y domingo nos dedicamos a hacer turismo por nuestra cuenta <pausa/> entonces conocimos ya lo que era todo un poquito Dublín porque <pausa/> se conoce rápida la ciudad ¿eh? <pausa_larga/>"
+hab2	¿sí?
+hab1	sí <pausa/> se conoce rápida y es preciosa <pausa/> y hay una fiesta ¡ay qué fiesta hay! <pausa/> bueno <pausa_larga/>
+hab1	y el lunes llegamos al colegio que se llama <vacilación/> <pausa/> Kenilworth y nosotros pff <pausa/> está a tres patadas de Dublín <pausa/> porque está casi a una hora en bus <silencio/>
+hab1	no va a haber ningún español <pausa/> llegamos <pausa/> diez españoles nuevos esa semana <risa/> <pausa/> nosotros <cita_inicio/>buah ya tenemos <pausa/> piña<cita_fin/> <pausa/> o sea y las tres semanas <pausa/> así <pausa/> como una piña todos a todos los lados sí <pausa/> y nada <pausa/> no hubo ningún roce entre nosotros o sea nos llevamos todos genial <pausa_larga/>
+hab2	¡jolín qué bien!
+hab1	<alargamiento>y</alargamiento> la última semana conocimos a <alargamiento>otras</alargamiento> a tres personas más <pausa/> también <pausa/> no venían en nuestro colegio <pausa_larga/>
+hab1	pero eran de Sevilla y como teníamos amigos en Sevilla ya <alargamiento>de</alargamiento> de Kenilworth pues <pausa/> se unieron a nosotros <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> y genial genial <pausa/> y de ahí <alargamiento>deriva</alargamiento> que ahora mi amiga se va para Salamanca con el resto <risa/> <pausa/> <risa_inicio/>y o me voy para Sevilla con los de Sevilla <risa_fin/> <pausa/>
+hab2	¿ah sí? caray
+hab1	<alargamiento>y</alargamiento> muy bien <ininteligible/>
+hab2	<alargamiento>y</alargamiento> ¿aprendiste mucho? <risa/>
+hab1	"<alargamiento>sí</alargamiento><cita_inicio/><lengua_inicio nombre=""en""/>sorry sorry <risa/> one time please<lengua_fin/><cita_fin/> <risa/> <pausa/> <alargamiento>y</alargamiento> <cita_inicio/>¿qué tal? <pausa/> ¡hostia español! ¿qué tal?<cita_fin/> <pausa/> o sea <pausa/> pff <pausa/> está petado de españoles o sea eso es impresionante <pausa/> casi se habla más español que en Galicia <pausa/> <lengua_inicio nombre=""gl""/>non sei<lengua_fin/> es impresionante la de españoles <ruido tipo=""golpe""/> que hay <pausa_larga/>"
+hab1	pero guay <pausa_larga/>
+hab2	y luego <pausa/> <alargamiento>¿qué</alargamiento> sitios visitaste allí <pausa/> en Dublín? <pausa/>
+hab1	pff todos <risa/> <pausa_larga/>
+hab2	pues <pausa/> cuéntame <pausa_larga/>
+hab1	"todo <pausa/> bueno en plan <sic_inicio/>turisto<sic_fin/> <pausa/> o sea en plan turismo así <pausa/> fuimos a la Christ Church <pausa/> que es impresionante esa iglesia es <pausa/> <énfasis_inicio/>preciosísima<énfasis_fin/> <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab1	"fuimos a <alargamiento>un</alargamiento> <pausa/> a un museo medieval que se llama Dublinia <pausa/> que es muy simpático porque tiene así como <pausa/> <ruido tipo=""chasquido boca""/> figuras <pausa/> no sé de qué material son <pausa/> da igual <pausa/> son figuras así a tamaño real <pausa_larga/>"
+hab1	y es eso <pausa/> te va contando la historia <pausa/> en inglés que no te empanas de nada pero bueno <pausa_larga/>
+hab1	pero tienes que ir haciendo pruebas <pausa/> y es <pausa/> es lo divertido de ese sitio ¿sabes? tienes que ir haciendo pruebas <pausa/> y luego llegas <pausa_larga/>
+hab1	hasta el final y subes <alargamiento>a</alargamiento> la torre y ves pff <pausa/> o sea <palabra_cortada>n</palabra_cortada> no sé si ve todo Dublín o no <pausa/> porque no sé lo grande que es
+hab2	<risa_inicio/>mhm <risa_fin/>
+hab1	pero lo ves todo desde arriba y es <silencio/>
+hab1	impresionante ese sitio <pausa_larga/>
+hab1	y luego pff <pausa/> luego ya <pausa/> con los compañeros <pausa/> pues lo mítico <pausa/> el <alargamiento>zoo</alargamiento> fff <pausa/> los <palabra_cortada>jar</palabra_cortada> <alargamiento>el</alargamiento> <pausa/> el Phoenix Park <pausa/> que no te lo pierdas <pausa/> es el mayor parque <sic_inicio/>urbánico<sic_fin/> <pausa/> urbanizado <pausa/> perdón <pausa/> <risa_inicio/>urbano <risa_fin/> <pausa/> urbano <pausa/> no urbanizado <pausa/> urbano del <pausa/> de Europa <pausa/>
+hab2	hm
+hab1	y tienes para ver no sé cuántos castillos <pausa/> la casa de la presidenta <pausa/> la casa de no sé quién <pausa/> no vimos <risa_inicio/>nada <risa_fin/> <risa/> <pausa_larga/>
+hab1	solo vimos verde y para eso verde quemado o sea <pausa/> lo que vimos nosotros fue <pausa_larga/>
+hab1	en plan <pausa/> <cita_inicio/>no me jodas que esto el Phoenix<cita_fin/> <risa/> <pausa/> nos dedicamos a hacer juegos <pausa/> o sea en medio del Phoenix Park haciendo juegos <alargamiento>de</alargamiento> <pausa/> avenidas aceras <cita_inicio/>yo soy lobo tú la oveja<cita_fin/> <pausa/> <risa/> <pausa/> y la carrera del borracho <pausa/> que no tiene nada que ver con alcohol <pausa/> pero se pasa muy bien <pausa_larga/>
+hab2	aah ¿en qué consiste? <pausa_larga/>
+hab1	"<alargamiento>es</alargamiento> a ver <pausa/> <alargamiento>es</alargamiento> <pausa/> es un juego de relevos <ruido tipo=""chasquido boca""/> <pausa/> hay una distancia y <alargamiento>un</alargamiento> palo o un boli clavado <pausa/> entonces tienes que ir a junto del boli <pausa/> y tocar <alargamiento>el</alargamiento> boli <pausa/> <ruido tipo=""chasquido boca""/> digo boli porque tiene que ser pequeñito <pausa/> tienes que estar muy encorvado <pausa_larga/>"
+hab1	entonces tienes que dar diez vueltas a eso <pausa/> con lo cual a la cuarta vuelta ya ni te enteras de quién eres <pausa/> ¿sabes? <risa_inicio/>ya es en plan <cita_inicio/><alargamiento>hostia</alargamiento> <alargamiento>cinco</alargamiento><cita_fin/> <pausa/> y luego <risa_fin/> tienes que correr a <risa_inicio/>junto tu compañero <risa_fin/> y darle el relevo <pausa/> ¿qué pasa? que tú corres <risa_inicio/>te crees que estas corriendo recto y te vas para la derecha <risa_fin/> <pausa/> y tú <cita_inicio/>que no <pausa/> que quiero ir para allí<cita_fin/> y te la <pausa/> fostias contra el <risa_inicio/>suelo impresionante <risa_fin/> <pausa/> o sea el juego es graciosísimo ¿sabes? <pausa_larga/>
+hab2	"
+      <ininteligible/>
+    "
+hab1	"y eso y fff <pausa/> yo qué sé es que no sé cuento <pausa/> luego <pausa/> ah bueno <pausa/> <ruido tipo=""chasquido boca""/> se nos dio por coger <alargamiento>el</alargamiento> <sigla_inicio/>DART<sigla_fin/> que es <alargamiento>un</alargamiento> <pausa/> es una especie de <pausa_larga/>"
+hab1	¿el <sigla_inicio/>DART<sigla_fin/> ? sí <pausa/> bueno ahora no sé si es el <sigla_inicio/>DART<sigla_fin/> el que va por la ciudad o es otro <pausa/> es <pausa/> el <sigla_inicio/>DART<sigla_fin/> creo que es el de la ciudad <pausa/> bueno <pausa/> es un trencito <pausa/> que <palabra_cortada>co</palabra_cortada> recorre toda la costa entonces <pausa_larga/>
+hab1	tú puedes comprar un <palabra_cortada>viej</palabra_cortada> mmm <pausa/> un viaje para un sitio <pausa/> o un viaje <alargamiento>para</alargamiento> <pausa/> el <palabra_cortada>má</palabra_cortada> es más caro pero bueno te puedes parar en todos los sitios <pausa/> ¿sabes? entonces tú te bajas <pausa/> y nosotros <pausa/> nos bajamos en Greystones <pausa/> que era la última parada <pausa_larga/>
+hab2	aah
+hab1	<alargamiento>y</alargamiento> fuimos andando todo por la costa <pausa_larga/>
+hab1	<palabra_cortada>du</palabra_cortada> dura una hora hora y media <pausa/> andando <pausa/> hasta Bray <pausa/> que es un sitio que recomiendan ir la verdad <pausa/> es muy chulo <pausa/>
+hab2	hm hm <pausa/>
+hab1	y según la guía de una compañera allí está el mejor bar de todo Dublín <pausa_larga/>
+hab1	cuando lo vimos nos quedamos en plan <pausa/> <cita_inicio/>no me jodas que este es <risa_inicio/>el mejor <risa_fin/> bar<cita_fin/> <pausa/> pero fff <pausa/> fff eso es porque no habíamos visto la parte de atrás <pausa/> o sea son como <pausa/> salones de tu casa <pausa/> llenos de cuadros de <palabra_cortada>películ</palabra_cortada> es impresionante ese sitio <pausa/> es muy chulo la verdad <pausa/> y con musiquita así <pausa/> tiene karaoke también <pausa_larga/>
+hab1	"muy guay <pausa/> luego nos fuimos para la <alargamiento>la</alargamiento> otro día nos fuimos para toda la costa <pausa/> pero para el norte <pausa/> <ruido tipo=""chasquido boca""/> a Howth <pausa/> y vimos <alargamiento>focas</alargamiento> y <alargamiento>animales</alargamiento> y vimos de <alargamiento>todo</alargamiento> <silencio/>"
+hab1	<alargamiento>y</alargamiento><pausa/> y bueno <pausa/> y luego la última semana <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> el sábado <pausa/> nos fuimos en <alargamiento>un</alargamiento> <pausa/> en un tour que hay <pausa_larga/>"
+hab1	eeh <pausa/> Derry <pausa/> la Calzada de los Gigantes <pausa/> y Belfast <pausa/>
+hab2	hm hm
+hab1	Derry <pausa/> una mierda como una catedral <pausa/> o sea pff <pausa/> o sea nos tiramos allí dos horas <alargamiento>para</alargamiento> no sé para qué <pausa/> porque no vimos nada <pausa_larga/>
+hab1	y en la Calzada de los Gigantes que es donde nos teníamos que haber tirado mucho tiempo porque <pausa_larga/>
+hab1	bueno la Calzada de los Gigantes <pausa/> son unas piedras que están colocadas como si fueran calzadas <pausa/> así romanas <pausa/> es <alargamiento>muy</alargamiento> <pausa_larga/>
+hab1	"es impresionante el sitio ¿eh? <ruido tipo=""chasquido boca""/> es impresionante en <alargamiento>plan</alargamiento> <pausa_larga/>"
+hab1	yo es que <pausa/> es lo que decía a ver <pausa/> <cita_inicio/>esto sí es impresionante pero <pausa/> quieras o no Irlanda es Galicia<cita_fin/> <pausa_larga/>
+hab1	¿sabes? si no eres de Galicia sí <pausa/> te impresiona más pero siendo de Galicia <pausa/> no es para tanto <pausa/> es impresionante <alargamiento>pero</alargamiento> es en plan joder esto casi que lo hay en Lugo y en cualquier costa ¿sabes? <pausa_larga/>
+hab2	¿es <alargamiento>muy</alargamiento> <pausa/> muy parecido?
+hab2	"
+      <ininteligible/>
+      <pausa/>
+    "
+hab2	ya
+hab1	pero bueno muy lindo <pausa/> y luego nos fuimos a Belfast <silencio/>
+hab1	<alargamiento>pero</alargamiento> en Belfast estuvimos <pausa_larga/>
+hab1	veinte minutos <silencio/>
+hab1	nos dejó veinte minutos <pausa/> y para eso nos dejó en un centro comercial que estaba cerrado <pausa_larga/>
+hab1	"y lo único que visitamos fue <pausa/> un Spar <pausa/> que los Spar son los <pausa/> mmm <pausa/> <ruido tipo=""chasquido boca""/> súperes que hay por allí carísimos carísimos <énfasis_inicio/>carísimos<énfasis_fin/> <pausa/> bueno <pausa/> y nos <pausa/> fue lo que visitamos <alargamiento>de</alargamiento> de Belfast <pausa/> <alargamiento>un</alargamiento> Spar <pausa_larga/>"
+hab2	¡qué pena!
+hab1	y lo gracioso fue a la vuelta <pausa_larga/>
+hab1	"íbamos y teníamos que estar en Dublín ya a las ocho y media <pausa/> y mirabas el reloj <pausa/> y eran las nueve y nosotros <cita_inicio/>¿pero qué coño pasa?<cita_fin/> <risa/> <pausa/> se frena <pausa/> bueno el conductor estaba ido total <risa/> <pausa/> <risa/> se frena <pausa/> y dice <cita_inicio/>nos quedamos sin gasolina<cita_fin/> <ruido tipo=""boca""/> <pausa/> y nosotros"
+hab2	bueno <pausa/>
+hab1	<cita_inicio/><risa_inicio/>hostia ¿en un tour te quedas sin gasolina tío? ¿no ves <alargamiento>que</alargamiento> tienes que tener gasolina? <risa_fin/><cita_fin/> <risa/> <pausa_larga/>
+hab1	al final <pausa/> no es que se quedara sin gasolina <pausa/> bueno <pausa/> eemm <pausa/> <cita_inicio/>tenéis que empujar<cita_fin/> <pausa_larga/>
+hab1	"y nos pusimos <risa_inicio/>a empujar <risa_fin/> <alargamiento>el</alargamiento> bueno era un microbús <risa_inicio/>ahí a empujar el bueno <risa_inicio/><ininteligible/> <risa_fin/> <pausa/> los coches pitándonos <alargamiento>yo</alargamiento> <cita_inicio/>eeh<cita_fin/> <risa_inicio/>bueno <pausa/> impresionante <risa_fin/> <pausa/> <ruido tipo=""chasquido boca""/> hasta que dedujo que no era problema de gasolina era <pausa/> algo mecánico <pausa_larga/>"
+hab2	<risa_inicio/>bus <risa_fin/>
+hab1	"porque el coche <pausa/> no arrancaba ni para Dios <risa/> <ruido tipo=""carraspeo""/> <pausa/> entonces llamó a otro tío en plan <pausa_larga/>"
+hab1	"<cita_inicio/>trae un bus<cita_fin/><pausa/> y trajo un bus <pausa/> <risa_inicio/>y nos fuimos y ese aun estaba peor <pausa/> ese iba cantando para bailar la bamba <pausa/> <risa_inicio/>¿sabes? <risa_fin/> <pausa/> y canciones chunguísimas <risa_fin/> <pausa/> pero bueno <ruido tipo=""golpe""/> y volamos <pausa/> o sea mi cabeza tocó el techo <pausa/> yo no sé <pausa/> qué pilló en la carretera <pausa/> pero entre la velocidad y lo que pilló <pausa/> o sea es que <pausa/> nadie acabó en su sitio <pausa/> otros por el suelo <pausa/> o sea no <pausa/> o sea así dicho <pausa/> es gracioso y nos partimos <pausa/> pero nos metimos un porrazo <pausa_larga/>"
+hab2	¿sí?
+hab1	"tremendo sí <pausa/> sí tía porque <alargamiento>yo</alargamiento> <pausa/> ya te digo yo <pausa/> batí contra el techo reboté en <risa_inicio/>la pared y me fui para otro lado ¿sabes? <risa_fin/> es que el bus voló <alargamiento>no</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> la carretera era así como <alargamiento>con</alargamiento> curvas <pausa/> o sea curvas <pausa/> bueno estas cosas que no se ven ahí <pausa/> pero <pausa/> <risa_inicio/>tú ya verás <risa_fin/> y debió pillar <palabra_cortada>al</palabra_cortada> sí badenes y debió de pillar algo y el bus es que se levantó ¿sabes? <pausa/> entonces claro brr <pausa/> fue un hostión tremendo"
+hab2	¿pero qué fue? ¿un accidente?
+hab2	¿badenes?
+hab2	<ininteligible/> bueno pero <alargamiento>que</alargamiento>
+hab1	"o sea al bus no le pasó nada <pausa/> ni paró <pausa/> ni nada <pausa/> simplemente se dedicó a reír y dice <cita_inicio/><lengua_inicio nombre=""en""/>ay <pausa/> sorry sorry<lengua_fin/><cita_fin/> <pausa/> y nosotros <cita_inicio/><lengua_inicio nombre=""en""/>sorry sorry<lengua_fin/> maricón<cita_fin/> <risa/> todos en el suelo <cita_inicio/>ay ay ay<cita_fin/> <risa/> <pausa_larga/>"
+hab1	"y nada <pausa/> y luego bueno luego esa noche ya <pausa/> <ruido tipo=""chasquido boca""/> la leche de España <pausa/> fue cuando conocimos a los otros chicos de Sevilla <pausa_larga/>"
+hab1	"y después de día <pausa/> mis amigas se fueron a Galway <pausa/> <ruido tipo=""chasquido boca""/> <alargamiento>en</alargamiento> dos días <pausa/> Galway <pausa/> yo no fui <pausa/> es precioso <pausa/> todo el mundo lo dice y yo vi las fotos la verdad es que es precioso <pausa_larga/>"
+hab1	pero bueno yo preferí quedarme en Dublín <pausa/> y me cundieron mucho más los días con la gentiña de Sevilla <silencio/>
+hab1	"
+      <alargamiento>y</alargamiento>
+      <pausa_larga/>
+    "
+hab1	nos volvimos para aquí y eso sí no antes sin llorar <pausa_larga/>
+hab1	"
+      <ruido tipo=""carraspeo""/>
+    "
+hab2	¿sí?
+hab1	llorar mucho mucho llorar sí <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> por unas personas más que por otras <pausa/> pero bueno en tres días ya los volveré a ver otra vez <pausa/>"
+hab2	<alargamiento>y</alargamiento> ¿la Guinness?
+hab1	aah <alargamiento>sí</alargamiento> la Guinness sí sí si que la <pausa/> <risa/> no pagamos no pagamos <risa/> <pausa_larga/>
+hab2	la cerveza
+hab1	"porque nos dijeron <ruido tipo=""chasquido boca""/> estas cosas que te dicen los que se van antes que tú <pausa/> entonces <pausa/> <cita_inicio/>no pagues nena <pausa/> no pagues <pausa/> te metes por la puerta de atrás<cita_fin/> <risa/> <pausa/> y nos metimos y no pagamos <pausa/> nos llevamos el chupito gratuito de cerveza <pausa/> no me gusta la Guinness por cierto <pausa_larga/>"
+hab2	¿no?
+hab1	"<ruido tipo=""chasquido boca""/> pero yo creo que en realidad no es que no pagues <silencio/>"
+hab1	o sea <pausa/> no creo que sea ilegal colarse <pausa/> yo creo que es en plan <pausa/> <cita_inicio/>si quieres pagas <pausa/> y si no no<cita_fin/> <pausa/> porque <pausa/> eeh si pagas te dan unas <palabra_cortada>aure</palabra_cortada> <alargamiento>unas</alargamiento> aureolitas o algo así <pausa/> que arriba <pausa/> en el bar este que tienen arriba de todo <pausa_larga/>
+hab1	tú la das y la cerveza te es gratis <pausa_larga/>
+hab1	y si no tienes eso tienes que pagarla <pausa/> yo creo es realmente solamente es eso <pausa/> porque aparte <pausa/> es muy fácil colarse <pausa_larga/>
+hab1	entonces me parece una tontería ¿sabes? <pausa_larga/>
+hab2	ya
+hab1	<alargamiento>y</alargamiento><pausa/> y eso y eh <pausa/> pero aún así es una gilipollez pagar <pausa/> la entrada <pausa/> porque <pausa_larga/>
+hab1	la entrada te cuesta nueve euros <pausa/> vale sí te dan un pisapapeles que es chulo <pausa/> pero bueno <pausa/> te <pausa/> <alargamiento>con</alargamiento> derecho a una consumición <pausa_larga/>
+hab1	pero joder <alargamiento>una</alargamiento> <pausa/> una Guinnes te cuesta cuatro cincuenta <pausa/> ¿sabes? <pausa/>
+hab2	ya <pausa/>
+hab1	no lo entiendo <silencio/>
+hab1	y luego <pausa/> ah bueno sí <pausa/> un sitio al que fuimos <pausa/> eso no es visita turística ¿no? pero <pausa/> bueno <pausa/> ya empezamos con la zona <alargamiento>de</alargamiento> marcha <pausa_larga/>
+hab1	hay un sitio que se llama bueno <pausa/> esto no es de marcha <pausa/> eeh Pennys es <alargamiento>un</alargamiento> centro comercial donde hay ropa <pausa/> muy barata <pausa/> muy barata que resulta que está hecha en España <pausa/> <risa/> pero bueno <pausa/> y ahí robar es como <silencio/>
+hab1	vas y dices <cita_inicio/>hostia me gusta esto <pausa/> para mí<cita_fin/> te lo pones a la espalda y te marchas <pausa_larga/>
+hab2	¿así de fácil?
+hab1	o sea <alargamiento>no</alargamiento> para empezar <risa/> <pausa/> no pitan <pausa/> guardias de seguridad no hay <pausa_larga/>
+hab1	yo debo de ser una de las pocas que no se atrevió a robar <pausa/> porque a mí eso me da mucho <palabra_cortada>m</palabra_cortada> <pausa/> mal rollo <pausa_larga/>
+hab1	pero amigos míos entraban con ropa en el probador <pausa/> dejaban una y se marchaban con la mochila <pausa/> así embarazada <pausa/> en plan <pausa/> <cita_inicio/>mira compre la camiseta por veinte euros y me vino de regalo esta <pausa/> esta <pausa/> esta <pausa/> esta y <risa_inicio/>esta<cita_fin/> ¿sabes? <risa_fin/> y yo <cita_inicio/>buah tío<cita_fin/> <pausa_larga/>
+hab1	"
+      <ruido tipo=""palmada""/>
+      <ininteligible/>
+    "
+hab2	¿no había seguridad <alargamiento>ni</alargamiento> ?
+hab1	en ese sitio no <pausa/> no había <pausa/> <énfasis_inicio/>nada<énfasis_fin/> <pausa/> es que era eso <pausa/> era en plan <pausa_larga/>
+hab1	ahí los españoles van a robar <pausa/> <risa_inicio/>¿sabes? es que <risa_fin/> <pausa_larga/>
+hab2	increíble
+hab1	"¿sabes? <alargamiento>no</alargamiento> <pausa/> yo incluso pagué por cosas <risa_inicio/>pero <pausa/> bueno <risa_fin/> <risa/> <ruido tipo=""chasquido boca""/> pero <pausa_larga/>"
+hab1	"<ruido tipo=""chasquido boca""/> es una especie <alargamiento>de</alargamiento> <pausa/> a ver el centro comercial es inmenso ¿sabes? <pausa_larga/>"
+hab1	lo que pasa que a mí <alargamiento>me</alargamiento> <alargamiento>me</alargamiento> ponía mala <pausa/> porque <pausa_larga/>
+hab1	"era <pausa/> mucha ropa <pausa/> muy desordenada <pausa/> y todo por el suelo <pausa/> y mucha gente <pausa/> <risa/> entonces era un <pausa/> <cita_inicio/>quiero y no puedo<cita_fin/> era un <ruido tipo=""inspiración""/> <pausa/> <cita_inicio/>me falta el aire<cita_fin/> ¿sabes? <pausa/> yo que soy un poco claustrofóbica que entro en Berskha y que me pongo mala <pausa/> pues tú imagínate Berskha después de un anticiclón <pausa/> o sea <pausa/> mierda <pausa/> <alargamiento>un</alargamiento> huracán <pausa/> todo <risa/> por el suelo y toda la gente así gajajá <risa/> <pausa/> es que es así pero <pausa/> sí <alargamiento>sí</alargamiento> <palabra_cortada>pe</palabra_cortada> <pausa/> peor peor es peor tía es peor <pausa/> es impresionante ese sitio <pausa/> <ruido tipo=""chasquido boca""/> o por lo menos los días que fui yo <pausa_larga/>"
+hab2	¿cómo en rebajas entonces?
+hab1	pero bueno <pausa/> y luego <alargamiento>está</alargamiento> la zona de marcha <pausa/> el Meath <pausa_larga/>
+hab1	que conocí más gente de <palabra_cortada>Du</palabra_cortada> o sea <pausa/> que fue a Dublín como por ejemplo <ficticio>Tania</ficticio> <pausa/> hola <ficticio>Tania</ficticio> <risa/> <pausa_larga/>
+hab1	"
+      <alargamiento>que</alargamiento>
+      <pausa_larga/>
+    "
+hab1	"<alargamiento>no</alargamiento> o sea <pausa/> <alargamiento>no</alargamiento> <pausa/> a los sitios a los que fuimos nosotros es que ni le sonaban los nombres y es todo por la zona <alargamiento>de</alargamiento> <pausa/> del <palabra_cortada>Me</palabra_cortada> <pausa/> <alargamiento>del</alargamiento> <palabra_cortada>Tur</palabra_cortada> <pausa/> del <ruido tipo=""palmada""/> <pausa/> mierda <pausa/> del Temple Bar <pausa/> está el Meath <pausa/> que es así un sitio muy <pausa/> no es muy roquero <alargamiento>pero</alargamiento> tenía música en directo y ahí tocaba mogollón de veces nuestro profesor <pausa/> que tenía un grupo <pausa_larga/>"
+hab1	y muy guay <pausa/> o sea ahí nos pasábamos todas las noches <pausa_larga/>
+hab1	luego había otro sitio que se llamaba el Turks Head <pausa_larga/>
+hab1	que era la parte de arriba <pausa/> era un bar <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> así pero muy <pausa/> o sea con la <palabra_cortada>músic</palabra_cortada> no un bar en <alargamiento>plan</alargamiento> de cafés <pausa/> sino <alargamiento>un</alargamiento> <pausa/> el típico bar de la noche <pausa/> un pub pero <alargamiento>sin</alargamiento> <pausa/> zona para bailar"
+hab2	hm hm
+hab1	"luego <alargamiento>pasabas</alargamiento> una puerta y estaba la zona para bailar <pausa/> o sea ya ahí hay fff chu chuchú <pausa/> y luego bajabas las escaleras y <alargamiento>ya</alargamiento> <pausa/> ya era en plan todo el mundo apelotonado buh buh buh buh <risa/> o sea <pausa/> desfase total <pausa/> y ahí nos pasó una vez <pausa/> buah <pausa/> es que quedamos todos flipando porque ahí <pausa/> <ruido tipo=""chasquido boca""/> claro a las tres de la mañana ya cierra todo <pausa/> o sea <pausa/> allí ver a gente borracha a las diez de la noche es como verla aquí a las cinco de la mañana <pausa/> es lo <risa/> más normal del mundo <pausa_larga/>"
+hab1	bueno pues eran las tres de la mañana y estaban cerrando y todos en plan <pausa/> <cita_inicio/>venga no me jodas<cita_fin/> <pausa/> y apagaron la música y encendieron las luces <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><pausa/> y empieza a venirnos <alargamiento>así</alargamiento> <pausa/> una ola del fondo <pausa/> un eco <cita_inicio/>¿qué? <pausa/> ¿qué dirá? <pausa/> ¿qué dirá?<cita_fin/> <pausa/> y se empieza a escuchar <cita_inicio/><alargamiento>alcohol</alargamiento> <pausa/> alcohol alcohol alcohol <pausa/> hemos <palabra_cortada>ve</palabra_cortada><cita_fin/> <pausa/> y nosotros en plan <pausa/> <cita_inicio/>buah esto está <pausa/> petado de españoles<cita_fin/> <risa/> y todos ahí <cita_inicio/>hemos venido<cita_fin/> <pausa/> <risa_inicio/>o sea impresionante <risa_fin/> <pausa/> la montamos en la calle después <pausa_larga/>"
+hab1	y luego descubrimos <pausa_larga/>
+hab1	<ficticio>Lorena</ficticio> y yo el primer día que fuimos <pausa/> <alargamiento>un</alargamiento> pub <pausa_larga/>
+hab1	que casi nadie lo vio <pausa/> que es impresionante <silencio/>
+hab1	"<ruido tipo=""chasquido boca""/> es una catedral <pausa_larga/>"
+hab1	<alargamiento>está</alargamiento><pausa/> puesta como si fuera un pub <pausa_larga/>
+hab1	y todavía tiene el órgano o sea es <pausa/> es tal cual una catedral pero <pausa/> un pub dentro <pausa/>
+hab2	¿pero así tan grande?
+hab1	sí sí sí sí <pausa/> o sea tiene zona de <alargamiento>restaurante</alargamiento> <pausa/> tiene las <alargamiento>catacumbas</alargamiento> <pausa/> o sea es impresionante <pausa/> eso sí <pausa_larga/>
+hab1	eeh <pausa/> dos consumiciones veintiún euros <silencio/>
+hab2	hm
+hab1	"<risa_inicio/>y los baños <risa_fin/> <pausa/> bueno es que a ver cómo te lo puedo comparar <ruido tipo=""carraspeo""/> <pausa/> los baños es <silencio/>"
+hab1	"es <alargamiento>otro</alargamiento> pub más <pausa/> o sea el de las tías <pausa/> el de los tíos es más pequeñito <risa/> <pausa/> pero el baño de las tías <pausa/> nosotras hicimos fotos en él <pausa/> o sea es que era para hacer fotos ¿sabes? <pausa/> superlimpio <pausa/> superiluminado <pausa/> <alargamiento>
+  <palabra_cortada>super</palabra_cortada>
+</alargamiento> <pausa_larga/>"
+hab1	"buah <pausa/> <cita_inicio/>esto lo diseñó alguien fijo<cita_fin/> <risa/> ¿sabes? o sea <pausa/> impresionante esa <pausa/> discoteca era impresionante <pausa/> lo que pasa que el día <pausa/> <ruido tipo=""chasquido boca""/> el primer días que fuimos nosotros sí que fue impresionante porque había un <sigla_inicio/>DJ<sigla_fin/> en directo y estaba petadísimo <pausa_larga/>"
+hab1	"<alargamiento>pero</alargamiento> el segundo día que fuimos fue para en plan <pausa/> <cita_inicio/>buah os vamos a enseñar un sitio tremendo <pausa/> no se qué<cita_fin/> <ruido tipo=""palmada""/> <pausa/> tres viejos sentados ahí y sin música y nosotros en plan <pausa/> <cita_inicio/>hostia qué pasó aquí<cita_fin/> <pausa/> ¿sabes? fue así un poco en plan <pausa/> <cita_inicio/>buah qué mal<cita_fin/> <pausa/> <alargamiento>porque</alargamiento> <ruido tipo=""chasquido boca""/> tal <pausa/> <alargamiento>pero</alargamiento> el sitio es impresionante <silencio/>"
+hab2	¿sí?
+hab2	ya <pausa_larga/>
+hab2	claro
+hab1	"<ruido tipo=""chasquido boca""/> y luego <pausa/> ah bueno había <alargamiento>uno</alargamiento> <pausa_larga/>"
+hab1	que no sé cómo se llama <pausa/> la verdad <pausa/> solamente fuimos dos veces y fue al concierto de nuestro profesor <pausa_larga/>
+hab1	"pero era <alargamiento>como</alargamiento> mmm <ruido tipo=""chasquido boca""/> comunista y nazi <pausa/> ¿sabes? la zona de arriba era comunista <pausa/> y la zona de abajo todo con pintadas nazis <pausa/> o sea el sitio era impresionante <pausa/> pero no tiene nada que ver a los pubs que hay aquí tío <pausa/> o sea <pausa_larga/>"
+hab2	¿sí?
+hab1	un pub de allí son siete de aquí <pausa/> o sea son inmensos <pausa_larga/>
+hab1	si aquí no encuentras a una persona <pausa/> allí ya ni te molestes en entrar <pausa/> porque no la vas a encontrar ni con megafonía <pausa/> <risa/> es impresionante yo me perdí en el Turks <pausa/> de unas amigas <pausa_larga/>
+hab1	dije yo mira <pausa/> <cita_inicio/>y ahora ¿qué coño hago? me voy para las otras que se que están arriba y arriba las encuentro<cita_fin/> <pausa/> pero en la zona de bailar <pausa/> es imposible encontrar a alguien <silencio/>
+hab1	"<ruido tipo=""chasquido boca""/> y luego pues no sé qué más decirte <alargamiento>así</alargamiento>"
+hab2	¿y qué tipo de música? <pausa_larga/>
+hab1	de todo <silencio/>
+hab1	"<ruido tipo=""boca""/> de todo de todo <pausa/> en ese sitio en el Turks <pausa/> que era donde más solíamos estar <pausa_larga/>"
+hab1	<alargamiento>era</alargamiento><pausa/> era muy <alargamiento>de</alargamiento> <pausa/> bueno la verdad es que la música que no era en directo <pausa/> pues no me empanaba mucho de qué iba <pausa/> yo andaba a lo mío y punto <pausa/> pero tenía mucho en directo sobre todo el reggae <pausa_larga/>
+hab1	había mucho reggae <pausa_larga/>
+hab1	y la zona de abajo <pausa/> era <alargamiento>muy</alargamiento> <pausa/> muy dance <pausa_larga/>
+hab1	"luego <pausa/> hombre te tenía a la Shakira y todos esos momentos ¿sabes? <pausa/> <ruido tipo=""chasquido boca""/> <alargamiento>pero</alargamiento> reggaeton no tienen <pausa/> no sabes lo felices que son <risa_inicio/>Dios mío no tienen <risa_fin/> reggaeton <pausa/> ¿sabes? pero <alargamiento>está</alargamiento> <pausa_larga/>"
+hab2	sí
+hab1	"<ruido tipo=""chasquido boca""/> joder son los típicos bares que aunque no te guste ese tipo de música <pausa/> sí que ese tipo de música incita más a <palabra_cortada>sa</palabra_cortada> <pausa/> a salir ¿sabes? cuando sales <ruido tipo=""chasquido boca""/> <pausa/> a ver a mí no me gusta Bisbal <pausa/> pero cuando salgo me mola bailar una canción de Bisbal <pausa/> una <pausa/> no todo el <sigla_inicio/>CD<sigla_fin/> <pausa/> pero ¿sabes? son de ese tipo de y la verdad que guay <pausa/> y luego en <alargamiento>el</alargamiento> Meath <pausa/> en el Meath es mucho más <pausa/> más rock <pausa_larga/>"
+hab2	ya ya <pausa/>
+hab1	en el Meath <pausa/> es rock total <pausa/>
+hab2	hm <pausa_larga/>
+hab1	pero bueno <risa/> <pausa/>
+hab2	¿y qué decías antes? <pausa/> es que te corté <pausa/> ¿que dentro de tres días que <pausa/> ibas a reunirte?
+hab1	ah sí me <alargamiento>voy</alargamiento> de vacaciones para Sevilla <pausa/> con los colegas que hice <alargamiento>en</alargamiento> en Dublín
+hab2	"
+      <alargamiento>ah</alargamiento>
+    "
+hab2	¿cuánto tiempo?
+hab1	hasta el día diez <pausa/> me quedo seis días <pausa/> pensé que eran cinco pero me puse a contar y son seis <pausa/> estoy muy feliz <pausa/> pensión completa <pausa/> me voy para casa de la amiga <pausa_larga/>
+hab2	¡qué bien!
+hab1	<alargamiento>y</alargamiento> unas ganas locas <pausa_larga/>
+hab2	mmm
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	<alargamiento>¿ya</alargamiento> habías estado allí? <pausa/>
+hab1	no <pausa/> no lo conozco para nada <pausa/> o sea de <pausa/> de España solamente conozco <alargamiento>Madrid</alargamiento> y Baracaldo <pausa_larga/>
+hab1	y un poquito Zamora <pausa/> pero esa zona nunca la pisé <pausa_larga/>
+hab1	"y tengo muchas ganas <ruido tipo=""palmada""/> <pausa/>"
+hab2	<alargamiento>y</alargamiento> mmm pues <pausa/> o sea <pausa/> ¿el lugar así <alargamiento>que</alargamiento> más te ha gustado de los que has conocido <pausa/> hasta ahora? <silencio/>
+hab1	pff <silencio/>
+hab1	¿te refieres <pausa/> o <alargamiento>sea</alargamiento> <pausa/> fuera de España también?
+hab2	sí <pausa/> sí <pausa/>
+hab1	Dublín <pausa/>
+hab2	Dublín
+hab1	"<alargamiento>Dublín</alargamiento><pausa/> no solo por el sitio sino por <pausa/> por la gente <pausa/> ¿sabes? porque yo es lo que le decía a una colega mía de Dublín que hice allí <pausa/> en plan <ruido tipo=""chasquido boca""/> es que no es por la ciudad es por la gente por lo que te marcan <alargamiento>las</alargamiento> <pausa/> <alargamiento>las</alargamiento> <pausa/> los sitios <pausa/> <alargamiento>y</alargamiento> no sé <pausa/> fue <risa_inicio/>impresionante sobre todo la última semana <risa_fin/> <pausa/> pff <silencio/>"
+hab1	yo me lo pasé genial <pausa_larga/>
+hab2	¿repetirías? ¿no? <pausa/>
+hab1	con la misma gente sí <pausa/>
+hab2	sí <pausa_larga/>
+hab1	<risa_inicio/>sí <risa_fin/> <pausa/>
+hab2	bueno y ahora que llega la Navidad <pausa/> ¿ya sabes así cómo eh vas a pasarlo y dónde? <pausa/>
+hab1	no la verdad que está superincierto eso todavía <pausa/> supongo que aquí <silencio/>
+hab1	pero no sé si aquí o en la aldea <silencio/>
+hab1	"y <pausa/> la verdad yo <pausa/> pff <ruido tipo=""chasquido boca""/> no suelo salir en fin de año porque mis colegas o están en Coruña o en La Estrada <silencio/>"
+hab1	"<ruido tipo=""chasquido boca""/> entonces <pausa_larga/>"
+hab1	"claro mmm los de Coruña como <alargamiento>que</alargamiento> <pausa/> no <pausa/> no voy a ir a Coruña <pausa/> <ruido tipo=""inspiración""/> y los de La Estrada como que ya tienen todos su pareja entonces <pausa/> <ruido tipo=""chasquido boca""/> mi pareja como que no está <alargamiento>aquí</alargamiento> <pausa/> ¿sabes? y es en plan <pausa/> que <pausa/> <ruido tipo=""chasquido boca""/> es mi mejor amiga de allí ¿no? <pausa/> y me dice <cita_inicio/>pero a ver estamos contigo<cita_fin/> <pausa/> y yo <cita_inicio/>a ver hasta las cinco sí <pausa/> pero <alargamiento>en</alargamiento> en el momento en que se empiecen a ir las parejitas <pausa/> ¿qué voy a estar yo de petardo entre vosotros dos? <pausa/> no <pausa/> gracias <pausa/> no quiero<cita_fin/> <pausa_larga/>"
+hab1	"y total al fin y al cabo <pausa/> ¿el fin de año qué es? bueno vale sí mola te pones un traje vas superguay divina y nadie te mira <risa/> <pausa/> <ruido tipo=""chasquido boca""/> pero yo me quedo en mi <alargamiento>casa</alargamiento> <pausa/> yo hago sesión de cine sobre todo los fines de año <pausa/>"
+hab2	¿sí?
+hab1	"pero bueno el año pasado guay <pausa/> a lo mejor salgo otra vez con la misma gente del año pasado <pausa/> <ruido tipo=""chasquido boca""/> salí entre Órdenes y Santiago <silencio/>"
+hab1	pero buah <pausa/> tampoco soy mucho yo de salir <pausa_larga/>
+hab1	o sea <pausa/> soy <pausa_larga/>
+hab1	"más light <pausa/> yo soy de ir a tomar algo <pausa/> ahora eso sí cuando hay que salir <ruido tipo=""palmas""/> <pausa/> se sale ¿eh? <pausa/> <risa_inicio/>eso que quede clarito <risa_fin/> <pausa/> pero guay"
+hab2	ya ya
+hab2	<alargamiento>y</alargamiento> no sé <pausa/> ¿celebráis así algo especial <alargamiento>o</alargamiento> o en vuestra familia? no sé así <ininteligible/>
+hab1	"bueno el veinticuatro el cumpleaños de mi hermano <pausa/> viene con Papá Noel <pausa/> o sea es que <risa/> <ruido tipo=""chasquido boca""/> nosotros no creemos en Papá Noel <pausa_larga/>"
+hab1	lo que pasa que cogimos la costumbre de regalarme a mí <pausa/> porque <pausa/> <alargamiento>como</alargamiento> mmm <pausa_larga/>
+hab1	yo soy la pequeña mi hermano me lleva a mí seis años <pausa/> entonces claro yo veía que le regalaban a mi hermano y a mí no <pausa_larga/>
+hab1	y era en plan <pausa/> ¿qué pasa? <pausa/> entonces siempre me regalaban a mí algo <pausa/> entonces quedó la costumbre <pausa_larga/>
+hab2	ya
+hab1	<alargamiento>de</alargamiento> a mí darme algo ¿sabes? lo típico un poquito de dinero o algo así <pausa/> pero pff <pausa/>
+hab2	<alargamiento>y</alargamiento> ¿qué preparáis así de cocinar? <pausa_larga/>
+hab1	<risa/> bueno a ver qué innova mi hermano ahora este año porque estamos ahí
+hab2	ah claro <pausa/> es verdad <pausa/> porque tu hermano es cocinero
+hab1	<risa/><alargamiento>pero</alargamiento> por lo general <pausa/> las gulas que no falten <pausa/> por favor <pausa/> que <alargamiento>yo</alargamiento> eso si me falta ya me deprimo <pausa/>
+hab2	hm
+hab1	"y luego pff <pausa/> jo pues lo mítico <pausa/> <ruido tipo=""chasquido boca""/> <alargamiento>¿qué</alargamiento> tomamos? <pausa/> ah sí bueno <pausa/> eeh pescado al horno <pausa_larga/>"
+hab1	o sea <pausa/> así <alargamiento>con</alargamiento> su <alargamiento>salsita</alargamiento> <pausa_larga/>
+hab1	almejas <pausa/> a la <alargamiento>marinera</alargamiento> <pausa_larga/>
+hab1	luego <pausa/> tenemos tomado alguna vez pimiento relleno <alargamiento>así</alargamiento> <pausa_larga/>
+hab1	pero relleno con una cosa rara que no sé lo que era <pausa/> pero estaba rica <pausa/> nadie supo lo que era <risa/> porque no nos lo quiso decir mi hermano <pausa/> porque mi hermano es <alargamiento>muy</alargamiento> <alargamiento>de</alargamiento> hacer pero no decir <pausa/>
+hab2	ya
+hab1	pero estaban buenísimos <pausa_larga/>
+hab1	"<ruido tipo=""boca""/> o sea <alargamiento>pero</alargamiento> <pausa/> quitando alguna cosa así no es lo mítico ¿sabes? no es en plan <cita_inicio/>venga vamos a ponernos ciegos de marisco<cita_fin/> <pausa/>"
+hab2	ya
+hab1	"no es <pausa/> no <palabra_cortada>som</palabra_cortada> <pausa/> <ruido tipo=""chasquido boca""/> o sea nos da igual como si tenemos que comer arroz ¿sabes? <pausa/> no es en plan <cita_inicio/>en Navidad esto<cita_fin/> <pausa/> es en plan <cita_inicio/>¿qué me apetece? esto pues esto<cita_fin/> <pausa/>"
+hab2	hm <alargamiento>ya</alargamiento>
+hab1	<alargamiento>y</alargamiento> las uvas sí <risa_inicio/>eso sí y el turrón también <risa_fin/> <risa/> <pausa/> y el champán con la sortija <pausa/> ah y las lentejas <pausa/> que es una tradición <alargamiento>en</alargamiento> <pausa/> en Italia que trae da buena suerte entonces yo cogí la manía de hacer lentejas <pausa/> un poquito lentejas antes de nada <pausa/> y hala <pausa/>
+hab2	¿sí? <pausa/>
+hab1	sí <pausa/> yo supersticiosa no soy pero luego los rollos de Navidad me mola <pausa/> no sé por qué pero la sortija dentro del cava queda muy bien <risa/> <pausa/> así que
+hab2	¿entonces cocinas tú? <silencio/>
+hab1	<alargamiento>sí</alargamiento><alargamiento>hago</alargamiento> mis pinitos <pausa_larga/>
+hab2	¿sí? ¿y qué te gusta cocinar?
+hab1	cualquier cosa <pausa/>
+hab2	¿sí? <pausa/> pues a ver <alargamiento>dime</alargamiento> tu <alargamiento>receta</alargamiento> <pausa/> fetén <pausa/>
+hab1	<risa_inicio/>bueno yo es que <risa_fin/> soy más de postre <pausa/> yo soy de postre <pausa/> entonces <pausa/> eeh <pausa/> bizcocho de chocolate <pausa/>
+hab2	pues <pausa/> pues repostería <pausa/> me da igual <risa/>
+hab2	¿sí? <pausa/>
+hab1	"<ruido tipo=""chasquido boca""/> brazo de gitano <pausa/> de chocolate <pausa_larga/>"
+hab1	"brownies <pausa/> de <risa_inicio/>chocolate <risa_fin/> <risa/> <pausa/> y luego <ruido tipo=""carraspeo""/> <ruido tipo=""palmada""/> <pausa/> es que suelo hacer eso solo <silencio/>"
+hab1	una vez se me dio a hacer <palabra_cortada>gallet</palabra_cortada> <pausa/> se me dio por hacer galletas <pausa/> y a ver las galletas estaban buenas <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> pero eso de que fueran <risa_inicio/>galletas <risa_fin/> yo ya dudaba porque <pausa/> como que se me <risa_inicio/>desparramaron todas <risa_fin/> <risa/> y quedó una masa que se pegó al fondo entonces <pausa/> estaba quitado así <risa_inicio/>con el cuchillo <risa_fin/> <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento> era <alargamiento>más</alargamiento> <pausa/> harina <alargamiento>que</alargamiento> galletas <pausa/> pero bueno <pausa/> estaban rica la harina <risa/> ¿sabes? <risa/> <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> y luego de cocinar me gusta mucho cocinar <pausa/> un rollo que empezó siendo arroz tres delicias <pausa/> o sea en plan verduras por separado y luego mezcladas en arroz <pausa/> pero están tan ricas las verduras que me las como así <pausa/> al chou <pausa/> y no llevan nada en especial <pausa_larga/>"
+hab1	mmm <ininteligible/>
+hab2	¿y cómo se prepara <alargamiento>el</alargamiento> el bizcocho de chocolate? <pausa_larga/>
+hab1	bueno es <pausa/> tienes que coger <pausa/> a ver <pausa/> por ejemplo es con medidas de yogures <pausa/>
+hab2	ah <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> y es <pausa/> pillas <pausa/> a ver que <palabra_cortada>repi</palabra_cortada> <pausa/> que acuerde <pausa/> dos vasos de aceite <pausa_larga/>"
+hab1	y los echas <pausa_larga/>
+hab1	y le echas <pausa/> el yogur <silencio/>
+hab1	y <pausa_larga/>
+hab1	"¿cuatro de azúcar? no <pausa/> <palabra_cortada>ta</palabra_cortada> cuatro de azúcar es mucho <pausa/> creo que son dos de azúcar <pausa/> no me acuerdo muy bien <pausa/> y <lengua_inicio nombre=""gl""/>remexes<lengua_fin/> churm churm churm <alargamiento>y</alargamiento> por separado mezclas cuatro <alargamiento>de</alargamiento> <sic_inicio/>haría<sic_fin/> <pausa/> harina <pausa/> con medio <pausa/> que el mío es uno entero de colacao <risa/> <pausa/> <alargamiento>y</alargamiento> el sobrecito de levadura <pausa/> y luego lo remezclas chu churuchú chuchuruchú"
+hab2	¿lleva huevo <pausa/> lleva huevo?
+hab1	"sí <pausa/> y dos huevos <pausa/> obviamente antes de mezclar la harina dos huevos y churuchú churuchuruchú <ruido tipo=""chasquido dedos""/> para el horno y ya está <pausa/>"
+hab2	"
+      <alargamiento>ya</alargamiento>
+      <pausa/>
+    "
+hab2	¿sí? <pausa/>
+hab1	"sí <pausa/> es es muy sencillito <ruido tipo=""chasquido boca""/> pero <pausa/> pero me sube ¿eh? <pausa/> a mí <pausa/> a mí los bizcochitos me suben <pausa/>"
+hab2	es fácil <pausa_larga/>
+hab2	¿sí?
+hab1	sí <risa/> <pausa_larga/>
+hab2	<alargamiento>¿y</alargamiento> ya compraste lotería de Navidad?
+hab1	mis padres sí <pausa/> yo nunca la compré <pausa_larga/>
+hab2	¿no?
+hab1	no <pausa/> <alargamiento>yo</alargamiento> aconsejo en plan <pausa/> <cita_inicio/>que tenga este número y este<cita_fin/> <pausa/> porque me molan mogollón el seis y cuatro <pausa/>
+hab2	aah
+hab1	entonces <pausa/> pero voy a empezar a callarme porque nunca toca nada <pausa/> entonces <risa_inicio/>¿sabes? <risa_fin/> <risa/> <pausa/> voy a coger un número cualquiera un día a ver si <alargamiento>toca</alargamiento> <pausa_larga/>
+hab2	<alargamiento>y</alargamiento> ¿qué harías si te tocara la lotería? <pausa_larga/>
+hab1	comprarme un coche <pausa_larga/>
+hab1	que el mío se está muriendo <silencio/>
+hab2	aah <pausa/> ¿pero el <alargamiento>tuyo</alargamiento> es propio?
+hab1	sí <pausa/> sí porque en casa soy la única que tiene carné <pausa/> entonces
+hab2	¿ah sí?
+hab1	sí <pausa/> ¿es raro verdad? ¿a que no conoces a nadie?
+hab2	no
+hab1	¿ves? pues mis padres no tienen y mi hermano tampoco <pausa/> entonces el coche es mío <silencio/>
+hab1	pero ya es <pausa/> ya es viejiño tiene veinte años <pausa/> bueno veintiuno ya <pausa/> que ahora los veinte los tengo yo <pausa/> tiene veintiuno <risa/> <silencio/>
+hab1	y comprarme un coche <pausa/> tío <pausa/> mmm ya que tengo dinero ya que me toca la lotería
+hab2	"sí sí <pausa/> tú dime <pausa/> todo <pausa/> todo <alargamiento>ya</alargamiento> <ruido tipo=""palmada""/>"
+hab1	pues mira el <sigla_inicio/>BMW<sigla_fin/> serie uno me mola mogollón <pausa/> y si no el Golf <sigla_inicio/>GTI<sigla_fin/> <risa/> <risa/> <pausa/> y si no <pausa/> lo que me voy a comprar en un futuro <pausa/> supongo que será el Yaris <pausa/> que es el más baratito <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>que</alargamiento> tampoco está mal <pausa/> pero bueno <pausa/> negro eso sí <pausa/> negro a poder ser <silencio/>"
+hab1	<alargamiento>y</alargamiento> mmm no lo sé <pausa_larga/>
+hab1	renovar el armario <risa/> <pausa_larga/>
+hab1	viajar tío <pausa/> pagarles un viaje a mis padres ahí de lujo <pausa/>
+hab2	¿sí?
+hab1	"y pagarme a mí otro <alargamiento>con</alargamiento> <pausa/> con uno por ahí <pausa/> otro de lujo también <pausa/> <ruido tipo=""chasquido boca""/> a lo mejor hasta repetiría Dublín y todo <pausa_larga/>"
+hab1	pero bueno <pausa/> con la de dinero que hay repetiría Dublín y siete sitios más o sea que <risa/> <silencio/>
+hab1	y no sé <pausa/>
+hab2	mmm bueno <pausa_larga/>
+hab2	<alargamiento>pues</alargamiento><pausa/> ahora dime ¿cuáles son tus aficiones? <silencio/>
+hab1	hablar <risa/>
+hab2	<risa_inicio/>bueno <pausa/><ininteligible/><risa_fin/>
+hab1	no <risa/> <pausa/> yo que sé <pausa/> jo lo lo mítico <pausa/> estar con los colegas me mola mogollón haciendo cualquier cosa pero <pausa/> con los colegas <pausa/> luego me mola también estar <pausa/> muy a mi bola con música <pausa/> yo a lo mejor voy por la calle y no me empano nunca de nada <pausa/>
+hab2	mhm
+hab1	¿sabes? me tienen llamado amigos por detrás y hasta que me hacen así yo no me entero <pausa/> siempre voy con los cascos <pausa/> soy una persona <alargamiento>que</alargamiento> <pausa/> sin música un día no aguanta <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> luego <pausa/> me mola ver pelis <pausa/> <ruido tipo=""chasquido boca""/> pero en el cine no tanto <pausa/> <alargamiento>porque</alargamiento> no me mola pagar cinco euros por ver una peli <pausa/> porque por lo general <pausa_larga/>"
+hab1	"<ruido tipo=""chasquido boca""/> a no ser que sea película que digo <cita_inicio/>quiero ver<cita_fin/> <pausa_larga/>"
+hab1	pero por lo general en plan <cita_inicio/>¿vamos al cine?<cita_fin/> <cita_inicio/>¿sí?<cita_fin/> <pausa/> <cita_inicio/>no<cita_fin/> <pausa/> <alargamiento>porque</alargamiento> <alargamiento>si</alargamiento> no digo <pausa/> <cita_inicio/>sí sí sí<cita_fin/> es porque no me interesa nada <pausa/> entonces pagar simplemente por <pausa/> pasar un rato <pausa/> prefiero alquilarme películas y verlas en mi casa <pausa_larga/>
+hab1	y <alargamiento>luego</alargamiento> <pausa/>
+hab2	¿y <alargamiento>qué</alargamiento> qué tipo de películas? <silencio/>
+hab1	casi me da igual tía <pausa/>
+hab2	¿sí?
+hab1	sí <pausa/> yo soy <alargamiento>muy</alargamiento> muy versátil la última que vi <pausa/> bueno <pausa/> vengo de ver una película supercutre en casa de una amiga <pausa/> así que esa no la voy a decir <pausa/> diré que ayer vi El Orfanato <pausa/> sí está chula <pausa/> para ser española está guay <pausa/> es interesante <pausa/> eh <pausa/> no da miedo <pausa/> para nada <pausa/> el niño sí el niño es muy feo <risa/> <risa_inicio/>pero <risa_fin/> no da miedo <pausa/>
+hab2	¿la última que viste?
+hab2	¿sí?
+hab2	¿de qué va? <pausa/>
+hab1	"pues <alargamiento>va</alargamiento> <pausa/> va de una tía <pausa/> que vive en una casa con el hijo adoptado y el marido <pausa/> pero la casa esa era antes era un <palabra_cortada>orfa</palabra_cortada> un orfanato que era al que iba ella <pausa/> entonces <ruido tipo=""tos""/> <pausa/> bueno el hijo adoptado <alargamiento>tiene</alargamiento> <alargamiento>el</alargamiento> sida <silencio/>"
+hab1	entonces en una fiesta <pausa/> porque <vacilación/> deciden montar <alargamiento>una</alargamiento> <pausa/> un orfanato <pausa/> un orfanato no <pausa/> <alargamiento>una</alargamiento> residencia para niños discapacitados <pausa/> pero por lo que dijo ella en plan poquitos ¿sabes? seis siete como mucho <pausa/> para hacer actividades así <pausa/> bueno pues en la presentación en plan para conocer a los niños <pausa/> desaparece su hijo <silencio/>
+hab1	y días antes había aparecido una señora que supuestamente era <alargamiento>de</alargamiento> trabajo social superchunga <pausa/> que la había encontrado por su casa merodeando a las tantas de la mañana <pausa/> y superfea superchunga y superfea <risa/> <pausa/> bueno <pausa/> y en la fiesta esa <pausa/> al darse cuenta de que desapareció su hijo empezó a gritar <cita_inicio/>ay ay ay<cita_fin/> bueno el niño tenía amigos imaginarios ¿vale? <pausa/>
+hab2	ah <silencio/>
+hab1	pues ve <pausa/> un niño <pausa_larga/>
+hab1	eeh desarrapado con un saco en la cabeza <pausa/> un saco muy feo <palabra_cortada>ti</palabra_cortada> que dedujimos que era más feo el saco que el niño <risa/> <pausa/> <risa_inicio/>y mira que el niño es feo <risa_fin/> <pausa_larga/>
+hab1	bueno <pausa_larga/>
+hab1	"y eso <pausa/> <alargamiento>y</alargamiento> <pausa/> y <alargamiento>empieza</alargamiento> <pausa/> y se va a una gruta <pausa/> que había ido con el niño <pausa/> <alargamiento>pero</alargamiento> claro estaba la marea alta y ves como se le rompe la pierna ahí <ruido tipo=""inspiración""/> <pausa/> duele mucho ese cacho <pausa/>"
+hab2	mmm
+hab1	"y bueno <alargamiento>empieza</alargamiento> <pausa/> a buscar <alargamiento>al</alargamiento> al hijo <pausa/> dentro de la casa <pausa/> <ruido tipo=""chasquido boca""/> porque <pausa/> eeh <pausa/> los amigos imaginarios del niño <pausa/> el niño del saco en la cabeza <pausa/>"
+hab2	hm hm
+hab1	tenían <risa_inicio/>un juego <risa_fin/> que era <pausa/> lo que tú más apreciabas te lo robaban <pausa/> pero te dejaban pistas para encontrarlo
+hab2	ajá <pausa_larga/>
+hab1	entonces empezó a buscar pistas y <ininteligible/> película <ininteligible/> sigue las pistas <pausa/> bueno hay por medio más cosas <pausa/> pero al final <silencio/>
+hab1	"<ruido tipo=""chasquido boca""/> eeh <pausa/> bueno es que tampoco la voy a contar <pausa_larga/>"
+hab1	"al final <alargamiento>es</alargamiento> <alargamiento>es</alargamiento> ¿sí? ¿la cuento? bueno pues os jodéis <ruido tipo=""palmada""/> <risa/> al final <pausa/> <alargamiento>encuentra</alargamiento> <pausa/> un pomo de una puerta <pausa/> y ese pomo <pausa/> pertenece <pausa/> a una puerta que hay escondida <pausa_larga/>"
+hab2	tú cuenta mujer
+hab2	<alargamiento>sí</alargamiento><pausa/> claro
+hab1	"en una especie de <palabra_cortada>sotani</palabra_cortada> sotanito no pero <pausa/> <ruido tipo=""chasquido boca""/> el <alargamiento>típico</alargamiento> el típico armario que hay en las películas debajo de las de las escaleras ¿sabes?"
+hab2	ah <pausa/> sí sí <pausa/>
+hab1	"que ahí tenían <alargamiento>como</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> andamios no pero de estas cosas que se le ponen bueno <pausa/> que cayeron y ella los tiró para dentro en la fiesta <pausa/> entonces abre esa puerta <pausa/> y bueno <pausa/> ahí la tía ya <alargamiento>está</alargamiento> <pausa_larga/>"
+hab1	"<ruido tipo=""chasquido boca""/> medio ida <pausa/> y acaba encontrando al <palabra_cortada>hi</palabra_cortada> a <pausa/> allí al hijo <silencio/>"
+hab1	"<ruido tipo=""chasquido boca""/> entonces <pausa/> eeh como encontró al hijo <pausa/> el niño le había dicho que si encontrabas lo que te habían robado <pausa/> podías pedir un deseo <pausa_larga/>"
+hab1	y el deseo era <pausa/> eeh de ella <pausa/> era recuperar a Simón <pausa/> que era <pausa/> es el niño ajá <silencio/>
+hab2	<alargamiento>y</alargamiento> y <palabra_cortada>cla</palabra_cortada> no te jode que lo recuperó <pausa/> como que se murió ella <pausa/> de la sobredosis de chutes <risa_inicio/>que se metió <risa_fin/> <risa/> <pausa/> y el rollo es el niño no desapareció <pausa/> ni siquiera lo habían robado <pausa_larga/>
+hab2	fue <alargamiento>que</alargamiento> <pausa/> cuando se cayeron todos esos palos <silencio/>
+hab2	ella cerró la puerta <pausa/> y esos palos atrancaron esa puerta <pausa/> y el niño se quedó ahí encerrado <pausa/> entonces se murió <pausa/> ahí <pausa/> aah <pausa/>
+hab1	"pero <ruido tipo=""chasquido boca""/> <pausa/> es una ida de olla porque claro encontró al niño siete meses después <pausa/> y tú lo ves vivo <pausa/> y yo <pausa/> hombre <pausa/> yo es que soy <pausa/> yo en ese momento <pausa/> me paro a pensarlo y digo <pausa/> <cita_inicio/>joder qué lenta soy <pausa/> yo hasta me creí que el niño estaba vivo <pausa/> en plan <pausa/> coño y el niño ¿cómo va a estar vivo? ¿cómo le va a cumplir ese deseo?<cita_fin/> y al final joder <pausa/> te das cuenta de que murió porque ve a todos los niños <pausa/> y ves como el marido está solo en la casa <pausa/> así riendo en plan <pausa_larga/>"
+hab1	la peli está guay <pausa/> es entretenida <pausa/> ¿sabes? <pausa/> está <pausa/> está chula <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> descubrió al final <alargamiento>pero</alargamiento> <pausa/> está chula <pausa/> y tiene mogollón de similitud con Los otros <pausa/> tanto la forma de actuar de ella <pausa/> como los planos que le hacen <pausa/> son mucho en plan de <ruido tipo=""chasquido boca""/> o sea <pausa/> de perfil no <pausa/> de esto que te cogen solo un cacho de la cara mucho plano recostado <pausa/> es muy muy <palabra_cortada>sim</palabra_cortada> <alargamiento>muy</alargamiento> muy igual <alargamiento>a</alargamiento> a Los otros <pausa/> pero está guay"
+hab2	¿sí?
+hab2	sí <pausa/>
+hab2	¿cuál te gustó más Los otros <alargamiento>o</alargamiento> ? <pausa/>
+hab1	"Los otros si digo la verdad <pausa/> no la vi entera <risa/> <pausa/> <alargamiento>pero</alargamiento> tampoco me <ruido tipo=""boca""/> el cacho que vi no me <pausa/> no me <pausa/> es que le tengo tirria a Nicole Kidman <pausa_larga/>"
+hab1	"me da mucha grima esa mujer <risa/> <pausa/> es muy blanca <risa/> <pausa/> y <alargamiento>muy</alargamiento> recauchutada <pausa/> tanto bótox le va a subir al cerebro <risa/> <pausa/> pero bueno eso <pausa/> <ruido tipo=""chasquido boca""/> y luego <pausa/> de cine <alargamiento>español</alargamiento> <pausa/> solo me gusta esa <pausa/> y otra que había visto <pausa/> pero era así una coproducción <pausa/> de Maribel Verdú pero es que no me sé el nombre joder creo que es El niño de cera o El niño de barro <silencio/>"
+hab1	<alargamiento>que</alargamiento> está basada en hechos reales <pausa_larga/>
+hab1	que era un niño de por allá de Latinoamérica <alargamiento>que</alargamiento> veía <pausa_larga/>
+hab1	eeh <palabra_cortada>na</palabra_cortada> <pausa/> no me acuerdo ahora si era en el momento o tres segundos antes de que mataran a una persona <pausa_larga/>
+hab1	y el <pausa/> la película <alargamiento>está</alargamiento> chulísima <pausa/> yo creo que es algo así como El niño de barro o El niño de cera <pausa/> está muy chula esa peli
+hab2	mmm
+hab1	eh <pausa/>
+hab2	mhm <pausa/> ¿y de ficción?
+hab1	me gusta mucho V de Vendetta <pausa/> me encantó me encantó V de Vendetta <pausa/> <alargamiento>y</alargamiento> <pausa/> American History X es mi película <pausa/>
+hab2	ah
+hab2	mhm <silencio/>
+hab1	"pero también me parto <alargamiento>con</alargamiento> School of Rock <pausa/> y las más chufas de <risa_inicio/>Hillary Duff <pausa/> ¿sabes? <risa_fin/> <risa_inicio/>o sea soy muy <risa_fin/> <pausa/> <ruido tipo=""palmada""/> <ruido tipo=""chasquido boca""/> al cine prefiero ir a ver estilo V de Vendetta y rollos de estes <pausa_larga/>"
+hab2	"
+      <alargamiento>ya</alargamiento>
+    "
+hab1	pero jolín me traes una de esas y no te hago un asco ¿sabes? me echo unas risas <pausa/>
+hab2	mhm
+hab1	y otras aficiones <alargamiento>pues</alargamiento> <pausa/>
+hab2	¿en música? que decías que siempre ibas con los cascos
+hab1	ah sí <pausa/> bueno música soy <alargamiento>muy</alargamiento> <pausa/> muy versátil también <pausa/> me <alargamiento>gusta</alargamiento> <silencio/>
+hab1	para escuchar <pausa/> o sea para escuchar en plan tener <sigla_inicio/>CDs<sigla_fin/> <pausa/>
+hab2	hm
+hab1	me gusta mucho por ejemplo Linking Park <pausa/> eemm Nikellback <pausa/> y luego soy muy <alargamiento>de</alargamiento> <pausa_larga/>
+hab1	"de hiphop <pausa/> en español <pausa/> <ruido tipo=""chasquido boca""/> pero no estilo Violadores Natch y todo esto sino los típicos grupiños de la zona <pausa/> en plan los que hay por aquí en Santiago de Mito <alargamiento>Escrito</alargamiento> <pausa/> Pa la <alargamiento>Peña</alargamiento> <pausa/>"
+hab2	hm <pausa/>
+hab1	y así ¿sabes? <pausa/> Dios ke te crew <pausa/> y luego unos de Valladolid que se llaman La Puta Élite <pausa/> y luego un colega mío que es Dudy que está haciendo así pinitos <pausa/> yo aquí haciendo publicidad <risa/> <pausa/> y cosas así y luego lo típico de canciones que me gustan que me bajo <pausa/> en plan esta me gusta ¿cuál es esta? pues tal <pausa/>
+hab2	claro aprovecha
+hab2	hm hm <pausa/>
+hab1	"<ruido tipo=""palmada""/> pero bueno"
+hab2	<alargamiento>y</alargamiento> ¿vas a conciertos <vacilación/> ? <silencio/>
+hab1	"
+      <alargamiento>sí</alargamiento>
+      <silencio/>
+    "
+hab1	<alargamiento>sí</alargamiento><pausa/> sí <pausa_larga/>
+hab1	sí <pausa/>
+hab2	¿el último al que fuiste? <risa/> <silencio/>
+hab1	buah <pausa/> ¿el último al que fui pagando o sin pagar? <silencio/>
+hab1	en plan <pausa/> sin pagar <alargamiento>al</alargamiento> <pausa/> uno que hubo en Órdenes de Dios ke te crew y varios <pausa/> más <pausa/> pero yo me quedé por Dios ke te crew <pausa/> y pagando <pausa/> el último que <alargamiento>fui</alargamiento> <pausa/> que fui que fui que <alargamiento>fui</alargamiento> <pausa/> fue hace puf <pausa/> el puf de años <pausa/> en <ficticio>Muros</ficticio> <pausa_larga/>
+hab1	fui con los <palabra_cortada>col</palabra_cortada> <pausa/> fui <énfasis_inicio/>por<énfasis_fin/> los colegas <pausa/> no <énfasis_inicio/>por<énfasis_fin/> el grupo <pausa/> <alargamiento>a</alargamiento> El Canto del Moco <risa/> <pausa/> <risa_inicio/>fui ahí a ver al Canto del Loco <risa_fin/> <pausa/> la verdad <pausa/> a ver <pausa_larga/>
+hab1	"no me mola pero he de decir que me lo pasé guay ¿sabes? <pausa/> los tíos <pausa/> llegaron media hora tarde <pausa/> pero bueno <pausa/> se cantaron unas <lengua_inicio nombre=""gl""/>ondiñas veñen<lengua_fin/> con nosotros <pausa/>"
+hab2	ajá <pausa/>
+hab1	"<alargamiento>no</alargamiento> el sitio <pausa/> está guay <pausa/> y así <ruido tipo=""chasquido boca""/> <pausa_larga/>"
+hab2	<alargamiento>y</alargamiento> por ejemplo ¿deportes?
+hab1	sí <pausa/> adicta al gimnasio
+hab2	<alargamiento>¿sí</alargamiento> ?
+hab2	¿sí?
+hab1	sí <pausa/>
+hab2	¿a cuál vas?
+hab1	Santa Isabel <pausa/>
+hab2	ajá <pausa/> ¿y <alargamiento>qué</alargamiento> ?
+hab1	una risa es tremenda <pausa/> tenemos ahí el grupito montado ya <pausa/> de hecho la amiga con la que fui a Dublín la conozco del gimnasio
+hab2	ah
+hab1	"<alargamiento>y</alargamiento> ahora <ruido tipo=""chasquido boca""/> no quedamos tanto porque <alargamiento>yo</alargamiento> tengo clase por la tarde y ella por las mañanas <pausa/> en el mismo <palabra_cortada>ci</palabra_cortada> <pausa/> en el <alargamiento>mismo</alargamiento> <silencio/>"
+hab1	instituto pero <pausa/> nos corta ahí el rollito <pausa/> pero guay <pausa/> nuestro lugar de reunión es los <alargamiento>viernes</alargamiento> en <alargamiento>el</alargamiento> <pausa/> en el gimnasio <pausa/>
+hab2	¿y qué máquinas utilizas o <ininteligible/> ?
+hab1	"no <pausa/> máquinas no me mola <pausa/> yo voy a clases guiadas <pausa/> voy a todas las que haya Body Pump <pausa/> Fit Bike <pausa/> eeh Body Step <pausa/> Body Combat <pausa/> sauna <pausa/> me gusta ir a la sauna <pausa/> ahí a sudar como una guarra <risa/> <risa/> pero <ruido tipo=""chasquido boca""/> o sea <pausa/> a ver <pausa_larga/>"
+hab2	¿ah sí?
+hab2	¿sí?
+hab1	me mola machacarme en el gimnasio en plan lo estoy pasando mal <pausa/> pero no es por el hecho <alargamiento>de</alargamiento> <pausa/> vamos a lucir tipo <pausa/> sino porque es que me mola ¿sabes? <pausa/> yo me lo paso genial en el gimnasio <pausa/> ¿sabes? porque para mí no es <pausa/> el rollo de ir para estar guapa <pausa/> lo mío es el rollo de ir en <alargamiento>plan</alargamiento> <pausa_larga/>
+hab1	me lo voy a pasar guay <pausa/> voy <risa_inicio/>con mis colegas <pausa/> voy a echar unas risas <risa_fin/> <pausa_larga/>
+hab1	y <pausa/> desahogar <pausa/> soltar adrenalina <pausa/> me mola <silencio/>
+hab2	¿y aparte del gimnasio? <pausa/> no sé <pausa/> <alargamiento>no</alargamiento> <pausa/>
+hab1	no
+hab2	¿natación?
+hab1	"
+      <alargamiento>no</alargamiento>
+      <pausa_larga/>
+    "
+hab1	me da mucha pereza <risa/> puedo ir porque tienen también piscina pero me da <risa_inicio/>mucha pereza <risa_fin/> <risa/> y nada más
+hab2	<alargamiento>y</alargamiento><pausa/> ¿literatura <pausa/> libros? <pausa/>
+hab1	puf para eso soy muy mala <pausa/>
+hab2	¿sí? <pausa/>
+hab1	sí por ejemplo fff me cuesta muchísimo acabar los libros <pausa/> o sea empezados tengo la leche <pausa_larga/>
+hab1	acabados <pausa/> creo que tengo uno <silencio/>
+hab1	"no <pausa/> mentira <pausa/> me faltan dos páginas <pausa/> no sé es que mi rollo de los libros es <pausa/> <ruido tipo=""chasquido boca""/> me me gusta leer <pausa/> pero en cuanto pillo eeh de qué va la historia <pausa/> ya me pierde interés el libro <pausa/>"
+hab2	mmm <pausa_larga/>
+hab1	entonces <pausa/>
+hab2	<alargamiento>¿no</alargamiento><alargamiento>pues</alargamiento> por saber cómo termina?
+hab1	tienes interés
+hab1	no <pausa/> y eso <alargamiento>que</alargamiento> <pausa/> hay los que el final es <pausa_larga/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	muy chungo <pausa/> pues <alargamiento>no</alargamiento> <pausa/> no soy capaz de acabarlos <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> y tengo ganas de leer El alquimista jolín que todo el mundo me dice que está muy guay <pausa_larga/>"
+hab1	y a ver si me lo pillo <pausa/> el último que leí fue El ángel más tonto del mundo <pausa_larga/>
+hab1	<risa_inicio/>te echas unas risas tremendas ¿sabes? <risa_fin/> y además son cruces de historias así <pausa/> está muy simpático <pausa_larga/>
+hab1	"está simpático pero <alargamiento>no</alargamiento> <ruido tipo=""boca""/> <pausa_larga/>"
+hab1	"<ruido tipo=""chasquido boca""/> no soy yo de leer <risa/> <pausa/> pero soy <alargamiento>culta</alargamiento> <risa/> <pausa/>"
+hab2	"
+      <ininteligible/>
+      <risa/>
+    "
+hab1	no soy <alargamiento>rubia</alargamiento> <risa/> <silencio/>
+hab1	lo cual no digo que las rubias sean tontas simplemente <risa/> <silencio/>
+hab1	soy morena <risa/> <silencio/>
+hab2	<alargamiento>y</alargamiento><pausa/> ¿a qué colegio fuiste?
+hab1	<alargamiento>al</alargamiento> Ramón Cabanillas <alargamiento>en</alargamiento> Castiñeiriño <pausa/> que ahora parece una cárcel <pausa/> pero bueno <silencio/>
+hab1	me lo pasé guay <pausa/>
+hab2	¿hasta <alargamiento>qué</alargamiento> curso es?
+hab1	hasta sexto
+hab2	mhm
+hab1	yo hasta sexto <pausa/> y luego pasé para el Pontepedriña <pausa_larga/>
+hab1	y estuve todo hasta bachiller <pausa/>
+hab2	ajá <pausa/>
+hab1	y luego ya reboté para el Raioverde y para lo de producción audiovisual y ahora estoy en el <ficticio>Murguía</ficticio> <pausa/>
+hab2	mhm <pausa/> ¿y cuál te gusta más mmm <pausa/> de los centros en los que estuviste? <pausa_larga/>
+hab1	estéticamente el <ficticio>Murguía</ficticio> <pausa/> es que <palabra_cortada>m</palabra_cortada> <pausa_larga/>
+hab1	me <alargamiento>parece</alargamiento> yo creo que estudiar en un sitio así en <alargamiento>plan</alargamiento> de piedra como el <alargamiento>la</alargamiento> Facultad de Historia <pausa/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	es impresionante <pausa/> o sea es <pausa/> es un rollo película total no sé me mola muchísimo y luego el Raioverde <pausa_larga/>
+hab2	"
+      <alargamiento>sí</alargamiento>
+      <pausa_larga/>
+    "
+hab1	hice <pausa/> compañeros increíbles a los que quiero mogollón <pausa/> pero el sitio en sí <pausa/> joder hay que decirlo <pausa/> es un garaje <pausa_larga/>
+hab1	¿sabes? la clase de primero <pausa/> era un garaje <pausa_larga/>
+hab1	<alargamiento>pero</alargamiento> la gente guay los profesores muy lindos <pausa/>
+hab2	¿sí?
+hab1	sí <pausa_larga/>
+hab1	"no el sitio <pausa/> <ruido tipo=""chasquido boca""/>"
+hab2	¿y conservas amistades del colegio <pausa/> del primero? <pausa/> ¿sí?
+hab1	sí <pausa/> sí <pausa/> sí sí <pausa/> sí <pausa/> mi mejor amiga <pausa/> pff <pausa_larga/>
+hab1	tengo veinte años bueno pues nos conocimos en la guardería <pausa/> así que <pausa/> ya imagínate <pausa_larga/>
+hab1	y luego otra chavala que se llama <ficticio>Belinda</ficticio> <pausa_larga/>
+hab1	que la conocí en primero de <sigla_inicio/>EGB<sigla_fin/> <pausa_larga/>
+hab1	<alargamiento>con</alargamiento> seis siete años <pausa/> también sigo llevándome con ella <pausa_larga/>
+hab2	hm hm
+hab1	"<ruido tipo=""chasquido boca""/> y luego las míticas que joder las ves y saludas pero que ya no es una relación <alargamiento>de</alargamiento> <pausa/> de roce <pausa/> pero guay <pausa_larga/>"
+hab1	y luego del instituto también conservo así algunas <pausa/>
+hab2	sí <pausa/> ¿la mayoría de dónde son? <pausa_larga/>
+hab2	"
+      <ininteligible/>
+      <silencio/>
+    "
+hab1	del instituto supongo <pausa/> <alargamiento>pero</alargamiento> <pausa/> no es que en realidad <pausa/> <alargamiento>no</alargamiento> <pausa/> porque <silencio/>
+hab1	no sé <silencio/>
+hab1	colegas así simplemente que surgen <risa/> <pausa/> del instituto sí <risa/> <risa_inicio/>es que <palabra_cortada>te</palabra_cortada> <risa_fin/> <pausa/> bueno es que tenemos una piña de seis o siete personas en el gimnasio entonces <risa/>
+hab2	son del gimnasio
+hab2	qué bueno eh
+hab1	"ahora <pausa/> <alargamiento>son</alargamiento> mucho más de eso <pausa/> y ahora los tengo en el otro y <alargamiento>ahí</alargamiento> <pausa/> somos veintipico en el de animación <alargamiento>pero</alargamiento> <pausa/> piña total también perece mentira todavía no hay roces ¿eh? <pausa/> menos mal pero <palabra_cortada>n</palabra_cortada> <pausa/> es normal ¿sabes? es <alargamiento>un</alargamiento> <ruido tipo=""chasquido boca""/> no es un <sigla_inicio/>FP<sigla_fin/> o sea <pausa/> no <alargamiento>es</alargamiento> <pausa/> no es un curso cualquiera <pausa/> como puede ser por ejemplo en cualquier otro curso <pausa/> que tienes tus grupitos <alargamiento>o</alargamiento> dices <cita_inicio/>ah pues con ese no quiero participar<cita_fin/> <pausa/> no <pausa/> porque aquí es <pausa/> <ruido tipo=""chasquido boca""/> son siempre <pausa/> en juegos por ejemplo son juegos <palabra_cortada>cont</palabra_cortada> constantes <alargamiento>nunca</alargamiento> <pausa/> tienes una pareja fija <pausa_larga/>"
+hab2	¿sí? <pausa/>
+hab2	"
+      <alargamiento>ya</alargamiento>
+      <pausa_larga/>
+    "
+hab1	"entonces <ruido tipo=""carraspeo""/> es un roce <palabra_cortada>ti</palabra_cortada> <pausa/> es por ejemplo cuando vas <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> <alargamiento>a</alargamiento> <pausa/> yo que sé a <pausa_larga/>"
+hab1	a un hotel <pausa/> o a <pausa/> a cualquier sitio <pausa/> que conoces a una persona y tienes que hacer juegos <pausa/> joder de primeras no te cae mal <pausa/> ¿sabes? tienes que conocerla para que te caiga bien o mal entonces <pausa/> es <alargamiento>siempre</alargamiento> <pausa/> el rollito ese <alargamiento>de</alargamiento> <pausa/> <cita_inicio/>me cae guay<cita_fin/> <pausa/>
+hab2	hm
+hab1	¿sabes? del primer día <pausa/> pero cada vez mejor <pausa/> ¿sabes? <pausa/> es <pausa/> <alargamiento>muy</alargamiento> <pausa/> chulo <pausa/> es una cosas muy rara <pausa/> <risa_inicio/>pero bueno <risa_fin/> <risa/> <pausa/> que hay buen rollito vamos <risa/>
+hab2	sí sí
+hab2	muy bien muy bien <pausa_larga/>
+hab2	"<ruido tipo=""chasquido boca""/> bueno <pausa/> pues vamos <pausa/> a ver <pausa/> a hacer un cuestionario ahora"

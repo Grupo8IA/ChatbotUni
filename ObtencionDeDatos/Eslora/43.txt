@@ -1,0 +1,591 @@
+hab2	"
+      <silencio/>
+    "
+hab2	<alargamiento>y</alargamiento> bueno <pausa/> traje <pausa/> <alargamiento>algunos</alargamiento> <pausa_larga/>
+hab2	la presentación del proyecto por si quieres <pausa/> echarle un vistazo <silencio/>
+hab2	una cosa muy <pausa/> general <pausa/> que te <pausa/> te queda ahí <pausa_larga/>
+hab2	bueno <pausa/> es mmm algo que estamos haciendo en <pausa/> en la universidad <pausa/> <alargamiento>y</alargamiento> <pausa_larga/>
+hab2	bueno <pausa/> lo están haciendo en otros equipos de investigación en otras ciudades también de España y de América <pausa_larga/>
+hab2	y <pausa/> mmm queremos tener <pausa/> <alargamiento>información</alargamiento> <alargamiento>sobre</alargamiento> eeh <pausa/> cómo la gente de distintas ciudades pues eeh <pausa/> ve la vida en la ciudad <pausa/> un poco cómo es <pausa/> cómo fue su <alargamiento>vida</alargamiento> <pausa/> <palabra_cortada>com</palabra_cortada> <pausa/> qué qué opina <alargamiento>de</alargamiento> de de
+hab1	sí
+hab1	bueno eso que mmm o <pausa/> o sea que no <alargamiento>es</alargamiento> <pausa/> eeh <pausa/> usted pregunta y <alargamiento>yo</alargamiento> respondo
+hab2	no <pausa/> no no no yo le doy unos temas y pues <vacilación/> temas unos temas por mmm <alargamiento>por</alargamiento> mmm por proponer eeh <pausa/> temas de los que hablar ¿no? <alargamiento>pero</alargamiento> si tú me quieres contar <pausa/> o usted <pausa/> bueno no sé que prefieres <pausa_larga/>
+hab1	ah
+hab1	vale
+hab1	"
+      <alargamiento>sí</alargamiento>
+      <alargamiento>sí</alargamiento>
+      <pausa_larga/>
+    "
+hab1	<alargamiento>no</alargamiento> tú tú <pausa/> por favor
+hab2	si te entonces tú me tratas <pausa/> tú también de tú
+hab1	vale <pausa/> gracias <risa/>
+hab2	pues <pausa/> si tú me quieres contar <pausa/> eeh mmm no sé <vacilación/> vamos a ver <pausa/> pues anécdotas de cuando eras <alargamiento>chaval</alargamiento> <pausa/> de dónde estudiaste <pausa/> de qué <palabra_cortada>ba</palabra_cortada> en qué barrio vivías si eres de aquí de Santiago ese tipo de cosas a nosotros nos interesan mucho
+hab1	"
+      <alargamiento>sí</alargamiento>
+    "
+hab1	vale
+hab1	no es que yo pensé que tenía algún <alargamiento>guión</alargamiento> o algo para
+hab2	no <pausa/> guión <palabra_cortada>gui</palabra_cortada> guión propiamente no hay <pausa/> hay un <alargamiento>guión</alargamiento> <pausa/> pero temático más bien y luego al final <pausa/> lo que hacemos es pasar un cuestionario <pausa/> <alargamiento>de</alargamiento> de datos <pausa/> porque necesitamos así datos <pausa/> eh sociológicos <pausa/> ¿no? <pausa/> para <pausa/> para la muestra y tal <pausa_larga/>
+hab1	"
+      <alargamiento>ah</alargamiento>
+    "
+hab2	"entonces así por empezar un poco y romper el hielo <pausa/> eeh mmm <ruido tipo=""indeterminado""/> <pausa/> a ver <pausa/> mmm así de <pausa/> de de tu <palabra_cortada>infa</palabra_cortada> ¿tú naciste aquí en Santiago?"
+hab1	"
+      <alargamiento>sí</alargamiento>
+      <pausa/>
+    "
+hab2	¿y es <pausa/> en qué barrio naciste?
+hab1	yo nací en el barrio de Santa Marta <pausa_larga/>
+hab2	¿Santa Marta <alargamiento>queda</alargamiento> ?
+hab1	por eeh la zona del Peregrino la carretera antigua de Santiago a Vigo <pausa/>
+hab2	¿y cómo era el barrio cuando tú eras niño?
+hab1	<alargamiento>pues</alargamiento><pausa/> era un barrio <pausa/> mmm donde nací yo precisamente <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> era un <alargamiento>barrio</alargamiento> <pausa/> bastante humilde <pausa/> donde vivía <alargamiento>gente</alargamiento> <pausa_larga/>"
+hab1	humilde gente trabajadora <alargamiento>y</alargamiento> había mucho chabolismo de aquella <alargamiento>y</alargamiento> <pausa/> y todo eso <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> nací <alargamiento>allí</alargamiento> y viví allí hasta los ocho años porque <pausa/> el padre de mi padre <pausa_larga/>
+hab1	que <alargamiento>era</alargamiento> de allí de Santa Marta y era <alargamiento>muy</alargamiento> <pausa/> una persona <alargamiento>muy</alargamiento> rica <alargamiento>pero</alargamiento> <pausa_larga/>
+hab1	<alargamiento>que</alargamiento><alargamiento>tuvo</alargamiento><pausa/> varias mujeres y no <palabra_cortada>tení</palabra_cortada> no lo no tenía hijos <alargamiento>reconocidos</alargamiento> bueno <pausa/> un desastre <pausa_larga/>
+hab1	y entonces le dejó a mi padre allí un pequeño <alargamiento>terrenito</alargamiento> para que hiciera una casa de <alargamiento>aquella</alargamiento> y tal y hizo una casa como pudo de planta baja <pausa_larga/>
+hab1	y entonces nacimos allí <palabra_cortada>er</palabra_cortada> <pausa/> somos cuatro hermanos <pausa/> tres mujeres y yo <pausa_larga/>
+hab1	y recuerdo que hasta los ocho años <pausa/> vivimos allí <pausa/> <alargamiento>pero</alargamiento> <palabra_cortada>do</palabra_cortada> <palabra_cortada>teníam</palabra_cortada> <pausa/> solo la casa tenía dos habitaciones <pausa/> en una dormían mis padres <pausa/> y en otra los cuatro <pausa/>
+hab2	claro <pausa/>
+hab1	tres <palabra_cortada>mu</palabra_cortada> <palabra_cortada>l</palabra_cortada> <pausa/> mis tres hermanas <pausa/> y yo <pausa/> <alargamiento>y</alargamiento> <alargamiento>claro</alargamiento> <pausa/> dormíamos dos en la cabecera y dos en los pies <risa/> <pausa_larga/>
+hab1	y no teníamos <alargamiento>baño</alargamiento> <pausa/> mi madre <palabra_cortada>no</palabra_cortada> <pausa/> recuerdo que nos lavaba en una bañera de zinc <pausa_larga/>
+hab1	de esas con <pausa/> calentaba el agua en la cocina de leña porque teníamos cocina de leña <pausa_larga/>
+hab2	claro
+hab1	<alargamiento>y</alargamiento><pausa/> y así y iba al colegio de La Milagrosa <pausa/> que es de <alargamiento>allí</alargamiento> <pausa/> es allí al lado en el <pausa/> bueno en esa zona
+hab2	en Santa Marta <pausa_larga/>
+hab2	sí sí sí <pausa/> sé dónde es
+hab1	"<ruido tipo=""chasquido boca""/> por cierto <alargamiento>que</alargamiento> <pausa/> era <alargamiento>la</alargamiento> persona valedora del colegio era Doña Gloria Covelo de Castromil <pausa_larga/>"
+hab2	¿de los Castromil? ya mmm
+hab1	sí
+hab1	que era la benefactora del colegio la que pagaba <pausa/> porque yo nunca pagué un duro <pausa_larga/>
+hab2	"
+      <alargamiento>ah</alargamiento>
+    "
+hab1	<alargamiento>nada</alargamiento> yo no pagaba nada <pausa_larga/>
+hab1	y <alargamiento>aparte</alargamiento> tengo que decir también que yo cuando iba al colegio <risa_inicio/>no es por nada <risa_fin/> <pausa/> pero era muy listo <pausa/> muy estudioso <pausa/> sacaba muy buenas notas <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> por <alargamiento>eso</alargamiento> <pausa/> estuve Doña Gloria <pausa/> la benefactora junto con otros <pausa/> tres compañeros más <pausa/> nos llevaba todos los años <pausa/> bueno <pausa/> cuando fuimos algo mayores claro <pausa/> para <alargamiento>la</alargamiento> <pausa/> para la catedral y estuvimos de monaguillos en la catedral <pausa_larga/>
+hab1	y nos pagaban cien pesetas a la <alargamiento>semana</alargamiento> <pausa_larga/>
+hab1	de aquella y nos daba la merienda todos los días en su casa <pausa/> en la Rúa del Villar <pausa/>
+hab2	mmm
+hab1	<alargamiento>y</alargamiento> después <alargamiento>de</alargamiento> ir <risa_inicio/>a la misa <risa_fin/> <pausa_larga/>
+hab1	y de ayudar en misa <alargamiento>al</alargamiento> al cura allí en el altar mayor en la catedral <pausa_larga/>
+hab1	pues <alargamiento>yo</alargamiento> me compraba <pausa/> con mis compañeros <pausa/> me compraba unas galletas napolitana allí en El Toral <pausa_larga/>
+hab1	en una pastelería que había que ya <alargamiento>no</alargamiento> existe <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> iba más contento <alargamiento>que</alargamiento> unas pascuas <pausa/> <alargamiento>y</alargamiento> la infancia mía <pausa/> era así <alargamiento>de</alargamiento> <pausa/> <alargamiento>estudiar</alargamiento> <pausa/> y jugar al fútbol que <alargamiento>jugaba</alargamiento> mucho al fútbol estaba siempre jugando al fútbol <pausa_larga/>
+hab1	<alargamiento>en</alargamiento> la calle en el campo del guardia que le llamaban un campo <palabra_cortada>qu</palabra_cortada> <pausa/> <alargamiento>que</alargamiento> donde está ahora la Avenida <alargamiento>de</alargamiento> Bilbao y la Avenida de Barcelona
+hab2	<palabra_cortada>¿es</palabra_cortada> esas nuevas que hicieron?
+hab1	justo <pausa/> estas casas pues allí <pausa/> campo <pausa/> allí jugaba yo al fútbol porque allí <pausa/> tenía <pausa_larga/>
+hab2	<palabra_cortada>a</palabra_cortada> ¿que había campos?
+hab2	todo campo
+hab1	eeh teníamos el campo de fútbol y mi padre también tenía una finca una pequeña finca <alargamiento>que</alargamiento> <pausa_larga/>
+hab1	eh <pausa/> poníamos patatas y tal y claro había que ayudar después <pausa_larga/>
+hab1	otra cosa <alargamiento>también</alargamiento> que recuerdo <pausa_larga/>
+hab1	que no teníamos agua en casa de la traída <pausa_larga/>
+hab1	y teníamos que ir a la fuente <pausa/> con los bidones <alargamiento>y</alargamiento> <pausa/> bueno <alargamiento>yo</alargamiento> de chaval recuerdo pasarme tardes enteras <pausa_larga/>
+hab1	a carretar agua <pausa_larga/>
+hab1	y soy de aquí de la ciudad que no <palabra_cortada>viv</palabra_cortada> no nací allá <alargamiento>en</alargamiento> <pausa/> en el monte
+hab2	ya
+hab1	"pero no teníamos agua porque <pausa/> Santa Marta era un barrio así <alargamiento>bastante</alargamiento> <ruido tipo=""chasquido boca""/> con muy mala fama ¿no? <alargamiento>porque</alargamiento> <pausa_larga/>"
+hab1	eeh <alargamiento>en</alargamiento> aquella época <alargamiento>vivía</alargamiento> <pausa/> una de las prostitutas más famosas de todo Santiago
+hab2	¿ah sí? <pausa/>
+hab1	que <alargamiento>era</alargamiento> la Rosita <silencio/>
+hab1	"y entonces eeh fff era un poco el concello el ayuntamiento o no sé quién fuera <pausa/> <ruido tipo=""chasquido boca""/> tenían un poco de lado el barrio ese <alargamiento>no</alargamiento> estaba asfaltado era camino todo de tierra hasta hace muy poco <pausa_larga/>"
+hab1	era todo de tierra <pausa/> bajabas de La Espiñeira <pausa_larga/>
+hab1	y era todo tierra no <alargamiento>había</alargamiento> <pausa/> asfalto ni había nada era todo tierra <pausa_larga/>
+hab1	y después al lado de mi casa por allí vivían <pausa/> otros <pausa_larga/>
+hab1	otras personas así también <pausa/> de familias conocidas aquí de toda la vida de Santiago los Paxarelo <pausa_larga/>
+hab1	"bueno gente así que <pausa/> oye pero gente trabajadora gente humilde y tal lo que pasa que <pausa/> tenía mala fama porque vivían <pausa/> <ruido tipo=""chasquido boca""/> ciertas personas como dije antes <alargamiento>y</alargamiento> además vivían gitanos durante una época vivieron gitanos <alargamiento>allí</alargamiento> y aquello era brr <pausa_larga/>"
+hab1	ya le llamaban <alargamiento>el</alargamiento> <pausa/> Gran Chaparral <pausa/> en aquella época <alargamiento>recuerdo</alargamiento> así de chaval <pausa_larga/>
+hab1	que le <risa_inicio/>a la zona <risa_fin/> <pausa/> le llamaban el Gran Chaparral <alargamiento>y</alargamiento> y <pausa/> y después también me acuerdo de <alargamiento>que</alargamiento> <pausa/> decías por <alargamiento>ahí</alargamiento> que eras de Santa Marta y pff <pausa_larga/>
+hab1	es como si dijeras que eras <alargamiento>de</alargamiento> <risa/> de Carballo <alargamiento>o</alargamiento> que vivías con los gitanos porque era un barrio que estaba muy mal visto <pausa_larga/>
+hab1	fff ahora tiene <alargamiento>mucha</alargamiento> <pausa/> solera <risa_inicio/>o <risa_fin/> mucha fama por esto del sub <pausa/> cuatro o sub <risa_inicio/>cinco <risa_fin/> o no sé qué carallo es <pausa_larga/>
+hab1	<risa/><alargamiento>de</alargamiento> la urbanización que hicieron y los pisos de lujo hotel de lujo de cinco estrellas y todo y <palabra_cortada>o</palabra_cortada> y claro nadie se acuerda <pausa/> de <risa_inicio/>que hace <risa_fin/> muy poquitos años <pausa_larga/>
+hab1	<risa_inicio/><alargamiento>era</alargamiento><risa_fin/> uno de los barrios <pausa_larga/>
+hab1	peor considerados de Santiago <pausa/> pienso yo <pausa/> <alargamiento>con</alargamiento> <pausa/> vamos <pausa_larga/>
+hab1	sin ningún tipo de dudas <pausa_larga/>
+hab2	y y y ya que <pausa/> comentas eso de de cómo cambió porque realmente Santa Marta debe ser uno de los barrios <pausa/> donde más contraste hay ¿no? entre lo que era hace treinta años o cuarenta <pausa/> y lo que es ahora <pausa/> ¿la gente que vivía entonces allí <pausa/> sigue viviendo allí? ¿ <palabra_cortada>vi</palabra_cortada> vive ?
+hab1	sí <pausa/> sí <pausa/> sí sí
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab1	pues la gente eeh <pausa/> también vamos <alargamiento>a</alargamiento> iba a hablar de eso también la gente que <alargamiento>vivía</alargamiento> <pausa/> allí <pausa/> mmm de hecho muchos chavales de mi edad <pausa/> <alargamiento>que</alargamiento> vinieron conmigo al colegio toda la vida y éramos amigos de siempre y tal <pausa_larga/>
+hab1	pues <pausa/> eeh la gran mayoría ya no vive allí en lo que es el núcleo de Santa Marta <pausa/> Santa Marta de abajo <pausa_larga/>
+hab1	ahora viven muchos de ellos <pausa/> viven en pisos <pausa/> mmm mismamente mis padres <pausa/> eeh viven en pisos de protección oficial <alargamiento>que</alargamiento> les fueron dando <pausa/> <alargamiento>en</alargamiento> el Banco del Pobre <pausa_larga/>
+hab1	<alargamiento>o</alargamiento> San Ignacio de Loyola <pausa_larga/>
+hab1	vulgarmente conocido como Banco del Pobre <pausa/> <alargamiento>y</alargamiento> también en Puentepedriña <pausa/> que es donde viven mis padres en el grupo Cardenal Quiroga <pausa_larga/>
+hab1	"y en Vite también hay alguna gente y tal <pausa/> es decir que de la gente <alargamiento>antigua</alargamiento> <ruido tipo=""chasquido boca""/> <pausa/> eeh <pausa/> <alargamiento>solamente</alargamiento> queda muy poca gente la gente <alargamiento>que</alargamiento> era de allí de toda la vida de toda la vida <pausa_larga/>"
+hab1	como mi padre que va <pausa/> aún va todos los días allí <pausa/> todos los días todos los días <pausa_larga/>
+hab1	porque tenemos una pequeña huerta y él planta sus cositas y tiene allí la casa <pausa_larga/>
+hab1	la casa y tal y va por allí <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> después de la gente mayor de siempre de toda la vida <pausa/> los Paxarelo <pausa/> como decía antes <pausa_larga/>
+hab1	"
+      <alargamiento>o</alargamiento>
+      <pausa_larga/>
+    "
+hab1	los <alargamiento>de</alargamiento> <pausa_larga/>
+hab1	los de la otra familia de García <alargamiento>que</alargamiento> son de toda la vida de allí <pausa/> los Couselo <pausa/> <alargamiento>y</alargamiento> etcétera <pausa/> pero hay muy poca <alargamiento>gente</alargamiento> realmente <alargamiento>que</alargamiento> hubiera nacido allí y que siga viviendo allí ahora <pausa/> ya sabe <alargamiento>que</alargamiento> <pausa/> eeh eh desde La Espiñeira desde donde empieza eeh <pausa/> casi prácticamente <pausa/> <alargamiento>El</alargamiento> Peregrino <pausa/> a la derecha del Peregrino bajando <pausa/> hasta lo que es el campo de Santa Marta son todas edificaciones nuevas <pausa/> quedan nada más tres o cuatro casas <pausa/> que bien no <alargamiento>quisieron</alargamiento> <pausa/> porque no quisieron vender o no se pusieron de acuerdo <pausa_larga/>
+hab2	sí
+hab1	o esto o lo otro por lo tanto <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> la gente de siempre de toda la vida <pausa/> <palabra_cortada>bue</palabra_cortada> alguna <alargamiento>sí</alargamiento> <alargamiento>que</alargamiento> al vender se quedó con un piso y siguen viviendo <alargamiento>allí</alargamiento> y tal <pausa/> <ruido tipo=""chasquido boca""/> pero ya es gente muy mayor <pausa/> ya <alargamiento>así</alargamiento> <pausa/> jóvenes <pausa/> que <palabra_cortada>vi</palabra_cortada> sigan viviendo allí de mi edad y tal <pausa/> vamos <palabra_cortada>n</palabra_cortada> <pausa/> prácticamente no hay nadie"
+hab2	claro <pausa/>
+hab1	salvo estes casos concretos <alargamiento>que</alargamiento> contaba antes
+hab2	ya <pausa_larga/>
+hab2	<alargamiento>y</alargamiento><alargamiento>y</alargamiento><pausa/> ¿tú cuando <pausa/> viniste? <pausa/> o sea <palabra_cortada>ta</palabra_cortada> hasta los ocho años <palabra_cortada>vivi</palabra_cortada> <palabra_cortada>vidi</palabra_cortada> decías que viviste allí en Santa Marta ¿y luego a los ocho años <pausa/> entonces qué pasó?
+hab1	en Santa Marta
+hab1	a los ocho años <pausa/> pues eeh recuerdo <alargamiento>que</alargamiento> <pausa/> cuando hice la primera <alargamiento>comunión</alargamiento> o así <pausa_larga/>
+hab1	que la primera comunión por cierto la <alargamiento>hice</alargamiento> <pausa/> en Santa Marta <pausa_larga/>
+hab1	en la parroquia de Santa Marta <pausa/> en la iglesia de Santa Marta <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/><palabra_cortada>co</palabra_cortada><alargamiento>con</alargamiento><pausa/> nuestra casa era muy pequeña y entonces <pausa/> eeh hicimos <pausa/> la comida y tal <pausa/> en la casa de los García <pausa_larga/>
+hab1	"que es una familia que vivía <alargamiento>justo</alargamiento> <pausa/> Don <pausa/> el señor <ficticio>José</ficticio> y la señora <ficticio>Angustias</ficticio> <pausa/> que ya fallecieron ambos y ahora <pausa/> quedó la hija <pausa/> y el yerno <pausa/> con los nietos <pausa/> en la casa <pausa/> que es <pausa/> ellos también pueden considerarse de toda la vida de <alargamiento>allí</alargamiento> <pausa/> <alargamiento>y</alargamiento> fue donde hice yo la primera <pausa/> bueno donde mis padres hicieron la primera comunión la <alargamiento>comida</alargamiento> <alargamiento>para</alargamiento> <pausa/> <ruido tipo=""chasquido boca""/> <alargamiento>para</alargamiento> mi abuela y para alguna gente que vino y tal <pausa_larga/>"
+hab1	y después a los ocho años <pausa/> mmm <pausa/> pues nos venimos a Puentepedriña <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> pero yo <pausa/> seguía todos los días <pausa/> yendo al colegio <pausa/> a La Milagrosa <pausa/> y mis tres hermanas <pausa/> al Divino Maestro <pausa/> junto con <alargamiento>otro</alargamiento> <pausa/> <alargamiento>otra</alargamiento> familia que era de Santa Marta también <pausa/> y vino para la Puentepedriña que eran los García Bravo <pausa_larga/>"
+hab1	que <palabra_cortada>ven</palabra_cortada> eran los que nos acompañaban porque <ficticio>Toño</ficticio> <pausa/> era el mayor <pausa/> <alargamiento>y</alargamiento> <pausa/> mayor que <alargamiento>yo</alargamiento> <pausa/> y era el que nos acompañaba él y sus hermanas <pausa/> y mis hermanas y yo <pausa/> y veníamos todos los días <pausa_larga/>
+hab1	íbamos todos los días desde Puentepedriña <pausa/> <alargamiento>hasta</alargamiento> el colegio de La Milagrosa
+hab2	una tiradita
+hab1	"<ruido tipo=""chasquido boca""/><alargamiento>sí</alargamiento> una tiradita pero no queríamos cambiar de ambiente aparte estábamos a gusto en el colegio <alargamiento>yo</alargamiento> <pausa_larga/>"
+hab1	como dije antes estaba <alargamiento>muy</alargamiento> bien considerado por los profesores <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> estudiaba y sacaba muy buenas notas y tenía mis amigos de toda la vida allí y tal y no quería cambiar <pausa_larga/>
+hab1	y mis hermanas <palabra_cortada>ta</palabra_cortada> <palabra_cortada>ta</palabra_cortada> <pausa/> a pesar de que la pequeña era muy pequeñita <pausa/> cuando nos fuimos <pausa/> aún no iba al colegio <pausa_larga/>
+hab1	pues tampoco quisieron <pausa/> las mayores <pausa/> no quisieron tampoco cambiar <pausa/> y seguimos <pausa/> yendo allí hasta <alargamiento>que</alargamiento> <pausa/> acabamos <pausa/> octavo <pausa_larga/>
+hab1	que fue lo <alargamiento>que</alargamiento> lo que hacíamos antes la <sigla_inicio/>EGB<sigla_fin/> <pausa_larga/>
+hab1	<alargamiento>luego</alargamiento> de allí <pausa_larga/>
+hab1	yo seguía <alargamiento>yendo</alargamiento> <pausa/> eeh <pausa/> aunque vivía en Puentepedriña iba todos los días a Santa Marta <pausa/> vamos <pausa/> porque comíamos allí porque mi padre trabajaba <pausa/> en el concello <pausa/> en la estación de autobuses <pausa_larga/>
+hab1	y bajaba ya <pausa/> <palabra_cortada>sal</palabra_cortada> <palabra_cortada>entra</palabra_cortada> trabajaba toda la vida de mañana <pausa/> de seis a dos <pausa/> hasta que se jubiló <alargamiento>hace</alargamiento> <pausa/> eeh <pausa/> siete u ocho años <pausa_larga/>
+hab1	pues trabajaba siempre de mañana entonces <pausa/> eeh le quedaba más cómodo <pausa/> bajar a Santa Marta porque aparte teníamos <pausa/> como dije antes <pausa/> animales <pausa/> eeh cerdos hasta hace poco aún teníamos cerdos <pausa/> gallinas <pausa/> que aún las tiene <pausa/> conejos <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> alguna oveja y tal y entonces <pausa_larga/>"
+hab1	claro <alargamiento>mi</alargamiento> padre es <pausa/> <palabra_cortada>queri</palabra_cortada> a parte que es <pausa/> nació allí y se crío allí y no hay quien lo saque de allí aún ahora <pausa/> que no tiene necesidad <pausa/> pues va domingos festivos <alargamiento>y</alargamiento> <risa/> <alargamiento>y</alargamiento> llueva haga calor haga frío <pausa_larga/>
+hab1	y no hay quien lo mueva de allí entonces nos obligaba a nosotros <pausa/> claro <pausa/> obligaba a mi madre <pausa/> y mi madre nos decía a nosotros <pausa/> <alargamiento>y</alargamiento> teníamos que salir del colegio <pausa/> y como el colegio <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> nos quedaba más cerquita <pausa/> en vez de venir a Puentepedriña <pausa_larga/>"
+hab1	pues mi madre iba todos los días <pausa/> por la <pausa/> a media mañana para Santa Marta y nos tenía la comida hecha <pausa/> para nosotros y para mis <pausa/> mi padre <pausa_larga/>
+hab1	y luego ya a las dos y media <palabra_cortada>ma</palabra_cortada> marchábamos para el colegio <pausa/> que entrábamos a las tres <pausa_larga/>
+hab1	y así hasta los catorce años <pausa_larga/>
+hab1	porque después de salir del colegio <pausa_larga/>
+hab1	pues aún ayudábamos allí en casa <pausa/> <alargamiento>a</alargamiento> ir a por agua a regar las <palabra_cortada>ceboll</palabra_cortada> o las cebollas regar lo tomates las lechugas <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> aparte que yo estaba allí con los amigos y tal y <pausa/> porque a mí la Puentepedriña no me <alargamiento>tiraba</alargamiento> nada <pausa_larga/>
+hab1	ni me tira aún ahora <pausa/> y eso <alargamiento>que</alargamiento> <pausa/> viví allí <pausa_larga/>
+hab1	pero <alargamiento>no</alargamiento> <pausa/> era un <palabra_cortada>si</palabra_cortada> me gustaba más el barrio de Santa Marta aunque era más <pausa_larga/>
+hab1	fff no sé eh mmm <pausa/> pero me gustaba más tenía <alargamiento>otra</alargamiento> <pausa/> <palabra_cortada>e</palabra_cortada> era otro tipo <alargamiento>de</alargamiento> <pausa/> las amistades eran diferentes <pausa_larga/>
+hab1	"era de <pausa/> <ruido tipo=""chasquido boca""/> de toda la vida <pausa/> ya nos conocíamos todos y tal y era diferente <pausa_larga/>"
+hab2	claro
+hab1	y era así hasta los catorce años luego a los catorce años <pausa_larga/>
+hab1	pues eeh fui al instituto <pausa_larga/>
+hab1	al Gelmírez <pausa/> donde está hoy la Xunta de Galicia que era el único instituto que había junto con el femenino que era el Rosalía de Castro <pausa/> de aquella no había mixto como hay ahora ni chicos con chicas ni nada eso me cogió a mí <risa/> <pausa_larga/>
+hab2	sí
+hab2	masculino
+hab1	pues cuando iba en segundo de <sigla_inicio/>BUP<sigla_fin/> o algo así <pausa_larga/>
+hab1	y nada y estuve <alargamiento>allí</alargamiento> hasta que <alargamiento>acabé</alargamiento> el bachillerato luego hice <sigla_inicio/>COU<sigla_fin/> y cuando estaba <pausa_larga/>
+hab1	haciendo <sigla_inicio/>COU<sigla_fin/> porque repetí segundo <pausa/> por <alargamiento>una</alargamiento> enfermedad <pausa/> estuve enfermo <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> durante <alargamiento>un</alargamiento> tiempo <alargamiento>bastante</alargamiento> largo <pausa_larga/>"
+hab1	y <alargamiento>me</alargamiento> perdí las evaluaciones <pausa_larga/>
+hab1	y tal <alargamiento>y</alargamiento> entonces <pausa/> eeh <pausa/> repetí segundo luego hice tercero <pausa/> <alargamiento>y</alargamiento> luego <sigla_inicio/>COU<sigla_fin/> <pausa/> <alargamiento>y</alargamiento> al acabar <sigla_inicio/>COU<sigla_fin/> <pausa_larga/>
+hab1	en octubre me <pausa/> me casé <alargamiento>porque</alargamiento> <pausa/> mi novia <pausa/> que era vecina también mía <pausa_larga/>
+hab1	de Pontepedriña <pausa_larga/>
+hab1	eeh <pausa/> pues <pausa/> quedó embarazada <alargamiento>y</alargamiento> y entonces mis padres <pausa/> como tenían <alargamiento>tres</alargamiento> hijas <pausa/> no querían que les pasara eso a ninguna de mis hermanas <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> pues <pausa/> me casé <pausa/> de lo cual no me arrepiento para nada que estoy muy contento muy feliz <pausa_larga/>
+hab1	tengo dos hijos y y aquí estoy <pausa/>
+hab2	<risa/> pero entonces ¿tu hijo mayor eeh ya será <alargamiento>un</alargamiento> ?
+hab1	sí <pausa/> mi hijo mayor
+hab2	o hija no sé
+hab1	mi hijo <pausa/> mi hijo mayor ya tiene veinticinco años <pausa/> cumplidos ayer precisamente día <pausa/> veinticuatro de marzo <pausa_larga/>
+hab2	fíjate
+hab1	<alargamiento>y</alargamiento> ya <palabra_cortada>ac</palabra_cortada> y <pausa/> estudió en el instituto donde yo trabajo <pausa/> actualmente <pausa/> en el cual llevo ya veinte años <pausa/> desde que abrió <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> nada <alargamiento>y</alargamiento> acabó el instituto y me dijo <pausa/> <cita_inicio/>papá no <alargamiento>quiero</alargamiento> <pausa/> eeh <pausa/> <palabra_cortada>traba</palabra_cortada> <pausa/> no quiero estudiar <pausa/> no quiero seguir<cita_fin/> <pausa/> iba a hacer Políticas en un principio pero luego <pausa_larga/>
+hab1	en septiembre llegábamos de la playa y me dijo <cita_inicio/>papá yo no quiero estudiar <pausa/> quiero trabajar<cita_fin/> <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> se puso a trabajar <alargamiento>él</alargamiento> se buscó su vida y tal y hasta hoy y sigue trabajando <pausa/> está en el Clínico <pausa_larga/>
+hab1	muy contento <pausa/> ya vive con su novia <pausa/> ya no vive con nosotros <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><risa_inicio/><alargamiento>así</alargamiento> es la vida <risa_fin/>
+hab2	<risa_inicio/>bueno un poco como su padre también ¿no? <risa_fin/> porque
+hab1	sí
+hab2	de <pausa/> <alargamiento>tú</alargamiento> entonces <pausa/> cuando te <ininteligible/> <pausa/> te <palabra_cortada>ca</palabra_cortada> <pausa/> fíjate con veinte años ¿y ya empezaste a trabajar también <alargamiento>o</alargamiento> <ininteligible/> ?
+hab1	yo me casé con veinte años
+hab1	sí
+hab1	no me fui a la mili eeh <pausa/> yo me casé con veinte años <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> eeh como dije antes el veintinueve de octubre del año ochenta y tres <pausa_larga/>"
+hab1	<alargamiento>y</alargamiento><alargamiento>el</alargamiento> uno de enero <alargamiento>me</alargamiento> marché a la mili <pausa_larga/>
+hab1	porque <énfasis_inicio/>yo<énfasis_fin/> no tuve la suerte que tuvieron otros <pausa/> muchos <pausa/> de librar <alargamiento>por</alargamiento> casarte o por dejar a la novia <palabra_cortada>embara</palabra_cortada> <alargamiento>no</alargamiento> <alargamiento>no</alargamiento> <alargamiento>yo</alargamiento> no <pausa/> a mí no me cogió eso <pausa_larga/>
+hab1	entonces me fui a la mili me hice los trece meses de mili <pausa_larga/>
+hab1	no me dieron <pausa/> <risa_inicio/>ningún <risa_fin/> permiso <alargamiento>especial</alargamiento> por estar casado ni tuve ninguna ventaja <pausa_larga/>
+hab1	ni nada de nada de nada <pausa/> y luego me fui a la mili y luego al venir de la mili <pausa_larga/>
+hab1	no <alargamiento>quería</alargamiento> depender de mis padres <alargamiento>porque</alargamiento> estaba dependiendo de ellos para todo <pausa_larga/>
+hab1	me daban dinero para salir <pausa/> me daban dinero para comprar <pausa/> cosas que me <pausa/> hacían <alargamiento>falta</alargamiento> <pausa/> para ropa para esto para lo otro <pausa_larga/>
+hab1	y entonces yo no <alargamiento>quise</alargamiento> seguir dependiendo de ellos <alargamiento>y</alargamiento> me busqué de alguna manera la vida <pausa_larga/>
+hab1	y <alargamiento>trabajé</alargamiento> <pausa/> de varias cosas <pausa_larga/>
+hab1	eeh incluso tuve un negocio <pausa_larga/>
+hab1	bueno o un puesto como quiera llamarle <pausa_larga/>
+hab1	en la Plaza de Abastos de Santiago <pausa_larga/>
+hab1	después estuve de <alargamiento>repartidor</alargamiento> estuve de <alargamiento>comercial</alargamiento> <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> luego <pausa/> antes de empezar en la Xunta <pausa_larga/>
+hab1	pues estuve trabajando en una empresa del estado también <pausa/> del <sigla_inicio/>INI<sigla_fin/> <pausa/> que ya no existe <pausa/> del Instituto Nacional de Industria <pausa/> que se llamaba Empresa Nacional Adaro <pausa/> de investigaciones mineras <pausa_larga/>
+hab1	que nos dedicábamos a buscar yacimientos por ahí y <alargamiento>hacer</alargamiento> mapas topográficos <pausa/> de Galicia y Asturias <pausa/> en <palabra_cortada>cola</palabra_cortada> <pausa/> en colaboración con una empresa francesa <pausa/> del gobierno francés <pausa_larga/>
+hab1	en la cual <pausa/> en esta empresa <pausa/> estaba <énfasis_inicio/>supercontento<énfasis_fin/> <pausa/> cobraba muchísimo <risa_inicio/>dinero <risa_fin/> <pausa/> pero <pausa/> no <alargamiento>era</alargamiento> fijo <pausa/> de hecho <pausa/> como bien saben ustedes <pausa/> el <sigla_inicio/>INI<sigla_fin/> <pausa/> <alargamiento>desapareció</alargamiento> <pausa/> los arqueólogos <pausa/> y geólogos que trabajaban en Adaro <pausa/> se fueron todos al carallo <pausa/> y yo <pausa/> menos mal <pausa/> que me había buscado la vida con anterioridad <pausa/> y gracias a Dios <pausa/> ahora <pausa/> sigo trabajando hace <pausa/> <alargamiento>veintiún</alargamiento> años <pausa/> va a hacer <pausa/> que estoy trabajando en la Xunta <pausa_larga/>
+hab1	en un instituto <risa/> <risa/>
+hab2	¿en este instituto todo? <pausa/> bueno no
+hab1	<alargamiento>no</alargamiento> no <alargamiento>estuve</alargamiento> dos años <alargamiento>en</alargamiento> Moaña <pausa/> en un instituto de Moaña <pausa/> de formación profesional <pausa/> que tengo que decir que es otro ambiente totalmente distinto a <pausa/> a los institutos de bachillerato <pausa_larga/>
+hab2	no
+hab1	<alargamiento>y</alargamiento> a los institutos de ciudad <pausa/> como puede ser Santiago La Coruña Ferrol Vigo <pausa_larga/>
+hab1	<alargamiento>el</alargamiento> ambiente es completamente diferente <pausa_larga/>
+hab1	y luego <alargamiento>estuve</alargamiento> en el Gelmírez Dos <pausa/> al lado de la feria de ganados <pausa/> que también estaba muy contento <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> luego <pausa/> <alargamiento>me</alargamiento> trasladaron <pausa/> para el Pontepedriña donde <risa_inicio/>llevo <risa_fin/> <pausa/> desde que se inauguró <pausa/>
+hab2	hace años ya
+hab1	porque necesitaban una persona joven activa <pausa_larga/>
+hab1	y no se les ocurrió otra cosa que pensar en mí <pausa_larga/>
+hab2	¿y qué tal?
+hab1	bien <risa_inicio/>muy bien muy bien <risa_fin/> vivo aquí en el instituto ahora claro <pausa_larga/>
+hab1	hace <alargamiento>ya</alargamiento> veinte años <pausa/> <alargamiento>que</alargamiento> va a hacer veinte años <pausa/> que vivimos aquí <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><alargamiento>cuando</alargamiento> quise no pude y cuando <pausa/> <palabra_cortada>pue</palabra_cortada> puedo <alargamiento>no</alargamiento> <pausa/> quiero <pausa/> <alargamiento>porque</alargamiento> <pausa/> cuando eran más pequeños los niños <pausa/> bueno tengo que decir que mi mujer no quería cambiarse para aquí porque nosotros <pausa_larga/>
+hab1	yo <pausa_larga/>
+hab1	tengo un piso también de protección oficial porque <alargamiento>como</alargamiento> bien sabéis <pausa_larga/>
+hab1	me casé muy jovencito <pausa/> y no teníamos <pausa/> piso <pausa/> ni teníamos nada <pausa/> y entonces solicité un piso de protección oficial <pausa_larga/>
+hab1	eh <pausa/> que me concedieron en <alargamiento>la</alargamiento> Calle de Touro <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> pero allí nada más vivimos dos años escasos <pausa/> porque luego ya me tuve que venir <pausa/> a vivir para la vivienda del instituto <pausa_larga/>"
+hab1	porque a ellos le convenía <alargamiento>también</alargamiento> <alargamiento>que</alargamiento> yo viniese <pausa/> y a mí también me convenía ¿para qué voy a decir lo contrario? <pausa_larga/>
+hab2	claro
+hab1	<alargamiento>y</alargamiento> por lo tanto llevamos aquí <alargamiento>ya</alargamiento> <pausa/> mmm casi veinte años <pausa/> y mis hijos <pausa/> ni mi mujer <pausa/> bueno mi hijo que de aquella era pequeño no quería venir y mi mujer tampoco porque claro aquí no tenía amistades no <palabra_cortada>con</palabra_cortada> <pausa/> a pesar de ser de la zona porque <pausa/> la Pontepedriña está aquí abajo <alargamiento>a</alargamiento> <palabra_cortada>ci</palabra_cortada> cien metros pero no le gustaba no quería no quería <pausa/> pero bueno luego se fue acostumbrando y ahora lo que no quieren es marcharse <pausa_larga/>
+hab2	todo
+hab2	sí
+hab1	<risa_inicio/>y la niña <risa_fin/> que tiene quince años y nació ya aquí estando en el instituto <pausa_larga/>
+hab1	que es su casa el instituto es su casa al igual que la mía <pausa_larga/>
+hab1	pues tampoco no quiere marcharse de ninguna manera entonces por lo tanto me veo aquí hasta los sesenta y cinco años <pausa/>
+hab2	<risa/><pausa/> bueno <pausa/> pero si no se está mal tampoco es <pausa/>
+hab1	<alargamiento>sí</alargamiento> la verdad es que estoy muy bien estoy muy contento <pausa_larga/>
+hab2	¿no?
+hab1	<alargamiento>y</alargamiento><pausa/> yo sé <alargamiento>que</alargamiento> la dirección <pausa/> que me valora muchísimo que me aprecian <pausa_larga/>
+hab1	yo a ellos también nunca tuve problemas con nadie ni siquiera con los chavales ni con nadie <pausa_larga/>
+hab1	yo trato de hacerlo lo mejor que puedo <alargamiento>y</alargamiento> sé que a algunos les caigo mejor <pausa_larga/>
+hab1	o peor <pausa/> pero vamos se va llevando la cosa como se puede
+hab2	<risa/> ¿y <pausa/> o y <vacilación/> la verdad es que <pausa/> trabajar en un instituto <pausa/> debe dar una perspectiva <pausa_larga/>
+hab2	una visión un poco <pausa/> eh especial también de la juventud ¿no? porque lo <vacilación/> ¿tú qué impresión tienes? <pausa/> eeh
+hab1	ah sí <vacilación/>
+hab1	"<ruido tipo=""chasquido boca""/> bueno yo la primera impresión que tengo <pausa/> y la primera anécdota que tengo <pausa/> es que como ve usted <pausa_larga/>"
+hab1	siempre estoy a la moda <risa/> <pausa_larga/>
+hab1	siempre <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><alargamiento>hablo</alargamiento> incluso utilizo a veces <pausa/> palabras del lenguaje que utilizan ellos <pausa/> eeh <pausa/> me <alargamiento>sé</alargamiento> los discos que están de <alargamiento>actualidad</alargamiento> los artistas que están de actualidad <pausa/> las películas que más <pausa/> <sic_inicio/>éxixo<sic_fin/> <pausa/> éxito tienen en cartelera <pausa_larga/>
+hab1	las discotecas y pubs <pausa/> de moda <pausa/> los bares de moda las tiendas de moda <pausa/> claro porque <pausa/> al estar con ellos siempre <pausa_larga/>
+hab1	pues todo se te pega <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> y bueno y tengo que decir <alargamiento>que</alargamiento> <pausa/> en el instituto este <pausa/> hay muy buen ambiente los chavales <palabra_cortada>j</palabra_cortada> en <pausa/> en su gran mayoría <alargamiento>proceden</alargamiento> de los <pausa/> concellos limítrofes <pausa_larga/>"
+hab1	de Vedra y Boqueixón <pausa/> y es gente maravillosa <pausa/> gente muy sana <pausa/> y aparte estudiosa <pausa_larga/>
+hab1	siempre hay así <alargamiento>alguna</alargamiento> <pausa/> algún garbanzo negro pero bueno <pausa/> <alargamiento>no</alargamiento> no tampoco <pausa/> creo yo que haya <pausa/> lo lo que sí noto es que ahora estudian muchísimo menos que en mis tiempos <pausa_larga/>
+hab1	el nivel es muchísimo más bajo <pausa/> eso también lo noto <pausa_larga/>
+hab1	porque yo <pausa_larga/>
+hab1	no me van a engañar <pausa/> yo hice mi bachillerato y sé lo que tenía que estudiar <pausa/> sé lo que <palabra_cortada>da</palabra_cortada> la materia que dábamos <pausa/> sé lo que había <pausa_larga/>
+hab1	y a mí ahora <pausa/> por mucho que me cuenten milongas <pausa_larga/>
+hab1	ni profesores ni chavales ni nadie <pausa/> me va <alargamiento>a</alargamiento> <pausa/> vamos a tomar el pelo <pausa_larga/>
+hab1	porque yo sé bien lo que hay y ahora el nivel es <énfasis_inicio/>muy bajo<énfasis_fin/> <pausa/> un nivel bajísimo yo no sé de quién es la culpa <pausa_larga/>
+hab1	pero el nivel es bajísimo <pausa_larga/>
+hab1	eso sí que lo noto
+hab2	increíble
+hab1	vamos <pausa/> y no estudian nada y encima <pausa/> yo no sé si es porque no estudian entonces tienen que bajar el nivel o <pausa/> es que <pausa/> es algo que <alargamiento>no</alargamiento> <pausa/> no entiendo <pausa_larga/>
+hab1	<alargamiento>porque</alargamiento> coge usted a cualquier chaval de estes <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> de cuarto de <sigla_inicio/>ESO<sigla_fin/> <pausa/> una anécdota que me pasó a mí una vez <pausa_larga/>"
+hab1	no hace muchos años <pausa_larga/>
+hab1	eeh ya había empezado la <sigla_inicio/>ESO<sigla_fin/> <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> estaban estudiando unos chicos en el aula en el recreo <pausa/> para un examen de lengua y literatura <pausa_larga/>
+hab1	y en los recreos no pueden estar en las aulas entonces yo fui y les dije <alargamiento>que</alargamiento> tenían que salir y tal <pausa_larga/>
+hab1	me pidieron por favor que los dejase <pausa/> que estaban estudiando para un examen de literatura <pausa/> bueno muy bien <pausa_larga/>
+hab1	entonces yo cogí a uno <alargamiento>así</alargamiento> <pausa/> al azar <pausa/> y le <alargamiento>pregunté</alargamiento> dos <pausa/> eeh nociones básicas de literatura <pausa/> vamos eeh <pausa/> dos tonterías de nada una recuerdo que creo que era <pausa_larga/>
+hab1	¿quién era Lope de Vega o Calderón? o algo así <pausa/> y <alargamiento>el</alargamiento> chavalito me dice <pausa/> <cita_inicio/><ficticio>Rubén</ficticio> ese ¿en qué equipo jugaba?<cita_fin/> <pausa/> o <cita_inicio/>¿en qué equipo juega?<cita_fin/> <pausa_larga/>
+hab1	vamos es que quedé alucinado <pausa/> alucinado <pausa/> que no conozcan <pausa/> a Calderón a Lope de Vega <pausa/> vamos <pausa/> ah pff es que a Quevedo a <palabra_cortada>much</palabra_cortada> <vacilación/> muchísimos no saben lo que es el Realismo el <pausa/> eeh la Ilustración a <pausa/> es que yo pff no sé no sé de quién es la culpa pero vamos <pausa_larga/>
+hab1	<alargamiento>me</alargamiento> llama la atención en ese sentido que de que <pausa_larga/>
+hab1	van <énfasis_inicio/>muy<énfasis_fin/> mal preparados vamos es que <alargamiento>no</alargamiento> fff <pausa/> <alargamiento>y</alargamiento> no quiero echarle la culpa a nadie ¡ojo eh! <pausa/> porque yo no tengo ni idea del tema y ni quiero tenerla <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> no quiero echarle la culpa ni a profesores <alargamiento>ni</alargamiento> a nadie <pausa/> vamos <pausa_larga/>
+hab2	ya
+hab1	porque los profesores me imagino que les enseñarán lo que tienen que enseñarles <pausa/> lo que viene en la programación o lo que sea <pausa/> pero es que no estudian nada nada y aparte <pausa_larga/>
+hab1	eeh por otro lado mis hijos estudiaron aquí el mayor ya acabó la niña aún está en cuarto de <sigla_inicio/>ESO<sigla_fin/> <pausa_larga/>
+hab1	"por lo tanto sé <pausa/> <ruido tipo=""chasquido boca""/> me parece que sé de lo que hablo no estoy hablando por hablar <pausa/> <énfasis_inicio/>creo<énfasis_fin/> que <pausa/> vamos al menos <pausa_larga/>"
+hab1	sé de lo que hablo porque además trabajo aquí y llevo toda la vida y sé lo que se cuece <silencio/>
+hab1	no sé
+hab2	¿y y tienes un <pausa/> alguna idea de <pausa/> mmm de cuál podría ser una solución <alargamiento>o</alargamiento> <pausa/> para <pausa/> para que eso cambiase?
+hab1	¿una solución? no es que yo creo que la solución que <pausa/> que dio el gobierno <alargamiento>o</alargamiento> la Xunta o no sé quién fue <pausa/> porque yo no entiendo de política ni quiero entender <pausa_larga/>
+hab1	que no deberían haber cambiado el sistema yo creo que este sistema es muchísimo <pausa/> peor <pausa/> que el que había antes porque <pausa_larga/>
+hab1	muy bien <pausa/> la <sigla_inicio/>ESO<sigla_fin/> <pausa/> que es <pausa/> enseñanza <pausa/> secundaria <pausa/> obligatoria <pausa/> obliga <pausa/> a estudiar a los niños <pausa/> hasta los dieciséis años obligatoriamente <pausa_larga/>
+hab1	vamos a ver señores yo me pregunto y soy un ignorante <pausa/> <énfasis_inicio/>un ignorante<énfasis_fin/> <pausa_larga/>
+hab1	"me pregunto <pausa/> si un niño de catorce quince años no quiere estudiar <pausa/> ¿ <énfasis_inicio/>cómo cojones<énfasis_fin/> vas a obligarlo tú a estudiar y a estar hasta los <ruido tipo=""golpe""/> dieciséis años? <pausa_larga/>"
+hab1	a lo mejor está <pausa/> pero está torpedeándote la clase <pausa/> molestando al profesor <pausa/> molestando a los compañeros <pausa_larga/>
+hab1	no eh <pausa/> faltando a clase <pausa/> etcétera etcétera etcétera <pausa_larga/>
+hab1	entonces vamos yo creo que eso <pausa/> es <pausa/> pff <pausa/> no sé quién sacó esa ley <pausa_larga/>
+hab1	mmm <pausa/> pero <pausa/> yo no estoy de acuerdo con ella <alargamiento>porque</alargamiento> <pausa/> vamos yo veo que eso que no va a así <pausa/> de hecho aquí hay chavales con quince dieciséis años en primero de <sigla_inicio/>ESO<sigla_fin/> joder <pausa_larga/>
+hab1	o en segundo <pausa/> a ver dígame usted si eso <pausa/> ¿cómo van a estudiar? eh eh <pausa/> hacen lo que les da la gana <pausa_larga/>
+hab1	pero <pausa/> como hay que retenerlos aquí <pausa/> que se pongan a trabajar <pausa_larga/>
+hab1	yo en mis tiempos cuando salí del colegio <pausa/> con catorce años <pausa/> después de hacer mi octavo <pausa/> tenía trabajos a patadas que de hecho muchos de mis compañeros <pausa/> que fueron más listos que yo <pausa/> o o bueno <alargamiento>o</alargamiento> la <pausa/> suerte de cada uno o las ideas de cada uno <pausa_larga/>
+hab2	o no
+hab1	que no quisieron estudiar no quisieron ir a hacer <sigla_inicio/>BUP<sigla_fin/> <pausa/> no quisieron ir al instituto <pausa_larga/>
+hab1	pues se pusieron a trabajar y siguen hoy a su edad <pausa/> que es la misma que la mía <pausa/> trabajando en la misma empresa <pausa_larga/>
+hab1	porque <pausa/> antes también había más trabajo <pausa_larga/>
+hab1	por supuesto que sí que lo había que ahora estamos pasando una época de crisis y tal <pausa_larga/>
+hab1	pero vamos <pausa/> yo pienso que antes <pausa/> era totalmente diferente <pausa/> salíamos mejor preparados <pausa/> <alargamiento>para</alargamiento> <pausa/> todo ahora nada ahora solo <pausa/> saben de maquinitas y de Play Stations y de <pausa_larga/>
+hab1	y y y iPods <alargamiento>o</alargamiento> máquinas de esas modernas <pausa/> y nada <pausa/> y que le comen el coco <pausa_larga/>
+hab1	y no saben de la vida y lo que realmente te enseña es la vida también <pausa/> la calle vamos y <alargamiento>yo</alargamiento> <pausa/> pues <pausa/> eeh no sé pero <pausa_larga/>
+hab1	"creo <alargamiento>que</alargamiento> algo sé <pausa/> porque a <pausa/> a <alargamiento>mí</alargamiento> me enseñó la vida muchas cosas <pausa/> y la <énfasis_inicio/>calle<énfasis_fin/> también <alargamiento>porque</alargamiento> <pausa/> soy de Santa Marta como me dicen <pausa/> algunas veces mis amigos <cita_inicio/><alargamiento>ah</alargamiento> <lengua_inicio nombre=""gl""/>ti eres de Santa Marta <pausa/> ti sabes lepe eres <pausa/> eres bo gitano <pausa/> eres bo gitano<lengua_fin/><cita_fin/> <pausa_larga/>"
+hab1	pues sí <pausa/> pues sí <pausa/> es que hay que serlo <pausa/> hay que serlo <pausa/> entonces <pausa/> los chavales de ahora <alargamiento>yo</alargamiento> <pausa/> no sé pero <pausa_larga/>
+hab1	vamos <alargamiento>yo</alargamiento> <pausa/> no estoy muy de acuerdo con el sistema que <alargamiento>hay</alargamiento> <pausa/> de educación no lo <alargamiento>veo</alargamiento> <pausa_larga/>
+hab2	ya
+hab1	no lo veo claro y así no vamos a ninguna parte <pausa_larga/>
+hab2	¿por qué?
+hab1	pero yo no mando nada <pausa/>
+hab2	ya <pausa/> los valores que adquieren no son los
+hab1	no no
+hab2	los que <alargamiento>tú</alargamiento>
+hab1	"<ruido tipo=""chasquido boca""/> no ahora no hay educación <pausa/> ahora no hay respeto <pausa/> por nada <palabra_cortada>p</palabra_cortada> ni por nadie <pausa/> yo no soy tan mayor ¡coño! que tengo cuarenta y cinco años <pausa/> y yo recuerdo que jamás en mi vida mandé a un profesor a la mierda <pausa/> ni en el colegio ni en el instituto <pausa_larga/>"
+hab1	<alargamiento>ni</alargamiento><cita_inicio/><alargamiento>déjeme</alargamiento> tranquilo o pase de mí<cita_fin/> <alargamiento>o</alargamiento> <cita_inicio/>vaya a la mierda<cita_fin/> o <cita_inicio/>vaya<cita_fin/> <pausa/> ¿ahora? <pausa/> <palabra_cortada>to</palabra_cortada> a diario <pausa/> todos los días <pausa/> todos los días <pausa_larga/>
+hab1	bueno hombre <pausa/> es una vergüenza no hay educación no hay respeto <pausa/> mmm <pausa/> ven que está pasando una profesora o un profesor <pausa/> eeh por la puerta y <palabra_cortada>n</palabra_cortada> no ceden el paso se meten delante de uno <pausa/> es que no hay educación <pausa/> que mucha culpa también <pausa/> ¡ojo! <pausa/> es de los padres <pausa/> nuestra <silencio/>
+hab1	"nuestra <alargamiento>yo</alargamiento> <pausa/> también <pausa/> me meto ahí en ese <pausa/> aunque bueno tengo que decir que <pausa/> gracias a Dios <pausa/> mis hijos <ruido tipo=""tos""/> perdón <pausa/> <pausa/> son los dos educadísimos <pausa_larga/>"
+hab1	es más <pausa/> <alargamiento>un</alargamiento> hace años cuando <alargamiento>mi</alargamiento> <pausa/> hijo estaba aquí en el instituto <pausa_larga/>
+hab1	"una profesora <pausa/> que hoy es la secretaria del centro <pausa/> vino a junto de mí <pausa/> y me felicitó <pausa/> personalmente <pausa/> porque <pausa/> le había dado unas <pausa/> unos papeles o unas <pausa/> unos folletos bueno no sé lo que era <pausa/> a los chicos todos <pausa/> y el único que le dio las gracias cuando le entregó el papel fue mi hijo entonces me vino a decir <cita_inicio/><ficticio>Rubén</ficticio> <pausa/> enhorabuena porque sus hijos sí que tienen <pausa/> su hijo tiene muchísima educación <pausa/> se nota que usted<cita_fin/> <pausa/> y tal <pausa/> <ruido tipo=""chasquido boca""/> es que yo creo que si se pierde la educación y el respeto <pausa/> ya se pierde todo lo demás <pausa/> es inútil hablar de <pausa/> cultura <alargamiento>y</alargamiento> y de todo eso porque eso ya no tiene valor ninguno <silencio/>"
+hab2	sí <silencio/>
+hab2	totalmente de acuerdo <silencio/>
+hab1	bueno <pausa/> si quiere seguir preguntando alguna cosa más <pausa_larga/>
+hab1	"<ruido tipo=""tos""/> porque pasaron ahí cosas por alto pero bueno"
+hab2	no sé yo <ininteligible/> preguntando alguna cosa más <pausa/> pues a <pausa_larga/>
+hab2	ya me contaste tantas <risa_inicio/>cosas <risa_fin/> mira y a a <pausa_larga/>
+hab1	ya pero <pausa/> uy aún las <alargamiento>que</alargamiento> tengo que contar
+hab2	a a pues a ver <pausa/> por ejemplo de pequeño me decías que jugabas al fútbol pero ¿qué jugabas así en la calle o <pausa/> también lo jugaste en algún equipo o algo? a ver cuenta
+hab1	sí sí
+hab1	no no <pausa_larga/>
+hab1	justo
+hab1	pues eeh <pausa/> con respecto al fútbol <pausa/> cuando era pequeño a mí me gustaba siempre mucho el <palabra_cortada>fú</palabra_cortada> y me gusta <pausa_larga/>
+hab1	de hecho mi máximo hobby que tengo ahora <pausa_larga/>
+hab1	es la colección de insignias <pausa/> de equipos de todo el mundo <pausa/> que tengo más de cinco mil insignias <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> bufandas y todo lo que esté relacionado con equipos de fútbol solamente <pausa_larga/>
+hab1	bufandas tengo unas seiscientas o setecientas <pausa_larga/>
+hab1	pero vamos fundamentalmente insignias <pausa/> y <pausa/> tengo desde Rusia hasta México pasando por <pausa_larga/>
+hab1	eh <alargamiento>Bulgaria</alargamiento> <alargamiento>Rumanía</alargamiento> <alargamiento>Polonia</alargamiento> <alargamiento>Brasil</alargamiento> <pausa_larga/>
+hab1	mmm <pausa/> Venezuela Colombia Ecuador <pausa/> bueno prácticamente de todos los países del mundo menos de África porque es muy difícil conseguirlas <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> entonces a mí el fútbol siempre me gustó <pausa/> y de pequeño <pausa_larga/>"
+hab1	pues recuerdo que iba con mi padre <pausa/> porque no teníamos televisión en casa <pausa_larga/>
+hab1	y íbamos al bar <pausa/> ahí en <alargamiento>la</alargamiento> carretera <alargamiento>de</alargamiento> Santiago Vigo <pausa_larga/>
+hab1	a la altura de la capilla de Santa Marta un poquitín más abajo <pausa/> que aún está actualmente la capilla <pausa_larga/>
+hab1	un bar que se llamaba La Copita de Oro <pausa_larga/>
+hab1	pues <pausa/> mi padre <alargamiento>que</alargamiento> también es muy aficionado al fútbol lo que pasa que el pobre no ve mucho entonces <pausa_larga/>
+hab1	eeh a veces <risa_inicio/>no veía ni el balón pero bueno <risa_fin/> <pausa_larga/>
+hab1	pues me llevaba como sabía que me gustaba mucho <pausa/> todos los sábados recuerdo <pausa/> por la noche o por la tarde <pausa/> o los domingos es <pausa/> ahora ya no sé si era el <alargamiento>domingo</alargamiento> o el sábado <pausa_larga/>
+hab1	y íbamos a ver <alargamiento>el</alargamiento> partido <alargamiento>siempre</alargamiento> siempre todos los fines de semana al bar <pausa/> porque no <pausa/> como he dicho antes no teníamos televisión en casa <pausa/> bueno <pausa_larga/>
+hab1	perdón <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> entonces <pausa/> eeh <pausa/> con el paso <alargamiento>del</alargamiento> tiempo <pausa/> eeh me metí en el equipo de fútbol del colegio <pausa/> de La Milagrosa <pausa/> <alargamiento>en</alargamiento> cuyo equipo pues jugué varios años hasta <alargamiento>que</alargamiento> acabé octavo <pausa_larga/>"
+hab1	en la <alargamiento>liga</alargamiento> interescolar <pausa_larga/>
+hab1	pero <pausa/> después <pausa/> al salir del colegio <pausa/> pues claro <pausa/> mmm <pausa/> ya no tenía forma de jugar <pausa/> porque <pausa/> ¿qué hacíamos? <pausa/> jugábamos en la calle allí en el campo entre nosotros y tal pero <pausa_larga/>
+hab1	un día <pausa/> decidimos federarnos <pausa/> para <pausa/> eeh participar en <alargamiento>la</alargamiento> liga de Santiago <alargamiento>de</alargamiento> <pausa/> cadetes <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> que de aquella se llamaba prejuveniles <alargamiento>no</alargamiento> era cadetes era prejuveniles <pausa/> es decir era antes de los juveniles <pausa_larga/>"
+hab1	teníamos quince años o así y entonces nos juntamos una serie <alargamiento>de</alargamiento> <pausa/> de compañeros <pausa/> que fuéramos al mismo colegio <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><alargamiento>del</alargamiento> barrio de allí de Santa Marta <pausa_larga/>
+hab1	junto <alargamiento>con</alargamiento> <pausa/> Alberto <pausa_larga/>
+hab1	eeh Seoane <pausa/> que <alargamiento>es</alargamiento> de los Paxarelo de Santa Marta que era el entrenador el que hacía de <alargamiento>entrenador</alargamiento> y todo <pausa/> y nos entrenaba <pausa/> porque era <palabra_cortada>mayo</palabra_cortada> era algo mayor que nosotros <pausa_larga/>
+hab1	y era él nuestro entrenador <pausa/> y <pausa/> malamente como pudimos <pausa/> porque de aquella no había medios como hay ahora <pausa/> cada uno se pagó su propio equipaje <pausa_larga/>
+hab1	que el equipaje recuerdo que era del Racing de Ferrol <pausa/> camiseta verde pantalón blanco <pausa/> y medias verdes <pausa/> y blancas <pausa_larga/>
+hab1	y al equipo le llamábamos <pausa/> Atlas <pausa/> porque hacía años <pausa/> había otro equipo de veteranos allí en Santa Marta de gente ya mayor y tal <pausa/> que se había llamado Atlas también entonces <pausa_larga/>
+hab1	Alberto que era mucho <pausa/> algo mayor que nosotros y era nuestro entrenador pues <pausa/> nos propuso la idea y nos gustó <pausa/> y <alargamiento>nos</alargamiento> federamos con el nombre de Atlas <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> pagamos nosotros los gastos todos <pausa/> tengo que decir que nos ayudó mucho <pausa/> <alargamiento>un</alargamiento> vecino ya fallecido <pausa/> de allí <alargamiento>de</alargamiento> Santa Marta que era conocido como <ficticio>Pepito Campos</ficticio> <pausa_larga/>
+hab1	que le gustaba también muchísimo el fútbol <alargamiento>y</alargamiento> entonces <pausa/> le gustábamos nosotros y nos ayudaba <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> era él el <alargamiento>que</alargamiento> <pausa/> junto con el padre de <alargamiento>otro</alargamiento> jugador <pausa/> <ficticio>Ángel Saavedra Nogueira</ficticio> <pausa_larga/>
+hab1	el padre <pausa/> <alargamiento>pues</alargamiento> <pausa/> y más este <ficticio>Pepito</ficticio> <pausa/> Campos <pausa/> pues nos pagaban incluso los bocadillos después de cada partido <pausa/> de su bolsillo <pausa/> y una lata de Coca-Cola <alargamiento>o</alargamiento> o Pepsi o lo que fuera en aquellos tiempos en aquellos años <pausa_larga/>
+hab1	y el primer año <pausa_larga/>
+hab1	la verdad que teníamos un equipo <alargamiento>bastante</alargamiento> malo <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> perdimos casi todos los partidos <pausa/> porque además coincidimos con una generación <pausa_larga/>
+hab1	<alargamiento>bastante</alargamiento> eeh mejor que nosotros <alargamiento>que</alargamiento> <pausa/> entre los que destacaban <pausa/> eeh futbolistas que luego llegarían a ser profesionales en el <pausa/> <alargamiento>Compostela</alargamiento> en el <alargamiento>Deportivo</alargamiento> <alargamiento>Orense</alargamiento> <pausa/> <alargamiento>Lugo</alargamiento> etcétera etcétera <pausa_larga/>
+hab1	entonces el primer año fuimos <pausa/> totalmente vapuleados <pausa_larga/>
+hab1	aparte que éramos los más jóvenes <pausa/> porque éramos todos de baja estatura porque yo aún lo soy ahora y mis compañeros <pausa/> pues más o menos igual a lo mejor teníamos uno que destacaría o así un poco alto <pausa/> pero los demás éramos todos pequeños <pausa/> una anécdota <palabra_cortada>qu</palabra_cortada> <pausa/> que nos pasó <pausa/> el segundo año ya <pausa/> el segundo año que ya estábamos ya cocidos <risa_inicio/>y ya estábamos <risa_fin/> mejor preparados y tal <pausa_larga/>
+hab2	sí sí
+hab1	<alargamiento>y</alargamiento> teníamos un grandísimo portero que se llamaba <ficticio>Marcos</ficticio> <pausa/> se llama <pausa/> <ficticio>Marcos Aguilera Gómez</ficticio> <pausa/> que llegó a jugar profesionalmente al fútbol <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> lo había llevado yo para el equipo precisamente por verlo un día jugando en <alargamiento>el</alargamiento> <pausa/> en la residencia porque yo <pausa/> al ser de esa zona <pausa/> eeh los fines de semana no había otro divertimento <pausa/> <alargamiento>y</alargamiento> me pasaba la tarde entera en la residencia en el campo de en las pistas de futbito jugando al fútbol allí con chicos <alargamiento>mayores</alargamiento> <pausa/> <alargamiento>pequeños</alargamiento> pero bueno <pausa/> la mayoría eran todos <pausa/> <alargamiento>ya</alargamiento> señores y chicos ya mayores universitarios y tal <pausa/> pero yo iba para allí porque <pausa/> junto con otros dos <pausa/> amigos o así o a veces solo <pausa/> y me pasaba allí toda la tarde del sábado porque no tenía otro divertimiento <alargamiento>y</alargamiento> y a mí me gustaba el fútbol y estaba allí <pausa_larga/>
+hab2	sí ya sé <pausa/>
+hab1	entonces <alargamiento>llevé</alargamiento> <pausa/> como dije antes <alargamiento>llevé</alargamiento> a este chico <pausa/> <ficticio>Marcos Aguilera Gómez</ficticio> <pausa_larga/>
+hab1	que llegó a jugar profesionalmente y a vivir del fútbol <pausa_larga/>
+hab1	lo llevé <pausa/> de portero nuestro entonces el segundo año ya las cosas cambiaron <pausa/> y recuerdo una anécdota <pausa/> en un partido en las Cancelas con el campo totalmente embarrado <pausa_larga/>
+hab1	que no como tienen ahora de moqueta y <risa/> todo eso con el campo de hierba césped artificial bueno hombre <pausa_larga/>
+hab1	nosotros el campo totalmente embarrado <pausa/> y con lo pequeños que éramos <pausa/> casi no se nos veía en el campo porque el barro nos llegaba <pausa/> a las rodillas casi <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> entonces <pausa/> jugábamos un partido contra el San Pedro Fútbol Club <pausa/> de la Rúa de San Pedro <pausa_larga/>"
+hab1	cuyos jugadores eran <alargamiento>altísimos</alargamiento> fuertes <alargamiento>y</alargamiento> mayores que nosotros claro porque nosotros <pausa/> éramos aún del primer año <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> recuerdo que cuando salimos al campo <pausa/> y nos vieron <pausa/> se echaron a reír así <pausa/> de manera despectivamente como si <cita_inicio/>bueno pero estes ¿qué fan? ¿a dónde van estes <palabra_cortada>pe</palabra_cortada> renacuajos? y tal<cita_fin/> y no sé qué <pausa_larga/>
+hab1	entonces a nosotros <pausa/> bueno <pausa/> mmm <palabra_cortada>ten</palabra_cortada> eeh <pausa/> teníamos muy buenos jugadores <pausa/> jugábamos muy bien al fútbol y tal que era lo que nos gustaba <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> nos <pausa/> eso nos pareció tan mal tan mal <pausa/> que nos conjuramos a ver si <alargamiento>le</alargamiento> <pausa/> ganábamos y tal <pausa/> porque <pausa/> a los altos se los corta por la mitad <pausa_larga/>
+hab1	y les metimos cinco cero <pausa/> sin despeinarnos <pausa/> y <alargamiento>cuando</alargamiento> acabó el partido <pausa/> vinieron allí <pausa/> un par de ellos <pausa/> a pedirnos disculpas <pausa/> y a felicitarnos porque habíamos <pausa/> les habíamos dado completamente un baño <pausa_larga/>
+hab2	jolín
+hab1	luego otro partido en el la residencia <pausa/> en el <palabra_cortada>camp</palabra_cortada> estadio universitario que ahora ya no existe el campo de fútbol <pausa_larga/>
+hab1	el antiguo <pausa/> pues <pausa/> al Vista Alegre <pausa/> a todo un potente Vista Alegre <pausa/> le ganamos cuatro a tres <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> queriéndome llevar a mí el Vista Alegre <pausa/> y a un compañero <pausa/> para el club <pausa/> para el Vista Alegre <pausa_larga/>"
+hab1	a cambio de unas botas y unos <alargamiento>equipajes</alargamiento> y tal y cual <pausa_larga/>
+hab1	y entonces mi entrenador <alargamiento>y</alargamiento> tal dijeron <pausa/> que no <pausa/> que no marchásemos <alargamiento>porque</alargamiento> teníamos que jugar en el equipo del barrio y tal <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> seguí ahí <pausa/> no me arrepiento de nada <pausa_larga/>
+hab1	después <pausa/> acabamos la temporada esa temporada de terceros <pausa_larga/>
+hab1	yo quedé de segundo máximo goleador <pausa_larga/>
+hab1	<alargamiento>de</alargamiento> la liga <pausa/> por detrás de <ficticio>Juan Agrelo</ficticio> <pausa/> <alargamiento>un</alargamiento> chaval que luego ficharía por el Atlético de Madrid <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> después de eso <pausa/> al año siguiente ya <palabra_cortada>n</palabra_cortada> no había <alargamiento>dinero</alargamiento> algunos se habían <alargamiento>marchado</alargamiento> otros <pausa/> habían fichado por otros equipos <alargamiento>mejores</alargamiento> y tal lo que pasa siempre <pausa_larga/>
+hab1	y entonces se deshizo el equipo bueno pues yo me busqué la vida y me fui para otro equipo <pausa_larga/>
+hab1	que se llamaba estaba empezando en aquella época <pausa_larga/>
+hab1	que ahora es uno de los más potentes de Santiago y de Galicia que es el Conxo <pausa_larga/>
+hab1	en aquella época se llamaba Peña Navegante <pausa/> que aún existe como veteranos <pausa_larga/>
+hab1	pues ahí jugué yo también en el Peña Navegante <pausa/> dos años <pausa/> dando muestras de mi velocidad por la banda <risa/> <pausa/> y hartándome a meter goles <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> luego de ahí <pausa_larga/>
+hab1	<alargamiento>al</alargamiento> pasar a <palabra_cortada>ju</palabra_cortada> al <alargamiento>pasar</alargamiento> de juveniles <pausa_larga/>
+hab1	pues me busqué la vida y estuve jugando por ahí en equipos de regional y tal <pausa_larga/>
+hab1	hasta <alargamiento>que</alargamiento> a raíz de una operación en una rodilla tuve que dejarlo <alargamiento>ya</alargamiento> <pausa_larga/>
+hab1	el fútbol así a nivel <alargamiento>de</alargamiento> <pausa_larga/>
+hab1	de jugar así partidos todos los fines de semana <pausa_larga/>
+hab1	porque <alargamiento>casi</alargamiento> estuve a punto de quedarme <alargamiento>sin</alargamiento> <pausa/> sin la pierna izquierda <pausa_larga/>
+hab1	yo soy zurdo <palabra_cortada>juga</palabra_cortada> <pausa/> bueno soy zurdo <pausa_larga/>
+hab1	era zurdo <pausa/> extremo izquierda <pausa/> y tenía muchísima velocidad era muy veloz <pausa/> y entonces me iba en velocidad de los defensas rivales <pausa/> y metía muchísimos goles <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> a pesar de ser pequeño iba muy bien de cabeza <pausa/> y tal bueno tenía una serie <alargamiento>de</alargamiento> <pausa/> aptitudes que bueno <alargamiento>que</alargamiento> <pausa/> <palabra_cortada>s</palabra_cortada> tal vez si tuviéramos más oportunidades <alargamiento>o</alargamiento> si fuera <alargamiento>hoy</alargamiento> <pausa_larga/>
+hab1	mmm pues a lo mejor aún <alargamiento>estaría</alargamiento> <pausa/> bueno llegaría a jugar en algún equipo por ahí grande <alargamiento>o</alargamiento> <pausa/> pero en <alargamiento>aquellos</alargamiento> tiempos pues también <pausa/> pff yo que <alargamiento>sé</alargamiento> tampoco había ayudas ni medios ni nada <pausa_larga/>
+hab1	"jugábamos en campos de <alargamiento>tierra</alargamiento> mmm <pausa/> pff <pausa/> con el barro hasta los <alargamiento>pies</alargamiento> bueno <ruido tipo=""chasquido boca""/> <pausa/>"
+hab2	ya
+hab1	nada <pausa/> una vez di un balonazo <pausa/> estaba el balón tan tan tan tan pesado <pausa/> no como los que tienen ahora es que yo me río de estes chavales de ahora aquí jugando en el patio <pausa_larga/>
+hab1	con un balón que no pesa ni cien gramos <pausa_larga/>
+hab1	nosotros jugábamos con balones de estes <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> de cuero cuero <pausa_larga/>"
+hab1	que al mojarse pesaban <pausa/> algo así como diez kilos <pausa/> <palabra_cortada>q</palabra_cortada> vamos que no lo <risa/> movías ni <palabra_cortada>v</palabra_cortada> ni diez metros el balón <pausa_larga/>
+hab1	y una vez un balón de eses de saque de portero me cayó en la cabeza <pausa_larga/>
+hab1	y <alargamiento>me</alargamiento> <alargamiento>tuvo</alargamiento> fff <alargamiento>bastante</alargamiento> fastidiado <alargamiento>porque</alargamiento> <pausa/> bueno <pausa/> estuve fatal del cuello que no sé ni cómo no rompí el cuello <pausa/> por meterle la cabeza al balón <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> nada <alargamiento>y</alargamiento> así fue hasta que luego me operaron de la rodilla de una pierna y tal y ya lo fui dejando fui dejando <pausa_larga/>
+hab1	"y así alguna vez <pausa/> <ruido tipo=""chasquido boca""/> hasta <alargamiento>los</alargamiento> <pausa_larga/>"
+hab1	cuarenta años o así aún echaba así algún <alargamiento>partido</alargamiento> y tal así los fines de <alargamiento>semana</alargamiento> y tal <pausa_larga/>
+hab1	pero ahora nada a veces mi hijo incluso me dice que vaya con ellos <pausa_larga/>
+hab1	porque mi hijo también jugó al fútbol jugó en el Conxo <pausa_larga/>
+hab1	fue campeón de Santiago y campeón de Galicia y fue a jugar el campeonato de España <pausa_larga/>
+hab1	<alargamiento>y</alargamiento><pausa/> después jugó en el Fátima que también fue campeón en el Fátima del Castiñeiriño <pausa/> actual ciudad de Santiago <pausa_larga/>
+hab1	y ahí también fue campeón de Santiago y bueno <pausa_larga/>
+hab1	pero después se cogió a novia <alargamiento>y</alargamiento> ya saben el refrán tiran <palabra_cortada>da</palabra_cortada> <pausa/> más dos tetas que dos carretas <pausa_larga/>
+hab1	<risa/> empezó a dejarlo a dejarlo porque tenía que ir a entrenar <palabra_cortada>to</palabra_cortada> mmm todos los <alargamiento>días</alargamiento> y tal <pausa_larga/>
+hab1	y lo dejó lo dejó hasta hoy y a veces me dice <pausa/> <palabra_cortada>ju</palabra_cortada> va a jugar así por diversión y me dice a mí que vaya yo con ellos <pausa/> pero yo ahora a mi edad ya no estoy para eso <pausa_larga/>
+hab1	yo ya le digo <cita_inicio/>si voy de delantero centro <pausa_larga/>
+hab1	y estar allí quieto a esperar la <pausa/> que me llegue la bola <pausa_larga/>
+hab1	garantizo que las enchufaría todas<cita_fin/> <pausa/> <risa/> pero <risa_inicio/>como quieren <risa_fin/> que corra <alargamiento>yo</alargamiento> no puedo correr que no estoy para correr ahora vamos no <silencio/>
+hab1	no estoy en condiciones físicas
+hab2	ya
+hab1	y así un poco eso es lo del fútbol referente al fútbol <pausa/>
+hab2	y lo de la afición por coleccionar insignias <pausa_larga/>
+hab2	¿eso cómo te vino?
+hab1	ah sí <pausa/> la afición de <alargamiento>sí</alargamiento> la afición <alargamiento>de</alargamiento> coleccionar insignias <pausa_larga/>
+hab1	pues me vino <pausa/> desde que estoy aquí en el instituto precisamente empecé en el año <pausa/> noventa <alargamiento>y</alargamiento> tres o así empecé a coleccionar así <pausa_larga/>
+hab1	porque me habían regalado <pausa/> <alargamiento>cuando</alargamiento> <pausa/> el <alargamiento>Compostela</alargamiento> <pausa/> estaba en segunda <alargamiento>división</alargamiento> y tal y en <alargamiento>primera</alargamiento> y tal bueno <pausa_larga/>
+hab1	tengo ido a ver <palabra_cortada>as</palabra_cortada> <pausa/> bueno <pausa/> era socio del Compostela por supuesto <pausa/> iba a ver todos los partidos no faltaba <risa/> más <pausa_larga/>
+hab1	mi mujer <alargamiento>y</alargamiento> los hijos y yo que éramos socios todos los cuatro <pausa_larga/>
+hab1	<alargamiento>pero</alargamiento><pausa/> me regalaban así algunos pines <palabra_cortada>lo</palabra_cortada> equipos y tal y fui juntando y dije <cita_inicio/>¿y por qué no voy a coleccionar?<cita_fin/> <pausa_larga/>
+hab1	y luego <pausa_larga/>
+hab1	pues <alargamiento>me</alargamiento> empecé a coleccionar primero de <alargamiento>España</alargamiento> y tal y después <pausa_larga/>
+hab1	eeh eeh por mediación <alargamiento>de</alargamiento> revistas <pausa_larga/>
+hab1	me escribía con gente que aún me escribo <pausa/> con gente de otros países iba intercambiando intercambiando intercambiando <pausa/> incluso una anécdota que me pasó con esto fue que <pausa/> tenía un amigo rumano <pausa/> con el cual me escribí durante muchísimos años que ahora no sé qué sería de él <pausa/> no sé qué le pasaría <pausa_larga/>
+hab1	Alexandre Buth <pausa/> que era árbitro <pausa/> <alargamiento>de</alargamiento> Bahía Mare en Maramures <pausa/> en Rumanía <pausa/> <alargamiento>y</alargamiento> él me pedía alimentos <pausa/> yo le mandaba alimentos y a cambio me mandaba insignias <pausa/>
+hab2	fíjate
+hab1	y me estuve escribiendo con él algo así <alargamiento>como</alargamiento> <pausa/> diez o quince años <pausa/>
+hab2	<ininteligible/> ¿y cómo contactaste con él?
+hab1	por una revista contacté con él <pausa/> una revista de fútbol que ahora ya no <alargamiento>hay</alargamiento> esas cosas antes <pausa/> ahora todo es correo <alargamiento>electrónico</alargamiento> <alargamiento>ordenadores</alargamiento> no no no yo prefiero la carta <pausa/> sí a mano <pausa_larga/>
+hab2	ah <pausa/> y y
+hab2	¿tú le escribías <alargamiento>a</alargamiento> ? ah <pausa/> en correo normal
+hab1	y aún escribo ahora a mano <pausa/> ahora mismo me estoy escribiendo con un polaco <pausa/> Jacek Kanniersik <pausa_larga/>
+hab1	<alargamiento>de</alargamiento> Cracovia <pausa/> con <alargamiento>un</alargamiento> búlgaro <pausa_larga/>
+hab1	<alargamiento>de</alargamiento> Sofía <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> con un mexicano <pausa_larga/>
+hab1	con un brasileiro <pausa_larga/>
+hab1	<alargamiento>y</alargamiento> con un ucraniano de Kiev Igor Yasip <pausa_larga/>
+hab1	y yo <alargamiento>esta</alargamiento> gente las <palabra_cortada>con</palabra_cortada> bueno me contacté con ellos por mediación de revistas y yo le escribo a mano sobre normaliño <pausa/> acolchado <pausa/> con lo que vaya dentro <alargamiento>insignias</alargamiento> o bufandas o lo que sea <pausa/> y ellos a cambio me mandan de sus respectivos países o de otros de alrededor
+hab2	de otros <pausa/> claro <pausa/> claro
+hab1	tengo por ejemplo muchísimas insignias <pausa_larga/>
+hab1	rumanas y ucranianas <pausa/> muchísimas <pausa/> <alargamiento>porque</alargamiento> <alargamiento>ya</alargamiento> digo estuve escribiéndome muchos años con esta gente <pausa_larga/>
+hab1	y y rumanas <alargamiento>tengo</alargamiento> pff de todas las divisiones vamos <pausa/> y de todos los pueblos de Rumanía me parece <pausa/> y de Ucrania lo mismo y de Rusia <pausa/> y de Polonia y de Bulgaria <pausa/> de eses países <pausa/> mmm ex <pausa/> socialistas países <pausa/> después de la antigua Yugoslavia lo que pasa ahora <pausa/> tengo <alargamiento>que</alargamiento> <pausa/> por eso pierdo mucho <palabra_cortada>tiem</palabra_cortada> bueno pierdo <risa_inicio/>pierdo no pierdo <risa_fin/> ninguno porque es mi hobby pero <pausa/> tengo que estudiar mucho <pausa/> y tengo una lupa con <pausa/> y tengo el abecedario cirílico y el <alargamiento>alfabeto</alargamiento> <pausa/> eeh serbio <pausa_larga/>
+hab1	para ir traduciendo las insignias que no conozco porque claro no las conozco todas <pausa/> porque yo no soy aquí un especialista <pausa/> entonces las insignias que no conozco <pausa/> voy traduciendo con la lupa letra a letra <pausa/> para saber <pausa/> eeh qué insignias son <pausa/>
+hab2	claro
+hab2	claro
+hab1	y con eso ya me paso <pausa/> a lo mejor un día entero en vacaciones <alargamiento>o</alargamiento> en Semana Santa o lo que <palabra_cortada>s</palabra_cortada> <pausa/> porque es <pausa/> lo que más me gusta <alargamiento>y</alargamiento> aparte estoy entretenido <pausa/> y mientras estoy con eso no estoy fumando ni estoy haciendo otras cosas <risa/> <pausa_larga/>
+hab2	claro
+hab1	y me gusta mucho <pausa/> <alargamiento>y</alargamiento> ya dije antes tengo más de cinco mil o por ahí <pausa_larga/>
+hab1	y luego bufandas también que bufandas tengo pero bueno <pausa_larga/>
+hab1	bufandas <pausa_larga/>
+hab1	hombre las compraba cuando el Compostela estaba en primera compraba una de todos los rivales del Compostela <pausa_larga/>
+hab1	y también empecé así comprando una <pausa/> de cada rival que venía por Santiago <pausa/> compraba una <pausa_larga/>
+hab1	en primera <pausa/> después en segunda <pausa/> después en segunda B <pausa_larga/>
+hab1	después <pausa/> ya internacionales a nivel de internacional <pausa/> que iba una profesora de aquí a Grecia <pausa/> me traía de Grecia <pausa/> que iba a <pausa/> a Londres <pausa/> me <palabra_cortada>tra</palabra_cortada> ahora mismo está mi hija en Londres precisamente estos días <pausa/> con <alargamiento>el</alargamiento> instituto <pausa_larga/>
+hab1	y ya le encargué a una de las profesoras que me traiga una bufanda del Chelsea que <risa/> <pausa/> me falta no la tengo <pausa_larga/>
+hab1	tengo la del Liverpool Manchester Arsenal <pausa/> etcétera etcétera pero la del Chelsea no la tengo <pausa_larga/>
+hab1	entonces <pausa/> debe ser porque no era tan conocido hasta hace cinco años el Chelsea no era nadie en Europa <pausa/> hasta hace cinco <pausa/> hasta que lo cogió el magnate ruso <pausa/> Roman Abramovich <pausa_larga/>
+hab1	entonces a raíz de ahí fue más conocido <pausa/> es más conocido el Chelsea pero hasta ahora no era entonces por eso no la debía tener yo <pausa_larga/>
+hab1	y se la <alargamiento>encargué</alargamiento> a la profesora a ver <alargamiento>si</alargamiento> el sábado <pausa/> Dios <alargamiento>quiere</alargamiento> <pausa/> Dios mediante a ver si me la trae ya para mi colección <pausa/> después de otros países también tengo <pausa/> porque también <pausa/> hay profesores tengo que decir que hay profesores que colaboran <pausa_larga/>
+hab2	claro
+hab1	"<ruido tipo=""chasquido boca""/> porque saben mi afición y saben mi hobby <pausa/> y entonces <pausa_larga/>"
+hab1	siempre encuentras colaboradores <pausa/> y es más me las traen y no me cobran nada <silencio/>
+hab1	siempre me las regalan y tal y también eso es de agradecer <pausa_larga/>
+hab1	para <alargamiento>mí</alargamiento> es <pausa/> mmm una <pausa/> tengo que agradecérselo porque <pausa/> van a cualquier sitio y tal y siempre me traen <pausa_larga/>
+hab1	eeh pues una bufanda o un banderín <pausa/> hace poco fueron a Portugal me trajeron un banderín del Benfica <pausa/> que ya lo tenía pero bueno <pausa/> es el detalle también es un detalle que <pausa/> porque también si tengo repetidos me valen para intercambiar <alargamiento>con</alargamiento> esta gente que he dicho antes para escribir <pausa_larga/>
+hab2	bueno y bufandas <pausa/> pero bueno
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+      <pausa_larga/>
+    "
+hab2	claro
+hab1	"<alargamiento>porque</alargamiento> si no <alargamiento>¿cómo</alargamiento> ? es <alargamiento>que</alargamiento> hay <alargamiento>que</alargamiento> <ruido tipo=""boca""/> los chavales también colaboran muchísimo sobre todo los de los pueblos pequeños <pausa/> que me traen la insignia de ese el equipo de su pueblo por ejemplo de Santa Comba <pausa_larga/>"
+hab1	"de Cariño allá que es allá en Ferrol un pueblo de Ferrol <pausa/> de Padrón el Flavia <pausa/> <alargamiento>de</alargamiento> Puerto do Son de Porto de <palabra_cortada>S</palabra_cortada> <ruido tipo=""chasquido boca""/> también colaboran y siempre me traen porque saben <alargamiento>que</alargamiento> es <alargamiento>mi</alargamiento> afición que me gusta <pausa_larga/>"
+hab1	y siempre me aparecen con insignias todos los años me traen <pausa/> algunas insignias <cita_inicio/><ficticio>Rubén</ficticio> toma para tu colección y tal<cita_fin/> <pausa_larga/>
+hab1	"y aunque las tenga repetidas que es lo que me dicen a veces <cita_inicio/>buah <lengua_inicio nombre=""gl""/>pero esa xa a terás<lengua_fin/><cita_fin/> <pausa_larga/>"
+hab1	pero es que es igual <pausa/> porque a mí me es muy importante <pausa/> aunque las tenga repetidas <pausa/> porque así las intercambio
+hab2	claro claro
+hab1	porque si no tengo que comprarlas y así me la regalan y es un agradecimiento y empecé así empecé empecé fui empezando <pausa/> y debo tener más de veinte paneles llenos de pins <pausa/>
+hab2	claro
+hab2	es todo perfecto <pausa/>
+hab2	porque los tienes organizados <pausa/> claro
+hab1	sí sí por países <pausa/> los tengo por países <pausa/> con el nombre y la bandera del país <pausa/> debajo <pausa/> para <alargamiento>que</alargamiento> la gente que no los conozca que sepa de qué país es <pausa/> viendo la bandera aunque bueno no sé yo si los chavales <pausa/> porque como no saben ni qué países hay ni nada porque no saben ni las capitales de Europa <pausa_larga/>
+hab1	y no sé les pones a lo mejor la bandera de Serbia <pausa/> y piensan que es la bandera de Cataluña <pausa_larga/>
+hab1	"<ruido tipo=""chasquido boca""/> pero bueno <pausa/> <alargamiento>están</alargamiento> bien organizados y bien ordenados <pausa_larga/>"
+hab1	<alargamiento>en</alargamiento> paneles y tal y es <pausa/> lo que me gusta a mí el fútbol es <alargamiento>mi</alargamiento> <pausa/>
+hab2	ahora no jugando <alargamiento>pero</alargamiento> <palabra_cortada>aho</palabra_cortada>
+hab1	no ahora <alargamiento>no</alargamiento> no no
+hab2	pero lo ¿va <pausa/> <alargamiento>vas</alargamiento> a ver <palabra_cortada>par</palabra_cortada> partidos? eso sí
+hab1	"<ruido tipo=""chasquido boca""/> sí sí voy y los veo <pausa/> en la televisión los veo todos <pausa/> tengo problemas con mi mujer a veces por eso <pausa_larga/>"
+hab1	"porque como me dice ella <cita_inicio/>tú aunque juegue el Cacheiras lo ves<cita_fin/> <ruido tipo=""golpe""/> aunque sea un partido de la liga inglesa <alargamiento>yo</alargamiento> me veo los de la liga inglesa <pausa_larga/>"
+hab1	que para mí <pausa/> me gustan muchísimo porque es un fútbol total como digo yo <pausa_larga/>
+hab1	están en un área o en otra parece un partido de tenis <pausa/> no hay la parsimonia que hay <alargamiento>aquí</alargamiento> <pausa_larga/>
+hab1	que juegan a <alargamiento>defender</alargamiento> a que no te metan un gol no no ahí juegan a ganar siempre <pausa/> que es como hay que jugar <pausa/> a mí me gusta el fútbol como espectáculo <pausa_larga/>
+hab1	tengo que decir que soy del Madrid porque <pausa/> me gusta más el <alargamiento>Madrid</alargamiento> de pequeño de esto lo otro tal ahora no voy a cambiar a mi edad <pausa_larga/>
+hab1	pero a mí lo que realmente me gusta es el fútbol como espectáculo <pausa_larga/>
+hab1	si el Madrid juega mal <pausa_larga/>
+hab1	amigo <pausa_larga/>
+hab1	si el equipo contrario es superior juega mejor y va a ganar <pausa_larga/>
+hab1	bienvenido sea <pausa/> yo a mí lo que me gusta lo que verdaderamente amo <pausa_larga/>
+hab1	es el fútbol total el fútbol espectáculo <pausa_larga/>
+hab1	por eso que los equipos ingleses <pausa/> los envidio <pausa/> porque ellos sí siempre juegan a ganar <pausa/> siempre <pausa/> no juegan a amarrar ahí que no me metan un gol y esperar agazapados como hacen aquí en la liga <pausa_larga/>
+hab1	española por ejemplo <pausa/> que están ahí <pausa/> le van a jugar al Madrid o al Barcelona joder se meten atrás ahí en <pausa/> esperar a que no te metan un gol y si puedes <pausa/> dar un zarpazo no no no <pausa/> allí salen desde el minuto uno al noventa <pausa_larga/>
+hab1	a correr y a jugar y a ganar el otro día vi el partido <pausa/> Manchester Liverpool <pausa_larga/>
+hab1	que es uno de los grandes clásicos en la liga inglesa <pausa/> y fue un partido impresionante <pausa/> ganó el Liverpool uno cuatro <pausa/> pero bueno un fútbol total por ambos lados <pausa_larga/>
+hab1	el Manchester perdió pero pudo haber ganado <pausa_larga/>
+hab1	es decir es <alargamiento>otro</alargamiento> mundo diferente <pausa/> es igual que el fútbol sudamericano tampoco me gusta porque es muy cadencioso muy <alargamiento>lento</alargamiento> <pausa/> <alargamiento>lentísimo</alargamiento> es <pausa/> mmm no no eh <pausa/> eso <pausa_larga/>
+hab1	no a mí no me va <pausa_larga/>
+hab1	no me va
+hab2	mmm y eso de Brasil y Argentina que eran buenos eeh equipos <pausa/> ¿no?
+hab1	"<ruido tipo=""chasquido boca""/> sí en Argentina hay equipos buenos y tal <pausa/> también veo algún partido de la liga argentina <alargamiento>sí</alargamiento> hay equipos que juegan muy bien y tal <pausa_larga/>"
+hab1	<alargamiento>pero</alargamiento> el fútbol sudamericano <pausa/> es más <pausa/> <alargamiento>lento</alargamiento> <pausa/> más candencioso <pausa/> porque se basan más en la técnica que en el físico <pausa_larga/>
+hab1	allí todo es cuestión de técnica <pausa_larga/>
+hab1	mueven muy bien el <alargamiento>balón</alargamiento> <palabra_cortada>to</palabra_cortada> <pausa/> la tocan bien como dicen <pausa_larga/>
+hab1	pero luego a la hora de correr <pausa/>
+hab2	ya
+hab1	que corra el otro <risa/>
+hab2	bueno
+hab1	bueno pues
+hab2	no sé <risa_inicio/>es que me contaste ya tantas cosas que no sé si <risa_fin/> <pausa/> ¡uy! <pausa/> llevamos mucho tiempo <pausa/> hablando <pausa/> lo que <pausa/> para no <palabra_cortada>pe</palabra_cortada> hacerte perder más tiempo <pausa/>
+hab1	ay no eeh <risa_inicio/>no me hace perder <palabra_cortada>mu</palabra_cortada> <risa_fin/>
+hab2	a <alargamiento>mí</alargamiento> <pausa/>
+hab2	eeh bueno
+hab1	yo si quieres te cuento lo <alargamiento>que</alargamiento>
+hab2	lo que que quiera ¿no?
+hab1	lo que quiera
+hab2	eeh pero tenemos <alargamiento>que</alargamiento> eh como tenemos que hacer el cuestionario y eso nos lleva un poquito <pausa/> lo <palabra_cortada>va</palabra_cortada> lo hacemos ya dejamos esto grabando y si nos surge cualquier cosa más como lo grabamos luego <alargamiento>ya</alargamiento> <silencio/>
+hab1	"<ruido tipo=""chasquido boca""/> ah vale vale"
+hab1	espera que voy a encender un pitillo <silencio/>
+hab1	¿fumas?
+hab2	no no fumo <pausa/> pero no me molesta <pausa/> que <risa_inicio/>fumes <risa_fin/> <silencio/>
+hab1	es que es <pausa/> uno de los pocos vicios que tengo <silencio/>
+hab1	fumar <risa/> <silencio/>
+hab2	ahora cada vez <silencio/>
+hab2	es <pausa/> más difícil fumar en sitios cerrados ¿no?
+hab1	ya ya <pausa_larga/>
+hab1	no pero yo aquí jamás fumo ¿eh? <pausa_larga/>
+hab2	claro
+hab1	"
+      <ruido tipo=""chasquido boca""/>
+      <alargamiento>jamás</alargamiento>
+      <pausa_larga/>
+    "
+hab1	ahora era porque veníamos a esto y <palabra_cortada>tra</palabra_cortada> dije <cita_inicio/>buah voy llevar el<cita_fin/> <pausa/> porque aún está sin empezar <pausa/> empecé ahora <pausa_larga/>
+hab1	"<risa_inicio/>si no <risa_fin/> nada <alargamiento>que</alargamiento> <pausa/> bo <ruido tipo=""chasquido boca""/> mi hijo de hecho no fuma y mi mujer tampoco <pausa_larga/>"
+hab2	¿fumarás
+hab1	y ya tengo problemas en casa porque ya me echan fuera siempre para <risa_inicio/> fumar <risa_fin/> porque no quieren que fume <pausa/>
+hab2	claro <risa/>

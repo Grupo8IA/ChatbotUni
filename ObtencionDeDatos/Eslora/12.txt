@@ -1,0 +1,382 @@
+hab1	sí
+hab2	a ver
+hab1	¿tú ves estos <palabra_cortada>prog</palabra_cortada> este programa que hay en la dos <alargamiento>de</alargamiento> <pausa/> antes de Saber y Ganar que se <alargamiento>llama</alargamiento>?
+hab2	"
+      <alargamiento>no</alargamiento>
+    "
+hab1	tienes
+hab2	que curro yo a esas horas tío
+hab1	<palabra_cortada>bue</palabra_cortada><pausa/> pues se llama <palabra_cortada>tre</palabra_cortada> eeh <pausa/> tres minutos de felicidad o cinco minutos de felicidad o algo así
+hab1	entonces en cada fin de <palabra_cortada>sem</palabra_cortada> <pausa/> cada <palabra_cortada>sema</palabra_cortada> <pausa/> cada día
+hab1	te van <alargamiento>echando</alargamiento> <pausa/> como cosas <alargamiento>como</alargamiento> <silencio/>
+hab1	no sé <pausa/> como pequeños apuntes sobre cómo <pausa_larga/> lo que <pausa_larga/> datos sobre <pausa/> por qué la gente es feliz y tal
+hab1	y hoy echaron uno que era <alargamiento>gente</alargamiento>
+hab1	haciendo una encuesta
+hab1	"que la <alargamiento>gente</alargamiento> <pausa_larga/> describe la <palabra_cortada>felic</palabra_cortada> <pausa_larga/> <palabra_cortada>l</palabra_cortada> <pausa/> <ruido tipo=""chasquido boca""/> <pausa/> lo que la gente describe como <palabra_cortada>fez</palabra_cortada> <pausa/> felicidad <pausa/> era <alargamiento>con</alargamiento>"
+hab1	las interrelaciones personales con otra gente ¿sabes? <silencio/>
+hab1	en <alargamiento>plan</alargamiento> relaciones sociales
+hab2	hm
+hab1	y a mí lo <palabra_cortada>q</palabra_cortada> <pausa/> mi momento más <pausa_larga/> <palabra_cortada>com</palabra_cortada> lo paso <palabra_cortada>m</palabra_cortada> en el día
+hab1	es cuando salgo del curro y voy a tomar una <alargamiento>caña</alargamiento>
+hab2	mmm
+hab1	<alargamiento>o</alargamiento><pausa/> y <palabra_cortada>cu</palabra_cortada> soy más feliz cuando el fin de semana me reúno con toda la familia para una comida
+hab1	o alrededor de una mesa <alargamiento>o</alargamiento> tomando algo <alargamiento>o</alargamiento> charlando
+hab3	todos siempre a comer ¿no? <risa_inicio/>y beber<risa_fin/>
+hab1	sí
+hab3	todos alrededor de una mesa
+hab2	no tío para mí a lo mejor son las relaciones interpersonales también
+hab3	"
+      <alargamiento>sí</alargamiento>
+      <alargamiento>pero</alargamiento>
+    "
+hab1	claro por eso te digo yo que el tipo este por ejemplo donde estuvimos que <palabra_cortada>vim</palabra_cortada> <pausa/> que se pasa allí en la puta casa rural esa
+hab3	"
+      <ininteligible/>
+    "
+hab2	"
+      <alargamiento>no</alargamiento>
+    "
+hab2	sí
+hab1	él solo <pausa/> no sé cuántos días llevará <pausa/> pero vamos solo tiene gente cuando va gente a la casa
+hab1	oye y los fines de semana que hay <pausa/> que están los vecinos <pausa/> pero después el resto del año
+hab1	allí <alargamiento>no</alargamiento> <pausa/> y cuando nieva o está <alargamiento>eso</alargamiento> saturado allí no <palabra_cortada>h</palabra_cortada> no va ni Dios
+hab3	"
+      <alargamiento>no</alargamiento>
+    "
+hab1	¿y este pavo qué hace aquí? tío solo con un puto perro tío
+hab3	qué pena ¿no?
+hab2	es que estar solo <ininteligible/>
+hab1	vale que a veces también mola la soledad estar un poco a tu aire y no sé qué pero <énfasis_inicio/>tanto<énfasis_fin/> ¡me cago en diez! tío
+hab3	pero un poco
+hab3	un poquito
+hab4	pff
+hab2	pero para estar solo hay que valer también ¿eh?
+hab1	claro hay que valer tío
+hab2	"
+      <ruido tipo=""chasquido boca""/>
+    "
+hab2	pff <pausa_larga/> yo me acuerdo ya <pausa/> ahora hace un año yo ahora mismo estaba solo chaval
+hab2	pff
+hab2	allá en Alemania <pausa_larga/> <transcripción_dudosa_inicio/>muy mal tío<transcripción_dudosa_fin/>
+hab2	hay que valer tío tienes <ininteligible/>
+hab3	"
+      <alargamiento>yo</alargamiento>
+    "
+hab1	no pero <palabra_cortada>po</palabra_cortada> <pausa/> hay que también <ininteligible/> aprender a disfrutar de eso tío
+hab2	menos mal
+hab2	a perder <pausa/> <alargamiento>yo</alargamiento> disfruté de eso pero <pausa/> pff <pausa/> porque me viciaba mogollón <ininteligible/> del ordenador y porque paseaba por ahí
+hab2	pero echas mogollón de menos pasear y decir a alguien lo que ves <alargamiento>y</alargamiento>
+hab2	y estar <alargamiento>en</alargamiento> <pausa/> pff
+hab2	llegar del curro <alargamiento>y</alargamiento> comentar con alguien algo ¿sabes? <pausa/> vale por teléfono comentaba pero tú imagínate que no hubiese teléfono
+hab1	"
+      <ininteligible/>
+    "
+hab2	flipaba tío
+hab2	yo creo que me iría a un bar e iría a hablar con la gente seguro tío
+hab3	seguro como hacía la gente antes
+hab2	pff <pausa/> yo hoy me iría a un bar iría a hablar con alguien tío
+hab3	¿tú qué crees que hacían antes?
+hab1	claro <pausa_larga/> aquí todo el mundo se sale de trabajar y se <alargamiento>está</alargamiento> <pausa_larga/> antes se iba para la taberna a tomar una taza de vino <alargamiento>con</alargamiento>
+hab2	ya <pausa_larga/> pero como Alemania
+hab3	mira tu padre en Francia que se hizo amigo de todo el vecindario
+hab1	ya
+hab2	ya <pausa_larga/> la verdad que eso sí que es espíritu tío
+hab3	ahí se puso y conoció a <ininteligible/>
+hab2	igual estuvo allí <pausa/> cinco días tío y conocía a todo dios tío
+hab2	del bar
+hab2	fue al bar de al lado yo nunca había ido fue al bar de al lado seica de unos portugueses <risa_inicio/>no sé qué<risa_fin/>
+hab2	hablaba con ellos y al pasar por allí ya los saludaba
+hab2	al panadero no sé qué <pausa/> al del bar no sé qué <pausa/> hasta fue a <ininteligible/> con el cura
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab2	si quería decir
+hab2	<risa_inicio/><cita_inicio/>mañana <ininteligible/> todos a catecismo<cita_fin/> <risa/> <risa/> sí un día le dijo el cura eso<risa_fin/>
+hab1	¿sí? ¿no?
+hab3	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+      <risa/>
+    "
+hab1	"
+      <risa/>
+      <risa/>
+    "
+hab3	"
+      <risa/>
+      <risa/>
+    "
+hab1	<risa/> pero ¿qué era? todo <palabra_cortada>p</palabra_cortada> por tus hermanos claro <pausa_larga/> <risa/>
+hab2	por mis hermanos joder porque <palabra_cortada>iba</palabra_cortada> fueron allí había un parque al lado de la iglesia y fue a hablar con el <pausa/> una iglesia que estaba guapísima moderna y fue a hablar con el cura y le dijo de no sé qué para apuntarse a catecismo a no sé qué no sé cuánto le
+hab2	o sea le dijo al cura de apuntarse a catecismo y dijo <cita_inicio/>mañana a ver si os mando estos dos no sé qué<cita_fin/> <silencio/>
+hab2	ya ves en cinco días que estuvo allí tío
+hab4	y tú ¿en Alemania cuánto tiempo estuviste?
+hab2	yo dos meses tío
+hab4	<alargamiento>y</alargamiento> ¿aprendiste <risa_inicio/>algo<risa_fin/>? qué <alargamiento>va</alargamiento> ¿no?
+hab2	pff <pausa_larga/> palabras sueltas <silencio/>
+hab3	bueno mejor <ininteligible/>
+hab2	palabras
+hab2	"<lengua_inicio nombre=""de""/>Schmitzer<lengua_fin/>"
+hab4	y en el trabajo ¿qué?
+hab2	en el trabajo hablaban en inglés pero bueno <palabra_cortada>apr</palabra_cortada> aprendí palabras
+hab2	frases y eso <alargamiento>no</alargamiento> <pausa/> no <silencio/>
+hab2	palabras para ir al supermercado y eso <silencio/>
+hab4	hm <silencio/>
+hab4	los <alargamiento>números</alargamiento>
+hab2	los números <alargamiento>hasta</alargamiento>
+hab4	"
+      <alargamiento>hasta</alargamiento>
+    "
+hab2	"<lengua_inicio nombre=""de""/><alargamiento>drei</alargamiento><pausa/> vier fünf<lengua_fin/> <silencio/>"
+hab2	"
+      <alargamiento>hasta</alargamiento>
+      <ininteligible/>
+    "
+hab1	"
+      <risa/>
+    "
+hab2	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab4	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab2	"eeh <lengua_inicio nombre=""de""/><alargamiento>zwei</alargamiento><lengua_fin/> <pausa/> <vacilación/> <silencio/>"
+hab2	después de cinco ¿cómo es seis?
+hab4	"<lengua_inicio nombre=""de""/>sechs<lengua_fin/>"
+hab3	"<lengua_inicio nombre=""fr""/>six<lengua_fin/>"
+hab2	"<lengua_inicio nombre=""fr""/>six<lengua_fin/>"
+hab4	"<lengua_inicio nombre=""de""/>sechs<lengua_fin/>"
+hab3	es como
+hab2	"<lengua_inicio nombre=""de""/>sechs<lengua_fin/><pausa/> y siete <sic_inicio/>sich<sic_fin/>"
+hab3	es como en inglés
+hab4	"es <lengua_inicio nombre=""de""/>sechs"
+hab2	<sic_inicio/>sicht<sic_fin/>
+hab4	sieben
+hab1	"
+      <asignación_dudosa_inicio/>
+      <ininteligible/>
+      <asignación_dudosa_fin/>
+    "
+hab4	<sic_inicio/>nacht<sic_fin/><lengua_fin/>
+hab2	"
+      <asignación_dudosa_inicio/>
+      <palabra_cortada>s</palabra_cortada>
+      <asignación_dudosa_fin/>
+    "
+hab4	"o sea <lengua_inicio nombre=""de""/>acht"
+hab2	"
+      <ininteligible/>
+    "
+hab2	"<lengua_inicio nombre=""de""/>acht<lengua_fin/>"
+hab4	acht
+hab2	"ocho es <lengua_inicio nombre=""de""/>acht<lengua_fin/>"
+hab4	neun
+hab4	zehn <silencio/>
+hab2	"<alargamiento>y</alargamiento><alargamiento>y</alargamiento> y <sic_inicio/><lengua_inicio nombre=""de""/>zweis<lengua_fin/><sic_fin/>"
+hab4	elf
+hab2	"<lengua_inicio nombre=""de""/>zwei<lengua_fin/> no <pausa/> es <sic_inicio/><lengua_inicio nombre=""de""/>zweinsich<lengua_fin/><sic_fin/> <pausa_larga/> ¿qué es? <pausa/> ¿veintidós?"
+hab4	zwei<lengua_fin/> es dos
+hab4	"<lengua_inicio nombre=""de""/>zwanzig<lengua_fin/>"
+hab4	es veinte
+hab2	"veinte <lengua_inicio nombre=""de""/>zwanzig<lengua_fin/>"
+hab4	"<lengua_inicio nombre=""de""/>zwei und zwanzig<lengua_fin/><pausa_larga/> es <pausa/> veintidós <silencio/>"
+hab2	"¿<lengua_inicio nombre=""de""/>zwei <pausa/> und<lengua_fin/>?"
+hab4	"<lengua_inicio nombre=""de""/>zwanzig<lengua_fin/><silencio/>"
+hab4	dos <pausa/> y veinte <pausa_larga/> <risa/>
+hab2	"¿y <lengua_inicio nombre=""de""/>zwei<lengua_fin/>?"
+hab2	"<lengua_inicio nombre=""de""/>zwei<lengua_fin/>"
+hab2	"
+      <alargamiento>dos</alargamiento>
+    "
+hab4	y veinte
+hab2	"<lengua_inicio nombre=""de""/>und<lengua_fin/>"
+hab2	y
+hab4	"<lengua_inicio nombre=""de""/>zwanzig<lengua_fin/>"
+hab2	"y <lengua_inicio nombre=""de""/>zwanzig<lengua_fin/> ¿veinte?"
+hab4	sí
+hab2	ah dos y veinte¿se dice así? ¡hostia!
+hab4	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab2	"<lengua_inicio nombre=""de""/>zwei"
+hab2	und zwanzig<lengua_fin/>
+hab3	y dos y veinte ¿qué es?
+hab3	¿veinte?
+hab2	"
+      <alargamiento>veintidós</alargamiento>
+    "
+hab4	"
+      <alargamiento>veintidós</alargamiento>
+    "
+hab3	aah veintidós
+hab4	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab3	<risa/><risa/> soy de letras
+hab3	"
+      <risa/>
+    "
+hab1	¡<alargamiento>qué</alargamiento> chulo!
+hab3	"
+      <risa/>
+    "
+hab4	no sé sumar
+hab4	ni nada
+hab2	y sé lo <alargamiento>que</alargamiento> <alargamiento>es</alargamiento>
+hab2	eemm
+hab2	"<lengua_inicio nombre=""de""/>Spargel<lengua_fin/>"
+hab2	"
+      <risa_inicio/>
+      <ininteligible/>
+      <risa_fin/>
+      <pausa_larga/>
+      <risa/>
+    "
+hab3	"<lengua_inicio nombre=""de""/>Pretzel<lengua_fin/>"
+hab2	"<lengua_inicio nombre=""de""/>Pretzel<lengua_fin/> todavía pero <lengua_inicio nombre=""de""/>Spargel<lengua_fin/>"
+hab4	"<lengua_inicio nombre=""de""/>Spargel<lengua_fin/> ¿qué es?"
+hab2	espárrago
+hab2	que me compré un <risa_inicio/>jamón
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab4	"
+      <risa/>
+    "
+hab2	y compré un jamón york
+hab2	que pensé que tenía pimientos
+hab2	y tenía espárragos <pausa/> ¡qué <énfasis_inicio/>puto<énfasis_fin/> asco! tío<risa_fin/>
+hab1	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab2	"¡qué puto asco! <lengua_inicio nombre=""de""/>Spargel<lengua_fin/> significa <pausa/> espárrago <risa/> <risa/>"
+hab4	"
+      <risa/>
+    "
+hab3	"
+      <risa/>
+    "
+hab4	te has quedado con esa palabra
+hab2	sí tío
+hab3	"
+      <risa/>
+    "
+hab2	"bah y <palabra_cortada>co</palabra_cortada> <pausa/> de comidas mogollón de comidas <pausa/> <lengua_inicio nombre=""de""/>Schnitzel<lengua_fin/> <pausa/> es filete empanado"
+hab3	mmm
+hab2	chucrut
+hab3	"
+      <risa/>
+    "
+hab2	"<lengua_inicio nombre=""de""/><palabra_cortada>Sauerkra</palabra_cortada><pausa_larga/> Sauerkraut<lengua_fin/>"
+hab2	es <pausa_larga/> chucrut
+hab1	es chucrut <pausa_larga/> <ininteligible/>
+hab4	"<lengua_inicio nombre=""de""/>Sauerkraut<lengua_fin/>"
+hab2	"<lengua_inicio nombre=""de""/>Sauerkraut"
+hab4	se <palabra_cortada>esc</palabra_cortada>
+hab4	se escribe
+hab2	"
+      <palabra_cortada>Sauer</palabra_cortada>
+    "
+hab4	chucrut <pausa_larga/> <risa/> sí <risa/> <risa/>
+hab2	Sauerkraut
+hab2	Sauerkraut
+hab2	Sauerkraut <pausa_larga/> und
+hab2	Wurst
+hab4	salchicha
+hab2	"
+      <alargamiento>und</alargamiento>
+      <lengua_fin/>
+    "
+hab2	eeh
+hab2	mmm <pausa/> puré de patatas ¿cómo era tío?
+hab2	"<lengua_inicio nombre=""de""/>Kartoffelpüree"
+hab2	Kartoffelpüree<lengua_fin/>
+hab3	"
+      <risa/>
+      <risa/>
+    "
+hab1	"<risa/><lengua_inicio nombre=""de""/>Kartoffelpüree<lengua_fin/>"
+hab2	o algo así
+hab4	<risa/><pausa/><alargamiento>sí</alargamiento><pausa/> con la <alargamiento>erre</alargamiento> <silencio/>
+hab2	"<lengua_inicio nombre=""de""/>püree"
+hab2	Kartoffelpüree <silencio/>
+hab4	la erre le va
+hab2	Kartoffelpüree
+hab3	"<lengua_inicio nombre=""de""/>Ausgang<lengua_fin/>"
+hab2	¿Ausgang?<lengua_fin/>
+hab3	de la salida <ininteligible/> <ininteligible/> <ininteligible/> carretera
+hab2	salida
+hab4	<risa_inicio/>salida<risa_fin/><risa/>
+hab2	"
+      <lengua_inicio nombre=""de""/>
+      <palabra_cortada>Ein</palabra_cortada>
+      <lengua_fin/>
+    "
+hab2	y
+hab2	"<lengua_inicio nombre=""de""/>Eingang<lengua_fin/>"
+hab2	entrada
+hab1	<sic_inicio/>¿aidalgo?<sic_fin/>
+hab2	"<lengua_inicio nombre=""de""/>Eingang<lengua_fin/>"
+hab3	"
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+      <risa/>
+    "
+hab1	"
+      <risa/>
+    "
+hab1	"<lengua_inicio nombre=""de""/><sic_inicio/>Eingango<sic_fin/><lengua_fin/><pausa/><risa/>"
+hab2	"<lengua_inicio nombre=""de""/>Eingang<lengua_fin/> entrada <alargamiento>y</alargamiento> mmm"
+hab3	"
+      <asignación_dudosa_inicio/>
+      <risa/>
+      <asignación_dudosa_fin/>
+    "
+hab2	"<lengua_inicio nombre=""de""/>guten <alargamiento>Morgen</alargamiento> guten Tag"
+hab2	guten Abend <silencio/>
+hab4	"<lengua_inicio nombre=""de""/>gute Nacht<lengua_fin/>"
+hab2	gute Nacht
+hab3	eeh
+hab2	gute Nacht<lengua_fin/> <pausa/> no tenía a nadie a quien decírselo porque <transcripción_dudosa_inicio/>como no<transcripción_dudosa_fin/> dormía con nadie
+hab3	"<lengua_inicio nombre=""de""/>Glühwein<lengua_fin/>"
+hab4	ya <risa/> <risa/> <risa/> <risa/> <risa/>
+hab1	"
+      <risa/>
+    "
+hab2	"
+      <risa_inicio/>
+      <ininteligible/>
+      <risa_fin/>
+      <risa/>
+    "
+hab2	"
+      <alargamiento>y</alargamiento>
+    "
+hab3	"<lengua_inicio nombre=""de""/>Glühwein<lengua_fin/>"
