@@ -2,7 +2,7 @@ import axios from "axios";
 
 var API = "https://api.meaningcloud.com/sentiment-2.1";
 const formdata = new FormData();
-formdata.append("key", "3bf73b6153adf6cbc5293e1b90afb157");
+formdata.append("key", "");
 
 formdata.append("lang", "es");  // 2
 export const getSentiment = async (sentence) => {
