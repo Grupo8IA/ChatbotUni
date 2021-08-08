@@ -1,5 +1,4 @@
-import React, {useEffect} from 'react';
-import { useParams } from "react-router-dom";
+import React from 'react';
 import { makeStyles } from '@material-ui/core';
 import Grid from '@material-ui/core/Grid';
 import List from '@material-ui/core/List';
@@ -21,7 +20,6 @@ const useStyles = makeStyles((theme) => ({
   }));
 
 const ChatBox = (props) => {
-    const {roomId} = useParams();
     const classes = useStyles();
 
     return(

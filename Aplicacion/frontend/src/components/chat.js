@@ -7,6 +7,7 @@ import Divider from '@material-ui/core/Divider';
 import ChatBox from '../elements/chatBox';
 import Sender from '../elements/sender';
 import moment from "moment";
+import FaceCat from "./faceCat";
 
 const useStyles = makeStyles((theme) => ({
     root: {
@@ -26,17 +27,23 @@ const useStyles = makeStyles((theme) => ({
       width: '100%',
       height: '85vh'
     },
+    catFace: {
+      padding: "auto",
+    }
   }));
 
 let socket;
 const Chat = () => {
     const [messages, setMessages] = useState([]);
     const [message, setMessage] = useState('');
+    const [mRecibido, setMRecibido] = useState("");
+    const [mood, setMood] =  useState("");
     const classes = useStyles();
     const {roomId} = useParams();
     const ENDPOINT = 'localhost:5000';
 
     useEffect(() => {
+      console.log("roomID")
         socket = io.connect(ENDPOINT, {
           withCredentials: true,
         });
@@ -65,19 +72,26 @@ const Chat = () => {
           setMessages([...messages, data]);
         }
         setMessage("");
+        setMood(message)
+        console.log("-------",message);
     }
 
     useEffect(() => {
+      console.log("mensaje recibido")
         socket.on('receive_message', (msjRecibido) => {
           if(messages !== null){
             setMessages([...messages, msjRecibido]);
+            setMRecibido(msjRecibido);
+            //setMood(msjRecibido);
           }
         })
     },[messages])
-
+    
     return (
       <Container classes={{ root: classes.Muicontainer }}>
       <div>
+        {console.log("componente principal renderizado")}
+        <FaceCat sentence={mood}></FaceCat>
         <Grid container component={ Paper } className={ classes.chatSection }>
             <Grid item xs={12} item={true}>
             {messages && (

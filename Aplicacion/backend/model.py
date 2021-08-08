@@ -171,6 +171,10 @@ def enviarEntrada(cadena, voc, encoder, decoder):
 
 
 def predecir(secuencia_de_entrada, encoder, decoder, voc):
+
+    if secuencia_de_entrada is None:
+        return "No he entendido la frase"
+
     # obtenemos el último estado oculto del encoder
     encoder_salidas, oculto = encoder(secuencia_de_entrada.unsqueeze(0))
     
@@ -201,17 +205,21 @@ def limpiar(tensorpre):
             var += " "            
     return var
 
+
 def convertirATensor(oracion, voc):
-     #convertimos en una lista de palabras la oración, y le añadimos el símbolo EOS al final 
-     listaDePalabras = [voc.word2index[palabra] for palabra in oracion.strip().split(' ')] + [EOS_token]
-     
-     #convertimos en tensor la lista de palabras
-     salidaTensor = torch.tensor(listaDePalabras)
-     return torch.nn.functional.pad(salidaTensor,(0,MAX_LENGTH-len(salidaTensor)),'constant',voc.word2index['PAD'])  
+    try:
+        #convertimos en una lista de palabras la oración, y le añadimos el símbolo EOS al final 
+        listaDePalabras = [voc.word2index[palabra] for palabra in oracion.strip().split(' ')] + [EOS_token]
+        salidaTensor = torch.tensor(listaDePalabras)
+        return torch.nn.functional.pad(salidaTensor,(0,MAX_LENGTH-len(salidaTensor)),'constant',voc.word2index['PAD'])
+    except KeyError:
+        #convertimos en tensor la lista de palabras
+        return  None
+
 
 def ejecutar():
-    save_dir = "./"
-    datafile = "../../Data/all30.txt"
+    save_dir = "static/"
+    datafile = "static/all30.txt"
     corpus_name = "dataf_s2s"
     voc, pairs = loadPrepareData(corpus_name, datafile, save_dir)
 
